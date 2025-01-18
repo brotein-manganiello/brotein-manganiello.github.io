@@ -1,0 +1,1 @@
+﻿Treacherous Den		common	Land	268	BR		Treacherous Den enters the battlefield tapped.NEWLINET: Add B or R.NEWLINE2BR, T, Sacrifice Treacherous Den: Draw a card.			normal	TTR		!note nbslotNEWLINENEWLINENuare Studio alt artNEWLINEFerdinand Ladera alt The Abyssal PassageNEWLINEWotjek Fus altNEWLINEFeng Zhu alt

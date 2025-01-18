@@ -1,0 +1,1 @@
+﻿Waterfront Market		rare	Land	270	WU		Waterfront Market enters the battlefield tapped unless you control a basic land.NEWLINET: Add W or U.			normal	TTR		NEWLINEAlt Leslie LeeNEWLINEenters the battlefield tapped unless you control another land that could only produce W and U.NEWLINET: Add W or U. NEWLINEDUAL

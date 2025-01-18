@@ -1,0 +1,1 @@
+﻿Meletis Oracle	W	common	Creature – Human Advisor 	25	W	2W	When Meletis Oracle enters the battlefield, scry 1, then draw a card.	2/2		normal	TTR		Silvia Meiliani artNEWLINEAZORIUS

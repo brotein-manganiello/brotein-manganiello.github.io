@@ -1,0 +1,1 @@
+﻿Servant of Athreos	B	common	Enchantment Creature – Skeleton 	117	B	4B		4/4	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Mill two cards.NEWLINE[Lore III] Return target creature card from your graveyard to your hand.	leveler	TTR		

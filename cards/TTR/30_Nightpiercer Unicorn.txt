@@ -1,0 +1,1 @@
+﻿Nightpiercer Unicorn	W	common	Enchantment Creature – Unicorn 	30	W	1W		2/2	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] You gain 1 life.NEWLINE[Lore III] Target creature you control gains first strike until end of turn.	leveler	TTR		

@@ -1,0 +1,1 @@
+﻿Sage of Dilemmas	U	common	Creature – Sphinx 	69	U	3UU	FlyingNEWLINEWhen Sage of Dilemmas enters the battlefield, return up to one target enchantment to its owner’s hand.	3/4		normal	TTR		Matthias Kollros

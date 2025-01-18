@@ -1,0 +1,1 @@
+﻿Feral Persuader	RG	uncommon	Creature – Manticore 	219	RG	1RG	Colossal 3–4RG (You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay 4RG as a sorcery: Put three +1/+1 counters on it if it has none.)NEWLINEEach creature you control with a counter on it can’t be blocked by more than one creature.	3/3		normal	TTR		3KLS6NEWLINEARCUNNEWLINE-haste

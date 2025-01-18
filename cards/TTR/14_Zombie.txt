@@ -1,0 +1,1 @@
+﻿Zombie	B	common	Token Creature – Zombie 	14	B			2/2		token	TTR		!related Grim Procession<2>;Fiendish Psychopomp;Watch of the Dead;

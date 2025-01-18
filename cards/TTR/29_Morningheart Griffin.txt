@@ -1,0 +1,1 @@
+﻿Morningheart Griffin	W	common	Creature – Griffin 	29	W	4W	FlyingNEWLINEWhen Morningheart Griffin dies, return target enchantment card from your graveyard to your hand.	3/3		normal	TTR		“Noble is the griffin, who rises with the sun.”NEWLINE–Aeron, Fables

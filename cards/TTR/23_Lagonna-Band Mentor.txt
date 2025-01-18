@@ -1,0 +1,1 @@
+﻿Lagonna-Band Mentor	W	common	Creature – Centaur Advisor 	23	W	4W	VigilanceNEWLINEWhen Lagonna-Band Mentor enters the battlefield, create a 1/1 white Soldier creature token.	4/4		normal	TTR		

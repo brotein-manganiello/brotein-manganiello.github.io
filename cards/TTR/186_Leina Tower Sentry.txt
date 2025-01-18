@@ -1,0 +1,1 @@
+﻿Leina Tower Sentry	G	common	Creature – Human Ranger 	186	G	1G	Heroic – Whenever you cast a spell that targets Leina Tower Sentry, put a +1/+1 counter on Leina Tower Sentry and you gain 1 life.	2/2		normal	TTR		Gods UnchainedNEWLINENo one could enter the Setessan Woods unnoticed.

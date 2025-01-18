@@ -1,0 +1,1 @@
+﻿Stormsea Naiad	U	common	Enchantment Creature – Nymph 	73	U	2U	VigilanceNEWLINE4U: Draw a card.	2/3		normal	TTR		NEWLINEsee Sam Kanios for alt art

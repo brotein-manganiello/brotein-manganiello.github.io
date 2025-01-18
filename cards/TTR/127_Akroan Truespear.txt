@@ -1,0 +1,1 @@
+﻿Akroan Truespear	R	common	Creature – Human Soldier 	127	R	R	Akroan Truespear has first strike as long as it’s attacking.NEWLINEHeroic – Whenever you cast a spell that targets Akroan Truespear, put a +1/+1 counter on Akroan Truespear.	1/1		normal	TTR		

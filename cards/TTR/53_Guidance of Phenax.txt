@@ -1,0 +1,1 @@
+﻿Guidance of Phenax	U	uncommon	Enchantment	53	U	UUU	At the beginning of your upkeep, draw a card, then discard a card.NEWLINE4U: Tap target creature an opponent controls. It doesn’t untap during its controller’s next untap step.			normal	TTR		https://www.deviantart.com/chrisrallis/art/The-oracle-259025746

@@ -1,0 +1,1 @@
+﻿Springstep Dryad	G	common	Enchantment Creature – Nymph Dryad 	202	G	2G		3/2	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Another target creature you control gets +1/+1 until end of turn.NEWLINE[Lore III] Search your library for a basic land card, put it onto the battlefield, then shuffle.	leveler	TTR		

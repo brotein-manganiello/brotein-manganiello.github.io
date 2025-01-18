@@ -1,0 +1,1 @@
+﻿Harpy	B	common	Token Creature – Harpy 	13	B		Flying	1/1		token	TTR		!related Nestraider;Wings of Tizerus;

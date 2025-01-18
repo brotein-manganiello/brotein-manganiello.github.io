@@ -1,0 +1,1 @@
+﻿Nylea's Benefaction	G	common	Enchantment – Aura 	191	G	3G	Enchant creature you controlNEWLINEWhen Nylea’s Benefaction enters the battlefield, scry 2.NEWLINEEnchanted creature gets +3/+3 and has reach.			normal	TTR		HEROISMNEWLINEvivienNEWLINEToru-meow altNEWLINEVORTHOSNEWLINEPower/toughness pumping (usually on an instant)
