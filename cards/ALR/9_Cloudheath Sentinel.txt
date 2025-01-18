@@ -1,0 +1,1 @@
+﻿Cloudheath Sentinel	W	uncommon	Artifact Creature – Bird 	9	W	3W	FlyingNEWLINEWhen Cloudheath Sentinel enters, return target artifact card with mana value 2 or less from your graveyard to the battlefield.	2/4		normal	ALR		VORTHOS

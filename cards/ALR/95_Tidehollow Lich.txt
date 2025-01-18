@@ -1,0 +1,1 @@
+﻿Tidehollow Lich	B	rare	Artifact Creature – Zombie Artificer 	95	B	B	Embellish 3B (If you cast this spell for 3B, create a 1/1 blue Thopter artifact creature token with flying when it enters.)NEWLINETidehollow Lich can’t block.NEWLINEYou may cast Tidehollow Lich from your graveyard as long as you control an artifact creature.	2/1		normal	ALR		

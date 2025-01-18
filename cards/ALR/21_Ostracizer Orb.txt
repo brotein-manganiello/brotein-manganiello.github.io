@@ -1,0 +1,1 @@
+﻿Ostracizer Orb	W	uncommon	Artifact	21	W	1W	When Ostracizer Orb enters, exile target nonartifact, nonland permanent until Ostracizer Orb leaves the battlefield.			normal	ALR		FLAVORTEXT

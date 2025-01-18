@@ -1,0 +1,330 @@
+4_Archangel of Bliss
+55_Sphinx Paramount
+87_Profane Emissary
+128_Worldheart Avatar
+158_Vitalhydra
+7_Blessed Vanquisher
+41_Etherium Leviathan
+67_Bloodbraid Ritualist
+104_Hellkite Omnivore
+138_Heart of Spores
+12_Derevi's Adjutant
+44_Fearful Flooding
+74_Dregscape Chant
+106_Hellspark Prankster
+139_Hierarch Ranger
+15_Etherium Abrogator
+46_Filigree Lotus
+81_Mortal Finish
+110_Maelstrom Slicer
+145_Magnoceros
+26_Refulgent Rupture
+59_Supreme Mechanothurge
+95_Tidehollow Lich
+120_Sangrite Dragon
+159_War-Pride Champion
+3_Amesha of the Honorable
+35_Cognition Crucible
+66_Bloated Visceroid
+97_Bask in Fire
+136_Fungal Flourishing
+5_Bant Shardseeker
+37_Dissident's Vortex
+72_Demonic Rite
+105_Hellkite's Decree
+140_Jungle Battlemage
+8_Citadel Battlemage
+38_Disturb the Riddle Gate
+76_Exenterate
+108_Jund Shardseeker
+142_Knotvine Preserver
+9_Cloudheath Sentinel
+39_Esper Shardseeker
+77_Grixis Shardseeker
+113_Mist-Valley Minotaurs
+146_Mist-Valley Ancient
+14_Eos Beseecher
+50_Maelstromancy
+82_Necropolis Battlemage
+114_Nacatl Skirmisher
+147_Naya Shardseeker
+16_Etherium Staff
+53_Sanctum Battlemage
+84_Obscene Recitation
+121_Savage Battlemage
+148_Overpower
+17_Etlan High Priest
+61_Unbeholden Navigator
+88_Ravenous Tarwurm
+122_Scaleshredder
+150_Regurgitator Ooze
+19_Herald of the White Orchid
+62_Vectis Entrancer
+90_Scrap Spiral
+124_Viashino Glutton
+153_Thoctar Yearling
+21_Ostracizer Orb
+63_Vibrant Expulsion
+92_Sedraxis Trepanator
+125_Vigor from the Vein
+157_Veteran Horncaptain
+28_Sigil of the Many
+64_Wayward Sphinx
+93_Shining Revival
+126_Vithian Arcanist
+160_Worldheart Nexus
+1_Ajani's Advocate
+33_Brackwater Scuttler
+65_Agonizing Syphon
+98_Calamitous Rampage
+129_Canopy Assault
+2_Akrasan Sentry
+34_Clairvoyant Insight
+68_Bone Splinters_ALR
+99_Cantankeroth
+130_Conduit of the Conflux
+6_Blessed Radiance
+36_Disperse
+69_Carnage Gorger
+100_Chromeleon
+131_Elvish Godtracker
+10_Cloud's Roar Avenger
+40_Essence Erasure
+70_Cesspool Scrapper
+101_Dagger-Thrash Marauders
+132_Exuberant Hunter
+11_Dawnray Castellan
+42_Etherium Sculptor
+71_Cling to Undeath
+102_Fodder Goblins
+133_Flarespore Mycoid
+13_Dominator's Diadem
+43_Fathom the Forbidden
+73_Dire Predictions
+103_Frenzied Nacatl
+134_Flesheater Vine
+18_Gleamhorn Gargantuan
+45_Filigree Drake
+75_Dregscape Wretch
+107_Infernal Flames
+135_Fletcher's Precision
+20_Meticulous Mechanist
+47_Hallucinate
+78_Hegemon's Cutthroat
+109_Lava Hellions
+137_Gargantuan Crusher
+22_﻿Paladin's Attendant
+48_Jhessian Cavalier
+79_Hexcaster of Unx
+111_Magma Spray
+141_Knight of the Olive Orchard
+23_Pledge of Peace
+49_Kederekt Seawitch
+80_Hostile Barbfly
+112_Make Way
+143_Leotau Rider
+24_Radiant Resolve
+51_Mage's Warding
+83_Nel Toth Shaman
+115_Ominous Lightning
+144_Lichen's Grasp
+25_Recraft in Steel
+52_Retinue Golem
+85_Omen of Nefarox
+116_Pain's Embrace
+149_Qasali Quiverguard
+27_Reliquary Rhox
+54_Serul Cove Escort
+86_Perilous Sojourn
+117_Ragemist
+151_Sigil of Fortitude
+29_Skygrid Surveyor
+56_Steel Wind Strix
+89_Sangrite Ooze
+118_Reinbreaker Behemoth
+152_Thallid Cultivator
+30_Sunstrike
+57_Steelfin Manta
+91_Sculler's Oar
+119_Sadistic Sparkmage
+154_Titanothoctar
+31_Topan Curemaster
+58_Subduing Serum
+94_Thunderscorn
+123_Torchlight Tormentor
+155_Towering Silkweaver
+32_Valeron Vanguard
+60_Terraformer's Globe
+96_Unearth
+127_Volcano Elemental
+156_Tranquil Repose
+er
+er
+er
+er
+er
+175_Duneglass Ascetic
+194_Kederekt Deepdweller
+177_Edarna the Everforge
+176_Earthbreaker Behemoth
+162_Ajani Resolute
+167_Aven Strategist
+161_Aether Pull
+193_Kaalia's Abomination
+206_Scorchpass Sovereign
+216_Sun-Sigil Ordainer
+217_Telemin Architect
+205_Scatter What Remains
+178_Edarna's Augurling
+222_Tremor Seer
+215_Sun-Dappled Paragon
+210_Sighted-Caste Knight
+226_Visitarium Smuggler
+197_Magmatic Violator
+171_Brutal Struggle
+218_Tendrilsnare
+e
+211_Sphinx's Scrutiny
+212_Spinebreak
+e
+204_Sacellum Visionary
+er
+er
+er
+er
+er
+er
+er
+er
+er
+er
+185_Godspeaker Mayael
+190_Jenara, Virtue of Bant
+200_Nefarox, Strifelord
+208_Sharuum, Archmagocrat
+219_Tharrsus, Tyrant's Scion
+164_Angel of Succor
+165_Antali Archdruid
+166_Arcanist's Reaver
+168_Bant Command
+179_Empyrial Reverence
+180_Entrail Elemental
+181_Esper Command
+186_Grixis Command
+187_Hellion Devastator
+192_Jund Command
+195_Kess the Necromaster
+198_Meren, Bane of the Cairns
+199_Naya Command
+201_Orlesia, First of the Sen
+202_Profound Introspection
+203_Rafiq the Magnanimous
+213_Steel Wind Goliath
+214_Summit Guardian
+221_Timus, the Cloud's Roar
+223_Tumultipede
+163_Ambush Gharial
+169_Behemoth Channeler
+170_Bellowing Thoctar
+174_Corpsemound
+183_Ethersworn Indoctrination
+184_Giltspire Exemplar
+191_Jenara's Favor
+207_Sedraxis Scourge
+209_Sharuum's Council
+220_Thrinax Sporemother
+172_Celebrant of Jubilation
+182_Ethersworn Elite
+188_Incantation Demon
+224_Varakna Wurm
+227_Ziggurat Behemoth
+0_Kaalia, Sky's End
+189_Influence of Progenitus
+225_Velir the Sunderer
+196_Maelstrom Elemental
+173_Conflux Ravager
+er
+er
+er
+er
+er
+230_The Riddle Gate
+228_Font of Nefarox
+229_Macabre Effigy
+231_Rings of New Alara
+232_Sigil of the Skyward Eye
+12_Ajani Emblem ALR
+233_Spire of Bant
+234_Spire of Esper
+235_Spire of Grixis
+236_Spire of Jund
+237_Spire of Naya
+e
+e
+e
+e
+er
+er
+er
+er
+er
+255_Sculpted Observatory
+247_Gloomtide Gulf
+245_Erupting Territory
+239_Bigroot Valley
+253_Peaceful Passage
+240_Bleak Shoreline
+242_Charred Marsh
+249_Idyllic Oasis
+246_Forbidding Isle
+243_Cloudcover Heights
+257_Somber Meadow
+241_Caustic Mangrove
+252_Lush Coast
+259_Twisting Fissure
+248_Hazy Summits
+er
+er
+er
+er
+er
+251_Kaleidoscape
+238_Arcane Sanctum
+244_Crumbling Necropolis
+250_Jungle Shrine
+254_Savage Lands
+256_Seaside Citadel
+258_Terramorphic Expanse
+e
+e
+e
+er
+er
+er
+er
+er
+0_Plains_ALR
+0_Island_ALR
+0_Swamp_ALR
+0_Mountain_ALR
+0_Forest_ALR
+er
+er
+er
+er
+er
+1t_white Knight 22ALR
+2t_white Soldier 11ALR
+3t_blue Thopter 11ALR
+4t_black Demon 44ALR
+5t_black Zombie 22ALR
+6t_red Goblin 11ALR
+7t_green Beast 55ALR
+8t_green Cat Warrior 22ALR
+9t_green Saproling 11ALR
+10t_Elemental 88ALR
+11t_Etherium Cell ALR
+e
+e
+e
+e

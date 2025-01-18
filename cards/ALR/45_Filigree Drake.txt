@@ -1,0 +1,1 @@
+﻿Filigree Drake	U	common	Artifact Creature – Drake 	45	U	3U	FlyingNEWLINEWhenever another artifact you control enters, Filigree Drake gets +1/+1 until end of turn.	2/3		normal	ALR		VORTHOS

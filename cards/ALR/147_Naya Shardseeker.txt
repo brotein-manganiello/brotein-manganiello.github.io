@@ -1,0 +1,1 @@
+﻿Naya Shardseeker	G	uncommon	Creature – Elf Scout 	147	G	2G	VigilanceNEWLINEMountaincycling 1, plainscycling 1  (1, Discard this card: Search your library for a Mountain or Plains card, reveal it, and put it into your hand, then shuffle.)	3/3		normal	ALR		VORTHOS

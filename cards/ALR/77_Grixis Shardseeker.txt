@@ -1,0 +1,1 @@
+﻿Grixis Shardseeker	B	uncommon	Creature – Zombie Scout 	77	B	2B	DeathtouchNEWLINEIslandcycling 1, Mountaincycling 1  (1, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)	1/3		normal	ALR		VORTHOS

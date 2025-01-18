@@ -1,0 +1,1 @@
+﻿Gloomtide Gulf		common	Land DUAL	247	UB		Gloomtide Gulf enters tapped.NEWLINET: Add U or B.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

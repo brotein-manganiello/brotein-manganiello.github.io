@@ -1,0 +1,1 @@
+﻿Maelstrom Elemental	WUBRG	rare	Creature – Elemental 	196	WUBRG	WUBRG	HasteNEWLINEWhenever you cast a spell, if you spent mana to cast it, draw a card. Then you may cast a card with mana value less than that spell’s mana value from your hand without paying its mana cost.	7/7		normal	ALR		

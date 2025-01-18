@@ -1,0 +1,1 @@
+﻿Thunderscorn	B	common	Creature – Elemental 	94	B	2B	FlashNEWLINECycling 2 (2, Discard this card: Draw a card.)	3/2		normal	ALR		FLAVORTEXT

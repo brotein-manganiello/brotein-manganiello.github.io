@@ -1,0 +1,1 @@
+﻿Torchlight Tormentor	R	common	Creature – Devil 	123	BR	R	2B: Return Torchlight Tormentor from your graveyard to your hand. If you do, each opponent loses 1 life.	1/1		normal	ALR		VORTHOS

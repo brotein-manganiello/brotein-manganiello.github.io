@@ -1,0 +1,1 @@
+﻿Kederekt Deepdweller	UB	mythic	Creature – Horror 	194	UB	2UB	Whenever you cast an instant or sorcery spell, Kederekt Deepdweller gains your choice of menace, lifelink, or indestructible until end of turn.NEWLINEWhenever Kederekt Deepdweller deals combat damage to a player, you draw a card and that player discards a card.	4/4		normal	ALR		

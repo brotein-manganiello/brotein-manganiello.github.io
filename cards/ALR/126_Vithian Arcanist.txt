@@ -1,0 +1,1 @@
+﻿Vithian Arcanist	R	uncommon	Creature – Human Wizard 	126	UBR	2R	Vithian Arcanist gets +2/+0 and has haste as long as you’ve cast an instant or sorcery spell this turn.NEWLINEWhen Vithian Arcanist enters, add UBR. Spend this mana only to cast instant and/or sorcery spells.	2/3		normal	ALR		

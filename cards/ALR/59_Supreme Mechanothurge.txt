@@ -1,0 +1,1 @@
+﻿Supreme Mechanothurge	U	rare	Artifact Creature – Human Artificer 	59	U	4U	Whenever Supreme Mechanothurge or another artifact you control enters, up to one target artifact you control becomes a copy of another target artifact or creature you control, except it’s an artifact in addition to its other types.	3/3		normal	ALR		FLAVORTEXTNEWLINEQUALITYCHECK 

@@ -1,0 +1,1 @@
+﻿Serul Cove Escort	U	common	Creature – Human Wizard 	54	U	3U	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)NEWLINEWhenever Serul Cove Escort encourages a creature, that creature gains flying until end of turn.	2/3		normal	ALR		VORTHOS

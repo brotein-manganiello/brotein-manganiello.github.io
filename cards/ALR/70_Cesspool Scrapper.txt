@@ -1,0 +1,1 @@
+﻿Cesspool Scrapper	B	common	Artifact Creature – Construct 	70	UB	2B	Cesspool Scrapper can’t block.NEWLINE5U, Exile Cesspool Scrapper from your graveyard: Draw two cards.	3/3		normal	ALR		FLAVORTEXT

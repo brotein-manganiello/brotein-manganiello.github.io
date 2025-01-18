@@ -1,0 +1,1 @@
+﻿Ethersworn Elite	WUB	common	Artifact Creature – Human Artificer 	182	WUB	3WUB	When Ethersworn Elite enters, you gain 2 life and create two 1/1 blue Thopter artifact creature tokens with flying.NEWLINECycling 2 (2, Discard this card: Draw a card.)	3/3		normal	ALR		VORTHOS

@@ -1,0 +1,1 @@
+﻿Forbidding Isle		rare	Land	246	UR		Forbidding Isle enters tapped unless you control a Swamp.NEWLINET: Add U or R.			normal	ALR		TRICHECKS

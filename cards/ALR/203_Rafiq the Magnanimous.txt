@@ -1,0 +1,1 @@
+﻿Rafiq the Magnanimous	WUG	rare	Legendary Creature – Human Knight 	203	WUG	GWU	LifelinkNEWLINERafiq the Magnanimous has double strike as long as it’s attacking.NEWLINEWhenever Rafiq the Magnanimous attacks, if it’s enchanted, equipped, or was the target of a spell or ability you controlled this turn, draw a card.	2/3		normal	ALR		

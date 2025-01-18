@@ -1,0 +1,1 @@
+﻿Conduit of the Conflux	G	common	Creature – Elf Druid 	130	G	1G	When Conduit of the Conflux enters, scry 2.NEWLINET: Add one mana of any color.	1/1		normal	ALR		FLAVORTEXT

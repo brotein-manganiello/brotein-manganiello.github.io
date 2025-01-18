@@ -1,0 +1,1 @@
+﻿Sigil of the Skyward Eye		uncommon	Artifact – Equipment 	232	C	2	Equipped creature has “T: Reveal the top card of your library. If it’s a land card, put it onto the battlefield. Otherwise, put it into your hand.”NEWLINEEquip 2			normal	ALR		VORTHOS

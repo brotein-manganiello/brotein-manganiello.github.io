@@ -1,0 +1,1 @@
+﻿Viashino Glutton	R	uncommon	Creature – Viashino Warrior 	124	R	3R	When Viashino Glutton enters, you may have it consume. If you do, create two 1/1 red Goblin creature tokens. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	3/3		normal	ALR		FLAVORTEXT

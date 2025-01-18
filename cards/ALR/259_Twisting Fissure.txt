@@ -1,0 +1,1 @@
+﻿Twisting Fissure		common	Land DUAL	259	UR		Twisting Fissure enters tapped.NEWLINET: Add U or R.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

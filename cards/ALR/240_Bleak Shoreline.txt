@@ -1,0 +1,1 @@
+﻿Bleak Shoreline		rare	Land	240	WB		Bleak Shoreline enters tapped unless you control an Island.NEWLINET: Add W or B.			normal	ALR		TRICHECKS

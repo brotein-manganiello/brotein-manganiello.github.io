@@ -1,0 +1,1 @@
+﻿Dominator's Diadem	W	common	Artifact	13	W	1W	When Dominator’s Diadem enters, you gain 3 life.NEWLINE2W, T: Tap target creature.			normal	ALR		FLAVORTEXT QUALITYCHECK

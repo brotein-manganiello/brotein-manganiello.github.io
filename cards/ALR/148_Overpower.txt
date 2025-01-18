@@ -1,0 +1,1 @@
+﻿Overpower	G	uncommon	Sorcery	148	G	5G	Creatures you control get +3/+3 until NEWLINEend of turn.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOS

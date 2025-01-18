@@ -1,0 +1,1 @@
+﻿Elemental 88ALR		common	Token Creature – Elemental 	10	WUBRG		This creature is all colors.NEWLINEFlying, first strike, vigilance, trample, lifelink	8/8		token	ALR		!exportname Elemental 88ALR

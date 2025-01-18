@@ -1,0 +1,1 @@
+﻿Spire of Esper		common	Artifact	234	WUB	3	T: Add W, U or B.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

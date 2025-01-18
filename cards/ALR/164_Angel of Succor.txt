@@ -1,0 +1,1 @@
+﻿Angel of Succor	WUG	rare	Creature – Angel 	164	WUG	1GWU	FlyingNEWLINEAs long as it’s your turn, you and Angel of Succor have hexproof.NEWLINEUntap all lands you control during each other player’s untap step.	3/3		normal	ALR		VORTHOS

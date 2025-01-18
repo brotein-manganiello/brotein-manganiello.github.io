@@ -1,0 +1,1 @@
+﻿Bigroot Valley		common	Land DUAL	239	RG		Bigroot Valley enters tapped.NEWLINET: Add R or G.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

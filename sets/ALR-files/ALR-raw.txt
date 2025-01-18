@@ -1,0 +1,333 @@
+﻿Paladin's Attendant	W	common	Creature — Human Soldier 	22	W	W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Paladin’s Attendant encourages a creature, that creature gains first strike until end of turn.	1/1		normal	ALR		VORTHOSREPLACEMEAjani's Advocate	W	common	Creature — Cat Warrior 	1	WG	W	Vigilance
+1G: Ajani’s Advocate gets +2/+2 until end of turn. Activate only once each turn.	1/1		normal	ALR		FLAVORTEXT REPLACEMEValeron Vanguard	W	common	Creature — Human Soldier 	32	W	1W	Valeron Vanguard can’t be blocked by 1/1 creatures.	3/1		normal	ALR		FLAVORTEXTREPLACEMETopan Curemaster	W	common	Creature — Human Cleric 	31	W	1W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Topan Curemaster encourages a creature, you gain 1 life.	1/3		normal	ALR		VORTHOSREPLACEMECloud's Roar Avenger	W	common	Creature — Cat Warrior 	10	W	1W	Stampede — Whenever Cloud’s Roar Avenger and a creature with greater power attack, tap up to one target creature.	2/2		normal	ALR		FLAVORTEXTREPLACEMEAkrasan Sentry	W	common	Creature — Human Knight 	2	W	2W	Vigilance
+When Akrasan Sentry enters, untap target creature.	2/3		normal	ALR		FLAVORTEXTREPLACEMEReliquary Rhox	W	common	Creature — Rhino Soldier 	27	W	2W		3/3		normal	ALR		FLAVORTEXTREPLACEMEMeticulous Mechanist	W	common	Artifact Creature — Human Artificer 	20	W	2W	Embellish 4W (If you cast this spell for 4W, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+When Meticulous Mechanist enters, scry 1.	3/2		normal	ALR		VORTHOSREPLACEMEDawnray Castellan	W	common	Creature — Human Knight 	11	W	3W	Lifelink	2/4		normal	ALR		FLAVORTEXTREPLACEMESkygrid Surveyor	W	common	Artifact Creature — Thopter 	29	WU	4W	Flying
+Cycling U (U, Discard this card: Draw a card.)	3/3		normal	ALR		FLAVORTEXT REPLACEMEGleamhorn Gargantuan	W	common	Creature — Beast 	18	W	4W	When Gleamhorn Gargantuan enters, put a +1/+1 counter on up to one other target creature.
+Cycling 2 (2, Discard this card: Draw a card.)	5/3		normal	ALR		VORTHOSREPLACEMERadiant Resolve	W	common	Instant	24	W	W	Target creature gets +2/+2 until end of turn. If it’s multicolored, it also gains indestructible until end of turn.			normal	ALR		FLAVORTEXTREPLACEMERecraft in Steel	W	common	Instant	25	W	1W	Choose one or both —
+• Destroy target enchantment.
+• Return target artifact card from your graveyard to your hand.			normal	ALR		FLAVORTEXTREPLACEMEDominator's Diadem	W	common	Artifact	13	W	1W	When Dominator’s Diadem enters, you gain 3 life.
+2W, T: Tap target creature.			normal	ALR		FLAVORTEXT QUALITYCHECKREPLACEMESunstrike	W	common	Instant	30	W	1W	Exile target attacking or blocking creature with power 3 or less.			normal	ALR		FLAVORTEXTREPLACEMEBlessed Radiance	W	common	Enchantment — Aura 	6	W	2W	Enchant creature
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return it to the battlefield under its owner’s control.			normal	ALR		VORTHOSREPLACEMEPledge of Peace	W	common	Enchantment — Aura 	23	W	2W	Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t be activated.			normal	ALR		FLAVORTEXTREPLACEMEHerald of the White Orchid	W	uncommon	Creature — Human Soldier 	19	W	W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever a creature deals combat damage to a player, if it was encouraged by Herald of the White Orchid this turn, create a 1/1 white Soldier creature token.	1/1		normal	ALR		REPLACEMEEtlan High Priest	W	uncommon	Creature — Human Cleric 	17	W	W	Stampede — Whenever Etlan High Priest and a creature with greater power attack, Etlan High Priest gets +1/+1 until end of turn. Then you gain 1 life and scry 1.	1/2		normal	ALR		FLAVORTEXTREPLACEMECitadel Battlemage	W	uncommon	Creature — Human Wizard 	8	WUG	1W	3G: Search your library and/or graveyard for an Aura card, reveal it, and put it into your hand. If you search your library this way, shuffle.
+1U: Untap target creature.	2/1		normal	ALR		FLAVORTEXT
+QUALITYCHECKREPLACEMEEos Beseecher	W	uncommon	Creature — Human Wizard 	14	W	1W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Eos Beseecher encourages a creature, look at the top card of your library. If it’s a creature card with power 2 or less, you may reveal it and put it into your hand.	2/2		normal	ALR		REPLACEMEBant Shardseeker	W	uncommon	Creature — Rhino Scout 	5	W	2W	Lifelink
+Islandcycling 1, forestcycling 1  (1, Discard this card: Search your library for an Island or Forest card, reveal it, and put it into your hand, then shuffle.)	2/3		normal	ALR		VORTHOS REPLACEMEAmesha of the Honorable	W	uncommon	Creature — Angel 	3	W	3WW	Flying
+Soldiers and Knights you control get +1/+1.	4/4		normal	ALR		FLAVORTEXTREPLACEMESigil of the Many	W	uncommon	Enchantment	28	W	W	Creature tokens you control get +1/+0.			normal	ALR		FLAVORTEXTREPLACEMEEtherium Staff	W	uncommon	Artifact — Equipment 	16	W	1W	Embellish 4W (If you cast this spell for 4W, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+Equipped creature gets +2/+2.
+Whenever an artifact creature you control enters, you may attach Etherium Staff to it.
+Equip 2			normal	ALR		REPLACEMEOstracizer Orb	W	uncommon	Artifact	21	W	1W	When Ostracizer Orb enters, exile target nonartifact, nonland permanent until Ostracizer Orb leaves the battlefield.			normal	ALR		FLAVORTEXTREPLACEMEEtherium Sculptor	U	common	Artifact Creature — Vedalken Artificer 	42	U	1U	Artifact spells you cast cost 1 less to cast.	1/2		normal	ALR		FLAVORTEXT REPLACEMEJhessian Cavalier	U	common	Creature — Human Knight 	48	WU	2U	Vigilance
+1W: Jhessian Cavalier gains lifelink until end of turn.	3/2		normal	ALR		FLAVORTEXT REPLACEMEKederekt Seawitch	U	common	Creature — Human Wizard 	49	U	2U	Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Kederekt Seawitch, then scry 1.	2/2		normal	ALR		FLAVORTEXTREPLACEMESteel Wind Strix	U	common	Artifact Creature — Bird 	56	U	2U	Flying
+Embellish 4U (If you cast this spell for 4U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)	2/2		normal	ALR		FLAVORTEXTREPLACEMERetinue Golem	U	common	Artifact Creature — Golem 	52	U	3U	Embellish 5U (If you cast this spell for 5U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+Retinue Golem gets +1/+1 as long as you control another artifact.	3/3		normal	ALR		REPLACEMESerul Cove Escort	U	common	Creature — Human Wizard 	54	U	3U	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Serul Cove Escort encourages a creature, that creature gains flying until end of turn.	2/3		normal	ALR		VORTHOSREPLACEMEFiligree Drake	U	common	Artifact Creature — Drake 	45	U	3U	Flying
+Whenever another artifact you control enters, Filigree Drake gets +1/+1 until end of turn.	2/3		normal	ALR		VORTHOSREPLACEMESteelfin Manta	U	common	Artifact Creature — Fish 	57	U	4U	Cycling 2 (2, Discard this card: Draw a card.)	3/7		normal	ALR		FLAVORTEXT
+QUALITYCHECKREPLACEMEMage's Warding	U	common	Instant	51	U	U	Target creature you control gains hexproof until end of turn. Scry 1.			normal	ALR		FLAVORTEXTREPLACEMETerraformer's Globe	U	common	Artifact	60	U	U	When Terraformer’s Globe enters, draw a card.
+T: Target land you control becomes the basic land type of your choice until end of turn.			normal	ALR		VORTHOSREPLACEMEEssence Erasure	U	common	Instant	40	UB	1U	Counter target creature spell unless its controller pays 3.
+Cycling B (B, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMEDisperse	U	common	Instant	36	U	1U	Return target nonland permanent to its owner’s hand.			normal	ALR		FLAVORTEXTREPLACEMEHallucinate	U	common	Enchantment — Aura 	47	U	1U	Flash
+Enchant creature
+Enchanted creature gets -3/-0 and doesn’t untap during its controller’s untap step.			normal	ALR		VORTHOSREPLACEMESubduing Serum	U	common	Instant	58	U	2U	Tap up to two target creatures. Those creatures don’t untap during their controller’s next untap step.			normal	ALR		FLAVORTEXTREPLACEMEFathom the Forbidden	U	common	Instant	43	U	2U	Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMEClairvoyant Insight	U	common	Instant	34	U	3U	Draw two cards.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT REPLACEMEUnbeholden Navigator	U	uncommon	Creature — Human Rogue 	61	U	U	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever a creature deals combat damage to a player, if it was encouraged by Unbeholden Navigator this turn, draw a card.	1/1		normal	ALR		REPLACEMECognition Crucible	U	uncommon	Artifact	35	U	U	Embellish 2U (If you cast this spell for 2U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+T: Target player mills a card. If you control three or more artifacts, that player mills three cards instead.			normal	ALR		REPLACEMESanctum Battlemage	U	uncommon	Artifact Creature — Human Wizard 	53	WUB	1U	3W: Return another target artifact or creature you control to its owner’s hand.
+1B: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/1		normal	ALR		VORTHOSREPLACEMEEsper Shardseeker	U	uncommon	Artifact Creature — Vedalken Scout 	39	U	2U	Esper Shardseeker can’t be blocked.
+Plainscycling 1, swampcycling 1  (1, Discard this card: Search your library for a Plains or Swamp card, reveal it, and put it into your hand, then shuffle.)	1/3		normal	ALR		VORTHOSREPLACEMEVectis Entrancer	U	uncommon	Artifact Creature — Human Wizard 	62	U	2U	Flash
+Embellish 5U (If you cast this spell for 5U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+Whenever Vectis Entrancer or another artifact you control enters, tap target creature an opponent controls. It loses all abilities until end of turn.	2/2		normal	ALR		REPLACEMEWayward Sphinx	U	uncommon	Artifact Creature — Sphinx 	64	U	5U	Flying
+Cycling 2 (2, Discard this card: Draw a card.)	4/5		normal	ALR		FLAVORTEXTREPLACEMEMaelstromancy	U	uncommon	Enchantment	50	WUBRG	U	Whenever you cycle a card, scry 1. (Do this before you draw.)
+WUBRG, Sacrifice Maelstromancy: 
+Return up to three target cards with cycling abilities from your graveyard to your hand.			normal	ALR		VORTHOSREPLACEMEVibrant Expulsion	U	uncommon	Instant	63	U	1U	Return target spell to its owner’s hand. If there are three or more colors among permanents you control, you may counter that spell instead.			normal	ALR		FLAVORTEXT
+!design MakoREPLACEMEDisturb the Riddle Gate	U	uncommon	Sorcery	38	U	2U	Mill five cards. Return any number of cards with cycling abilities milled this way to your hand.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOS REPLACEMEDissident's Vortex	U	uncommon	Sorcery	37	U	3U	Return up to one target creature to its owner’s hand. Draw a card.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMENel Toth Shaman	B	common	Creature — Human Shaman 	83	B	B	Deathtouch
+When Nel Toth Shaman enters, mill two cards.	1/1		normal	ALR		FLAVORTEXT
+QUALITYCHECK REPLACEMEHegemon's Cutthroat	B	common	Artifact Creature — Human Rogue 	78	B	1B	Lifelink
+Embellish 2B (If you cast this spell for 2B, create a 1/1 blue Thopter artifact creature token with flying when it enters.)	2/1		normal	ALR		FLAVORTEXTREPLACEMEHexcaster of Unx	B	common	Creature — Zombie Warlock 	79	B	1B	Whenever you cast an instant or sorcery spell, each opponent loses 1 life and you gain 1 life.	2/2		normal	ALR		FLAVORTEXTREPLACEMECesspool Scrapper	B	common	Artifact Creature — Construct 	70	UB	2B	Cesspool Scrapper can’t block.
+5U, Exile Cesspool Scrapper from your graveyard: Draw two cards.	3/3		normal	ALR		FLAVORTEXTREPLACEMEHostile Barbfly	B	common	Creature — Insect 	80	B	3B	Flying
+When Hostile Barbfly enters, you may have it consume. When you do, target creature gets -2/-2 until end of turn. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	2/2		normal	ALR		REPLACEMEThunderscorn	B	common	Creature — Elemental 	94	B	2B	Flash
+Cycling 2 (2, Discard this card: Draw a card.)	3/2		normal	ALR		FLAVORTEXTREPLACEMECarnage Gorger	B	common	Creature — Insect 	69	B	3B	Whenever another creature you control dies, put a +1/+1 counter on Carnage Gorger.	3/3		normal	ALR		FLAVORTEXTREPLACEMEUnearth	B	common	Sorcery	96	B	B	Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMESangrite Ooze	B	common	Creature  — Ooze Elemental 	89	BR	4B	Menace
+Cycling R (R, Discard this card: Draw a card.)	5/4		normal	ALR		FLAVORTEXT
+!bannerREPLACEMESculler's Oar	B	common	Artifact	91	B	B	2B, T, Sacrifice Sculler’s Oar: Return up to two target creature cards from your graveyard to your hand.			normal	ALR		VORTHOSREPLACEMEBone Splinters_ALR	B	common	Sorcery	68	B	B	As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature.			normal	ALR		FLAVORTEXT
+!exportname Bone Splinters_ALRREPLACEMEDire Predictions	B	common	Sorcery	73	B	B	Surveil 1. You draw a card and you lose 1 life. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMEPerilous Sojourn	B	common	Instant	86	B	1B	Mill three cards, then you may return a creature or land card from your graveyard to your hand.			normal	ALR		FLAVORTEXTREPLACEMEOmen of Nefarox	B	common	Instant	85	B	2B	Target creature gets -5/-5 until end of turn. Scry 1.			normal	ALR		FLAVORTEXTREPLACEMEAgonizing Syphon	B	common	Sorcery	65	B	3B	Agonizing Syphon deals 3 damage to any target and you gain 3 life.			normal	ALR		FLAVORTEXTREPLACEMESedraxis Trepanator	B	uncommon	Creature — Zombie Mutant Warrior 	92	B	B	T, Sacrifice a creature: Target player discards a card and loses 2 life. Activate only as a sorcery.	1/2		normal	ALR		VORTHOSREPLACEMENecropolis Battlemage	B	uncommon	Creature — Human Wizard 	82	UBR	1B	3U: Draw a card.
+2R: Necropolis Battlemage deals 1 damage to target player. Scry 1.	2/1		normal	ALR		VORTHOSREPLACEMEGrixis Shardseeker	B	uncommon	Creature — Zombie Scout 	77	B	2B	Deathtouch
+Islandcycling 1, Mountaincycling 1  (1, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)	1/3		normal	ALR		VORTHOSREPLACEMEBloated Visceroid	B	uncommon	Creature — Zombie Horror 	66	B	3B	Cycling 2 (2, Discard this card: Draw a card.)
+3BB, Exile Bloated Visceroid from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.	3/2		normal	ALR		REPLACEMERavenous Tarwurm	B	uncommon	Creature — Wurm 	88	B	4B	Lifelink
+When Ravenous Tarwurm enters, you may have it consume. When you do, target creature gets -3/-3 until end of turn and you gain 3 life. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	3/3		normal	ALR		REPLACEMEScrap Spiral	B	uncommon	Artifact	90	B	1B	Embellish 3B (If you cast this spell for 3B, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+When Scrap Spiral enters, target creature gets -2/-2 until end of turn.
+3B, T, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.			normal	ALR		REPLACEMEExenterate	B	uncommon	Instant	76	B	1B	Destroy target creature with power equal to its toughness.			normal	ALR		FLAVORTEXTREPLACEMEObscene Recitation	B	uncommon	Sorcery	84	B	1B	Target opponent exiles a card from their hand. Scry 2.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		VORTHOS REPLACEMEShining Revival	B	uncommon	Sorcery	93	B	4B	Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it for each of its colors.			normal	ALR		VORTHOSREPLACEMEDemonic Rite	B	uncommon	Sorcery	72	B	5B	Create a 4/4 black Demon creature token with flying. You lose 3 life for each Demon you control.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMEChromeleon	R	common	Creature — Lizard 	100	R	R	Sacrifice Chromeleon: Add one mana of any color. Scry 1.	1/1		normal	ALR		FLAVORTEXT
+!bannerREPLACEMETorchlight Tormentor	R	common	Creature — Devil 	123	BR	R	2B: Return Torchlight Tormentor from your graveyard to your hand. If you do, each opponent loses 1 life.	1/1		normal	ALR		VORTHOSREPLACEMEFodder Goblins	R	common	Creature — Goblin 	102	R	1R	When Fodder Goblins enters, create a 1/1 red Goblin creature token.	1/1		normal	ALR		FLAVORTEXTREPLACEMESadistic Sparkmage	R	common	Creature — Human Wizard 	119	R	1R	Reach
+T: Sadistic Sparkmage deals 1 damage to each opponent.	1/3		normal	ALR		VORTHOSREPLACEMEFrenzied Nacatl	R	common	Creature — Cat Berserker 	103	R	2R	First strike
+Stampede — Whenever Frenzied Nacatl and a creature with greater power attack, Frenzied Nacatl gets +2/+0 until end of turn.	2/3		normal	ALR		VORTHOS REPLACEMEDagger-Thrash Marauders	R	common	Creature — Viashino Warrior 	101	R	2R	Menace
+When Dagger-Thrash Marauders enters, you may have it consume. If you do, put a +1/+1 counter on it and it gains haste until end of turn. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	2/2		normal	ALR		REPLACEMEVolcano Elemental	R	common	Creature — Elemental 	127	R	3R	When Volcano Elemental dies, it deals 2 damage to any target.	4/2		normal	ALR		FLAVORTEXT
+QUALITYCHECKREPLACEMEReinbreaker Behemoth	R	common	Creature — Beast 	118	R	3R	Reinbreaker Behemoth attacks each combat if able.	5/4		normal	ALR		FLAVORTEXTREPLACEMELava Hellions	R	common	Creature — Hellion 	109	R	4R	Trample
+Whenever Lava Hellions attacks, you may have it consume. If you do, it deals 2 damage to defending player. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	4/5		normal	ALR		REPLACEMECantankeroth	R	common	Creature — Beast 	99	R	4RR	Haste
+Cycling 2 (2, Discard this card: Draw a card.)	6/4		normal	ALR		VORTHOSREPLACEMEMagma Spray	R	common	Instant	111	R	R	Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.			normal	ALR		VORTHOSREPLACEMERagemist	R	common	Sorcery	117	R	R	Target creature gets +2/+0 and gains trample and haste until end of turn.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOSREPLACEMEPain's Embrace	R	common	Instant	116	R	1R	As an additional cost to cast this spell, discard a card.
+Draw two cards.			normal	ALR		FLAVORTEXTREPLACEMEOminous Lightning	R	common	Sorcery	115	R	1R	Ominous Lightning deals 3 damage to target creature. Scry 2.			normal	ALR		FLAVORTEXTREPLACEMEInfernal Flames	R	common	Sorcery	107	R	2R	Infernal Flames deals 3 damage to target player or planeswalker.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMECalamitous Rampage	R	common	Instant	98	RG	5R	Calamitous Rampage deals 5 damage to any target.
+Cycling G (G, Discard this card: Draw a card.)			normal	ALR		VORTHOSREPLACEMEMake Way	R	common	Enchantment — Aura 	112	R	1R	Enchant creature
+When Make Way enters, draw a card.
+Enchanted creature can’t block.			normal	ALR		FLAVORTEXTREPLACEMENacatl Skirmisher	R	uncommon	Creature — Cat Warrior 	114	R	R	R, Sacrifice Nacatl Skirmisher: Destroy target artifact.
+Stampede — Whenever Nacatl Skirmisher and a creature with greater power attack, creatures you control get +1/+0 until end of turn.	1/2		normal	ALR		VORTHOSREPLACEMESavage Battlemage	R	uncommon	Creature — Human Shaman 	121	BRG	1R	3B: You mill two cards. Each opponent loses 2 life.
+1G: You may put a land card from your hand or graveyard onto the battlefield tapped.	2/1		normal	ALR		VORTHOSREPLACEMEViashino Glutton	R	uncommon	Creature — Viashino Warrior 	124	R	3R	When Viashino Glutton enters, you may have it consume. If you do, create two 1/1 red Goblin creature tokens. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	3/3		normal	ALR		FLAVORTEXTREPLACEMEVithian Arcanist	R	uncommon	Creature — Human Wizard 	126	UBR	2R	Vithian Arcanist gets +2/+0 and has haste as long as you’ve cast an instant or sorcery spell this turn.
+When Vithian Arcanist enters, add UBR. Spend this mana only to cast instant and/or sorcery spells.	2/3		normal	ALR		REPLACEMEJund Shardseeker	R	uncommon	Creature — Goblin Scout 	108	R	2R	Menace
+Swampcycling 1, forestcycling 1  (1, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.)	3/2		normal	ALR		VORTHOSREPLACEMEMist-Valley Minotaurs	R	uncommon	Creature — Minotaur Warrior 	113	R	3R	1R, Discard a card: Draw a card. Mist-Valley Minotaurs gets +2/+0 until end of turn.	3/4		normal	ALR		FLAVORTEXTREPLACEMEScaleshredder	R	uncommon	Creature — Viashino Shaman 	122	R	5R	When Scaleshredder enters, you may have it consume. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	5/4		normal	ALR		REPLACEMEHellkite's Decree	R	uncommon	Sorcery	105	R	2R	Hellkite’s Decree deals 3 damage divided as you choose among one, two, or three target creatures and/or planeswalkers.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		REPLACEMEVigor from the Vein	R	uncommon	Sorcery	125	R	2R	Exile the top two cards of your library and put a blood counter on each of them. Until the end of your next turn, you may play cards you own in exile with blood counters on them.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMEBask in Fire	R	uncommon	Instant	97	R	4R	Discard your hand, then draw three cards. Bask in Fire deals 2 damage to each creature.			normal	ALR		FLAVORTEXT
+QUALITYCHECK
+!design MakoREPLACEMEThallid Cultivator	G	common	Creature — Fungus 	152	G	G	When Thallid Cultivator dies, mill four cards. Return a creature card milled this way to your hand.	1/1		normal	ALR		VORTHOSREPLACEMEConduit of the Conflux	G	common	Creature — Elf Druid 	130	G	1G	When Conduit of the Conflux enters, scry 2.
+T: Add one mana of any color.	1/1		normal	ALR		FLAVORTEXTREPLACEMEElvish Godtracker	G	common	Creature — Elf Shaman 	131	G	1G	4G, Sacrifice Elvish Godtracker: Create a 5/5 green Beast creature token.	2/2		normal	ALR		VORTHOSREPLACEMELeotau Rider	G	common	Creature — Human Knight 	143	G	2G	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Leotau Rider encourages a creature, that creature gains trample until end of turn.	3/2		normal	ALR		VORTHOS
+!bannerREPLACEMEFlesheater Vine	G	common	Creature — Plant 	134	G	2G	Deathtouch
+When Flesheater Vine enters, you may have it consume. If you do, put a +1/+1 counter on it and you gain 3 life. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	2/2		normal	ALR		REPLACEMEExuberant Hunter	G	common	Creature — Human Warrior 	132	G	2G	Stampede — Whenever Exuberant Hunter and a creature with greater power attack, draw a card.	2/3		normal	ALR		VORTHOSREPLACEMEKnight of the Olive Orchard	G	common	Creature — Human Knight 	141	G	3G	Knight of the Olive Orchard can’t be blocked by more than one creature.	4/3		normal	ALR		FLAVORTEXT 
+QUALITYCHECKREPLACEMEFlarespore Mycoid	G	common	Creature — Fungus 	133	RG	3G	3R: Target creature can’t block this turn.	4/4		normal	ALR		FLAVORTEXTREPLACEMETowering Silkweaver	G	common	Creature — Spider 	155	G	4G	Reach
+Towering Silkweaver can block an additional creature each combat.	5/4		normal	ALR		VORTHOSREPLACEMEGargantuan Crusher	G	common	Creature — Beast 	137	G	3GG	Trample
+Cycling 2 (2, Discard this card: Draw a card.)	5/5		normal	ALR		FLAVORTEXTREPLACEMETitanothoctar	G	common	Creature — Beast 	154	G	6G		8/8		normal	ALR		FLAVORTEXT
+!design MakoREPLACEMELichen's Grasp	G	common	Instant	144	G	1G	Choose one —
+• Destroy target artifact.
+• Lichen’s Grasp deals 4 damage to target creature with flying.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOSREPLACEMESigil of Fortitude	G	common	Instant	151	WG	1G	Untap target creature. It gets +2/+2 until end of turn.
+Cycling W (W, Discard this card: Draw a card.)			normal	ALR		VORTHOSREPLACEMEFletcher's Precision	G	common	Instant	135	G	1G	Target creature you control deals damage equal to its power to target creature you don’t control. Scry 1.			normal	ALR		VORTHOSREPLACEMETranquil Repose	G	common	Instant	156	G	2G	Prevent all combat damage that would be dealt this turn.
+Draw a card.			normal	ALR		FLAVORTEXTREPLACEMECanopy Assault	G	common	Enchantment — Aura 	129	G	3G	Flash
+Enchant creature
+Enchanted creature gets +3/+3.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOSREPLACEMEJungle Battlemage	G	uncommon	Creature — Elf Shaman 	140	WRG	1G	1R: Exile the top card of your library. If it’s a creature card, you may play it until the end of your next turn.
+4W: Put two +1/+1 counters on target creature.	2/1		normal	ALR		VORTHOSREPLACEMEThoctar Yearling	G	uncommon	Creature — Beast 	153	G	1G	Trample
+Stampede — Whenever Thoctar Yearling and a creature with greater power attack, put a +1/+1 counter on Thoctar Yearling.	2/2		normal	ALR		VORTHOSREPLACEMENaya Shardseeker	G	uncommon	Creature — Elf Scout 	147	G	2G	Vigilance
+Mountaincycling 1, plainscycling 1  (1, Discard this card: Search your library for a Mountain or Plains card, reveal it, and put it into your hand, then shuffle.)	3/3		normal	ALR		VORTHOSREPLACEMEVeteran Horncaptain	G	uncommon	Creature — Rhino Soldier 	157	G	4G	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever a creature deals combat damage to a player, if it was encouraged by Veteran Horncaptain this turn, exile the top three cards of your library. You may put a permanent card from among them onto the battlefield.	3/5		normal	ALR		REPLACEMEKnotvine Preserver	G	uncommon	Creature — Elf Shaman 	142	G	3G	Stampede — Whenever Knotvine Preserver and a creature with greater power attack, until end of turn, attacking creatures you control gain “When this creature dies, return it to its owner’s hand.”	2/4		normal	ALR		VORTHOSREPLACEMERegurgitator Ooze	G	uncommon	Creature — Ooze 	150	G	3G	At the beginning of combat on your turn, you may have Regurgitator Ooze consume. If you do, it gets +2/+2 until end of turn. (To consume, sacrifice another creature or exile a creature card from your graveyard.)
+When Regurgitator Ooze dies, return a card exiled with it to its owner’s hand.	3/3		normal	ALR		REPLACEMEMist-Valley Ancient	G	uncommon	Creature — Beast 	146	G	5G	Hexproof
+Mist-Valley Ancient enters tapped.
+Cycling 2 (2, Discard this card: Draw a card.)	7/7		normal	ALR		!tapped 
+VORTHOSREPLACEMEWorldheart Nexus	G	uncommon	Enchantment	160	G	2G	At the beginning of your upkeep, if there are three or more colors among creatures you control, you gain 2 life and draw a card.			normal	ALR		VORTHOSREPLACEMEFungal Flourishing	G	uncommon	Sorcery	136	G	1GG	Create three 1/1 green Saproling creature tokens.			normal	ALR		FLAVORTEXTREPLACEMEOverpower	G	uncommon	Sorcery	148	G	5G	Creatures you control get +3/+3 until 
+end of turn.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOSREPLACEMESighted-Caste Knight	WU	common	Creature — Human Knight 	210	WU	1WU	First strike
+Whenever Sighted-Caste Knight deals combat damage to a player, draw a card.	2/2		normal	ALR		VORTHOS
+!bannerREPLACEMESphinx's Scrutiny	UB	common	Instant	211	UB	1UB	Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	ALR		FLAVORTEXTREPLACEMESpinebreak	BR	common	Sorcery	212	BR	BR	Gain control of target creature until end of turn. Untap it. Until end of turn, it gets -1/-1 and gains haste.			normal	ALR		FLAVORTEXTREPLACEMEBrutal Struggle	RG	common	Instant	171	RG	1RG	Brutal Struggle deals 2 damage to any target. Put a +1/+1 counter on up to one target creature.			normal	ALR		VORTHOSREPLACEMESacellum Visionary	WG	common	Creature — Elf Shaman 	204	WG	2GW	Lifelink
+When Sacellum Visionary enters, draw a card.	3/2		normal	ALR		FLAVORTEXTREPLACEMECelebrant of Jubilation	WUG	common	Creature — Angel Soldier 	172	WUG	3GWU	Flying
+When Celebrant of Jubilation enters, untap all creatures you control.
+Cycling 2 (2, Discard this card: Draw a card.)	3/4		normal	ALR		VORTHOSREPLACEMEEthersworn Elite	WUB	common	Artifact Creature — Human Artificer 	182	WUB	3WUB	When Ethersworn Elite enters, you gain 2 life and create two 1/1 blue Thopter artifact creature tokens with flying.
+Cycling 2 (2, Discard this card: Draw a card.)	3/3		normal	ALR		VORTHOSREPLACEMEIncantation Demon	UBR	common	Creature — Demon 	188	UBR	3UBR	When Incantation Demon enters, return target instant or sorcery card from your graveyard to your hand.
+Cycling 2 (2, Discard this card: Draw a card.)	4/4		normal	ALR		REPLACEMEVarakna Wurm	BRG	common	Creature — Wurm 	224	BRG	3BRG	When Varakna Wurm enters, it deals X damage to target creature an opponent controls, where X is the total number of creature cards you own in exile and in your graveyard.
+Cycling 2 (2, Discard this card: Draw a card.)	5/3		normal	ALR		REPLACEMEZiggurat Behemoth	WRG	common	Creature — Beast 	227	WRG	3RGW	When Ziggurat Behemoth enters, target creature gets +3/+3 until end of turn.
+Cycling 2 (2, Discard this card: Draw a card.)	6/6		normal	ALR		FLAVORTEXTREPLACEMEAven Strategist	WU	uncommon	Creature — Bird Soldier 	167	WU	2WU	Flying
+When Aven Strategist enters, return up to one target creature to its owner’s hand.	3/2		normal	ALR		FLAVORTEXT REPLACEMETelemin Architect	WU	uncommon	Artifact Creature — Human Artificer 	217	WU	1WU	T: Tap target creature.
+T: Draw a card, then discard a card.
+Whenever another artifact you control enters, untap Telemin Architect.	1/1		normal	ALR		VORTHOS
+!bannerREPLACEMEVisitarium Smuggler	UB	uncommon	Artifact Creature — Vedalken Rogue 	226	UB	UB	At the beginning of your upkeep, look at the top card of your library. If it’s an artifact card, you may reveal it and put it into your hand.	2/3		normal	ALR		VORTHOSREPLACEMEScatter What Remains	UB	uncommon	Sorcery	205	UB	3UB	Put target creature on top of its owner’s library. All other creatures that player controls get -2/-2 until end of turn.			normal	ALR		FLAVORTEXTREPLACEMEEdarna's Augurling	BR	uncommon	Creature — Elemental Phoenix 	178	BR	1BR	Flying, haste
+2BR: Return Edarna’s Augurling from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step. Activate only as a sorcery.	2/2		normal	ALR		VORTHOSREPLACEMEMagmatic Violator	BR	uncommon	Creature — Elemental 	197	BR	2BR	Haste
+When Magmatic Violator enters, target opponent sacrifices a creature.
+At the beginning of the end step, sacrifice Magmatic Violator.	4/1		normal	ALR		REPLACEMETremor Seer	RG	uncommon	Creature — Elf Shaman 	222	RG	2RG	Whenever another nontoken creature you control enters, that creature gains haste until end of turn. Then Tremor Seer deals 1 damage to any target.	3/2		normal	ALR		FLAVORTEXT
+QUALITYCHECKREPLACEMEScorchpass Sovereign	RG	uncommon	Creature — Dragon 	206	RG	3RG	Flying
+When Scorchpass Sovereign enters, it deals 1 damage to each creature with flying you don’t control.	4/4		normal	ALR		FLAVORTEXTREPLACEMESun-Dappled Paragon	WG	uncommon	Creature — Human Knight 	215	WG	1GW	Sun-Dappled Paragon enters with a +1/+1 counter on it for each other creature you control.
+Whenever another creature you control enters, put a +1/+1 counter on Sun-Dappled Paragon.	1/1		normal	ALR		REPLACEMETendrilsnare	WG	uncommon	Sorcery	218	WG	GW	Exile target creature an opponent controls. Each player may search their library for a basic land card and put that card onto the battlefield tapped. Then each player who searched their library this way shuffles.			normal	ALR		VORTHOSREPLACEMEJenara's Favor	WUG	uncommon	Enchantment — Aura 	191	WUG	1GWU	Enchant creature
+Enchanted creature gets +3/+3, has flying, and “1W: Put a +1/+1 counter on this creature.”			normal	ALR		FLAVORTEXT REPLACEMEGiltspire Exemplar	WUG	uncommon	Creature — Human Knight 	184	WUG	2GWU	Trample
+Spells your opponents cast that target a creature you control cost 2 more to cast.
+Whenever a creature you control attacks alone, it gets +2/+2 until end of turn.	4/4		normal	ALR		FLAVORTEXTREPLACEMESharuum's Council	WUB	uncommon	Artifact Creature — Vedalken Artificer 	209	WUB	1WUB	Lifelink
+Each other artifact creature you control enters with an additional +1/+1 counter on it.	3/3		normal	ALR		VORTHOS
+!banner REPLACEMEEthersworn Indoctrination	WUB	uncommon	Enchantment — Aura 	183	WUB	3WUB	Enchant creature
+You control enchanted creature.
+Enchanted creature gets +1/+1 and is an artifact in addition to its other types.			normal	ALR		VORTHOSREPLACEMECorpsemound	UBR	uncommon	Creature — Zombie Mutant 	174	UBR	1UBR	Menace
+Whenever you cast an instant or sorcery spell, create a 2/2 black Zombie creature token. This ability triggers only once each turn.	4/3		normal	ALR		FLAVORTEXTREPLACEMESedraxis Scourge	UBR	uncommon	Creature — Horror 	207	UBR	2UBR	T, Sacrifice a creature: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.	3/5		normal	ALR		FLAVORTEXTREPLACEMEThrinax Sporemother	BRG	uncommon	Creature — Lizard 	220	BRG	BRG	Whenever Thrinax Sporemother or another nontoken creature you control dies, create a 1/1 green Saproling creature token.
+Whenever a creature card is exiled from your graveyard, create a 1/1 green Saproling creature token.	3/3		normal	ALR		VORTHOSREPLACEMEAmbush Gharial	BRG	uncommon	Creature — Crocodile 	163	BRG	1BRG	Flash
+When Ambush Gharial enters, it fights up to one target creature. If that creature would die this turn, exile it instead.	3/4		normal	ALR		VORTHOSREPLACEMEBellowing Thoctar	WRG	uncommon	Creature — Beast 	170	WRG	1RGW	Creature spells you cast cost 1 less to cast.
+Whenever you cast a creature spell, Bellowing Thoctar gets +2/+2 until end of turn.	5/3		normal	ALR		FLAVORTEXTREPLACEMEBehemoth Channeler	WRG	uncommon	Creature — Elf Shaman 	169	WRG	RGW	At the beginning of combat on your turn, target creature you control has base power and toughness 5/5 until end of turn.	2/2		normal	ALR		VORTHOSREPLACEMEConflux Ravager	WUBRG	uncommon	Creature — Elemental 	173	WUBRG	WUBRG	When Conflux Ravager enters, destroy target nonland permanent an opponent controls.
+Cycling 2 (2, Discard this card: Draw a card.)	4/4		normal	ALR		VORTHOSREPLACEMESpire of Bant		common	Artifact	233	WUG	3	T: Add G, W, or U.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMESpire of Esper		common	Artifact	234	WUB	3	T: Add W, U or B.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMESpire of Grixis		common	Artifact	235	UBR	3	T: Add U, B, or R.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMESpire of Jund		common	Artifact	236	BRG	3	T: Add B, R, or G.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMESpire of Naya		common	Artifact	237	WRG	3	T: Add R, G, or W.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXTREPLACEMERings of New Alara		uncommon	Artifact	231	C	2	T: Add one mana of any color. Activate only if you control a multicolored permanent or there is a multicolored card in your graveyard.			normal	ALR		VORTHOSREPLACEMEFont of Nefarox		uncommon	Artifact	228	C	3	T: Each opponent loses 1 life and you gain 1 life.
+Whenever you cycle a card or cast a spell with a cycling ability, untap Font of Nefarox.			normal	ALR		VORTHOS  REPLACEMESigil of the Skyward Eye		uncommon	Artifact — Equipment 	232	C	2	Equipped creature has “T: Reveal the top card of your library. If it’s a land card, put it onto the battlefield. Otherwise, put it into your hand.”
+Equip 2			normal	ALR		VORTHOSREPLACEMEMacabre Effigy		uncommon	Artifact	229	C	1	Macabre Effigy enters with three charge counters on it.
+3, T, Remove a charge counter from Macabre Effigy: Create a 2/2 black Zombie creature token. Activate only as a sorcery.			normal	ALR		REPLACEMESculpted Observatory		common	Land DUAL	255	WU		Sculpted Observatory enters tapped.
+T: Add W or U.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMEGloomtide Gulf		common	Land DUAL	247	UB		Gloomtide Gulf enters tapped.
+T: Add U or B.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMEErupting Territory		common	Land DUAL	245	BR		Erupting Territory enters tapped.
+T: Add B or R.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMEBigroot Valley		common	Land DUAL	239	RG		Bigroot Valley enters tapped.
+T: Add R or G.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMEPeaceful Passage		common	Land	253	WG		Peaceful Passage enters tapped.
+T: Add G or W.
+1, T: Add one mana of any color.			normal	ALR		!tappedREPLACEMESomber Meadow		common	Land DUAL	257	WB		Somber Meadow enters tapped.
+T: Add W or B.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMETwisting Fissure		common	Land DUAL	259	UR		Twisting Fissure enters tapped.
+T: Add U or R.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMECaustic Mangrove		common	Land DUAL	241	BG		Caustic Mangrove enters tapped.
+T: Add B or G.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMEHazy Summits		common	Land DUAL	248	WR		Hazy Summits enters tapped.
+T: Add R or W.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMELush Coast		common	Land DUAL	252	UG		Lush Coast enters tapped.
+T: Add G or U.
+1, T: Add one mana of any color.			normal	ALR		!tapped
+!note nbslot
+!landslotREPLACEMETerramorphic Expanse		common	Land	258	C		T, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.			normal	ALR		VORTHOSREPLACEMESeaside Citadel		uncommon	Land	256	WUG		Seaside Citadel enters tapped.
+T: Add G, W, or U.			normal	ALR		!tapped
+
+VORTHOSREPLACEMEArcane Sanctum		uncommon	Land	238	WUB		Arcane Sanctum enters tapped.
+T: Add W, U, or B.			normal	ALR		!tapped
+
+VORTHOSREPLACEMECrumbling Necropolis		uncommon	Land	244	UBR		Crumbling Necropolis enters tapped.
+T: Add U, B, or R.			normal	ALR		!tapped
+
+VORTHOSREPLACEMESavage Lands		uncommon	Land	254	BRG		Savage Lands enters tapped.
+T: Add B, R, or G.			normal	ALR		!tapped
+
+VORTHOSREPLACEMEJungle Shrine		uncommon	Land	250	WRG		Jungle Shrine enters tapped.
+T: Add R, G, or W.			normal	ALR		!tapped
+
+VORTHOSREPLACEMEBlessed Vanquisher	W	rare	Creature — Human Cleric 	7	W	3W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Blessed Vanquisher encourages a creature, destroy target creature an opponent controls if it’s tapped. Otherwise, tap that creature.	2/2		normal	ALR		REPLACEMEDerevi's Adjutant	W	rare	Creature — Bird Soldier 	12	W	3WW	Flying
+When Derevi’s Adjutant enters, put a +1/+1 counter on each other creature you control.
+Cycling 2 (2, Discard this card: Draw a card.)
+When you cycle Derevi’s Adjutant, exile it. You may cast it from exile for as long as it remains exiled.	4/4		normal	ALR		REPLACEMEEtherium Abrogator	W	rare	Artifact Creature — Construct 	15	W	1W	Flying
+Nonartifact permanents entering the battlefield don’t cause abilities to trigger.	2/1		normal	ALR		FLAVORTEXTREPLACEMERefulgent Rupture	W	rare	Sorcery	26	W	2WW	Destroy all monocolored creatures.			normal	ALR		FLAVORTEXT
+!design MakoREPLACEMEArchangel of Bliss	W	mythic	Creature — Angel 	4	W	4WW	Flying
+You may cast enchantment spells from your graveyard.
+Whenever an enchantment you control enters, draw a card.	5/6		normal	ALR		VORTHOSREPLACEMEEtherium Leviathan	U	rare	Artifact Creature — Leviathan 	41	U	4UU	Embellish 6U (If you cast this spell for 6U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+Whenever you attack, return any number of nonland permanents with different controllers and mana value less than or equal to the number of artifacts you control to their owners’ hands.	5/6		normal	ALR		REPLACEMESupreme Mechanothurge	U	rare	Artifact Creature — Human Artificer 	59	U	4U	Whenever Supreme Mechanothurge or another artifact you control enters, up to one target artifact you control becomes a copy of another target artifact or creature you control, except it’s an artifact in addition to its other types.	3/3		normal	ALR		FLAVORTEXT
+QUALITYCHECK REPLACEMEFiligree Lotus	U	rare	Artifact	46	U	3U	T: Add three mana in any combination of colors. Spend this mana only to cast artifact spells or activate abilities of artifacts.			normal	ALR		FLAVORTEXTREPLACEMEFearful Flooding	U	rare	Sorcery	44	U	1U	Target opponent mills five cards. Then exile a card milled this way. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMESphinx Paramount	U	mythic	Artifact Creature — Sphinx 	55	U	3UU	Flying
+If a nonland permanent an opponent controls would be returned to its owner’s hand, instead gain control of it for as long as you control Sphinx Paramount.	4/4		normal	ALR		VORTHOS
+REDESIGNREPLACEMEDregscape Chant	B	rare	Sorcery	74	B	3B	Return up to one target creature card from your graveyard to the battlefield tapped. You gain 2 life.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		REPLACEMEBloodbraid Ritualist	B	rare	Creature — Human Shaman 	67	B	1B	B, Discard a card: Bloodbraid Ritualist gains indestructible until end of turn. Tap it.
+At the beginning of your upkeep, you may have Bloodbraid Ritualist consume. If you do, draw a card. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	2/2		normal	ALR		REPLACEMETidehollow Lich	B	rare	Artifact Creature — Zombie Artificer 	95	B	B	Embellish 3B (If you cast this spell for 3B, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
+Tidehollow Lich can’t block.
+You may cast Tidehollow Lich from your graveyard as long as you control an artifact creature.	2/1		normal	ALR		REPLACEMEMortal Finish	B	rare	Instant	81	B	3B	Exile target creature or planeswalker, then exile its controller’s graveyard.			normal	ALR		FLAVORTEXT REPLACEMEProfane Emissary	B	mythic	Creature — Human Warlock 	87	B	BB	Profane Emissary gets +2/+2 and has lifelink as long as you control a Demon.
+If you would draw a card, you may instead search your library for a Demon card, reveal it, and put it into your hand, then shuffle. You lose life equal to that card’s mana value.	2/2		normal	ALR		REDESIGNREPLACEMESangrite Dragon	R	rare	Creature — Dragon 	120	R	3RR	Flying
+1R: Sangrite Dragon gets +2/+0 until end of turn.
+Sacrifice another creature: Add RR.	4/4		normal	ALR		VORTHOS REPLACEMEHellkite Omnivore	R	rare	Creature — Dragon 	104	R	5R	Flying
+Whenever Hellkite Omnivore attacks, you may have it consume. If you do, put a +1/+1 counter on Hellkite Omnivore. When a creature is sacrificed this way, Hellkite Omnivore deals 3 damage to any target. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	5/5		normal	ALR		REPLACEMEHellspark Prankster	R	rare	Creature — Devil 	106	R	1R	Haste
+The first instant or sorcery spell you cast each turn costs 1 less to cast.
+R, T, Sacrifice Hellspark Prankster: Change the target of target spell with a single target.	2/1		normal	ALR		REPLACEMEMaelstrom Slicer	R	rare	Creature — Minotaur Warrior 	110	R	3R	Menace
+Stampede — Whenever Maelstrom Slicer and a creature with greater power attack, exile the top three cards of your library. You may play those cards until end of turn.	2/4		normal	ALR		VORTHOSREPLACEMEWorldheart Avatar	R	mythic	Creature — Elemental Avatar 	128	WUBRG	3R	Double strike
+The first spell you cast during each of your turns costs WUBRG less to cast. This effect reduces only the amount of colored mana you pay.	2/4		normal	ALR		VORTHOSREPLACEMEMagnoceros	G	rare	Creature — Beast 	145	G	3GG	Trample
+Other Beasts you control have trample.
+Whenever Magnoceros attacks, create a 5/5 green Beast creature token that’s tapped and attacking.	5/5		normal	ALR		VORTHOS REPLACEMEWar-Pride Champion	G	rare	Creature — Cat Warrior 	159	G	2G	War-Pride Champion can’t be blocked by creatures with power 2 or less.
+Stampede — Whenever War-Pride Champion and a creature with greater power attack, target creature you control gets +2/+2 until end of turn.	3/3		normal	ALR		REPLACEMEHierarch Ranger	G	rare	Creature — Human Druid Ranger 	139	G	G	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+T: Add G.
+Whenever Hierarch Ranger encourages a creature, add one mana of any color.	0/1		normal	ALR		!updateREPLACEMEHeart of Spores	G	rare	Enchantment	138	G	3G	At the beginning of your upkeep, create a 1/1 green Saproling creature token.
+Whenever a creature you control dies, put a +1/+1 counter on Heart of Spores.
+XG: Move X +1/+1 counters from Heart of Spores onto target creature. Activate only as a sorcery.			normal	ALR		REPLACEMEVitalhydra	G	mythic	Creature — Hydra 	158	G	XGGG	Vitalhydra enters with twice X +1/+1 counters on it.
+Each other creature you control enters with a number of additional +1/+1 counters on it equal to the number of +1/+1 counters on Vitalhydra.	0/0		normal	ALR		VORTHOSREPLACEMEAether Pull	UB	rare	Instant	161	UB	1UB	Exile target creature, then return it to the battlefield under your control. Then sacrifice it.			normal	ALR		FLAVORTEXTREPLACEMEKaalia's Abomination	BR	rare	Creature — Zombie Demon Dragon 	193	BR	3BR	Flying
+When Kaalia’s Abomination enters or dies, it deals 2 damage to target opponent. Then that player discards two cards.	4/4		normal	ALR		FLAVORTEXTREPLACEMEEarthbreaker Behemoth	RG	rare	Creature — Beast 	176	RG	3RG	When Earthbreaker Behemoth enters, it deals damage equal to its power to up to one target creature you don’t control. Excess damage is dealt to that creature’s controller instead.	5/5		normal	ALR		REPLACEMESun-Sigil Ordainer	WG	rare	Creature — Human Cleric 	216	WG	GW	Whenever you gain life for the first time each turn, draw a card.
+3GW: You gain life equal to the greatest toughness among creatures you control.	2/2		normal	ALR		VORTHOSREPLACEMERafiq the Magnanimous	WUG	rare	Legendary Creature — Human Knight 	203	WUG	GWU	Lifelink
+Rafiq the Magnanimous has double strike as long as it’s attacking.
+Whenever Rafiq the Magnanimous attacks, if it’s enchanted, equipped, or was the target of a spell or ability you controlled this turn, draw a card.	2/3		normal	ALR		REPLACEMEAngel of Succor	WUG	rare	Creature — Angel 	164	WUG	1GWU	Flying
+As long as it’s your turn, you and Angel of Succor have hexproof.
+Untap all lands you control during each other player’s untap step.	3/3		normal	ALR		VORTHOSREPLACEMEOrlesia, First of the Sen	WUB	rare	Legendary Artifact Creature — Wizard 	201	WUB	WUB	Your opponents play with the top card of their library revealed.
+Your opponents can’t cast spells during your turn.
+You may play lands and cast spells from the top of an opponent’s library during your turn.	1/3		normal	ALR		!bannerREPLACEMEProfound Introspection	WUB	rare	Sorcery	202	WUB	1WUB	Surveil 3, then you gain 3 life and draw three cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		REPLACEMESteel Wind Goliath	WUB	rare	Artifact Creature — Golem 	213	WUB	3WUB	Flying
+Other creatures you control with flying get +2/+2.	5/5		normal	ALR		FLAVORTEXTREPLACEMEKess the Necromaster	UBR	rare	Legendary Creature — Human Wizard 	195	UBR	3UBR	Flying, deathtouch
+Whenever you cast an instant or sorcery spell, return target creature card from your graveyard to the battlefield.	3/5		normal	ALR		VORTHOSREPLACEMEArcanist's Reaver	UBR	rare	Creature — Zombie Beast 	166	UBR	UBR	If you casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Cycling 2 (2, Discard this card: Draw a card.)	4/4		normal	ALR		VORTHOSREPLACEMEGrixis Command	UBR	rare	Instant	186	UBR	1UBR	Choose two —
+• Target player sacrifices a creature.
+• Grixis Command deals 3 damage to target player or planeswalker and you gain 3 life.
+• Return target spell to its owner’s hand.
+• Return target monocolored instant or sorcery card from your graveyard to your hand.			normal	ALR		!banner
+• Target player sacrifices a creature.
+• Grixis Command deals 3 damage to target player or planeswalker and you gain 3 life.
+• Draw two cards, then discard a card.
+• Return a monocolored instant or sorcery card from your graveyard to your hand.REPLACEMEEntrail Elemental	UBR	rare	Creature — Elemental Horror 	180	UBR	UBR	Menace
+Whenever Entrail Elemental deals combat damage to a player, you may cast target card from your graveyard this turn. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead. (You still pay its costs. Timing rules still apply.)	3/3		normal	ALR		REPLACEMEMeren, Bane of the Cairns	BRG	rare	Legendary Creature — Human Shaman 	198	BRG	BRG	This spell can’t be countered.
+Whenever Meren, Bane of the Cairns attacks, exile target creature card from your graveyard. You may cast that card for as long as it remains exiled by sacrificing a creature in addition to paying its other costs.	4/4		normal	ALR		REPLACEMEHellion Devastator	BRG	rare	Creature — Hellion 	187	BRG	1BRG	When Hellion Devastator enters, destroy up to one target nonland permanent with mana value 3 or less.
+Cycling 2 (2, Discard this card: Draw a card.)	4/3		normal	ALR		VORTHOS REPLACEMETumultipede	BRG	rare	Creature — Insect 	223	BRG	2BRG	At the beginning of your end step, draw a card if a creature died this turn. Then Tumultipede deals 2 damage to each opponent if two or more creatures died this turn. Then create three 1/1 green Saproling creature tokens if three or more creatures died this turn.	6/6		normal	ALR		REPLACEMETimus, the Cloud's Roar	WRG	rare	Legendary Creature — Cat Warrior 	221	WRG	2RGW	First strike
+If one or more creature tokens would be created under your control, for each of those tokens, you may create three 2/2 green Cat Warrior creature tokens instead.	4/3		normal	ALR		VORTHOS
+!rul If you create a noncreature token that will be a creature as it enters the battlefield, perhaps because of an effect such as that of March of the Machines, Timus’s effect doesn’t apply to that token’s creation. (This is because Timus’s effect modifies how the tokens are created, and March of the Machines’s effect doesn't apply until you consider how the tokens are entering the battlefield.)REPLACEMESummit Guardian	WRG	rare	Creature — Beast 	214	WRG	2RGW	Vigilance, reach
+Noncreature spells cost 2 more to cast.
+Cycling 2 (2, Discard this card: Draw a card.)	5/4		normal	ALR		VORTHOSREPLACEMENaya Command	WRG	rare	Instant	199	WRG	1RGW	Choose two —
+• Put three +1/+1 counters on target creature.
+• Target player searches their library for up to two basic land cards. That player reveals those cards, puts one onto the battlefield tapped and the other into their hand, then shuffles.
+• Target creature you control fights target creature you don’t control.
+• Target player gains 5 life.			normal	ALR		:: Put three +1/+1 counters on target creature.
+• Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+• Target creature you control deals damage equal to its power to target creature you don’t control.
+• You gain 5 life.REPLACEMEAntali Archdruid	WRG	rare	Creature — Cat Druid 	165	WRG	RGW	You may play an additional land on each of your turns.
+Whenever Antali Archdruid attacks, if two or more lands entered the battlefield under your control this turn, Antali Archdruid deals 3 damage to any target and you gain 3 life.	3/3		normal	ALR		REPLACEMEMaelstrom Elemental	WUBRG	rare	Creature — Elemental 	196	WUBRG	WUBRG	Haste
+Whenever you cast a spell, if you spent mana to cast it, draw a card. Then you may cast a card with mana value less than that spell’s mana value from your hand without paying its mana cost.	7/7		normal	ALR		REPLACEMEKederekt Deepdweller	UB	mythic	Creature — Horror 	194	UB	2UB	Whenever you cast an instant or sorcery spell, Kederekt Deepdweller gains your choice of menace, lifelink, or indestructible until end of turn.
+Whenever Kederekt Deepdweller deals combat damage to a player, you draw a card and that player discards a card.	4/4		normal	ALR		REPLACEMEEdarna the Everforge	BR	mythic	Legendary Planeswalker — Edarna 	177	BR	3BR	You may discard a card. If you do, draw two cards.
+Return target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.
+Discard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield.		[+2]: You may discard a card. If you do, draw two cards.
+[-3]: Return target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.
+[-7]: Discard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield.	planeswalker	ALR	5	REPLACEMEAjani Resolute	WG	mythic	Legendary Planeswalker — Ajani 	162	WG	2GW	s
+s
+s		[+1]: Distribute two +1/+1 counters among up to two target creatures. You gain 2 life.
+[-1]: Create a 2/2 green Cat Warrior creature token.
+[-3]: Exile target creature. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+[-7]: You get an emblem with “Creatures you control get +X/+X, where X is your life total.”	planeswalker	ALR	4	REPLACEMEJenara, Virtue of Bant	WUG	mythic	Legendary Creature — Angel 	190	WUG	2GWU	Flying
+Once during each of your turns, for each creature you control, you may activate one of that creature’s activated abilities with T in its cost without paying T and as though that creature had haste.	5/5		normal	ALR		VORTHOSREPLACEMESharuum, Archmagocrat	WUB	mythic	Legendary Artifact Creature — Sphinx 	208	WUB	2WUB	Flash
+Flying
+When Sharuum, Archmagocrat enters, return to the battlefield all nonlegendary artifact cards in your graveyard that were put there from the battlefield this turn.	4/4		normal	ALR		REPLACEMENefarox, Strifelord	UBR	mythic	Legendary Creature — Demon 	200	UBR	2UBR	Flying
+1U, Exile an instant card from your graveyard: Draw a card.
+1B, Exile a creature card from your graveyard: Target creature gets -3/-3 until end of turn.
+1R, Exile a sorcery card from your graveyard: Nefarox, Strifelord deals 3 damage to each opponent.	6/6		normal	ALR		!bannerREPLACEMETharrsus, Tyrant's Scion	BRG	mythic	Legendary Creature — Dragon 	219	BRG	4BRG	Flying
+At the beginning of combat on your turn, gain control of up to one target creature an opponent controls. If you do, untap it, and it gets +4/+4 and gains flying and haste until end of turn. Sacrifice it at the beginning of the next end step.	8/8		normal	ALR		REPLACEMEGodspeaker Mayael	WRG	mythic	Legendary Creature — Elf Shaman 	185	WRG	1RGW	At the beginning of your upkeep, you may discard a card. If you do, draw a card.
+T: You may put a creature card from your hand onto the battlefield. If you do, put a +1/+1 counter on that creature.	3/3		normal	ALR		VORTHOSREPLACEMEVelir the Sunderer	WUBRG	mythic	Legendary Planeswalker — Velir 	225	WUBRG	2WUBRG			[+2]: Destroy up to one target monocolored permanent.
+[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that’s all colors
+[-5]: Draw three cards. You may pay 0 to cast your next spell this turn rather than its mana cost.	planeswalker	ALR	8	REPLACEMEInfluence of Progenitus	WUBRG	mythic	Enchantment	189	WUBRG	WUBRG	Indestructible
+At the beginning of each player’s upkeep, target permanent you control gains protection from everything until end of turn. Then if you control at least five permanents whose colors are exactly different color triads, you win the game.			normal	ALR		VORTHOS!banner
+!design MakoREPLACEMEThe Riddle Gate		rare	Legendary Artifact	230	C	4	T: The next time you would draw a card this turn, instead search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.			normal	ALR		VORTHOS
+!bannerREPLACEMEBleak Shoreline		rare	Land	240	WB		Bleak Shoreline enters tapped unless you control an Island.
+T: Add W or B.			normal	ALR		TRICHECKSREPLACEMEForbidding Isle		rare	Land	246	UR		Forbidding Isle enters tapped unless you control a Swamp.
+T: Add U or R.			normal	ALR		TRICHECKSREPLACEMECharred Marsh		rare	Land	242	BG		Charred Marsh enters tapped unless you control a Mountain.
+T: Add B or G.			normal	ALR		TRICHECKSREPLACEMECloudcover Heights		rare	Land	243	WR		Cloudcover Heights enters tapped unless you control a Forest.
+T: Add R or W.			normal	ALR		TRICHECKSREPLACEMEIdyllic Oasis		rare	Land	249	UG		Idyllic Oasis enters tapped unless you control a Plains.
+T: Add G or U.			normal	ALR		TRICHECKSREPLACEMEKaleidoscape		rare	Land	251	C		T: Add C.
+T: Add one mana of any color. Spend this mana only to cast a spell that’s three or more colors.			normal	ALR		FLAVORTEXT
+!design MakoREPLACEMECloudheath Sentinel	W	uncommon	Artifact Creature — Bird 	9	W	3W	Flying
+When Cloudheath Sentinel enters, return target artifact card with mana value 2 or less from your graveyard to the battlefield.	2/4		normal	ALR		VORTHOSREPLACEMEblue Thopter 11ALR	U	common	Token Artifact Creature — Thopter 	3	U		Flying	1/1		token	ALR		!exportname blue Thopter 11ALRREPLACEMEwhite Soldier 11ALR	W	common	Token Creature — Soldier 	2	W			1/1		token	ALR		!exportname white Soldier 11ALRREPLACEMEblack Zombie 22ALR	B	common	Token Creature — Zombie 	5	B			2/2		token	ALR		!exportname black Zombie 22ALRREPLACEMEblack Demon 44ALR	B	common	Token Creature — Demon 	4	B		Flying	4/4		token	ALR		!exportname black Demon 44ALRREPLACEMEred Goblin 11ALR	R	common	Token Creature — Goblin 	6	R			1/1		token	ALR		!exportname red Goblin 11ALRREPLACEMEgreen Beast 55ALR	G	common	Token Creature — Beast 	7	G			5/5		token	ALR		!exportname green Beast 55ALRREPLACEMEgreen Saproling 11ALR	G	common	Token Creature — Saproling 	9	G			1/1		token	ALR		!exportname green Saproling 11ALRREPLACEMEEtherium Cell ALR		common	Token Artifact	11	C		T, Sacrifice this artifact: Add one mana of any color.			token	ALR		!exportname Etherium Cell ALRREPLACEMEElemental 88ALR		common	Token Creature — Elemental 	10	WUBRG		This creature is all colors.
+Flying, first strike, vigilance, trample, lifelink	8/8		token	ALR		!exportname Elemental 88ALRREPLACEMEwhite Knight 22ALR	W	common	Token Creature — Knight 	1	W		Vigilance	2/2		token	ALR		!exportname white Knight 22ALRREPLACEMEgreen Cat Warrior 22ALR	G	common	Token Creature — Cat Warrior 	8	G			2/2		token	ALR		!exportname green Cat Warrior 22ALRREPLACEMEPlains_ALR		common	Basic Land — Plains 	0	C					normal	ALR		!exportname Plains_ALRREPLACEMEIsland_ALR		common	Basic Land — Island 	0	C					normal	ALR		!exportname Island_ALRREPLACEMESwamp_ALR		common	Basic Land — Swamp 	0	C					normal	ALR		!exportname Swamp_ALRREPLACEMEMountain_ALR		common	Basic Land — Mountain 	0	C					normal	ALR		!exportname Mountain_ALRREPLACEMEForest_ALR		common	Basic Land — Forest 	0	C					normal	ALR		!exportname Forest_ALRREPLACEMEEmpyrial Reverence	WUG	rare	Enchantment	179	WUG	GWU	Permanents your opponents control enter tapped.
+Whenever a permanent enters tapped and under your control, untap it.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	ALR		REPLACEMEBrackwater Scuttler	U	common	Creature — Crab 	33	U	U	1, Sacrifice Brackwater Scuttler: Draw a card.	0/3		normal	ALR		FLAVORTEXTREPLACEMECling to Undeath	B	common	Sorcery	71	B	2B	Create a 2/2 black Zombie creature token.
+Tether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		VORTHOSREPLACEMEQasali Quiverguard	G	common	Creature — Cat Warrior 	149	G	1G	Reach
+Stampede — Whenever Qasali Quiverguard and a creature with greater power attack, untap all attacking creatures.	2/2		normal	ALR		REPLACEMEDregscape Wretch	B	common	Creature — Zombie 	75	B	1B	When Dregscape Wretch dies, create a 2/2 black Zombie creature token.	1/1		normal	ALR		REPLACEMEBant Command	WUG	rare	Instant	168	WUG	1GWU	Choose two —
+• Target player creates two 2/2 white Knight creature tokens with vigilance.
+• Destroy target creature with power 4 or greater.
+• Target player gains hexproof until end of turn.
+• Return target nonland permanent you don’t control to its owner’s hand.			normal	ALR		REPLACEMEEsper Command	WUB	rare	Instant	181	WUB	2WUB	Choose two —
+• Exile target spell.
+• Target player may scry 2. If they do, they draw a card.
+• Return target artifact card from your graveyard to the battlefield.
+• Destroy target nonartifact creature.			normal	ALR		• Exile target spell.
+• Scry 2, then draw a card.
+• Return target artifact card from your graveyard to the battlefield.
+• Destroy target nonartifact creature.REPLACEMEDuneglass Ascetic	WU	rare	Artifact Creature — Human Artificer 	175	WU	1WU	At the beginning of your upkeep, choose one —
+• Create a colorless artifact token named Etherium Cell with “T, Sacrifice this artifact: Add one mana of any color.”
+• Put a +1/+1 counter on another target artifact. It becomes a 0/0 Construct artifact creature if it isn’t a creature.	3/3		normal	ALR		REPLACEMEJund Command	BRG	rare	Instant	192	BRG	2BRG	Choose two —
+• Jund Command deals 3 damage to each non-Dragon creature.
+• Jund Command deals 4 damage to each opponent.
+• Each opponent sacrifices a planeswalker.
+• Mill five cards. Return a permanent card milled this way to your hand.			normal	ALR		• Jund Command deals 3 damage to each non-Dragon creature.
+• Jund Command deals 4 damage to each opponent.
+• Destroy target planeswalker.
+• Mill five cards. Put a permanent card from among the milled cards into your hand.REPLACEMEKaalia, Sky's End	WBR	special	Legendary Creature — Human Cleric 	0	WBR	2RWB	Flying, lifelink
+Whenever Kaalia, Sky’s End attacks, it deals 2 damage to any target. It deals an additional 2 damage to that target if you control an Angel. The same is true if you control a Demon. The same is true if you control a Dragon.	4/4		normal	ALR		!design Mako
+!num 265REPLACEMEAjani Emblem ALR		common	Emblem — Ajani 	12	C		Creatures you control get +X/+X, where X is your life total.			emblem	ALR		!exportname Ajani Emblem ALRREPLACEME

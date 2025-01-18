@@ -1,0 +1,1 @@
+﻿Jhessian Cavalier	U	common	Creature – Human Knight 	48	WU	2U	VigilanceNEWLINE1W: Jhessian Cavalier gains lifelink until end of turn.	3/2		normal	ALR		FLAVORTEXT 

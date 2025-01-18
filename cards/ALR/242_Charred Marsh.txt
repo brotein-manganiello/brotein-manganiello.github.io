@@ -1,0 +1,1 @@
+﻿Charred Marsh		rare	Land	242	BG		Charred Marsh enters tapped unless you control a Mountain.NEWLINET: Add B or G.			normal	ALR		TRICHECKS

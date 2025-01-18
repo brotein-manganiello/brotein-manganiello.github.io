@@ -1,0 +1,1 @@
+﻿Worldheart Nexus	G	uncommon	Enchantment	160	G	2G	At the beginning of your upkeep, if there are three or more colors among creatures you control, you gain 2 life and draw a card.			normal	ALR		VORTHOS
