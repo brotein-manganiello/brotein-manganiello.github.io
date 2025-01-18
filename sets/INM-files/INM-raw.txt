@@ -1,0 +1,741 @@
+﻿Cobblespook	W	common	Creature — Spirit 	15	W	W	Flash
+Flying
+When Cobblespook enters, tap target artifact or creature an opponent controls.	1/1		normal	INM		altREPLACEMEDrogskol Possessor	W	common	Creature — Spirit Knight 	18	W	1W	First strike
+4W, T: Target creature gets +2/+1 and gains first strike until end of turn. Activate only as a sorcery.	2/1		normal	INM		Helena Nikulina
+https://woelfdietrich.com/2016/06/20/art-of-fantasy-76-grant-griffin/
+alt https://www.deviantart.com/jasonengle/art/Witch-King-591418449
+alt ledros
+https://www.artstation.com/artwork/Vk1x5
+ERASEREPLACEMEAvacyn's Partisan	W	common	Creature — Human Peasant 	6	W	1W	At the beginning of your end step, if you control two or more artifacts and/or enchantments, transform Avacyn’s Partisan.	2/2		transform double faced	INM		Avacyn's Paladin	W	Creature — Human Cleric Knight 	W		Lifelink	3/3			DFC
+Chris Dien
+https://www.artstation.com/artwork/X9YonREPLACEMEStalwart Cathar	W	common	Creature — Human Soldier 	41	W	1W	Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Whenever Stalwart Cathar and at least two other creatures attack, Stalwart Cathar gets +2/+0 until end of turn. Untap it.	1/3		normal	INM		atomhawk alt
+KEYWARD
+https://www.deviantart.com/katemaxpaint/art/To-victory-339882587
+https://c-rallis.cgsociety.org/m8yy/legend-of-the-crypti
+Chris Anderson Riders of Rohan
+https://www.wallpaperflare.com/static/1002/779/758/fantasy-art-warrior-knight-riding-wallpaper.jpg
+https://3.bp.blogspot.com/-kpDWW3xHk24/TeZaSywQKXI/AAAAAAAABMA/SlJqy1C-7VM/s1600/Tristan+Elwell+-+Tutt%2527Art%2540+%252829%2529.jpgREPLACEMEDeparted Butler	W	common	Creature — Spirit 	17	W	2W	Flying
+When Departed Butler enters, draw a card.	2/1		normal	INM		REPLACEMEHarvesttide Healer	W	common	Creature — Human Warlock 	23	W	2W	Vigilance
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, you gain 2 life.	2/3		normal	INM		Chris Bjors alt
+
+alt Mazirko Marii
+https://www.artstation.com/artwork/mr6k9
+https://www.google.com/search?q=rising+marsh+wilhelm+goebel&rlz=1C1CHBF_enPH892PH892&sxsrf=APwXEdfCeQyz8ixnLqmp8RIKMBMi1QwqLA:1681613100422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-8__7sK3-AhUYcGwGHYEYBQEQ_AUoAXoECAEQAw&biw=1366&bih=625&dpr=1#imgrc=4J0m6c0_7_DluM
+alt Wilhelm J. GoebelREPLACEMELoyal Retriever	W	common	Creature — Dog 	27	W	2W	Foreshadow 5W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Loyal Retriever dies, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.	3/2		normal	INM		REPLACEMEMoorland Slayer	W	common	Creature — Human Soldier 	29	WR	3W	When Moorland Slayer enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)
+2R: Target creature can’t block this turn.	3/3		normal	INM		OFFCOLOR
+Henry Peters
+Alexey AparinREPLACEMESigarda's Shepherd	W	common	Creature — Angel 	37	W	4W	Flying
+When Sigarda’s Shepherd enters, another target creature you control gains indestructible until end of turn.	3/4		normal	INM		alt Aldo DomínguezREPLACEMECandlecrown Stag	W	common	Creature — Elk 	11	W	4W	When Candlecrown Stag enters, choose one or both —
+• Exile target card from a graveyard.
+• You gain 3 life.	4/5		normal	INM		https://www.pinterest.ph/pin/290482244727606642/
+https://www.artstation.com/artwork/o2z08L
+Fabrice Bertolotto
+Stephanie Law
+VORTHOSREPLACEMEWeizenmother	W	common	Creature — Spirit Horror 	45	W	4WW	When Weizenmother enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Plainscycling 2 (2, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)	3/5		normal	INM		https://www.deviantart.com/radojavor/art/the-guardian-264943733
+Igor Krstic https://www.reddit.com/r/HuntShowdown/comments/z0xh30/enemy_suggestion_the_rye_mother_inspired_by_the/
+https://www.deviantart.com/cinemamind/art/Cornfield-Horror-619829249
+BASIC LANDCYCLINGREPLACEMEMoonscythe	W	common	Artifact — Equipment 	28	W	W	When Moonscythe enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +2/+2.
+Equip 4 (4: Attach to target creature you control. Equip only as a sorcery.)			normal	INM		alt https://c4.wallpaperflare.com/wallpaper/624/732/34/bloodborne-video-games-scythe-moon-wallpaper-preview.jpg
+alt Heonhwa Choe
+alt BATTLEFAIRIES DA
+alt Marco Gonzalez https://www.deviantart.com/asfodelo/art/MyL-Druid-Sickle-866810926
+alt https://www.pxfuel.com/en/desktop-wallpaper-oyfluREPLACEMESubdue the Monster	W	common	Enchantment — Aura 	42	W	1W	Enchant creature
+Enchanted permanent can’t attack, block, or transform.			normal	INM		REPLACEMEAlert the Village	W	common	Instant	2	W	1W	Create two 1/1 white Human creature tokens.			normal	INM		alt Cal Santiago
+alt Josh Hass
+VORTHOSREPLACEMEFlawless Finesse	W	common	Instant	20	W	1W	Untap target creature you control. It gains indestructible until end of turn. Create a Weapon token and attach it to that creature. (A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	INM		TRIX
+VORTHOSREPLACEMESpectral Salvo	W	common	Instant	40	W	2W	Spectral Salvo deals 13 damage to target tapped creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	INM		REPLACEMEBreaking Dawn	W	common	Instant	10	W	2W	Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Destroy target artifact or enchantment. You gain 3 life.			normal	INM		https://www.artstation.com/artwork/e0DxPP
+avacyn
+TRIX
+VORTHOS
+can be shifted to uncommon
+this can take the team pump/disenchant slot
+https://www.deviantart.com/entroz/art/Avacyn-Angel-of-Vengeance-587743594REPLACEMELifted Spirits	W	common	Enchantment — Aura 	26	W	2W	Enchant creature
+When Lifted Spirits enters, create a 1/1 white Spirit creature token with flying.
+Enchanted creature gets +1/+1 and has flying.			normal	INM		REPLACEMEFrightful Visitation	W	common	Sorcery	22	WU	1W	Tap up to two target creatures. Put a stun counter on one of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Flashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Small removal (usually damage to an attacker or blocker)
+OFFCOLORREPLACEMESlayer's Grimoire	W	common	Artifact	39	W	3W	When Slayer’s Grimoire enters, exile target non-Human creature an opponent controls until Slayer’s Grimoire leaves the battlefield.
+W, T: You gain 1 life.			normal	INM		GrimoireXREPLACEMEPuresoul Possessor	W	uncommon	Creature — Spirit 	33	W	W	Lifelink
+W, T: Target creature gets +1/+1 and gains lifelink until end of turn. Activate only as a sorcery.	1/1		normal	INM		https://www.deviantart.com/typhonart/art/Sinful-Wraith-705360953REPLACEMEBlessed Bladewright	W	uncommon	Creature — Human Artificer 	9	W	1W	When Blessed Bladewright enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)
+Creatures you control that are enchanted or equipped have ward 1. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)	3/1		normal	INM		REPLACEMEBeckoning Possessor	W	uncommon	Creature — Spirit 	7	W	1W	Whenever Beckoning Possessor deals combat damage to a player, create a 1/1 white Spirit creature token with flying.
+3W, T: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, create a 1/1 white Spirit creature token with flying.” Activate only as a sorcery.	2/2		normal	INM		alt Andrej Zsolt TurániREPLACEMESilverblade Cathar	W	uncommon	Creature — Human Knight 	38	W	2W	First strike
+Whenever Silverblade Cathar and two other creatures attack, draw a card.	2/3		normal	INM		VORTHOSREPLACEMEHaunted Waif	W	uncommon	Creature — Human Peasant 	24	W	2W	Vigilance
+When you activate an ability of a Spirit you control or a Spirit card in your hand or graveyard, transform Haunted Waif.	1/4		transform double faced	INM		Geist Whisperer	W	Creature — Human Wizard 	W		Vigilance
+When this creature transforms into Geist Whisperer, create two 1/1 white Spirit creature tokens with flying.
+At the beginning of each combat, untap all Spirits you control.	3/4			https://pbs.twimg.com/media/FgBBU8zUcAAHLBU.jpg
+alt https://www.artstation.com/artwork/eJBKaG
+VORTHOSREPLACEMECathedral Gargoyle	W	uncommon	Artifact Creature — Gargoyle 	13	W	3W	Foreshadow 4W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying
+When Cathedral Gargoyle dies, you gain 2 life and create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	3/3		normal	INM		REPLACEMERighteous Chaplain	W	uncommon	Creature — Human Cleric 	35	W	2WW	Other Humans you control get +1/+1.
+Whenever Righteous Chaplain or another Human you control enters, tap target creature an opponent controls.	3/3		normal	INM		alt Billy Christian
+VORTHOSREPLACEMEAngel of Sunrise	W	uncommon	Creature — Angel 	3	W	5W	This spell costs X less to cast, where X is the amount of life you gained this turn.
+Flying
+When Angel of Sunrise enters, each opponent exiles a Spirit, Vampire, Werewolf, Zombie, or double-faced permanent they control.	4/4		normal	INM		REPLACEMEEvanescence	W	uncommon	Sorcery	19	W	W	Exile target artifact or creature you control, then return it to the battlefield under its owner’s control. Create a 1/1 white Spirit creature token with flying.
+Flashback 2W (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		https://www.artstation.com/artwork/e0DxPP
+
+can be shifted to uncommon
+this can take the team pump/disenchant slot
+ERASEREPLACEMEAvacyn's Mark	W	uncommon	Instant	5	W	1W	Choose one —
+• You gain hexproof until end of turn.
+• Target creature you control gains double strike until end of turn.
+• Exile target card from a graveyard. You gain 4 life.			normal	INM		REPLACEMESacralize	W	uncommon	Instant	36	W	1W	Exile target artifact, creature, or enchantment. If that permanent’s mana value was 3 or greater, its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle. (A transformed permanent retains the mana value of its front face.)			normal	INM		REPLACEMEAlabaster Halo	W	uncommon	Enchantment — Aura 	1	W	2W	Enchant creature you control
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return Alabaster Halo to the battlefield transformed under your control.			transform double faced	INM		Alabaster Avenger	W	Creature — Angel 	W		Flying, vigilance
+Whenever Alabaster Avenger attacks, if it’s enchanted or equipped, it gains first strike until end of turn.	3/3			VORTHOSREPLACEMEPhantom Presence	W	uncommon	Sorcery	31	W	2W	Put a +1/+1 counter on each creature you control. If this spell was cast from a graveyard, those creatures gain flying until end of turn.
+Flashback 5WW (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		REPLACEMECenotaph Possessor	W	rare	Creature — Spirit 	14	W	1W	Cenotaph Possessor gets +1/+1 for each artifact, creature, and/or enchantment you control. (A permanent that’s more than one of those types counts only once for this effect.)
+2W, T: Target creature gets +1/+1 for each artifact, creature, and/or enchantment you control until end of turn. Activate only as a sorcery.	0/0		normal	INM		REPLACEMETraft, Lunarch's Edge	W	rare	Legendary Creature — Human Cleric Knight 	44	W	1W	First strike
+Angel spells you cast cost 2 less to cast.
+As long as you control an Angel, prevent all noncombat damage that would be dealt to Traft, Lunarch’s Edge.	2/2		normal	INM		VORTHOSREPLACEMEDawnhart's Envoy	W	rare	Creature — Elk 	16	W	2W	Lifelink
+Your opponents casting spells don’t cause abilities to trigger.
+Creatures entering under your opponents’ control don’t cause abilities to trigger.	1/4		normal	INM		VORTHOSREPLACEMEOutrider Captain	W	rare	Creature — Human Knight 	30	W	3W	Flying
+Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Whenever Outrider Captain attacks, search your library for a creature card with mana value 1 or less and put it onto the battlefield tapped and attacking, then shuffle.	3/3		normal	INM		thalia
+KEYWARDREPLACEMEHecatomb Haunter	W	rare	Creature — Spirit 	25	W	2WW	Flying
+Whenever Hecatomb Haunter enters or attacks, up to one other target nonland permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)	4/3		normal	INM		REPLACEMEBeseech Aid	W	rare	Sorcery	8	W	1W	Return target artifact, creature, or enchantment card from your graveyard to the battlefield if it has mana value 3 or less.
+Flashback—2W or Tap two untapped white creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		ConvokebackREPLACEMECathar's Armory	W	rare	Enchantment	12	W	1WW	When Cathar’s Armory enters, create three Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip 2.)
+Whenever one or more creatures you control that are enchanted or equipped deal combat damage to a player, draw a card.			normal	INM		REPLACEMEResting Tombs	W	rare	Enchantment	34	WB	2W	If a creature would die, exile it instead.
+When Resting Tombs enters, exile target creature an opponent controls until this enchantment leaves the battlefield.
+3BB: Exile all creature cards from all graveyards. Transform Resting Tombs. Activate only as a sorcery.			transform double faced	INM		Restless Souls	B	Enchantment	WB		At the beginning of your end step, put a creature card that’s exiled with this enchantment onto the battlefield under your control. That creature becomes a 1/1 Spirit creature in addition to its other types and gains flying and “If this creature would die, put it on the bottom of its owner’s library instead.”				FOEFLIPREPLACEMESword of the Heavens	W	rare	Artifact — Equipment 	43	W	2WW	When Sword of the Heavens enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has flying, vigilance, and “Whenever this creature attacks, you may search your library and/or graveyard for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.”
+Equip 3			normal	INM		Blade of Flight AlabasterREPLACEMEFlight of Angels	W	mythic	Sorcery	21	W	XXWWW	Create X 4/4 white Angel creature tokens with flying.
+Flashback XWWWWW (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		avacynREPLACEMEAvacyn, the Savior	W	mythic	Legendary Creature — Angel 	4	W	4WWW	Flying, vigilance
+At the beginning of your end step, return up to one target permanent card from your graveyard to the battlefield with an indestructible counter on it.	7/7		normal	INM		Savior of All
+Savior of Innistrad
+Fateful Savior
+Fateful Hour
+Flying, vigilance
+Other creatures you control have protection from your opponents. (They can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything your opponents control.)
+alt Mirko Calusic
+alt Alex Sanders
+https://cdnb.artstation.com/p/assets/images/images/061/836/693/large/alex-sanders-avacyn-b.jpg?1681753450
+https://www.deviantart.com/irvanpradivta/art/Avacyn-MTG-Personal-Playmat-893118828REPLACEMEPolina Elgaud	W	mythic	Legendary Planeswalker — Polina 	32	W	4WW			[+1]: Create a white enchantment token named Intangible Virtue. It has “Creature tokens you control get +1/+1 and have vigilance.”
+[-3]: Create a 4/4 white Angel creature token with flying. You gain life equal to the number of tokens you control.
+[-5]: Exile all other nonland, nontoken permanents.	planeswalker	INM	5	REPLACEMENebelgast Possessor	U	common	Creature — Spirit 	71	U	U	Flying
+2U, T: Target creature gets +1/+1 and gains flying until end of turn. Activate only as a sorcery.	1/1		normal	INM		“Beware the light of the moors, which whisper promises of safety. Trust it less than moonlight.”
+—Ismara, geist-trapper
+VORTHOSREPLACEMEMemory Surgeon	U	common	Creature — Human Wizard 	68	U	1U	T: Add CC. Spend this mana only to activate abilities.
+2, T: Target player mills two cards.	1/3		normal	INM		https://www.artstation.com/artwork/q2GlP
+VORTHOSREPLACEMEWidow Wisp	U	common	Creature — Spirit 	90	U	1U	Flying
+Widow Wisp can’t block unless you control another Spirit.
+When Widow Wisp enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/1		normal	INM		REPLACEMESeagraf Shamblers	U	common	Creature — Zombie 	80	U	1U	Whenever one or more cards leave your graveyard, put a +1/+1 counter on Seagraf Shamblers.	2/2		normal	INM		VORTHOSREPLACEMECovetous Possessor	U	common	Creature — Spirit 	52	U	2U	Whenever Covetous Possessor deals combat damage to a player, draw a card.
+3U, T: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, draw a card.” Activate only as a sorcery.	2/2		normal	INM		alt Jay Lockwood Carpenter REPLACEMEBrine Cultist	U	common	Creature — Human Warlock 	48	U	2U	Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, Brine Cultist can’t be blocked this turn.
+5U: Draw a card.	3/2		normal	INM		alt https://www.honga.net/totalwar/warhammer3/faction.php?l=en&v=warhammer3&f=wh2_dlc11_cst_the_drowned (Bayard Wu?)REPLACEMECarrion Drake	U	common	Creature — Zombie Drake 	49	U	3U	Flying
+When Carrion Drake enters, you may exile a creature card from your graveyard. If you do, draw a card.	3/2		normal	INM		alt Sigbjorn Pedersen
+VORTHOSREPLACEMEEscaped Ooze	U	common	Creature — Ooze 	62	UG	3U	When Escaped Ooze enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+3G: Put a +1/+1 counter on Escaped Ooze.	3/3		normal	INM		OFFCOLOR
+alt Kristina PavlovicREPLACEMESkaab Grappler	U	common	Creature — Zombie Warrior 	83	U	4U	When Skaab Grappler enters, you may exile two creature cards from your graveyard. When you do, return another target creature to its owner’s hand.	4/5		normal	INM		REPLACEMESunken One	U	common	Creature — Octopus Horror 	87	U	4UU	Whenever Sunken One attacks, target creature defending player controls gets -13/-0 until end of turn.
+Islandcycling 2 (2, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)	5/5		normal	INM		BASIC LANDCYCLINGREPLACEMECorrupted Sorcerer	U	common	Creature — Human Wizard 	51	U	1U	Invocation — When you spend four or more mana to cast a spell or activate an ability during your turn, transform Corrupted Sorcerer.	0/3		transform double faced	INM		Conjured Stalker	U	Creature — Spirit Horror 	U		Vigilance	3/3			alt Dan Henk
+https://i.etsystatic.com/6867834/r/il/efcbfe/992913538/il_570xN.992913538_2g17.jpgREPLACEMEGhastly Guidance	U	common	Sorcery	65	U	U	Put a +1/+1 counter on target creature you control. It can’t be blocked this turn.
+Flashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		REPLACEMEUnethical Research	U	common	Sorcery	89	UB	U	Surveil 1, then draw a card.
+Flashback—2B, Pay 1 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Cantrip/card filtering (aka drawing some number of cards and then discarding)
+OFFCOLOR
+VORTHOSREPLACEMEClaim of the Deep	U	common	Sorcery	50	U	1U	Return up to one target nonland permanent you control and up to one target nonland permanent you don’t control to their owners’ hands.
+Flashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		REPLACEMERemove Soul	U	common	Instant	78	U	1U	Counter target creature spell.			normal	INM		VORTHOSREPLACEMECurse of Doubt	U	common	Enchantment — Aura Curse 	54	U	1U	Flash
+Enchant player
+When Curse of Doubt enters, counter target spell enchanted player controls unless they pay 2.
+4U: Enchanted player mills three cards.			normal	INM		REPLACEMEBody and Mind	U	common	Instant	46	U	1U	Until end of turn, target creature you control has base power and toughness 4/4 and gains hexproof. (It can’t be the target of spells or abilities your opponents control.)
+Draw a card.			normal	INM		https://www.artstation.com/artwork/0nlYA8
+alt Yama Orce
+TRIX
+https://www.artstation.com/artwork/ZawbKm
+https://www.artstation.com/artwork/xDk9DR <———- USE!
+https://www.deviantart.com/olimueller/art/300-Spartan-Olimueller-541802956REPLACEMEErase Identity	U	common	Enchantment — Aura 	61	U	2U	Enchant creature
+When Erase Identity enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step and loses all abilities.			normal	INM		alt Oleg SaakyanREPLACEMEGeistmage's Grimoire	U	common	Artifact	64	U	2U	When Geistmage’s Grimoire enters, draw two cards.
+4U, T: Target creature can’t be blocked this turn.			normal	INM		https://sv.bagoum.com/getRawImage/0/0/104533010/sREPLACEMEScare Away	U	common	Instant	79	U	3U	Put target nonland permanent into its owner’s library second from the top. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)			normal	INM		Target player mills two cards and draws two cards, then discards a card unless this spell was cast from a graveyard.
+Flashback 3UU (You may cast this card from your graveyard for its flashback cost. Then exile it.)REPLACEMEEnsnaring Possessor	U	uncommon	Creature — Spirit 	60	U	1U	Whenever Ensnaring Possessor attacks, you may tap or untap target permanent.
+1U, T: Until end of turn, target creature gets +1/+1 and gains “Whenever this creature attacks, you may tap or untap target permanent.” Activate only as a sorcery.	1/1		normal	INM		REPLACEMENiblis of Hail	U	uncommon	Creature — Spirit 	74	U	UU	Flash
+Flying, vigilance
+Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)	2/2		normal	INM		KEYWARDREPLACEMEOmendancer	U	uncommon	Creature — Shapeshifter 	76	U	2U	You may have Omendancer enter as a copy of a creature you control or a Curse you control. (If it copies a double-faced permanent, it can’t transform.)	0/0		normal	INM		VORTHOSREPLACEMESevered Hands	U	uncommon	Creature — Zombie 	81	U	3U	When Severed Hands enters, surveil 2.
+Whenever one or more cards leave your graveyard, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)	2/5		normal	INM		NecrowmancerREPLACEMEMistmourner	U	uncommon	Creature — Spirit 	69	U	2UU	Other Spirits you control get +1/+1.
+Whenever Mistmourner or another Spirit you control enters, you may draw a card. If you do, discard a card.	3/3		normal	INM		REPLACEMEMorkrut Gryff	U	uncommon	Creature — Hippogriff 	70	U	4U	Foreshadow 5UU (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying
+When Morkrut Gryff dies, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)	4/3		normal	INM		REPLACEMEDrunau Egg	U	uncommon	Creature — Leviathan Egg 	59	U	1U	Defender
+When Drunau Egg enters, target player mills two cards.
+At the beginning of each end step, if an opponent has thirteen or more cards in their graveyard, transform Drunau Egg.	0/3		transform double faced	INM		Drunau Engulfer	U	Creature — Leviathan 	U		Trample	13/6			https://www.instagram.com/kerembeyit/p/CGKfAqYgDDA/
+VORTHOSREPLACEMEBraineater Abominus	U	uncommon	Creature — Zombie Horror 	47	U	5U	Braineater Abominus can’t be blocked by creatures with power 4 or greater.
+Whenever a creature you control deals combat damage to a player, exile the top card of that player’s library. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it.	3/6		normal	INM		https://www.artstation.com/artwork/mD21zZREPLACEMESpine-Chilling Discovery	U	uncommon	Instant	85	U	2UU	Choose one. If a player has 13 or less life as you cast this spell, choose two instead.
+• Counter target spell or triggered ability.
+• Target player draws two cards, then discards a card.
+• Tap target creature and put three stun counters on it.			normal	INM		https://www.artstation.com/artwork/WKx2V3
+https://www.artstation.com/artwork/XgB2zRREPLACEMECurse of the Tattletale	U	uncommon	Enchantment — Aura Curse 	57	U	1U	Enchant player
+Whenever Curse of the Tattletale or another Curse becomes attached to enchanted player, each of their opponents draws a card.			normal	INM		https://www.deviantart.com/karichristensen/art/Arcane-Summoning-542027130
+VORTHOSREPLACEMEHavengul Banshee	U	uncommon	Creature — Spirit 	66	U	2U	Flying
+Whenever Havengul Banshee attacks, each creature defending player controls gets -1/-0 until end of turn.
+3U: Return Havengul Banshee from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.	2/1		transform double faced	INM		Curse of the Banshee	U	Enchantment — Aura Curse 	U		Enchant player
+Creatures enchanted player controls get -1/-0.
+If Curse of Curse of the Banshee would be put into a graveyard from the battlefield, exile it instead.				https://www.instagram.com/kerembeyit/p/CGKfAqYgDDA/
+VORTHOSREPLACEMEShackled Memories	U	uncommon	Enchantment	82	U	3U	When Shackled Memories enters, return target instant or sorcery card from your graveyard or target card with flashback you own from exile to your hand.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, create a 1/1 white Spirit creature token with flying.			normal	INM		REPLACEMECurse of Scuttling Thoughts	U	uncommon	Enchantment — Aura Curse 	55	U	3U	Enchant player
+When Curse of Scuttling Thoughts enters, create a 0/3 blue Crab creature token with “T: Target player mills a card.”
+If enchanted player would mill one or more cards, they mill twice that many cards instead.			normal	INM		REPLACEMECryptic Possessor	U	rare	Creature — Spirit 	53	U	1U	Whenever Cryptic Possessor attacks, up to one target nonland, non-Aura permanent loses all abilities until your next turn.
+2U, T: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature attacks, up to one target nonland, non-Aura permanent loses all abilities until your next turn.” Activate only as a sorcery.	2/2		normal	INM		REPLACEMENephalia Inquisitors	U	rare	Creature — Human Soldier 	72	U	3U	Flash
+Vigilance
+When Nephalia Inquisitors enters, draw a card for each creature that died this turn.	3/3		normal	INM		Each counter on permanents your opponents control are stun counters in addition to their other kinds.REPLACEMEKrothuss, Abyssal Terror	U	rare	Legendary Creature — Kraken Horror 	67	U	5UU	Flying
+1U, Discard Krothuss: Search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+Whenever a Kraken, Leviathan, Octopus, or Serpent you control deals combat damage to a player, you may return Krothuss from your graveyard to the battlefield.	6/6		normal	INM		REPLACEMESnag Apparition	U	rare	Sorcery	84	U	1U	You may reveal a creature card with flying you own from outside the game and put it into your hand.
+Flashback—2U or Tap two untapped blue creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		https://www.artstation.com/artwork/q2GlP
+ConvokebackREPLACEMEParanormal Convergence	U	rare	Enchantment	77	UR	1U	You may look at the top card of your library any time.
+Once each turn, you may cast an instant or sorcery spell from the top of your library.
+1R: Transform Paranormal Convergence. Activate only if the total number of instant and/or sorcery cards you own in exile and
+in your graveyard is five or more.			transform double faced	INM		Parabolic Predator	R	Creature — Elemental Horror 	UR		Flying
+You may look at the top card of your library any time.
+You may cast instant and sorcery spells from the top of your library.
+Whenever you cast an instant or sorcery spell, Parabolic Predator deals 1 damage to any target.	3/3			FOEFLIPREPLACEMEUndercroft Portal	U	rare	Artifact	88	U	1U	Undercroft Portal enters with four barrier counters on it.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, draw a card and remove a barrier counter from Undercroft Portal. Then if it has no barrier counters 
+on it, transform it.			transform double faced	INM		Unleashed Mindboggler	U	Creature — Horror 	U		If you would draw one or more cards, draw that many cards plus one instead.
+When Unleashed Mindboggler dies, return it to the battlefield (front face up).	6/6			VORTHOSREPLACEMECurse of the Breathless	U	rare	Enchantment — Aura Curse 	56	U	2U	Enchant player
+When Curse of the Breathless enters, create a 1/1 white Spirit creature token with flying for each Curse attached to enchanted player.
+Whenever another Curse becomes attached to enchanted player, create a 1/1 white Spirit creature token with flying.			normal	INM		https://www.artstation.com/artwork/RnNN5m
+Cygames altREPLACEMECurse of Time	U	rare	Enchantment — Aura Curse 	58	U	4UU	Enchant player
+Enchanted player can’t cast spells during their opponents’ turns.
+Whenever enchanted player casts a spell from anywhere other than exile, exile that spell. At the beginning of that player’s next upkeep, they may cast that card without paying its mana cost.			normal	INM		May your days be without hours.
+—Locket inscriptionREPLACEMENervewing Skaab	U	rare	Creature — Zombie Horror 	73	U	2UU	Flying, ward 2
+When Nervewing Skaab enters, target instant or sorcery card in your graveyard with mana value 3 or less gains flashback 0 until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)	3/2		normal	INM		alt https://www.artstation.com/artwork/Z5QDBN
+KEYWARDREPLACEMEStitched Gargantua	U	mythic	Creature — Zombie Horror 	86	U	1UUU	You may cast spells from among cards you put into your graveyard from your library this turn.
+Whenever one or more cards leave your graveyard, create a tapped 2/2 black Zombie creature token.
+When Stitched Gargantua is put into your graveyard from your library, you may return it to your hand.	4/5		normal	INM		alt Andre GarciaREPLACEMEOccult Metamorphosis	U	mythic	Enchantment	75	U	3U	At the beginning of your end step, create a token that’s a copy of target transformed permanent you control, except it has “This permanent can’t transform.”			normal	INM		VORTHOS
+ERASEREPLACEMEFathom the Unfathomable	U	mythic	Sorcery	63	U	XUU	You may shuffle your graveyard into your library. Draw X cards.
+Flashback XUUUU (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		https://www.artstation.com/artwork/eJgGDbREPLACEMEContagious Ghoul	B	common	Creature — Zombie 	96	B	B	Foreshadow 2B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Contagious Ghoul dies, target creature an opponent controls gets -1/-1 until end of turn.	1/1		normal	INM		alt Carl BeuREPLACEMECrypt Viper	B	common	Creature — Snake 	98	B	1B	Flash
+Deathtouch	2/1		normal	INM		alt Oleksandr Kozachenko
+VORTHOSREPLACEMEMarkov Fencer	B	common	Creature — Vampire Knight 	119	WB	1B	2W: Markov Fencer gains first strike until end of turn. You gain 1 life.	2/2		normal	INM		OFFCOLOR
+VORTHOSREPLACEMEFalkenrath Ordainer	B	common	Creature — Vampire Cleric 	111	B	2B	Flying
+Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+Falkenrath Ordainer has lifelink as long as you control a token.	2/2		normal	INM		Geunjoo Baik
+KEYWARD
+6B: Create a 1/1 black and red Vampire creature token with haste and “When this creature dies, it deals 1 damage to each opponent.” Activate only as a sorcery.REPLACEMELone Zombie	B	common	Creature — Zombie 	117	B	2B	Menace
+When Lone Zombie and two other creatures attack, transform Lone Zombie.	2/3		transform double faced	INM		Zombie Legion	B	Creature — Zombie 	B		Menace	4/4			DFC
+VORTHOSREPLACEMEAcolyte of Griselbrand	B	common	Creature — Human Warlock 	91	B	2B	Foreshadow 4B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Acolyte of Griselbrand dies, you draw a card and you lose 1 life.	3/1		normal	INM		REPLACEMEUndead Servant	B	common	Creature — Zombie 	133	B	3B	When Undead Servant enters, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.	3/2		normal	INM		Adam Wesierski
+VORTHOSREPLACEMEDread Elk	B	common	Creature — Zombie Elk 	109	B	3B	Foreshadow 5B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Dread Elk dies, put a +1/+1 counter on target creature you control. If that creature is a Zombie, put two +1/+1 counters on it instead.	4/3		normal	INM		https://www.deviantart.com/eychanchan/art/Demon-Deer-862539467
+VORTHOSREPLACEMEShilgengar's Harvester	B	common	Creature — Demon 	124	B	4B	Flying
+3, Sacrifice another creature: Draw a card. Activate only as a sorcery.	3/3		normal	INM		alt Vladimir Matyukhin
+VORTHOSREPLACEMEIt Came from the Bog	B	common	Creature — Frog Horror 	114	B	4BB	When It Came from the Bog enters, each opponent loses 3 life and you gain 3 life.
+Swampcycling 2 (2, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)	6/6		normal	INM		or 2 mana value
+alt Greg Luzniak
+
+BASIC LANDCYCLINGREPLACEMEAugury of Misfortunes	B	common	Sorcery	93	B	1B	Mill three cards. You may return a card milled this way to your hand. Each opponent loses 2 life.
+Flashback 3B (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt https://www.deviantart.com/nele-diel/art/Threat-801281474REPLACEMESanguine Salvation	B	common	Instant	123	B	1B	Target creature you control gains lifelink until end of turn. When that creature dies this turn, return it to the battlefield under your control with a +1/+1 counter on it. It becomes a Vampire in addition to its other types.			normal	INM		TRIX REPLACEMELich's Grimoire	B	common	Artifact	116	B	1B	When Lich’s Grimoire enters, create a 2/2 black Zombie creature token.
+2B, T: Target opponent loses 1 life.  Surveil 1.  (To surveil 1, look at the top card of your library. You may put it into your graveyard.)			normal	INM		GrimoireX
+Slayer's Grimoire (3W)
+Artifact
+When ~ ETB, destroy target tapped creature.
+(2W), Discard ~ or Sacrifice it: Draw a card. If you discard ~ this way, you gain 5 life.
+
+Geistmage's Grimoire (2U)
+Artifact
+When ~ ETB, return target instant or sorcery card from your graveyard to your hand.
+(2U), Discard ~ or Sacrifice it: Draw a card. When you discard ~ this way, target creature an opponent controls gets -3/-0 until end of turn.
+
+Ghoulcaller's Grimoire (3B)
+Artifact
+When ~ ETB, return up to two target creature cards from your GY to your hand.
+(2B), Discard ~ or Sacrifice it: Draw a card. When you discard ~ this way, target creature you control gains deathtouch until end of turn.
+
+Alchemist's Grimoire (1R)
+ArtifactWhen ~ ETB, surveil 1, then create a Treasure token.
+(2R), Discard ~ or Sacrifice it: Draw a card. When you discard ~ this way, it deals 1 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
+
+Widow's Grimoire (1G)
+Artifact
+When ~ ETB, exile target creature an opponent controls with flying.
+(2G), Discard ~ or Sacrifice it: Draw a card. If you discard ~ this way, create a 1/2 green Spider creature token with reach.REPLACEMECurse of the Unburied	B	common	Enchantment — Aura Curse 	101	B	2B	Enchant player
+When Curse of the Unburied enters, return up to two target creature cards from your graveyard to your hand.
+Whenever a land enchanted player controls enters, they lose 1 life.			normal	INM		Nele Diel alt
+flashback
+https://www.artstation.com/artwork/DA69G
+https://www.deviantart.com/faroldjo/art/Blighted-Empire-Warhammer-378702406
+alt Pedro Sena
+https://www.artstation.com/artwork/EJr4
+https://www.artstation.com/artwork/mzvw5v
+https://www.artstation.com/artwork/89xmG
+https://www.artstation.com/artwork/3dB2YE
+https://www.artstation.com/sujinjo
+https://www.artstation.com/artwork/BXRJGA
+https://www.artstation.com/artwork/ymLRn
+Roman TisheninREPLACEMEUndead Hex	B	common	Instant	131	B	BB	Target creature gets -X/-X until end of turn, where X is 2 plus the number of cards named Undead Servant in your graveyard.
+As long as this card is in your graveyard, its name is Undead Servant.			normal	INM		Removal spell, can kill small things
+VORTHOS
+https://www.deviantart.com/sycra/art/Undead-Assault-324704093REPLACEMEDrain Youth	B	common	Sorcery	108	B	2B	Exile target creature with power 3 or less. You gain 3 life.			normal	INM		REPLACEMETrue Blood	B	common	Sorcery	129	BR	B	Create a 1/1 black and red Vampire creature token with menace. If this spell was cast from a graveyard, create two of those tokens instead.
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Anything
+alt Jodie Muir
+OFF COLORREPLACEMEOlivia's Offer	B	common	Instant	120	B	3B	Surveil 2, then you draw two cards and you lose 2 life. Create a 1/1 black and red Vampire creature token with menace. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)			normal	INM		REPLACEMEStrangleroot's Clutches	B	common	Instant	127	B	2BB	Destroy target creature or planeswalker. Its controller loses 1 life. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	INM		Exile target creature or planeswalker. You gain 1 life.
+Removal spell, limitations, different from the others, usually weakerREPLACEMEFinal Destination	B	common	Instant	112	B	B	As an additional cost to cast this spell, pay 4 or sacrifice a creature.
+Target creature gets -13/-13 until end of turn. If that creature would die this turn, exile it instead.			normal	INM		https://www.pinterest.ph/pin/792774340672793836/REPLACEMEBone Lich	B	uncommon	Creature — Skeleton Warlock 	94	B	B	1B: Return Bone Lich from your graveyard to the battlefield tapped. Surveil 1. Activate only as a sorcery. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)
+3BB, Exile Bone Lich from your graveyard: Return another target creature card from your graveyard to the battlefield tapped. Activate only as a sorcery.	1/1		normal	INM		alt Tuan Duong ChuREPLACEMEDowager of Traublassen	B	uncommon	Creature — Human Noble 	107	B	1B	Whenever another creature dies, target opponent loses 1 life and you gain 1 life.
+At the beginning of each end step, if you gained 3 or more life this turn, transform Dowager of Traublassen.	1/1		transform double faced	INM		Despot of Traublassen	B	Creature — Vampire 	B		Flying
+Whenever another creature dies, target opponent loses 1 life and you gain 1 life. Put a +1/+1 counter on Despot of Traublassen.	2/2			https://ph.pinterest.com/pin/20618110788318424/
+VORTHOSREPLACEMEVespercloak Vampire	B	uncommon	Creature — Vampire 	134	B	1B	Foreshadow 3B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Vespercloak Vampire dies, create a 1/1 black Bat creature token with flying and lifelink.	2/1		normal	INM		alt Naranbaatar GanboldREPLACEMEDiregraf Skulleater	B	uncommon	Creature — Zombie 	105	B	2B	Menace
+Whenever Diregraf Skulleater deals combat damage to a player, that player discards a card.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Diregraf Skulleater.	2/2		normal	INM		alt Daniel Zrom
+alt Alex V. Ngo
+alt Zhuoxin YeREPLACEMEUndead Necromancer	B	uncommon	Creature — Zombie Warlock 	132	B	2B	When Undead Necromancer enters, search your library for a card, put that card into your graveyard, then shuffle.
+As long as this card is in your graveyard, its name is Undead Servant.	3/2		normal	INM		VORTHOSREPLACEMEGrim Raven of Wesgoth	B	uncommon	Creature — Bird 	113	B	3B	Foreshadow 5B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying, deathtouch
+When Grim Raven of Wesgoth dies, return target non-Bird creature card from your graveyard to your hand.	2/2		normal	INM		Maalfeld
+
+CB01 {B} Contagious Ghoul: 1/1 Foreshadow -1/-1. Zombie
+CB02 {1B} Lone Zombie: Deathtouch 2/1 || Zombie Legion: Deathtouch 3/3 Unruly Mob +1/+1 counter. Zombie
+CB03 {1B} Mirrorgeist: 2/2 Skulk. Spirit
+CB04 {2B} Falkenrath Baron: 2/3 Lifelink, Bloodsire—Flying
+CB05 {2B} Dread Elk: 2/2 Menace, ETB, put a +1/+1 counter on another target Zombie you control. Zombie
+CB06 {2B} Acolyte of Griselbrand: 3/2 Foreshadow Draw 1 lose 1
+CB07 {3B} Undead Servant 3/2 ETB, create 2/2 Zombie. Zombie
+CB08 {3B} It Came from the Bog 3/3 ETB you may sac a creature, put two +1/+1 counters and surveil 2
+CB09 {3BB} Demon 
+CB10 {5B} Umbersteed Executioner 4/7
+
+
+
+
+Move to uncommon:
+Grim Raven of Wesgoth 3/3 Flying Foreshadow Raise Dead MV3 or lessREPLACEMEPlague Herald	B	uncommon	Creature — Zombie Goat 	122	B	2BB	Other Zombies you control get +1/+1.
+Whenever Plague Herald or another Zombie enters under your control, target creature you control gains deathtouch until end of turn.	3/3		normal	INM		alt Rogier van de Beek
+VORTHOSREPLACEMEUmbersteed	B	uncommon	Creature — Nightmare Horse 	130	B	3BB	Foreshadow 5BB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Umbersteed dies, target creature an opponent controls gets -4/-4 until end of turn.	4/4		normal	INM		REPLACEMECarnage Throne	B	uncommon	Artifact	95	B	B	1, T, Sacrifice a creature: Draw a card. Activate only as a sorcery.
+Whenever you sacrifice a creature, put a corpse counter on Carnage Throne. Then if it has three or more corpse counters on it, remove them all and transform it.			transform double faced	INM		Carnage Demon	B	Creature — Demon 	B		Trample
+When this permanent transforms into Carnage Demon, each opponent sacrifices a creature.	6/6			https://www.artstation.com/artwork/xDgQ1Y
+alt 孙麟/sunlin304
+VORTHOSREPLACEMESkirsdag Edict	B	uncommon	Sorcery	125	B	1B	Choose one —
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices a planeswalker.
+• Each opponent sacrifices an enchantment.
+Flashback—4B, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt Alaiaorax
+CHARMREPLACEMEMalicious Eclipse	B	uncommon	Sorcery	118	B	1BB	All creatures get -2/-2 until end of turn. If a creature an opponent controls would die this turn, exile it instead.			normal	INM		LCI reprint
+https://www.deviantart.com/j-edward-neill/art/Desire-of-the-Dead-888350729
+VORTHOSREPLACEMECurse of Nightmares	B	uncommon	Enchantment — Aura Curse 	100	B	3B	Enchant player
+When Curse of Nightmares enters, destroy target creature or planeswalker enchanted player controls.
+Whenever enchanted player draws a card, they lose 1 life and you gain 1 life.			normal	INM		VORTHOSREPLACEMEDeath Undone	B	uncommon	Sorcery	103	B	5B	Return target creature card from your graveyard to the battlefield.
+Flashback 1BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt The Elder Scrolls: LegendsREPLACEMEOswin, Skirsdag Diabolist	B	rare	Legendary Creature — Human Warlock 	121	B	1B	Lifelink
+2B, Pay 1 life: Create a 1/1 black Human Warlock creature token.
+4BBB, Pay 7 life, Sacrifice seven other creatures: Transform Oswin, Skirsdag Diabolist.	2/2		transform double faced	INM		Griselbrand, the Usurper	B	Legendary Creature — Demon 	B		Flying, trample, indestructible
+When this creature transforms into Griselbrand, the Usurper, draw seven cards. Each opponent’s life total becomes 7.	7/7			https://www.deviantart.com/jubjubjedi/art/Umbral-Preacher-Warhammer-40-000-Conquest-460332848
+ERASE
+alt Dmitry KlyushkinREPLACEMECorpse Thief	B	rare	Creature — Human Rogue 	97	BG	3B	Corpse Thief can’t be blocked by creatures with greater power.
+Whenever Corpse Thief deals combat damage to a player, return target creature card from your graveyard to your hand.
+3GG: Mill half your library, rounded down. Transform Corpse Thief. Activate only as a sorcery.	2/4		transform double faced	INM		Copse Tyrant	G	Creature — Treefolk 	BG		Copse Tyrant can’t be blocked by creatures with power 2 or less.
+Spells and abilities your opponents control can’t cause cards to leave your graveyard.
+Whenever Copse Tyrant deals combat damage to a player, return up to two target permanent cards from your graveyard to your hand.	5/7			https://exorcist.artstation.com/projects/YvoKP
+FOEFLIPREPLACEMEFalkenrath Bladesire	B	rare	Creature — Vampire Knight 	110	B	2B	Flying, first strike
+If one or more tokens would be created under your control, those tokens plus a 1/1 black and red Vampire creature token with menace are created instead.
+3BB: Each opponent loses X life and you gain X life, where X is the number of Vampires you control.	2/2		normal	INM		REPLACEMEDoomsday Horde	B	rare	Creature — Zombie 	106	B	1BBB	Foreshadow 3BBB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Doomsday Horde enters tapped unless it was foreshadowed.
+When Doomsday Horde dies, search your library for a card, put it into your hand, then shuffle.	5/4		normal	INM		https://www.tumblr.com/kekai-k/46686342355/some-guild-wars-2-art-i-did-for-our-motion
+https://www.deviantart.com/holyknight3000/art/Diablo-IV-10-The-Drowned-Family-870797597REPLACEMEDeathless Butcher	B	rare	Creature — Zombie Warrior 	104	B	3B	Menace
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, return Deathless Butcher from your graveyard to your hand.	4/3		normal	INM		REPLACEMESyphon Dreams	B	rare	Sorcery	128	B	1B	Choose target card in a graveyard other than a basic land card. Search its owner’s graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
+Flashback—2B or Tap two untapped black creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		Convokeback
+Target opponent mills five cards. Then exile a card milled this way. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it. You gain 3 life.REPLACEMELeft for Dead	B	rare	Enchantment	115	B	2BB	When Left for Dead enters, create four 1/1 red Human Survivor creature tokens. Those tokens gain haste until end of turn.
+At the beginning of your end step, sacrifice a Survivor. If you do, draw a card. Then if you control no Survivors, sacrifice Left for Dead.			normal	INM		alt https://www.artstation.com/artwork/DA8BV9REPLACEMEDark Ascension	B	rare	Enchantment	102	B	2BBB	When Dark Ascension enters, if it was cast, all creatures gets -13/-13 until end of turn.
+Whenever you cast a black spell, Dark Ascension deals X damage to any target and you gain X life, where X is the number of black mana symbols in that spell’s mana cost.			normal	INM		alt https://www.deviantart.com/nikulina-helena/art/Gothic-Night-843108544
+VORTHOSREPLACEMECurse of Fangs	B	rare	Enchantment — Aura Curse 	99	B	5BB	Enchant player
+When Curse of Fangs enters, gain control of target creature enchanted player controls. It becomes a Vampire in addition to its other types.
+Creatures attacking enchanted player have lifelink.			normal	INM		alt Carmen Cornet
+https://www.deviantart.com/jodeee/art/Vampires-770638494REPLACEMESorin, Vampire Maverick	B	mythic	Legendary Planeswalker — Sorin 	126	B	2BB			[+1]: Draw a card. Each player loses 1 life.
+[-2]: Create two 1/1 black Bat creature tokens with flying and lifelink.
+[-3]: Target creature gets -13/-13 until end of turn. You control abilities of that creature that trigger this turn.	planeswalker	INM	4	https://www.artstation.com/goldenknight/profile
+alt Ivan TaoREPLACEMEWurgelurg	B	mythic	Creature — Avatar Horror 	135	B	4BBB	Foreshadow 7BB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Wurgelurg dies, each opponent discards three cards, sacrifices three creatures, and loses 3 life. You draw three cards, create three tapped 2/2 black Zombie creature tokens, and gain 3 life.	7/7		normal	INM		REPLACEMEArchdemon Shilgengar	B	mythic	Legendary Creature — Elder Demon 	92	B	3BBB	Flying, lifelink
+When Archdemon Shilgengar enters, exile all land cards from your graveyard, then exchange your graveyard and library. Then shuffle your library.
+You can only cast spells by paying life equal to their mana value rather than paying their mana cost.	5/5		normal	INM		REPLACEMEEmbercut Duelist	R	common	Creature — Human Soldier Werewolf 	147	R	R	First strike
+1R: Transform Embercut Duelist. Activate only if it’s attacking.	1/1		transform double faced	INM		Emberslash Werewolf	R	Creature — Werewolf 	R		First strike
+At the beginning of your end step, if Emberslash Werewolf didn’t attack this turn, transform it.	2/3			DFC
+alt
+VORTHOS
+Sam M Mburu altREPLACEMETorch Reveler	R	common	Creature — Devil 	172	R	1R	Torch Reveler gets +2/+0 as long as you control an artifact.	1/3		normal	INM		Dmitry Burmak
+alt Rai Wald
+VORTHOSREPLACEMEAffluent Host	R	common	Creature — Vampire Noble 	136	R	1R	Foreshadow 2R (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	2/1		normal	INM		REPLACEMEStromkirk Sangromancer	R	common	Creature — Vampire Wizard 	168	R	1R	Whenever you cast an instant, sorcery, or Curse spell, Stromkirk Sangromancer deals 1 damage to each opponent.	2/2		normal	INM		alt https://www.deviantart.com/michalivan/art/Vladimir-League-of-Legends-348879460
+VORTHOSREPLACEMESkirsdag Ritualist	R	common	Creature — Human Shaman 	166	R	2R	Whenever Skirsdag Ritualist attacks, exile the top card of your library. You may play that card this turn.	2/3		normal	INM		“My blood is your blood, Infernal One! Our fervor melts the shackles that bind You! Come forth and rise!”
+alt https://ph.pinterest.com/pin/4222193393311812/ artist WavyrrREPLACEMEVolatile Alchemist	R	common	Creature — Human Wizard 	176	UR	2R	Haste
+2U: Volatile Alchemist gains vigilance until end of turn and can’t be blocked this turn.	3/2		normal	INM		OFFCOLOR
+alt Artem Borisov
+VORTHOSREPLACEMEVoldaren Crypt-Guard	R	common	Creature — Vampire Warrior 	178	R	2R	When Voldaren Crypt-Guard enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	4/2		normal	INM		alt https://www.artstation.com/artwork/VEmZb
+alt Wisnu Tan
+alt kike1988
+alt Tatiana Kirgetova
+VORTHOS
+alt Senfeng Chen
+alt Michal IvanREPLACEMETroublesome Throng	R	common	Creature — Human Werewolf 	173	R	3R	Menace
+3R: Transform Troublesome Throng. Activate only if it’s attacking.	3/3		transform double faced	INM		Vartrossen Vandals	R	Creature — Werewolf 	R		Menace
+At the beginning of your end step, if Vartrossen Vandals didn’t attack this turn, transform it.	6/5			DFC
+VORTHOSREPLACEMEFalkenrath Fletcher	R	common	Creature — Vampire Archer 	150	R	3R	Reach
+When Falkenrath Fletcher enters, if an opponent lost life this turn, create a 1/1 black and red Vampire creature token with menace.	4/3		normal	INM		alt https://www.artstation.com/artwork/9Pdxa
+VORTHOS
+alt https://www.deviantart.com/fredhild/art/Nyrak-The-Vampire-Archer-586043798REPLACEMEStensia Cavalcade	R	common	Creature — Vampire Knight 	167	R	4R	Trample
+When Stensia Cavalcade enters, create two Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip 2.)	5/4		normal	INM		Oleg Kasputin ALT
+VORTHOSREPLACEMECrater Thing	R	common	Creature — Elemental Horror 	140	R	4RR	Reach
+When Crater Thing enters, it deals 3 damage to up to one target creature or planeswalker.
+Mountaincycling 2 (2, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)	3/3		normal	INM		BASIC LANDCYCLING
+VORTHOSREPLACEMEAlchemist's Grimoire	R	common	Artifact	137	R	R	When Alchemist’s Grimoire enters, it deals 2 damage to any target.
+1R, T, Discard a card: Draw a card.			normal	INM		alt Anton Zemskov
+alt Fernanda Suarez
+alt Tyler Walpole Book of Wonders HS
+alt https://www.deviantart.com/tsabo6/art/Spell-Books-192928777
+alt https://www.deviantart.com/nimphradora/art/Grimoire-686609836REPLACEMEGo Feral	R	common	Sorcery	152	RG	R	Target creature you control fights target creature you don’t control. 
+Flashback 5G (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Anything
+https://www.deviantart.com/dypsomaniart/art/A-little-help-please-167330518
+OFF COLORREPLACEMESuffer the Blade	R	common	Instant	169	R	1R	Target creature you control gets +2/+0 and gains first strike until end of turn. If you control an artifact, draw a card.			normal	INM		VORTHOSREPLACEMEVampiric Vice	R	common	Instant	175	R	1R	Vampiric Vice deals 3 damage to target creature or planeswalker. Vampiric Vice also deals 2 damage to that permanent’s controller if you control a Vampire.			normal	INM		alt Joshiua RaphaelREPLACEMECurse of the Vein	R	common	Enchantment — Aura Curse 	145	R	1R	Enchant player
+When Curse of the Vein enters, create a 1/1 black and red Vampire creature token with menace.
+Whenever enchanted player is attacked, Curse of the Vein deals 1 damage to them.			normal	INM		REPLACEMEFaithless Razing	R	common	Sorcery	149	R	1R	Choose one —
+• Create a 2/2 green Wolf creature token. You may discard a card. If you do, draw a card.
+• Destroy target artifact.
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt Piotr RuszkowskiREPLACEMEGrasping Carriage	R	common	Artifact — Vehicle 	153	R	2R	Whenever Grasping Carriage attacks, target creature an opponent controls can’t block this turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	INM		https://www.artstation.com/goldenknight
+alt Zara Alfonso
+https://www.artstation.com/artwork/LkaKwREPLACEMECurse of Slaughter	R	common	Enchantment — Aura Curse 	143	R	2R	Enchant player
+When Curse of Slaughter enters, it deals 4 damage to target creature or planeswalker enchanted player controls.
+Creatures attacking enchanted player have trample.			normal	INM		alt Denis ZhbankovREPLACEMEHatefire	R	common	Instant	155	R	4R	This spell costs 3 less to cast if a creature died this turn.
+Hatefire deals 6 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.			normal	INM		alt Muhamad Faizal FikriREPLACEMEVoldaren Heartslicer	R	uncommon	Creature — Vampire Warrior 	179	R	1R	Attacking creatures you control get +1/+0.
+2R: Return Voldaren Heartslicer from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.	2/1		transform double faced	INM		Curse of Incurable Wounds	R	Enchantment — Aura Curse 	R		Enchant player
+Creatures attacking enchanted player get +1/+0.
+If Curse of Incurable Wounds would be put into a graveyard from the battlefield, exile it instead.				VORTHOSREPLACEMEKessig Jeweler	R	uncommon	Creature — Human Artificer Werewolf 	160	R	1R	Whenever Kessig Jeweler attacks, you may discard a card. If you do, draw a card.
+1R: Transform Kessig Jeweler. Activate only if it’s attacking.	2/2		transform double faced	INM		Kessig Tombrobber	R	Creature — Werewolf 	R		At the beginning of your first main phase, you may discard a card. If you do, draw a card and create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)
+At the beginning of your end step, if Kessig Tombrobber didn’t attack this turn, transform it.	3/4			DFCREPLACEMEHellfreaks	R	uncommon	Creature — Devil 	156	R	2R	Menace, trample
+Hellfreaks gets +1/+0 for each Curse you control.
+Hellfreaks gets +1/+0 for each instant and sorcery card you own in exile and in your graveyard.	0/4		normal	INM		REPLACEMEHanweir Miscreant	R	uncommon	Creature — Human Rebel Werewolf 	154	R	2R	Hanweir Miscreant can’t be blocked by creature tokens.
+2R: Transform Hanweir Miscreant. Activate only if it’s attacking.	3/2		transform double faced	INM		Garrison Intruder	R	Creature — Werewolf 	R		Creatures you control can’t be blocked by creature tokens and/or creatures with defender.
+At the beginning of your end step, if Garrison Intruder didn’t attack this turn, transform it.	5/4			alt berserk by dleoblack on DeviantArtREPLACEMEIrascible Bloodwitch	R	uncommon	Creature — Vampire Warlock 	159	R	2RR	Other Vampires you control get +1/+1.
+Whenever Irascible Bloodwitch or another Vampire enters under your control, Irascible Bloodwitch deals 1 damage to any target.	3/3		normal	INM		alt Mansik Yang
+alt Michal Ivan
+https://www.artstation.com/artwork/4X9g98
+VORTHOSREPLACEMEObsidian Hellkite	R	uncommon	Creature — Dragon 	163	R	3R	Foreshadow 4RR (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying
+When Obsidian Hellkite dies, it deals 2 damage to up to one target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.	3/2		normal	INM		https://www.deviantart.com/alectorfencer/art/MYRE-The-Great-Black-Dragon-458926413REPLACEMESurfacing Horripede	R	uncommon	Creature — Insect Horror 	170	R	3RR	Menace, reach
+When Surfacing Horripede enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)	5/5		normal	INM		VORTHOSREPLACEMECurse of the Hunter's Moon	R	uncommon	Enchantment — Aura Curse 	144	R	1R	Enchant player
+When Curse of the Hunter’s Moon enters, create a 2/2 green Wolf creature token.
+Whenever enchanted player is attacked, the attacking player adds R. Until end of turn, that player doesn’t lose that mana as steps and phases end.			normal	INM		REPLACEMESilvershot Crossbow	R	uncommon	Artifact — Equipment 	165	R	1R	When Silvershot Crossbow enters, it deals 3 damage to target creature an opponent controls. If that creature is transformed, Silvershot Crossbow deals 13 damage to it instead.
+Equipped creature has reach and “T: This creature deals 1 damage to each opponent.”
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)			normal	INM		REPLACEMECurse of Raining Daggers	R	uncommon	Enchantment — Aura Curse 	142	R	2R	Enchant player
+Whenever enchanted player casts a spell, Curse of Raining Daggers deals 1 damage to them.
+Whenever one or more creatures deal combat damage to enchanted player, you create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	INM		REPLACEMEIgnite the Future	R	uncommon	Sorcery	157	R	3R	Exile the top three cards of your library. Until the end of your next turn, you may play those cards. If this spell was cast from a graveyard, you may play cards this way without paying their mana costs.
+Flashback 7R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		REPLACEMEDance with Devils	R	uncommon	Instant	146	R	3R	Create two 1/1 red Devil creature tokens. They have “When this creature dies, it deals 1 damage to any target.”			normal	INM		CHARM
+https://www.artstation.com/artwork/aGOloL
+SOI Reprint
+VORTHOSREPLACEMEClash at Geier Reach	R	uncommon	Sorcery	139	R	3RR	Clash at Geier Reach deals 2 damage to each opponent and each creature and planeswalker they control.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	INM		VORTHOSREPLACEMEFangs of Wesgoth	R	rare	Creature — Vampire Assassin 	151	R	R	Whenever Fangs of Wesgoth deals combat damage to a player, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)
+As long as you control three or more artifacts, Fangs of Wesgoth has menace.	2/1		normal	INM		VORTHOSREPLACEMELeyran Spellchainer	R	rare	Creature — Human Wizard Werewolf 	161	R	2RR	When Leyran Spellchainer enters, return target instant or sorcery card from your graveyard to your hand.
+2R: Transform Leyran Spellchainer. Activate only if it’s attacking.	3/1		transform double faced	INM		Leyran Spellclaw	R	Creature — Werewolf 	R		Whenever you cast an instant or sorcery spell, you may copy it and you may choose new targets for the copy. Do this only once each turn.
+At the beginning of your end step, if Leyran Spellclaw didn’t attack this turn, transform it.	4/4			alt https://www.artstation.com/artwork/k965nREPLACEMECharging Commando	R	rare	Creature — Human Soldier 	138	WR	2R	At the beginning of combat on your turn, create a 1/1 white Human creature token.
+Creature tokens you control have haste and attack each combat if able.
+1W: Transform Charging Commando. Activate only if two or more creatures that attacked this turn died under your control this turn.	2/2		transform double faced	INM		Cornered Cathar	W	Creature — Human Soldier 	WR		At the beginning of combat on your turn, look at the top four cards of your library. You may put a creature card with mana value 3 or less from among them and put it onto the battlefield. Put the rest on the bottom of your library in a random order.	3/3			note: does morningsword sound like this is named boner angel
+FOEFLIPREPLACEMEPyromantic Duo	R	rare	Creature — Human Shaman Werewolf 	164	R	1RR	Your opponents can’t gain life.
+If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
+3R: Transform Pyromantic Duo. Activate only if it’s attacking.	3/3		transform double faced	INM		Mayhem Tandem	R	Creature — Werewolf 	R		Your opponents can’t gain life.
+If a source you control would deal damage to an opponent, it deals twice that much damage instead.
+At the beginning of your end step, if Mayhem Tandem didn’t attack this turn, transform it.	3/5			REPLACEMETallowkeep	R	rare	Artifact Creature — Scarecrow 	171	R	2R	Trample, reach
+Tallowkeep enters with two wax counters on it.
+Whenever Tallowkeep attacks, remove a wax counter from it. Then if Tallowkeep has no wax counters on it, sacrifice it.
+Whenever another artifact you control enters, put a wax counter on Tallowkeep.	5/5		normal	INM		REPLACEMEInfernal Direwolf	R	rare	Creature — Elemental Wolf 	158	R	4RR	Menace
+When Infernal Direwolf enters, it fights up to one target creature an opponent controls. Excess damage Infernal Direwolf deals this way is dealt to that creature’s controller instead.	6/6		normal	INM		VORTHOSREPLACEMEWelcome to the Ashmouth	R	rare	Sorcery	180	R	XRR	Choose one —
+• Welcome to the Ashmouth deals twice X damage to target creature or planeswalker.
+• Welcome to the Ashmouth deals X damage to each creature and each planeswalker.
+Flashback XRRR (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt Pedro Sena
+alt https://ph.pinterest.com/pin/399131585702515188/
+alt Bob Zhang
+https://www.deviantart.com/dnjswns183/art/diablo-663869946REPLACEMECurse of Hallucinations	R	rare	Enchantment — Aura Curse 	141	R	3R	Enchant player
+Whenever enchanted player is attacked, the attacking player creates a token that’s a copy of an attacking creature, except it’s not legendary, is tapped and attacking, and has “This permanent can’t transform.” That token’s controller sacrifices it at end of combat.			normal	INM		alt https://www.inprnt.com/gallery/james_wolf/the-hounds-of-tindalos/canvas/
+alt David RomeroREPLACEMEExhaust Possibilities	R	rare	Sorcery	148	R	2RR	Discard your hand, then draw three cards. You can’t cast more spells this turn.
+Flashback—2R or Tap two untapped red creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		Convokeback
+alt Yigit KorogluREPLACEMEVolcanic Malignus	R	mythic	Creature — Elemental Spirit 	177	R	1RR	At the beginning of your first main phase, exile the top card of your library. Until end of turn, you may play that card.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, create a 3/1 red Elemental Spirit creature token with trample and haste.	3/3		normal	INM		KEYWARDREPLACEMEMarzela Falkenrath	R	mythic	Legendary Creature — Vampire Warrior 	162	BR	2RR	Flying, double strike
+Whenever Marzela Falkenrath deals combat damage to a player, create a 1/1 black and red Vampire creature token with menace.
+B, Sacrifice three other Vampires: Put a +1/+1 counter on Marzela Falkenrath. It gains lifelink until end of turn. Activate only as a sorcery.	2/4		normal	INM		alt lilith Claina SárkaREPLACEMEUtter Pandemonium	R	mythic	Sorcery	174	R	4RRR	Starting with the next opponent in turn order, each player sacrifices a permanent. Repeat this process until the total mana value of all permanents sacrificed this way is 13 or greater, or until thirteen or more permanents have been sacrificed this way, or until there are only lands on the battlefield. Exile Utter Pandemonium.			normal	INM		Starting with the next opponent in turn order, each player chooses any number of permanents they control. Players stop choosing permanents this way if the total mana value of chosen permanents is 13 or greater, or if thirteen or more permanents have been chosen, or if all nonland permanents on the battlefield have been chosen. Each player sacrifices all permanents they control that were chosen this ways. Exile Utter Pandemonium.REPLACEMECreep of the Crop	G	common	Artifact Creature — Scarecrow 	188	G	G	Foreshadow 1G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Reach
+When Creep of the Crop dies, mill three cards, then you may return a land card from your graveyard to your hand.	0/3		normal	INM		https://www.deviantart.com/radojavor/art/the-guardian-264943733REPLACEMEDawnhart Druid	G	common	Creature — Human Druid 	191	G	1G	T: Add one mana of any color.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/1		normal	INM		alt Anastasia Devyatovskaya
+alt Kristian NüsserREPLACEMESomberwald Rider	G	common	Creature — Human Werewolf 	220	G	1G	Somberwald Rider can’t be blocked by creatures with power 2 or less.
+2G: Transform Somberwald Rider. Activate only if it’s attacking.	2/2		transform double faced	INM		Somberwald Slaughterer	G	Creature — Werewolf 	G		Somberwald Slaughterer can’t be blocked by creatures with power 2 or less.
+At the beginning of your end step, if Somberwald Slaughterer didn’t attack this turn, transform it.	4/3			DFC
+alt Morgan Yon
+alt Tomas Duchek
+https://www.artstation.com/artwork/Wd5QXREPLACEMELambholt Tracker	G	common	Creature — Human Ranger 	206	G	1G	Foreshadow 2G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Lambholt Tracker dies, exile up to one target card from a graveyard.	3/1		normal	INM		REPLACEMEBanewidow	G	common	Creature — Spider 	182	BG	2G	Reach
+2B: Each opponent loses 1 life and you gain 1 life.	1/4		normal	INM		OFFCOLOR
+VORTHOSREPLACEMEDesperate Botanist	G	common	Creature — Human Druid Werewolf 	193	G	2G	When Desperate Botanist enters, create a 0/1 green Plant creature token with “T: Add G.”
+5G: Transform Desperate Botanist. Activate only if it’s attacking.	3/2		transform double faced	INM		Bramblemane	G	Creature — Werewolf 	G		At the beginning of your end step, if Bramblemane didn’t attack this turn, transform it.	7/7			DFC
+alt Tomas Duchek
+https://www.artstation.com/artwork/Wd5QX
+The pure of heart go putrid when the wolfbane blooms.
+ERASEREPLACEMEKessig Woodcutter	G	common	Creature — Human Warrior 	203	G	2G	Foreshadow 3G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Kessig Woodcutter dies, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	3/3		normal	INM		alt https://www.artstation.com/artwork/q9GgkyREPLACEMEGrizzled Parish-Blade	G	common	Creature — Human Soldier 	198	G	3G	Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Grizzled Parish-Blade gets +3/+0 as long as you control an artifact and an enchantment.	2/5		normal	INM		VORTHOS
+KEYWARDREPLACEMEKiller Scorpion	G	common	Creature — Scorpion 	204	G	3G	Deathtouch
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap Killer Scorpion.	3/3		normal	INM		alt Pauliina Linjama
+alt Andrew Doris
+alt Kekai KotakiREPLACEMEOrchard Overseer	G	common	Creature — Treefolk 	212	G	3G	Trample
+When Orchard Overseer enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)	4/4		normal	INM		Beware the Ulvenwald when the howls go quiet and the leaves turn the color of blood.REPLACEMEProwling Wolf	G	common	Creature — Wolf 	216	G	4G	When Prowling Wolf enters, you may sacrifice another creature. If you do, draw a card and you gain 2 life.
+Whenever another creature you control dies, put a +1/+1 counter on Prowling Wolf.	4/4		normal	INM		REPLACEMETerror of the Ulvenwald	G	common	Creature — Insect Horror 	221	G	4GG	Vigilance
+When Terror of the Ulvenwald enters, target creature gets +3/+3 until end of turn.
+Forestcycling 2 (2, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)	4/6		normal	INM		BASIC LANDCYCLING
+Johannes Mücke
+VORTHOS
+Kostya CheREPLACEMEMoldgraf Wurm	G	common	Creature — Wurm 	210	G	7G	This spell costs 1 less to cast for each card type among cards in your graveyard.
+Trample	6/6		normal	INM		REPLACEMENever Give Up	G	common	Sorcery	211	WG	G	Return target creature card from your graveyard to your hand. If that card is a Human, you gain 3 life.
+Flashback 3W (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Another combat trick
+OFCCOLORREPLACEMEBlossoming Defense	G	common	Instant	184	G	G	Target creature gets +2/+2 and gains hexproof until end of turn. (It can’t be the target of spells or abilities your opponents control.)			normal	INM		https://josiahcameronart.com/7ivjukww8am1qyu7fqn29o37dzu1lkREPLACEMEEntropy's Descent	G	common	Sorcery	195	G	1G	Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target creature with flying.
+• Target creature you control fights target creature an opponent controls.			normal	INM		Doomed DescentREPLACEMEKernon's Consecration	G	common	Enchantment — Aura 	202	G	1G	Enchant creature
+Enchanted creature gets +2/+2.
+4G: Return Kernon’s Consecration from your graveyard to the battlefield attached to target creature you control. Activate only as a sorcery.			normal	INM		https://www.deviantart.com/nikulina-helena/art/Bloodmoon-838907822
+KERNON
+VORTHOSREPLACEMELycanthropic Outburst	G	common	Instant	207	G	2G	Choose target creature you control. You may transform it if it’s a Werewolf. Then it deals damage equal to its power to target creature you don’t control. (The creature you control bites even if you don’t transform it.)			normal	INM		“The Hunter’s Moon, taker and giver, strips them of humanity, allowing
+—The Cosmology of InnistradREPLACEMEDeath in Bloom	G	common	Enchantment — Aura 	192	G	2G	Enchant land
+When Death in Bloom enters, mill four cards, then return a permanent card from your graveyard to your hand.
+Enchanted land has “T: Add two mana of any one color.”			normal	INM		alt Ryan Alexander Lee Dryad’s LamentREPLACEMEDruid's Grimoire	G	common	Artifact	194	G	3G	When Druid’s Grimoire enters, create two 2/2 green Wolf creature tokens.
+T: Add G.			normal	INM		CLASHES WITH LYCANTROPHIC OUTBURST
+Robert Laskey alt
+https://www.artstation.com/artwork/6aVE8rREPLACEMEAdderblade Exterminator	G	uncommon	Creature — Human Assassin Werewolf 	181	G	G	Deathtouch
+2G: Transform Adderblade Exterminator. Activate only if it’s attacking.	1/1		transform double faced	INM		Addermark Eviscerator	G	Creature — Werewolf 	G		Deathtouch
+Whenever Addermark Eviscerator deals combat damage to a player, draw a card.
+At the beginning of your end step, if Addermark Eviscerator didn’t attack this turn, transform it.	3/2			DFC
+alt Art of Neight
+VORTHOS
+https://www.artstation.com/artwork/Ryv93mREPLACEMEGavony Cavaliers	G	uncommon	Creature — Human Knight 	196	G	1G	Trample
+Whenever Gavony Cavaliers attacks, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)
+Creatures you control that are enchanted or equipped have trample.	2/2		normal	INM		REPLACEMEBrambleswine	G	uncommon	Creature — Boar 	185	G	2G	Foreshadow 4G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Brambleswine dies, create a 2/2 green Wolf creature token.	2/2		normal	INM		VORTHOSREPLACEMECabin Golem	G	uncommon	Artifact Creature — Golem 	187	G	2G	Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, reveal the top three cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom of your library in a random order.	3/3		normal	INM		REPLACEMEHungering Howlpack	G	uncommon	Creature — Wolf 	200	G	2GG	Other Wolves and Werewolves you control get +1/+1.
+Whenever Hungering Howlpack or another Wolf or Werewolf you control enters, you gain 2 life.	3/3		normal	INM		alt Carolyn Moskowitz
+VORTHOS
+alt https://ph.pinterest.com/pin/12384967719791582/REPLACEMETreeline Archer	G	uncommon	Creature — Human Archer Werewolf 	222	G	3G	Vigilance, reach
+When Treeline Archer enters, mill four cards.
+5G: Transform Treeline Archer. Activate only if it’s attacking.	3/4		transform double faced	INM		Towering Alpha	G	Creature — Werewolf 	G		Vigilance, reach
+When this creature transforms into Towering Alpha, return target card from your graveyard to your hand.
+At the beginning of your end step, if Towering Alpha didn’t attack this turn, transform it.	6/6			alt Olivier BernardREPLACEMERosenhulk	G	uncommon	Creature — Plant Spirit 	219	G	3GG	Trample
+When Rosenhulk enters, choose one —
+• Create a 0/1 green Plant creature token with “T: Add G.”
+• Destroy target artifact or enchantment.
+• Rosenhulk fights target creature an opponent controls.	4/3		normal	INM		REPLACEMEPrimordial Slime	G	uncommon	Creature — Ooze 	215	G	4G	Foreshadow 5GG (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Primordial Slime can’t be blocked by creatures with power 2 or less.
+When Primordial Slime dies, you gain 5 life.	5/5		normal	INM		alt Gun Gunawan
+alt https://damianschouweiler.artstation.com/projects/Zv4GN
+alt https://www.reddit.com/r/magicTCG/comments/1chu3ko/ooze_token_painting_by_me_thomas_baxa_mtg_artist/#lightbox
+https://www.artstation.com/artwork/YBAyd6REPLACEMEDawnhart Ceremony	G	uncommon	Enchantment	190	G	1G	When Dawnhart Ceremony enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Invocation — When you spend four or more mana to cast a spell or activate an ability during your turn, transform Dawnhart Ceremony.			transform double faced	INM		Dawnhart Scourge	G	Creature — Horror 	G		Dawnhart Scourge can’t be blocked by more than one creature.	4/4			https://www.deviantart.com/xghastx/art/Lesovij-773514323REPLACEMEPushing Daisies	G	uncommon	Enchantment — Aura 	217	G	1G	Enchant creature
+When Pushing Daisies enters, mill two cards and you gain 2 life. (To mill two cards, put the top four cards of your library into your graveyard.)
+Enchanted creature gets +2/+2 and has “Whenever this creature attacks, return up to one target land card from your graveyard to the battlefield tapped.”			normal	INM		REPLACEMEBarge Through	G	uncommon	Sorcery	183	G	XGG	Put X +1/+1 counters on target creature you control. It deals damage equal to its power to up to one target creature or planeswalker you don’t control. If that creature or planeswalker would die this turn, exile it instead.			normal	INM		alt https://www.deviantart.com/christoskarapanos/art/Something-Scratching-At-My-Door-882650859REPLACEMEBrutalizer Gear	G	uncommon	Artifact — Equipment 	186	G	2G	Flash
+When Brutalizer Gear enters, attach it to target creature you control.
+Enchanted creature gets +3/+3 and has trample.
+Equip 5 (5: Attach to target creature you control. Equip only as a sorcery.)			normal	INM		alt Wisnu Tan bone club fab tcgREPLACEMECurse of Venom	G	uncommon	Enchantment — Aura Curse 	189	G	3GG	Enchant player
+Creatures attacking enchanted player have deathtouch.
+Whenever a creature deals combat damage to enchanted player, that creature’s controller draws a card. This ability triggers only once each turn.			normal	INM		REPLACEMEMolderkin	G	rare	Creature — Fungus 	209	G	1G	T: Add G.
+Once during each of your turns, you may cast a creature spell from your graveyard if there are thirteen or more cards in your graveyard. (You still pay its costs. Timing rules still apply.)	1/3		normal	INM		alt https://www.artstation.com/artwork/14mVY3
+alt https://www.deviantart.com/vanessdevolt/art/In-the-forest-846140269REPLACEMEUlvenwald Ranger	G	rare	Creature — Human Ranger Werewolf 	223	G	1G	When Ulvenwald Ranger enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+1G: Transform Ulvenwald Ranger. Activate only if it’s attacking.	2/2		transform double faced	INM		Ulvenwald Howler	G	Creature — Werewolf 	G		You may look at the top card of your library any time.
+You may play lands and cast creature spells from the top of your library.
+At the beginning of your end step, if Ulvenwald Howler didn’t attack this turn, transform it.	4/4			alt Carlos HerreraREPLACEMEPhantom of Wolf's Run	G	rare	Creature — Spirit 	213	G	1GG	Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, create a 2/2 green Wolf creature token.
+4GGG: Other creatures you control get +3/+3 and gain haste until end of turn.	2/2		normal	INM		REPLACEMEGlutton of Zhava	G	rare	Creature — Frog Horror 	197	G	2G	Foreshadow 3GG (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+T, Sacrifice a land: Draw a card.
+When Glutton of Zhava dies, return all land cards from your graveyard to the battlefield tapped.	3/2		normal	INM		alt https://www.artstation.com/artwork/KrR0E9
+gitrog expy
+frogge..REPLACEMEUrsagore	G	rare	Creature — Bear 	224	G	2GG	Foreshadow 5GG (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Ursagore enters, you gain 4 life. Then if it was foreshadowed, create a 3/3 green Bear Spirit creature token.
+When Ursagore dies, draw a card.	4/3		normal	INM		alt https://www.deviantart.com/carpet-crawler/art/Grizzly-Inscryption-Card-958218737REPLACEMEVartrossen Primalist	G	rare	Creature — Human Warrior Werewolf 	225	G	3G	Trample
+When Vartrossen Primalist enters, target creature you control fights up to one target creature you don’t control. (Each deals damage equal to its power to the other.)
+4G: Transform Vartrossen Primalist. Activate only if it’s attacking.	3/3		transform double faced	INM		Vartrossen Packleader	G	Creature — Werewolf 	G		Trample
+Whenever another Wolf or Werewolf enters under your control, it fights up to one target creature you don’t control.
+At the beginning of your end step, if Vartrossen Packleader didn’t attack this turn, transform it.	6/6			REPLACEMERisen Lumberknot	G	rare	Creature — Treefolk 	218	G	1GGGG	Reach
+Risen Lumberknot gets +5/+5 as long as you control eight or more lands.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap all lands you control. This ability triggers only once each turn.	5/5		normal	INM		REPLACEMEMistwood Rites	G	rare	Enchantment	208	UG	1G	When Mistwood Rites enters, you gain 3 life.
+You may play an additional land on each of your turns.
+3UU: Transform Mistwood Rites. Activate only as a sorcery.			transform double faced	INM		Mistwood Enigma	U	Creature — Horror 	UG		Ward 3 (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3.)
+You may play an additional land on each of your turns.
+Landfall — Whenever a land you control enters, draw a card.	3/5			https://www.artofbregalloway.com/illustration
+https://www.deviantart.com/mr--jack/art/Egg-Caves-258873559
+FOEFLIP
+KEYWARDREPLACEMEHarness Nature	G	rare	Sorcery	199	G	2G	Search your library for up to two Forest cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+Flashback—2G or Tap two untapped green creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		ConvokebackREPLACEMEPrayers for the Hunted	G	mythic	Enchantment	214	G	2GG	Hexproof
+2GG, Sacrifice a creature: You gain life equal to the sacrificed creature’s power or toughness, whichever is higher. Then draw cards equal to the sacrificed creature’s power or toughness, whichever is lower. (If the sacrificed creature’s power and toughness are equal, the amount of life you gain and cards you draw is equal.)			normal	INM		REPLACEMEKernon, Primeval Ritualist	G	mythic	Legendary Planeswalker — Kernon 	201	G	1GG			[+1]: Mill two cards. Untap up to one target creature or land.
+[-2]: Return target creature or land card from your graveyard to your hand.
+[-X]: You may sacrifice a creature. If you do, search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.	planeswalker	INM	3	REPLACEMEKrendel of Kessig	G	mythic	Legendary Creature — Human Werewolf 	205	G	3GGG	This spell can’t be countered.
+Whenever another nontoken creature you control dies, return it to its owner’s hand at the beginning of the next end step.
+6G: Transform Krendel of Kessig. Activate only if it’s attacking.	5/5		transform double faced	INM		Krendel, Krallenhorde Alpha	G	Legendary Creature — Werewolf 	G		Creature spells you cast can’t be countered.
+Whenever another nontoken creature you control dies, if it didn’t have a +1/+1 counter on it, return it to the battlefield under your control with a +1/+1 counter on it.
+At the beginning of your end step, if Krendel, Krallenhorde Alpha didn’t attack this turn, transform it.	9/9			alt Dusan Markovic
+https://www.deviantart.com/dusanmarkovic/art/Shaman-s-wolf-pack-513444610
+alt Marcelo Orsi Blanco carpet crawler
+https://i.pinimg.com/originals/eb/61/35/eb61352cc9fd73ee31e9399c5a4f7461.jpgREPLACEMETattergeist	WU	uncommon	Creature — Spirit 	248	WU	1WU	Flying
+Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Whenever you activate an ability of a Spirit you control, you may copy that ability and may choose new targets for the copy. Do this only once each turn.	2/3		normal	INM		ARCUN SIGNPOST
+Séance Spirit
+KEYWARD
+Colin Verdi
+Antonio J. Manzanedo
+One Seven https://www.artstation.com/artwork/R3K8KW
+https://www.artstation.com/artwork/LNwLrREPLACEMEDrownyard Captain	UB	uncommon	Creature — Zombie Pirate 	229	UB	2UB	Menace
+When Drownyard Captain enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever Drownyard Captain attacks, if a card left your graveyard this turn, draw a card.	4/4		normal	INM		ARCUN SIGNPOST
+VORTHOSREPLACEMEVoldaren Sovereign	BR	uncommon	Creature — Vampire Noble 	250	BR	1BR	Lifelink
+Creature tokens you control get +1/+0.
+At the beginning of your end step, if you created a token this turn, each opponent loses 1 life and you gain that much life.	3/3		normal	INM		ARCUN SIGNPOSTREPLACEMELeyran Hunting Pack	RG	uncommon	Creature — Wolf 	238	RG	1RG	Haste
+Other Wolves and Werewolves you control have haste.
+Leyran Hunting Pack gets +1/+1 for each non-Human Werewolf you control.	3/2		normal	INM		ARCUN SIGNPOSTREPLACEMEHeron's Grace Patrol	WG	uncommon	Creature — Human Ranger 	236	WG	GW	Reach
+As long as Heron’s Grace Patrol is enchanted or equipped, it gets +1/+1 and has vigilance.
+2GW, T: Mill three cards. You may return a permanent card milled this way to your hand.	2/2		normal	INM		ARCUN SIGNPOSTREPLACEMEMarch of the Unhallowed	WB	uncommon	Enchantment	244	WB	WB	When March of the Unhallowed enters, mill three cards, then return a creature card with mana value 3 or less from your graveyard to the battlefield.
+Whenever you attack with three or more creatures, each opponent loses 1 and you gain 1 life.			normal	INM		ARCUN SIGNPOST
+Horia Dociu alt
+Piotr Jabłoński <- characters
+alt Josu HernaizREPLACEMEMalevolus	UR	uncommon	Creature — Elemental Spirit 	243	UR	6UR	This spell costs 2 less to cast for each Curse you control.
+Flying, vigilance, haste	4/4		normal	INM		ARCUN SIGNPOST
+alt https://in.pinterest.com/pin/39899146691192416/
+VORTHOSREPLACEMEGarden Ghoul	BG	uncommon	Creature — Zombie 	232	BG	BG	T: Add one mana of any color.
+Whenever you cast a foreshadowed spell, create a 2/2 black Zombie creature token.	1/3		normal	INM		ARCUN SIGNPOSTREPLACEMEGoldnight Seraph	WR	uncommon	Creature — Angel 	235	WR	3RW	Flying
+When Goldnight Seraph enters, it deals X damage to up to one target creature or planeswalker and you gain X life, where X is the number of artifacts you control.	3/2		normal	INM		ARCUN SIGNPOST
+alt Tanya Podolskaia
+Diablo III
+https://hearthstone.fandom.com/wiki/Forbidden_FlameREPLACEMELiturgy of Brine	UG	uncommon	Enchantment	240	UG	1GU	When Liturgy of Brine enters, draw a card, then you may put a land card from your hand onto the battlefield.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, Liturgy of Brine becomes a 5/5 Kraken Horror creature in addition to its other types until end of turn.			normal	INM		ARCUN SIGNPOST
+Foreshadow 3GU (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Trample
+Gigaslime gets +1/+1 for each card type among cards in your graveyard.
+When Gigaslime dies, you gain life equal to its toughness.REPLACEMEBruna, Shepherd of Souls	WU	rare	Legendary Creature — Angel 	226	WU	1WWU	Flash
+Flying
+When Bruna, Shepherd of Souls enters, exile target noncreature spell or ability. Then exile its controller’s graveyard.	3/3		normal	INM		powerpuffREPLACEMEDrownyard Colossus	UB	rare	Creature — Crab 	230	UB	3UB	Whenever Drownyard Colossus or another creature you control enters, any number of target players each mill cards equal to that creature’s toughness.
+2UB, T: Draw a card, then create a 0/3 blue Crab creature token with “T: Target player mills a card.”	2/8		normal	INM		alt https://www.artstation.com/artwork/WKx2V3
+alt Nuare StudioREPLACEMEOlivia Voldaren, Progenitrix	BR	rare	Legendary Creature — Vampire 	245	BR	BR	Flying
+Whenever Olivia Voldaren, Progenitrix attacks, you may discard a card. If you do, draw a card.
+Whenever you discard a creature card, put a +1/+1 counter on Olivia Voldaren, Progenitrix and create a 1/1 black and red Vampire creature token with menace.	2/2		normal	INM		REPLACEMEValseid, Leyran Brute	RG	rare	Legendary Creature — Human Werewolf 	249	RG	RRGG	Trample
+Whenever this creature enters or transforms into Valseid, Leyran Brute, it deals 2 damage to any target that isn’t a blocking creature and you gain 2 life.
+3RG: Transform Valseid, Leyran Brute. Activate only if it’s attacking.	4/4		transform double faced	INM		Valseid, Leyran Ravager	RG	Legendary Creature — Werewolf 	RG		Trample
+Whenever this creature transforms into Valseid, Leyran Ravager or you cast a Wolf or Werewolf spell, Valseid, Leyran Ravager deals 2 damage to any target that isn’t a blocking creature and you gain 2 life.
+At the beginning of your end step, if Valseid didn’t attack this turn, transform it.	7/7			alt https://www.artstation.com/artwork/YaP8kK
+https://ph.pinterest.com/pin/19351473387365053/
+https://ph.pinterest.com/pin/932315560349893651/
+https://www.deviantart.com/gpzang/art/You-should-not-be-here-437434151REPLACEMESigarda, Dawn of Mercy	WG	rare	Legendary Creature — Angel 	247	WG	1GWW	Flying, ward 2
+Other creatures you control enter with an additional +1/+1 counter on them.
+If a spell or ability an opponent controls causes you to discard Sigarda, Dawn of Mercy, put it onto the battlefield instead of putting it into your graveyard.	4/4		normal	INM		alt Elvira Vikman
+KEYWARD
+alt Maerel Hibadita
+powerpuff
+https://www.artstation.com/artwork/w0NLA9
+https://www.deviantart.com/floatingleaf243/art/Angel-2-880847392
+https://www.deviantart.com/mlauviah3400/art/Angel-Anaphiel-COMMISSION-892405524
+https://www.deviantart.com/chrissetra/art/Gold-Angel-855669654
+https://www.deviantart.com/dariuszkieliszek/art/Azrael-965930242
+https://www.deviantart.com/ramzapsyru/art/Ice-Wings-864613150
+https://deviantart.com/raikoart/art/Jamira-785802067REPLACEMELiesa, Enemy of Shadow	WB	rare	Legendary Creature — Angel 	239	WB	1WWB	Foreshadow 3WB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying, lifelink
+Liesa has haste as long as it was foreshadowed.
+When Liesa dies, each opponent sacrifices a creature and loses 2 life.	3/3		normal	INM		REPLACEMECurse of Whispers	UR	rare	Enchantment — Aura Curse 	227	UR	2UR	Enchant player
+At the beginning of enchanted player’s draw step, they draw an additional card.
+At the beginning of enchanted player’s end step, that player discards all but one card in their hand.			normal	INM		VORTHOSREPLACEMEKrallenmaw, the Tempter	BG	rare	Legendary Creature — Demon 	237	BG	3BG	Menace
+Once during each of your turns, you may cast a double-faced spell you own from outside the game.
+You may spend mana as though it were mana of any color to cast double-faced spells or activate abilities of double-faced sources.	6/6		normal	INM		REPLACEMEGisela, Blade of Morning	WR	rare	Legendary Creature — Angel 	234	WR	1RWW	Flying, first strike, haste
+Whenever you gain life, you may have Gisela, Blade of Morning deal that much damage to any target. Do this only once each turn.	3/2		normal	INM		https://www.artstation.com/artwork/N5RPb
+alt https://ph.pinterest.com/pin/408420259969394216/
+VORTHOS
+powerpuffREPLACEMEMakodonis's Wolfbro	UG	rare	Creature — Wolf Gymbro 	242	UG	2GU	You have no maximum hand size.
+Whenever Makodonis’s Wolfbro attacks, if its power is greater than its base power, draw cards equal to the difference.	4/4		normal	INM		REPLACEMEGhrin-Danu, the Dawnhart	WG	mythic	Legendary Creature — Elk God 	233	WG	1GW	Indestructible
+Ghrin-Danu, the Dawnhart can’t attack or block unless you control three other creatures with different powers.
+Whenever you attack, put a +1/+1 counter on up to one other target creature you control.	6/6		normal	INM		REPLACEMEDivine Decree	WB	mythic	Sorcery	228	WB	3WB	Choose two nonland permanent types. Exile each permanent that’s at least one of the chosen types.
+Flashback 8WB (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		https://www.deviantart.com/thaldir/art/Avacyn-Trilogy-The-Creation-606624164
+https://www.artstation.com/artwork/9X1Na
+Sanjin HalimicREPLACEMEMakodonis, Master of Form	UG	mythic	Legendary Planeswalker — Makodonis 	241	UG	3GU			If a creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+[+1]: Target player draws two cards, then discard a card. Put a +1/+1 counter on up to one target creature you control.
+[-3]: Create a token that’s a copy of target creature you control.
+[-8]: Return any number of target nonland permanents to their owner’s hand.	planeswalker	INM	5	https://www.deviantart.com/thds19/art/MARS-THE-GOD-OF-WAR-885959828REPLACEMEThe Selhoff Twins	UBR	mythic	Legendary Creature — Human Wizard 	246	UBR	2UBR	Menace
+Whenever you cast a spell from your graveyard, The Selhoff Twins deals damage equal to that spell’s mana value to any target. Then copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)	4/4		normal	INM		Mythic Rare version of a canon Uncommon (Burning Vengeance)
+Ravenous ChupacabraREPLACEMEEdgar Markov, Bloodsire	WBR	mythic	Legendary Creature — Vampire Knight 	231	WBR	4RWB	First strike, haste
+Whenever Edgar Markov, Bloodsire attacks, exile the top four cards of your library. You may put a Vampire creature card from among them onto the battlefield tapped and attacking. You may play the rest until end of turn.	5/5		normal	INM		https://www.deviantart.com/pablofernandezartwrk/art/Eurich-normal-version-625391570
+Edcel Mendoza alt artREPLACEMEHunter's Arsenal		common	Artifact	258	C	1	When Hunter’s Arsenal enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)
+2, T, Sacrifice Hunter’s Arsenal: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.			normal	INM		alt Leesha Hannigan
+alt https://christinakraus.artstation.com/projects/5rOrgREPLACEMESoul-Capturing Lantern		common	Artifact	262	C	2	When Soul-Capturing Lantern enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+1, T: Add one mana of any color.
+6, T, Sacrifice Soul-Capturing Lantern: Exile target nonland permanent. Activate only as a sorcery.			normal	INM		alt Joshua CairosREPLACEMEPulse Seeker		common	Artifact — Equipment 	260	C	2	When Pulse Seeker enters, create a 1/1 black and red Vampire creature token with menace.
+Equipped creature gets +1/+0.
+Equip 1			normal	INM		REPLACEMEBodyless Knight		common	Artifact Creature — Construct Knight 	252	C	3	First strike
+Whenever Bodyless Knight attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/2		normal	INM		alt https://davidcalabrese.artstation.com/projects/8lyGxnREPLACEMEGuardian Grotesque		common	Artifact Creature — Gargoyle 	255	C	4	Foreshadow 6 (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying, vigilance
+When Guardian Grotesque dies, return up to one target nonland permanent to its owner’s hand.	3/1		normal	INM		alt Marzena Nereida Piwowar
+alt Thomas Chamberlain-Keen
+alt https://www.artstation.com/artwork/RYdeEy
+alt Simon TosovskyREPLACEMESurvivor's Torch		uncommon	Artifact — Equipment 	263	C	0	Whenever equipped creature attacks, choose one —
+• Tap target creature.
+• Draw a card, then discard a card.
+• Exile target card from a graveyard.
+Equip 3			normal	INM		REPLACEMEHarvesttide Nemesis		uncommon	Artifact Creature — Scarecrow 	256	C	2	Reach, trample
+Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Whenever one or more tokens you control enter, put a +1/+1 counter on Harvesttide Nemesis. This ability triggers only once each turn.	2/1		normal	INM		KEYWARDREPLACEMEAngelic Statue		uncommon	Artifact	251	C	3	Whenever you gain life, draw a card. This ability triggers only once each turn.
+6: Angelic Statue becomes a 3/3 white Angel creature with flying and lifelink until end of turn.			normal	INM		alt https://www.deviantart.com/minnhagen/art/The-Garden-75541182
+https://www.deviantart.com/arditocomeunleone/art/Sanctum-Memorial-1012046272REPLACEMEDemonrune Wall		uncommon	Artifact Creature — Wall 	253	C	6	Defender
+When Demonrune Wall enters, exile target creature or enchantment an opponent controls until Demonrune Wall leaves the battlefield.	0/13		normal	INM		Wirawan Pranoto
+https://ph.pinterest.com/pin/5207355804162508/REPLACEMEExsanguinator		rare	Artifact — Equipment 	254	C	X2	Exsanguinator enters with X pain counters on it. When it enters, each opponent loses X life and you gain X life.
+Equipped creature gets +1/+0 for each pain counter on Exsanguinator.
+Equip—2 or Pay 2 life. (2 or Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)			normal	INM		REPLACEMEScrolls of Succession		rare	Artifact	261	C	2	As Scrolls of Succession enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+2, T: Draw a card. Then discard a card unless you control three or more creatures of the chosen type.			normal	INM		The last will and testament of the recently deceased Lord of Wittal Parish evidently was not his last.REPLACEMEPhylactery of Forbidden Arts		rare	Artifact	259	C	3	Indestructible
+When Phylactery of Forbidden Arts enters, search your library for up to three instant and/or sorcery cards, put them into your graveyard, then shuffle.
+T: Add two mana of any one color. Spend this mana only to cast spells from your graveyard or activate abilities from your graveyard.			normal	INM		REPLACEMEThe Wickerscreech of Gatstaf		rare	Legendary Artifact Creature — Scarecrow 	264	C	5	Foreshadow 13. This costs 1 less for each nonland card in your graveyard. (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying, menace, trample
+When The Wickerscreech of Gatstaf dies, destroy target nonland permanent an opponent controls.	3/3		normal	INM		REPLACEMEHelvault, Shard of the Moon		rare	Legendary Artifact	257	C	7	When Helvault, Shard of the Moon enters, for each player, exile up to one other target nonland permanent that player controls until Helvault, Shard of the Moon leaves the battlefield. When you exile a permanent you control this way, draw three cards.
+T: Add CCCCC.
+Cycling 2 (2, Discard this card: Draw a card.)			normal	INM		REPLACEMEFog-Ridden Wharf		common	Land	269	WU		Fog-Ridden Wharf enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add W or U.			normal	INM		alt https://www.deviantart.com/ferdinandladera/art/The-Gloomport-alley-886384378
+VORTHOSREPLACEMEMacabre Pools		common	Land	273	UB		Macabre Pools enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add U or B.			normal	INM		VORTHOSREPLACEMEHellfire Crater		common	Land	272	BR		Hellfire Crater enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add B or R.			normal	INM		alt Karol Sollich
+alt Zhao Enzhe
+VORTHOS
+https://www.deviantart.com/anthonyavon/art/Lake-of-Fire-904548918
+https://www.deviantart.com/ferdinandladera/art/The-Abyssal-Passage-307723538
+https://www.deviantart.com/vetrova/art/Altar-523766244
+https://www.deviantart.com/wildweasel339/art/Lava-Loops-264628032
+alt Marta Nael https://www.deviantart.com/martanael/art/Lava-Fields-346661090
+https://www.deviantart.com/lpsdc/art/Lava-land-876655260REPLACEMEEerie Wildwood		common	Land	267	RG		Eerie Wildwood enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add R or G.			normal	INM		VORTHOSREPLACEMEBlessed Grounds		common	Land	265	WG		Blessed Grounds enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add G or W.			normal	INM		VORTHOSREPLACEMESolemn Bastion		common	Land	277	WB		Solemn Bastion enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add W or B.			normal	INM		alt https://www.deviantart.com/jordangrimmer/art/Devil-s-Bay-443918667
+https://ph.pinterest.com/pin/927882329468242381/
+VORTHOSREPLACEMECoastal Cairn		common	Land	266	UR		Coastal Cairn enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add U or R.			normal	INM		https://www.deviantart.com/ferdinandladera/art/Miardmor-848902706
+VORTHOSREPLACEMEPutrid Corcass		common	Land	274	BG		Putrid Corcass enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add B or G.			normal	INM		https://www.artstation.com/artwork/9VnvW
+https://www.artstation.com/artwork/xDGORW
+VORTHOSREPLACEMESunswept Grange		common	Land	278	WR		Sunswept Grange enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add R or W.			normal	INM		VORTHOSREPLACEMESecret Lagoon		common	Land	275	UG		Secret Lagoon enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+T: Add G or U.			normal	INM		VORTHOSREPLACEMESinister Thicket		common	Land	276	C		T, Sacrifice Sinister Thicket: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+4, Exile Sinister Thicket from your graveyard: Draw a card. Activate only as a sorcery.			normal	INM		VORTHOSREPLACEMEGhoulcaller's Graf		uncommon	Land	271	C		When Ghoulcaller’s Graf enters, mill two cards.
+T: Add C.
+5, T, Sacrifice Ghoulcaller’s Graf: Return up to two target creature cards from your graveyard to your hand.			normal	INM		alt Cygames haunted house
+alt Chris BradleyREPLACEMEGenesis Grove		uncommon	Land	270	C		Genesis Grove enters tapped unless you control two or fewer other lands.
+T: Add C.
+T: Add one mana of any color. Spend this mana only to cast creature spells.			normal	INM		https://ph.pinterest.com/pin/78320481005871369/
+alt Mika Kuwilsky
+alt Nele Diel
+VORTHOS
+https://www.artstation.com/artwork/q9PeXN
+alt Jung ParkREPLACEMEElgaud Fortress		rare	Land	268	C		T: Add C.
+4, T, Sacrifice Elgaud Fortress: Create a token that’s a copy of target artifact you control. Activate only as a sorcery.			normal	INM		https://www.deviantart.com/reneaigner/art/The-Old-Hall-271020603
+alt Pedro VelosoREPLACEMEPlains		common	Basic Land — Plains 	279	C					normal	INM		REPLACEMEPlains2		common	Basic Land — Plains 	280	C					normal	INM		REPLACEMEPlains3		common	Basic Land — Plains 	281	C					normal	INM		REPLACEMEIsland		common	Basic Land — Island 	282	C					normal	INM		https://www.deviantart.com/alteya/art/doodle1-227343173REPLACEMEIsland2		common	Basic Land — Island 	283	C					normal	INM		REPLACEMEIsland3		common	Basic Land — Island 	284	C					normal	INM		REPLACEMESwamp		common	Basic Land — Swamp 	285	C					normal	INM		REPLACEMESwamp2		common	Basic Land — Swamp 	286	C					normal	INM		REPLACEMESwamp3		common	Basic Land — Swamp 	287	C					normal	INM		REPLACEMEMountain		common	Basic Land — Mountain 	288	C					normal	INM		REPLACEMEMountain2		common	Basic Land — Mountain 	289	C					normal	INM		REPLACEMEMountain3		common	Basic Land — Mountain 	290	C					normal	INM		https://www.artstation.com/artwork/4Xr1Dn
+https://www.deviantart.com/hamaterasu25/art/Dracula-s-Castle-896387215REPLACEMEForest		common	Basic Land — Forest 	291	C					normal	INM		REPLACEMEForest2		common	Basic Land — Forest 	292	C					normal	INM		https://cdn-prod.scalefast.com/public/assets/img/resized/focus-store/5effd9cd1102171ea9aba11920ce4e98_KR_675.jpg
+https://www.artstation.com/artwork/o69XL
+https://www.artstation.com/artwork/xKbPEREPLACEMEForest3		common	Basic Land — Forest 	293	C					normal	INM		https://www.artstation.com/artwork/4Xr1Dn
+https://www.deviantart.com/hamaterasu25/art/Dracula-s-Castle-896387215REPLACEMEWesgoth Cemetery		masterpiece	Legendary Land	1	BG		Wesgoth Cemetery enters tapped.
+T: Add B or G. If there are thirteen or more corpse counters on Wesgoth Cemetery, remove those counters, transform it, then untap it.
+Whenever a nontoken creature dies, put a corpse counter on Wesgoth Cemetery.
+Wesgoth Cemetery can be your commander.			transform double faced	INM		Skullbriar, Death's Mockery	BG	Legendary Land Creature — Zombie Elemental 	BG		Trample, haste
+Skullbriar, Death’s Mockery remains transformed as it moves to any zone other than a player’s hand or library.
+Skullbriar gets +1/+1 for each creature card in all graveyards.
+T: Add B or G.	0/0			REPLACEMEAngel	W	common	Token Creature — Angel 	1	W		Flying	4/4		token	INM		!related Polina Elgaud;Flight of Angels<X>;REPLACEMEHuman	W	common	Token Creature — Human 	2	W			1/1		token	INM		https://twitter.com/Mark_Meer/status/1374463084564148226
+!related Charging Commando;Alert the Village<2>;REPLACEMEIntangible Virtue	W	common	Token Enchantment	3	W		Creature tokens you control get +1/+1 and have vigilance.			token	INM		!related Polina Elgaud;REPLACEMESpirit	W	common	Token Creature — Spirit 	4	W		Flying	1/1		token	INM		alt https://www.artstation.com/artwork/LYYvl
+!related Geist Whisperer<2>;Beckoning Possessor;Shackled Memories;Curse of the Breathless<X>;Curse of the Breathless;Lifted Spirits;Evanescence;REPLACEMECrab	U	common	Token Creature — Crab 	5	U		T: Target player mills a card.	0/3		token	INM		https://ph.pinterest.com/pin/152137293656906111/
+Magicman Ellion
+Hex: Shards of Fate rimeclaw?
+https://hearthstone.wiki.gg/wiki/Hungry_Crab#/media/File:Hungry_Crab_full.jpg
+!related Drownyard Colossus;Curse of Scuttling Thoughts;REPLACEMEBat	B	common	Token Creature — Bat 	6	B		Flying, lifelink	1/1		token	INM		https://elderscrolls.fandom.com/wiki/Giant_Bat_(Legends)?file=Giant_Bat_card_art.png
+!related Vespercloak Vampire;Sorin, Vampire Maverick<2>;REPLACEMEHuman Warlock	B	common	Token Creature — Human Warlock 	7	B			1/1		token	INM		https://elderscrolls.fandom.com/wiki/Giant_Bat_(Legends)?file=Giant_Bat_card_art.png
+https://www.artstation.com/artwork/93NGv
+!related Oswin, Skirsdag Diabolist;REPLACEMEZombie	B	common	Token Creature — Zombie 	8	B			2/2		token	INM		!related Lich’s Grimoire;Wurgelurg <3>;Stitched Gargantua;Garden Ghoul;Undead Servant<X>;Undead Servant;REPLACEMEDevil	R	common	Token Creature — Devil 	9	R		When this creature dies, it deals 1 damage to any target.	1/1		token	INM		!related Dance with Devils<2>;REPLACEMEElemental Spirit	R	common	Token Creature — Elemental Spirit 	10	R		Trample, haste	3/1		token	INM		!related Dance with Devils<2>;REPLACEMEHuman Survivor	R	common	Token Creature — Human Survivor 	11	R			1/1		token	INM		!related Left for Dead<4>;REPLACEMEBear Spirit	G	common	Token Creature — Bear Spirit 	12	G			3/3		token	INM		!related Ursagore;REPLACEMEPlant	G	common	Token Creature — Plant 	13	G		T: Add G.	0/1		token	INM		!related Desperate Botanist;Rosenhulk;REPLACEMEWolf	G	common	Token Creature — Wolf 	14	G			2/2		token	INM		!related Druid’s Grimoire<2>;Brambleswine;Phantom of Wolf’s Run;Curse of the Hunter’s Moon;Faithless Razing;REPLACEMEVampire	BR	common	Token Creature — Vampire 	15	BR		Menace	1/1		token	INM		!related Pulse Seeker;Falkenrath Fletcher;Falkenrath Bladesire;Curse of the Vein;Olivia’s Offer;Marzela Falkenrath;Olivia Voldaren, Progenitrix;True Blood<2>;REPLACEMETreasure		common	Token Artifact — Treasure 	16	C		T, Sacrifice this artifact: Add one mana of any color.			token	INM		https://www.artstation.com/artwork/39gnx2
+alt Irina Nordsol Kuzmina
+alt Dominik Mayer
+!related Kessig Tombrobber;Affluent Host;REPLACEMEWeapon		common	Token Artifact — Weapon 	17	C		Equipped creature gets +1/+1.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)			token	INM		!related Cathedral Gargoyle;Hunter’s Arsenal;Blessed Bladewright;Gavony Cavaliers;Moorland SLayer;Kessig Woodcutter;Fangs of Wesgoth;Stensia Cavalcade<2>;Voldaren Crypt-Guard; Cathar’s Armory <3>;Curse of Raining Daggers;Flawless Finesse;Elgaud Fortress;REPLACEME
