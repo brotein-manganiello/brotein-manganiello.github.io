@@ -1,1 +1,0 @@
-﻿Thrinax Sporemother	BRG	uncommon	Creature – Lizard 	220	BRG	BRG	Whenever Thrinax Sporemother or another nontoken creature you control dies, create a 1/1 green Saproling creature token.NEWLINEWhenever a creature card is exiled from your graveyard, create a 1/1 green Saproling creature token.	3/3		normal	ALR		VORTHOS

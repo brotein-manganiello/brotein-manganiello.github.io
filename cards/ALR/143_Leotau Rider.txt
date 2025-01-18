@@ -1,1 +1,0 @@
-﻿Leotau Rider	G	common	Creature – Human Knight 	143	G	2G	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)NEWLINEWhenever Leotau Rider encourages a creature, that creature gains trample until end of turn.	3/2		normal	ALR		VORTHOSNEWLINE!banner

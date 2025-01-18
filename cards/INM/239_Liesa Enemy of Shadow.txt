@@ -1,1 +1,0 @@
-﻿Liesa, Enemy of Shadow	WB	rare	Legendary Creature – Angel 	239	WB	1WWB	Foreshadow 3WB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEFlying, lifelinkNEWLINELiesa has haste as long as it was foreshadowed.NEWLINEWhen Liesa dies, each opponent sacrifices a creature and loses 2 life.	3/3		normal	INM		

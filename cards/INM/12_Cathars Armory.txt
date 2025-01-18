@@ -1,1 +1,0 @@
-﻿Cathar's Armory	W	rare	Enchantment	12	W	1WW	When Cathar’s Armory enters, create three Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip 2.)NEWLINEWhenever one or more creatures you control that are enchanted or equipped deal combat damage to a player, draw a card.			normal	INM		

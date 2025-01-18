@@ -1,1 +1,0 @@
-﻿Heliod's Stag	W	common	Enchantment Creature – Elk 	19	W	3W	Whenever you scry, you gain life equal to the number of cards looked at while scrying this way.	3/4		normal	TTR		NEWLINEEnchantmentcraftNEWLINEAZORIUSNEWLINEJaan-Paul van Eeden

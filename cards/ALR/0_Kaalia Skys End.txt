@@ -1,1 +1,0 @@
-﻿Kaalia, Sky's End	WBR	special	Legendary Creature – Human Cleric 	0	WBR	2RWB	Flying, lifelinkNEWLINEWhenever Kaalia, Sky’s End attacks, it deals 2 damage to any target. It deals an additional 2 damage to that target if you control an Angel. The same is true if you control a Demon. The same is true if you control a Dragon.	4/4		normal	ALR		!design MakoNEWLINE!num 265

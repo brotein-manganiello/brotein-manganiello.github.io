@@ -1,1 +1,0 @@
-﻿Satyr Trailblazer	R	common	Creature – Satyr Scout 	163	R	1R	At the beginning of combat on your turn, if you control a creature with power greater than its base power, Satyr Trailblazer gets +2/+0 until end of turn.	1/3		normal	TTR		Bloodstrength

@@ -1,1 +1,0 @@
-﻿Sun-Sigil Ordainer	WG	rare	Creature – Human Cleric 	216	WG	GW	Whenever you gain life for the first time each turn, draw a card.NEWLINE3GW: You gain life equal to the greatest toughness among creatures you control.	2/2		normal	ALR		VORTHOS

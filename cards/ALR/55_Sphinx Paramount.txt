@@ -1,1 +1,0 @@
-﻿Sphinx Paramount	U	mythic	Artifact Creature – Sphinx 	55	U	3UU	FlyingNEWLINEIf a nonland permanent an opponent controls would be returned to its owner’s hand, instead gain control of it for as long as you control Sphinx Paramount.	4/4		normal	ALR		VORTHOSNEWLINEREDESIGN

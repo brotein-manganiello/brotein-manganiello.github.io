@@ -1,1 +1,0 @@
-﻿Cantankeroth	R	common	Creature – Beast 	99	R	4RR	HasteNEWLINECycling 2 (2, Discard this card: Draw a card.)	6/4		normal	ALR		VORTHOS

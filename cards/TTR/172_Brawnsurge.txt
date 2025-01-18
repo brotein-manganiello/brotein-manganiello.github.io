@@ -1,1 +1,0 @@
-﻿Brawnsurge	G	uncommon	Enchantment – Aura 	172	G	2G	Enchant creature you controlNEWLINEWhen Brawnsurge enters the battlefield, enchanted creature deals damage equal to its power to up to one target creature an opponent controls.NEWLINEEnchanted creature gets +1/+1 and has trample.			normal	TTR		HEROISM

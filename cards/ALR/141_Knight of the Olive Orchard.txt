@@ -1,1 +1,0 @@
-﻿Knight of the Olive Orchard	G	common	Creature – Human Knight 	141	G	3G	Knight of the Olive Orchard can’t be blocked by more than one creature.	4/3		normal	ALR		FLAVORTEXT NEWLINEQUALITYCHECK

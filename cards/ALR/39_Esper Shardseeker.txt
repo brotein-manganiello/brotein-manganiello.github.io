@@ -1,1 +1,0 @@
-﻿Esper Shardseeker	U	uncommon	Artifact Creature – Vedalken Scout 	39	U	2U	Esper Shardseeker can’t be blocked.NEWLINEPlainscycling 1, swampcycling 1  (1, Discard this card: Search your library for a Plains or Swamp card, reveal it, and put it into your hand, then shuffle.)	1/3		normal	ALR		VORTHOS

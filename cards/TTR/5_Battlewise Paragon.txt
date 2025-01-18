@@ -1,1 +1,0 @@
-﻿Battlewise Paragon	W	uncommon	Enchantment Creature – Human Soldier 	5	W	1W	First strikeNEWLINEWhenever you scry, Battlewise Paragon gets +1/+1 until end of turn for each card you looked at while scrying this way.	2/2		normal	TTR		NEWLINEAZORIUS

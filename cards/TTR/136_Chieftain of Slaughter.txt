@@ -1,1 +1,0 @@
-﻿Chieftain of Slaughter	R	uncommon	Creature – Minotaur Warrior 	136	R	2R	First strikeNEWLINEAs long as it’s your turn, other creatures you control get +1/+0.	2/2		normal	TTR		RDZ

@@ -1,1 +1,0 @@
-﻿Omendiver	U	common	Creature – Horse Fish 	63	U	2U	Colossal 3–5U (You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay 5U as a sorcery: Put three +1/+1 counters on it if it has none.)NEWLINEWhen Omendiver’s colossal ability puts one or more counters on it, scry 3.	3/2		normal	TTR		AZORIUS

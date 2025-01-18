@@ -1,1 +1,0 @@
-﻿Amalgam of Havoc	R	common	Enchantment Creature – Chimera 	128	R	5R	TrampleNEWLINEEach creature you control with a  counter on it has trample.	6/5		normal	TTR		

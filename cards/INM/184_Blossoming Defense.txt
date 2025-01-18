@@ -1,1 +1,0 @@
-﻿Blossoming Defense	G	common	Instant	184	G	G	Target creature gets +2/+2 and gains hexproof until end of turn. (It can’t be the target of spells or abilities your opponents control.)			normal	INM		https://josiahcameronart.com/7ivjukww8am1qyu7fqn29o37dzu1lk

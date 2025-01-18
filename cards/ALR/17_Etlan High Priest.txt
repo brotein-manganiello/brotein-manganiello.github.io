@@ -1,1 +1,0 @@
-﻿Etlan High Priest	W	uncommon	Creature – Human Cleric 	17	W	W	Stampede – Whenever Etlan High Priest and a creature with greater power attack, Etlan High Priest gets +1/+1 until end of turn. Then you gain 1 life and scry 1.	1/2		normal	ALR		FLAVORTEXT

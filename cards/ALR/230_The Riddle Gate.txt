@@ -1,1 +1,0 @@
-﻿The Riddle Gate		rare	Legendary Artifact	230	C	4	T: The next time you would draw a card this turn, instead search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.			normal	ALR		VORTHOSNEWLINE!banner

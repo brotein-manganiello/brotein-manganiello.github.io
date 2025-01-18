@@ -1,1 +1,0 @@
-﻿Philosophical Conundrum	W	common	Enchantment – Aura 	35	W	2W	Enchant creatureNEWLINEWhen Philosophical Conundrum enters the battlefield, scry 1.NEWLINEEnchanted creature can’t attack or block.			normal	TTR		Can't attack or block (sometimes also stops activated abilities, usually an Aura)NEWLINEAZORIUS

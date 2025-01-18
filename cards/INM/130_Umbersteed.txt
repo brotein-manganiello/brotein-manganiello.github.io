@@ -1,1 +1,0 @@
-﻿Umbersteed	B	uncommon	Creature – Nightmare Horse 	130	B	3BB	Foreshadow 5BB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Umbersteed dies, target creature an opponent controls gets -4/-4 until end of turn.	4/4		normal	INM		

@@ -1,1 +1,0 @@
-﻿Spire of Bant		common	Artifact	233	WUG	3	T: Add G, W, or U.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

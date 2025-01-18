@@ -1,1 +1,0 @@
-﻿Death in Bloom	G	common	Enchantment – Aura 	192	G	2G	Enchant landNEWLINEWhen Death in Bloom enters, mill four cards, then return a permanent card from your graveyard to your hand.NEWLINEEnchanted land has “T: Add two mana of any one color.”			normal	INM		alt Ryan Alexander Lee Dryad’s Lament

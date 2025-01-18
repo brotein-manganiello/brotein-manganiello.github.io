@@ -1,1 +1,0 @@
-﻿Troublesome Throng	R	common	Creature – Human Werewolf 	173	R	3R	MenaceNEWLINE3R: Transform Troublesome Throng. Activate only if it’s attacking.	3/3		transform double faced	INM		Vartrossen Vandals	R	Creature – Werewolf 	R		MenaceNEWLINEAt the beginning of your end step, if Vartrossen Vandals didn’t attack this turn, transform it.	6/5			DFCNEWLINEVORTHOS

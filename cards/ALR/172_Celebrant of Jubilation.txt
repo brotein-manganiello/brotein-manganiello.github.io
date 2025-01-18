@@ -1,1 +1,0 @@
-﻿Celebrant of Jubilation	WUG	common	Creature – Angel Soldier 	172	WUG	3GWU	FlyingNEWLINEWhen Celebrant of Jubilation enters, untap all creatures you control.NEWLINECycling 2 (2, Discard this card: Draw a card.)	3/4		normal	ALR		VORTHOS

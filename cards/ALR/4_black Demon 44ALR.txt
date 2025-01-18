@@ -1,1 +1,0 @@
-﻿black Demon 44ALR	B	common	Token Creature – Demon 	4	B		Flying	4/4		token	ALR		!exportname black Demon 44ALR

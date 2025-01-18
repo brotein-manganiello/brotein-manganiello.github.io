@@ -1,1 +1,0 @@
-﻿Radiant Resolve	W	common	Instant	24	W	W	Target creature gets +2/+2 until end of turn. If it’s multicolored, it also gains indestructible until end of turn.			normal	ALR		FLAVORTEXT

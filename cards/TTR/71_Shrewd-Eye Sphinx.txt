@@ -1,1 +1,0 @@
-﻿Shrewd-Eye Sphinx	U	uncommon	Creature – Sphinx 	71	U	3UU	Flying, vigilance	4/4		normal	TTR		Bryan F. Rosado

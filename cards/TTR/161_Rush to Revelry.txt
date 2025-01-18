@@ -1,1 +1,0 @@
-﻿Rush to Revelry	R	common	Sorcery	161	R	3R	Gain control of target creature until end of turn. Untap that creature. Then create two 1/1 red Satyr creature tokens with “This creature can’t block.” Creatures you control gain haste until end of turn.			normal	TTR		HEROISM

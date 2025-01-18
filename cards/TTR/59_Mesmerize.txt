@@ -1,1 +1,0 @@
-﻿Mesmerize	U	common	Instant	59	U	1U	Counter target spell unless its controller pays 2. If that spell targets you or a permanent you control, counter that spell instead.			normal	TTR		Counterspell with some restriction (what R&D calls a "soft counter")

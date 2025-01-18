@@ -1,1 +1,0 @@
-﻿Prognosticate	U	common	Sorcery	67	U	U	Scry 1. Draw a card. Scry 1.			normal	TTR		AZORIUSNEWLINEDisrupt opposing creatures (freezing, tapping, lowering power, etc.)

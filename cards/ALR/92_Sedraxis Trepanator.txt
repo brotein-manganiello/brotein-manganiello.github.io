@@ -1,1 +1,0 @@
-﻿Sedraxis Trepanator	B	uncommon	Creature – Zombie Mutant Warrior 	92	B	B	T, Sacrifice a creature: Target player discards a card and loses 2 life. Activate only as a sorcery.	1/2		normal	ALR		VORTHOS

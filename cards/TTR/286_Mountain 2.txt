@@ -1,1 +1,0 @@
-﻿Mountain 2		common	Basic Land – Mountain 	286	C					normal	TTR		!exportname Mountain 2

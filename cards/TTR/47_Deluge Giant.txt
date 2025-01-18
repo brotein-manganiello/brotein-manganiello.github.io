@@ -1,1 +1,0 @@
-﻿Deluge Giant	U	uncommon	Enchantment Creature – Giant 	47	U	3U	Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)NEWLINEEach creature you control with a counter on it has ward 2. (If a creature has multiple instances of ward, each triggers separately.)	4/3		normal	TTR		KEYWARD

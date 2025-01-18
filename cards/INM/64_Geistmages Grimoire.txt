@@ -1,1 +1,0 @@
-﻿Geistmage's Grimoire	U	common	Artifact	64	U	2U	When Geistmage’s Grimoire enters, draw two cards.NEWLINE4U, T: Target creature can’t be blocked this turn.			normal	INM		https://sv.bagoum.com/getRawImage/0/0/104533010/s

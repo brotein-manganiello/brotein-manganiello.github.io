@@ -1,1 +1,0 @@
-﻿Thornbriar Caryatid	G	common	Creature – Plant 	204	G	1G	T: Add G. If there are three or more creature cards in your graveyard, add GG instead.	0/3		normal	TTR		took the Aura/Equipment slotNEWLINEAnything that Erebos touches turns malign and bitter.NEWLINEUND3R

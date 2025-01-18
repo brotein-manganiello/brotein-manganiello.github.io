@@ -1,1 +1,0 @@
-﻿Caustic Mangrove		common	Land DUAL	241	BG		Caustic Mangrove enters tapped.NEWLINET: Add B or G.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

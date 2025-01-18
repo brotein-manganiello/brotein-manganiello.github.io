@@ -1,1 +1,0 @@
-﻿Golem		common	Token Artifact Enchantment Creature – Golem 	2	C			3/3		token	TTR		Darko Stojanovic altNEWLINE!related Forge Adept;

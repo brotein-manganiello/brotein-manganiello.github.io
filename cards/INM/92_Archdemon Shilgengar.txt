@@ -1,1 +1,0 @@
-﻿Archdemon Shilgengar	B	mythic	Legendary Creature – Elder Demon 	92	B	3BBB	Flying, lifelinkNEWLINEWhen Archdemon Shilgengar enters, exile all land cards from your graveyard, then exchange your graveyard and library. Then shuffle your library.NEWLINEYou can only cast spells by paying life equal to their mana value rather than paying their mana cost.	5/5		normal	INM		

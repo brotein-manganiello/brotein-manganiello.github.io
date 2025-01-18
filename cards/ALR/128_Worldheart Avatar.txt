@@ -1,1 +1,0 @@
-﻿Worldheart Avatar	R	mythic	Creature – Elemental Avatar 	128	WUBRG	3R	Double strikeNEWLINEThe first spell you cast during each of your turns costs WUBRG less to cast. This effect reduces only the amount of colored mana you pay.	2/4		normal	ALR		VORTHOS

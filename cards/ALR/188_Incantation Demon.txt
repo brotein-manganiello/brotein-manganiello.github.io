@@ -1,1 +1,0 @@
-﻿Incantation Demon	UBR	common	Creature – Demon 	188	UBR	3UBR	When Incantation Demon enters, return target instant or sorcery card from your graveyard to your hand.NEWLINECycling 2 (2, Discard this card: Draw a card.)	4/4		normal	ALR		

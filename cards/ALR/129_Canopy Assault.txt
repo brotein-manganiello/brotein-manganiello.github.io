@@ -1,1 +1,0 @@
-﻿Canopy Assault	G	common	Enchantment – Aura 	129	G	3G	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature gets +3/+3.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOS

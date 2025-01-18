@@ -1,1 +1,0 @@
-﻿Dregscape Wretch	B	common	Creature – Zombie 	75	B	1B	When Dregscape Wretch dies, create a 2/2 black Zombie creature token.	1/1		normal	ALR		

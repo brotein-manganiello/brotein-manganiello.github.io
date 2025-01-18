@@ -1,1 +1,0 @@
-﻿Angel	W	common	Token Creature – Angel 	1	W		Flying	4/4		token	INM		!related Polina Elgaud;Flight of Angels<X>;

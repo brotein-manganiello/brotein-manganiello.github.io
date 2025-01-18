@@ -1,1 +1,0 @@
-﻿Mist-Valley Minotaurs	R	uncommon	Creature – Minotaur Warrior 	113	R	3R	1R, Discard a card: Draw a card. Mist-Valley Minotaurs gets +2/+0 until end of turn.	3/4		normal	ALR		FLAVORTEXT

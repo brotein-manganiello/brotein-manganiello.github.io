@@ -1,1 +1,0 @@
-﻿Polis's Demise	R	rare	Sorcery	155	R	3RR	This spell can’t be countered.NEWLINEPolis’s Demise deals 5 damage to each creature. Destroy all artifacts.			normal	TTR		RAREWIPE

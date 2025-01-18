@@ -1,1 +1,0 @@
-﻿Gilded Ram		uncommon	Artifact Creature – Goat 	245	C	5	TrampleNEWLINE3, Discard Gilded Ram: Create two Treasure tokens. Draw a card. (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)	5/3		normal	TTR		

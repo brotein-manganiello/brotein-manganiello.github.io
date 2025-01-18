@@ -1,1 +1,0 @@
-﻿Vulturous Harpy	B	uncommon	Creature – Harpy 	122	B	3B	FlyingNEWLINEWhenever you attack with two or more creatures with flying, each opponent discards a card.	3/3		normal	TTR		

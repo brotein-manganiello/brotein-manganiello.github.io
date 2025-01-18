@@ -1,1 +1,0 @@
-﻿Pain's Embrace	R	common	Instant	116	R	1R	As an additional cost to cast this spell, discard a card.NEWLINEDraw two cards.			normal	ALR		FLAVORTEXT

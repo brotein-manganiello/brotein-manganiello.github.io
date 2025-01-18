@@ -1,1 +1,0 @@
-﻿Hydra	G	common	Token Creature – Hydra 	18	G			4/4		token	TTR		!related Vivien the Sagittar<4>;Endless Hydra;

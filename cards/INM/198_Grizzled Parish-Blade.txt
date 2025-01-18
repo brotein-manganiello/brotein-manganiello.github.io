@@ -1,1 +1,0 @@
-﻿Grizzled Parish-Blade	G	common	Creature – Human Soldier 	198	G	3G	Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)NEWLINEGrizzled Parish-Blade gets +3/+0 as long as you control an artifact and an enchantment.	2/5		normal	INM		VORTHOSNEWLINEKEYWARD

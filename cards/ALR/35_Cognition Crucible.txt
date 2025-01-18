@@ -1,1 +1,0 @@
-﻿Cognition Crucible	U	uncommon	Artifact	35	U	U	Embellish 2U (If you cast this spell for 2U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)NEWLINET: Target player mills a card. If you control three or more artifacts, that player mills three cards instead.			normal	ALR		

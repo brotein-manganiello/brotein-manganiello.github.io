@@ -1,1 +1,0 @@
-﻿Magmatic Violator	BR	uncommon	Creature – Elemental 	197	BR	2BR	HasteNEWLINEWhen Magmatic Violator enters, target opponent sacrifices a creature.NEWLINEAt the beginning of the end step, sacrifice Magmatic Violator.	4/1		normal	ALR		

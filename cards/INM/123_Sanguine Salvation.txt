@@ -1,1 +1,0 @@
-﻿Sanguine Salvation	B	common	Instant	123	B	1B	Target creature you control gains lifelink until end of turn. When that creature dies this turn, return it to the battlefield under your control with a +1/+1 counter on it. It becomes a Vampire in addition to its other types.			normal	INM		TRIX 

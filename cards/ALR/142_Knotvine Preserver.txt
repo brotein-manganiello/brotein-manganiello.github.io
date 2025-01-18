@@ -1,1 +1,0 @@
-﻿Knotvine Preserver	G	uncommon	Creature – Elf Shaman 	142	G	3G	Stampede – Whenever Knotvine Preserver and a creature with greater power attack, until end of turn, attacking creatures you control gain “When this creature dies, return it to its owner’s hand.”	2/4		normal	ALR		VORTHOS

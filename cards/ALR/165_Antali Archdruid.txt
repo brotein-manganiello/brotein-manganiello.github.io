@@ -1,1 +1,0 @@
-﻿Antali Archdruid	WRG	rare	Creature – Cat Druid 	165	WRG	RGW	You may play an additional land on each of your turns.NEWLINEWhenever Antali Archdruid attacks, if two or more lands entered the battlefield under your control this turn, Antali Archdruid deals 3 damage to any target and you gain 3 life.	3/3		normal	ALR		

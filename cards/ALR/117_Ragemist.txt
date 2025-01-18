@@ -1,1 +1,0 @@
-﻿Ragemist	R	common	Sorcery	117	R	R	Target creature gets +2/+0 and gains trample and haste until end of turn.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOS

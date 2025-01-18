@@ -1,1 +1,0 @@
-﻿Righteous Chaplain	W	uncommon	Creature – Human Cleric 	35	W	2WW	Other Humans you control get +1/+1.NEWLINEWhenever Righteous Chaplain or another Human you control enters, tap target creature an opponent controls.	3/3		normal	INM		alt Billy ChristianNEWLINEVORTHOS

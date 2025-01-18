@@ -1,1 +1,0 @@
-﻿Returned Minotaur	B	common	Creature – Zombie Minotaur 	115	B	2B	As long as there are three or more creature cards in your graveyard, Returned Minotaur gets +1/+1 and has menace.	3/2		normal	TTR		alt art: Pablo FernandezNEWLINEUND3R

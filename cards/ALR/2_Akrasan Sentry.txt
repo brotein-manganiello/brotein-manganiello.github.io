@@ -1,1 +1,0 @@
-﻿Akrasan Sentry	W	common	Creature – Human Knight 	2	W	2W	VigilanceNEWLINEWhen Akrasan Sentry enters, untap target creature.	2/3		normal	ALR		FLAVORTEXT

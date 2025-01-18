@@ -1,1 +1,0 @@
-﻿Exsanguinator		rare	Artifact – Equipment 	254	C	X2	Exsanguinator enters with X pain counters on it. When it enters, each opponent loses X life and you gain X life.NEWLINEEquipped creature gets +1/+0 for each pain counter on Exsanguinator.NEWLINEEquip–2 or Pay 2 life. (2 or Pay 2 life: Attach to target creature you control. Equip only as a sorcery.)			normal	INM		

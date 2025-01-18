@@ -1,1 +1,0 @@
-﻿Blessed Grounds		common	Land	265	WG		Blessed Grounds enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)NEWLINET: Add G or W.			normal	INM		VORTHOS

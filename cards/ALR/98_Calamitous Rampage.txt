@@ -1,1 +1,0 @@
-﻿Calamitous Rampage	R	common	Instant	98	RG	5R	Calamitous Rampage deals 5 damage to any target.NEWLINECycling G (G, Discard this card: Draw a card.)			normal	ALR		VORTHOS

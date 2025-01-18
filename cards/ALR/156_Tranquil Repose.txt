@@ -1,1 +1,0 @@
-﻿Tranquil Repose	G	common	Instant	156	G	2G	Prevent all combat damage that would be dealt this turn.NEWLINEDraw a card.			normal	ALR		FLAVORTEXT

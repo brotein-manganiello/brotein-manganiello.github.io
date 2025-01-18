@@ -1,1 +1,0 @@
-﻿Empyrial Reverence	WUG	rare	Enchantment	179	WUG	GWU	Permanents your opponents control enter tapped.NEWLINEWhenever a permanent enters tapped and under your control, untap it.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		

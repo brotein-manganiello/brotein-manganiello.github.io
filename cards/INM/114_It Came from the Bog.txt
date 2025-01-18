@@ -1,1 +1,0 @@
-﻿It Came from the Bog	B	common	Creature – Frog Horror 	114	B	4BB	When It Came from the Bog enters, each opponent loses 3 life and you gain 3 life.NEWLINESwampcycling 2 (2, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)	6/6		normal	INM		or 2 mana valueNEWLINEalt Greg LuzniakNEWLINENEWLINEBASIC LANDCYCLING

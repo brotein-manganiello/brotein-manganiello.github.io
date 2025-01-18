@@ -1,1 +1,0 @@
-﻿Unearth	B	common	Sorcery	96	B	B	Return target creature card with mana value 3 or less from your graveyard to the battlefield.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

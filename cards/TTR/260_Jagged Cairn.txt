@@ -1,1 +1,0 @@
-﻿Jagged Cairn		common	Land	260	RG		Jagged Cairn enters the battlefield tapped.NEWLINET: Add R or G.NEWLINE2RG, T, Sacrifice Jagged Cairn: Draw a card.			normal	TTR		!note nbslot

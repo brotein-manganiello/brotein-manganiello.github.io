@@ -1,1 +1,0 @@
-﻿green Cat Warrior 22ALR	G	common	Token Creature – Cat Warrior 	8	G			2/2		token	ALR		!exportname green Cat Warrior 22ALR

@@ -1,1 +1,0 @@
-﻿Ghastly Guidance	U	common	Sorcery	65	U	U	Put a +1/+1 counter on target creature you control. It can’t be blocked this turn.NEWLINEFlashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		

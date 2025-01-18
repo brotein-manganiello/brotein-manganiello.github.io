@@ -1,1 +1,0 @@
-﻿Blessing of Autumn	G	uncommon	Instant	171	G	2GG	Distribute three +1/+1 counters among one, two, or three target creatures you control.			normal	TTR		NEWLINERDZNEWLINEHEROISM

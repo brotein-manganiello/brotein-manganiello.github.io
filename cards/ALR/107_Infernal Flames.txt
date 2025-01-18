@@ -1,1 +1,0 @@
-﻿Infernal Flames	R	common	Sorcery	107	R	2R	Infernal Flames deals 3 damage to target player or planeswalker.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		

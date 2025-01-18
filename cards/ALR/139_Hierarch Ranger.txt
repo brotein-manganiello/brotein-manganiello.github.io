@@ -1,1 +1,0 @@
-﻿Hierarch Ranger	G	rare	Creature – Human Druid Ranger 	139	G	G	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)NEWLINET: Add G.NEWLINEWhenever Hierarch Ranger encourages a creature, add one mana of any color.	0/1		normal	ALR		!update

@@ -1,1 +1,0 @@
-﻿Cling to Undeath	B	common	Sorcery	71	B	2B	Create a 2/2 black Zombie creature token.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		VORTHOS

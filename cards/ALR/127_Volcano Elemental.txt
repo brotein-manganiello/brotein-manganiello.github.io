@@ -1,1 +1,0 @@
-﻿Volcano Elemental	R	common	Creature – Elemental 	127	R	3R	When Volcano Elemental dies, it deals 2 damage to any target.	4/2		normal	ALR		FLAVORTEXTNEWLINEQUALITYCHECK

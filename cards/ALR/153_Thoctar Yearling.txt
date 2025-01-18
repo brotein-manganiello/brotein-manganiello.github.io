@@ -1,1 +1,0 @@
-﻿Thoctar Yearling	G	uncommon	Creature – Beast 	153	G	1G	TrampleNEWLINEStampede – Whenever Thoctar Yearling and a creature with greater power attack, put a +1/+1 counter on Thoctar Yearling.	2/2		normal	ALR		VORTHOS
