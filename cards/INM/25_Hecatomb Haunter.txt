@@ -1,0 +1,1 @@
+﻿Hecatomb Haunter	W	rare	Creature – Spirit 	25	W	2WW	FlyingNEWLINEWhenever Hecatomb Haunter enters or attacks, up to one other target nonland permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)	4/3		normal	INM		

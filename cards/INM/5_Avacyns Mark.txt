@@ -1,0 +1,1 @@
+﻿Avacyn's Mark	W	uncommon	Instant	5	W	1W	Choose one –NEWLINE• You gain hexproof until end of turn.NEWLINE• Target creature you control gains double strike until end of turn.NEWLINE• Exile target card from a graveyard. You gain 4 life.			normal	INM		

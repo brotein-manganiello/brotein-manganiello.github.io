@@ -1,0 +1,1 @@
+﻿Drain Youth	B	common	Sorcery	108	B	2B	Exile target creature with power 3 or less. You gain 3 life.			normal	INM		

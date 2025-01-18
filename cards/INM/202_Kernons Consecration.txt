@@ -1,0 +1,1 @@
+﻿Kernon's Consecration	G	common	Enchantment – Aura 	202	G	1G	Enchant creatureNEWLINEEnchanted creature gets +2/+2.NEWLINE4G: Return Kernon’s Consecration from your graveyard to the battlefield attached to target creature you control. Activate only as a sorcery.			normal	INM		https://www.deviantart.com/nikulina-helena/art/Bloodmoon-838907822NEWLINEKERNONNEWLINEVORTHOS

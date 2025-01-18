@@ -1,0 +1,1 @@
+﻿Bear Spirit	G	common	Token Creature – Bear Spirit 	12	G			3/3		token	INM		!related Ursagore;

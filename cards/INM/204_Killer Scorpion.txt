@@ -1,0 +1,1 @@
+﻿Killer Scorpion	G	common	Creature – Scorpion 	204	G	3G	DeathtouchNEWLINEInvocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap Killer Scorpion.	3/3		normal	INM		alt Pauliina LinjamaNEWLINEalt Andrew DorisNEWLINEalt Kekai Kotaki

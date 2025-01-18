@@ -1,0 +1,1 @@
+﻿Curse of Nightmares	B	uncommon	Enchantment – Aura Curse 	100	B	3B	Enchant playerNEWLINEWhen Curse of Nightmares enters, destroy target creature or planeswalker enchanted player controls.NEWLINEWhenever enchanted player draws a card, they lose 1 life and you gain 1 life.			normal	INM		VORTHOS

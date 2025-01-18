@@ -1,0 +1,1 @@
+﻿Brine Cultist	U	common	Creature – Human Warlock 	48	U	2U	Invocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, Brine Cultist can’t be blocked this turn.NEWLINE5U: Draw a card.	3/2		normal	INM		alt https://www.honga.net/totalwar/warhammer3/faction.php?l=en&v=warhammer3&f=wh2_dlc11_cst_the_drowned (Bayard Wu?)

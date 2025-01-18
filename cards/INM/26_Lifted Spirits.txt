@@ -1,0 +1,1 @@
+﻿Lifted Spirits	W	common	Enchantment – Aura 	26	W	2W	Enchant creatureNEWLINEWhen Lifted Spirits enters, create a 1/1 white Spirit creature token with flying.NEWLINEEnchanted creature gets +1/+1 and has flying.			normal	INM		

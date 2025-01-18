@@ -1,0 +1,370 @@
+4_Avacyn, the Savior
+63_Fathom the Unfathomable
+92_Archdemon Shilgengar
+162_Marzela Falkenrath
+201_Kernon, Primeval Ritualist
+21_Flight of Angels
+75_Occult Metamorphosis
+126_Sorin, Vampire Maverick
+174_Utter Pandemonium
+205_Krendel of Kessig
+32_Polina Elgaud
+86_Stitched Gargantua
+135_Wurgelurg
+177_Volcanic Malignus
+214_Prayers for the Hunted
+8_Beseech Aid
+53_Cryptic Possessor
+97_Corpse Thief
+138_Charging Commando
+197_Glutton of Zhava
+12_Cathar's Armory
+56_Curse of the Breathless
+99_Curse of Fangs
+141_Curse of Hallucinations
+199_Harness Nature
+14_Cenotaph Possessor
+58_Curse of Time
+102_Dark Ascension
+148_Exhaust Possibilities
+208_Mistwood Rites
+16_Dawnhart's Envoy
+67_Krothuss, Abyssal Terror
+104_Deathless Butcher
+151_Fangs of Wesgoth
+209_Molderkin
+25_Hecatomb Haunter
+72_Nephalia Inquisitors
+106_Doomsday Horde
+158_Infernal Direwolf
+213_Phantom of Wolf's Run
+30_Outrider Captain
+73_Nervewing Skaab
+110_Falkenrath Bladesire
+161_Leyran Spellchainer
+218_Risen Lumberknot
+34_Resting Tombs
+77_Paranormal Convergence
+115_Left for Dead
+164_Pyromantic Duo
+223_Ulvenwald Ranger
+43_Sword of the Heavens
+84_Snag Apparition
+121_Oswin, Skirsdag Diabolist
+171_Tallowkeep
+224_Ursagore
+44_Traft, Lunarch's Edge
+88_Undercroft Portal
+128_Syphon Dreams
+180_Welcome to the Ashmouth
+225_Vartrossen Primalist
+1_Alabaster Halo
+47_Braineater Abominus
+94_Bone Lich
+139_Clash at Geier Reach
+181_Adderblade Exterminator
+3_Angel of Sunrise
+55_Curse of Scuttling Thoughts
+95_Carnage Throne
+142_Curse of Raining Daggers
+183_Barge Through
+5_Avacyn's Mark
+57_Curse of the Tattletale
+100_Curse of Nightmares
+144_Curse of the Hunter's Moon
+185_Brambleswine
+7_Beckoning Possessor
+59_Drunau Egg
+103_Death Undone
+146_Dance with Devils
+186_Brutalizer Gear
+9_Blessed Bladewright
+60_Ensnaring Possessor
+105_Diregraf Skulleater
+154_Hanweir Miscreant
+187_Cabin Golem
+13_Cathedral Gargoyle
+66_Havengul Banshee
+107_Dowager of Traublassen
+156_Hellfreaks
+189_Curse of Venom
+19_Evanescence
+69_Mistmourner
+113_Grim Raven of Wesgoth
+157_Ignite the Future
+190_Dawnhart Ceremony
+24_Haunted Waif
+70_Morkrut Gryff
+118_Malicious Eclipse
+159_Irascible Bloodwitch
+196_Gavony Cavaliers
+31_Phantom Presence
+74_Niblis of Hail
+122_Plague Herald
+160_Kessig Jeweler
+200_Hungering Howlpack
+33_Puresoul Possessor
+76_Omendancer
+125_Skirsdag Edict
+163_Obsidian Hellkite
+215_Primordial Slime
+35_Righteous Chaplain
+81_Severed Hands
+130_Umbersteed
+165_Silvershot Crossbow
+217_Pushing Daisies
+36_Sacralize
+82_Shackled Memories
+132_Undead Necromancer
+170_Surfacing Horripede
+219_Rosenhulk
+38_Silverblade Cathar
+85_Spine-Chilling Discovery
+134_Vespercloak Vampire
+179_Voldaren Heartslicer
+222_Treeline Archer
+2_Alert the Village
+46_Body and Mind
+91_Acolyte of Griselbrand
+136_Affluent Host
+182_Banewidow
+6_Avacyn's Partisan
+48_Brine Cultist
+93_Augury of Misfortunes
+137_Alchemist's Grimoire
+184_Blossoming Defense
+10_Breaking Dawn
+49_Carrion Drake
+96_Contagious Ghoul
+140_Crater Thing
+188_Creep of the Crop
+11_Candlecrown Stag
+50_Claim of the Deep
+98_Crypt Viper
+143_Curse of Slaughter
+191_Dawnhart Druid
+15_﻿Cobblespook
+51_Corrupted Sorcerer
+101_Curse of the Unburied
+145_Curse of the Vein
+192_Death in Bloom
+17_Departed Butler
+52_Covetous Possessor
+108_Drain Youth
+147_Embercut Duelist
+193_Desperate Botanist
+18_Drogskol Possessor
+54_Curse of Doubt
+109_Dread Elk
+149_Faithless Razing
+194_Druid's Grimoire
+20_Flawless Finesse
+61_Erase Identity
+111_Falkenrath Ordainer
+150_Falkenrath Fletcher
+195_Entropy's Descent
+22_Frightful Visitation
+62_Escaped Ooze
+112_Final Destination
+152_Go Feral
+198_Grizzled Parish-Blade
+23_Harvesttide Healer
+64_Geistmage's Grimoire
+114_It Came from the Bog
+153_Grasping Carriage
+202_Kernon's Consecration
+26_Lifted Spirits
+65_Ghastly Guidance
+116_Lich's Grimoire
+155_Hatefire
+203_Kessig Woodcutter
+27_Loyal Retriever
+68_Memory Surgeon
+117_Lone Zombie
+166_Skirsdag Ritualist
+204_Killer Scorpion
+28_Moonscythe
+71_Nebelgast Possessor
+119_Markov Fencer
+167_Stensia Cavalcade
+206_Lambholt Tracker
+29_Moorland Slayer
+78_Remove Soul
+120_Olivia's Offer
+168_Stromkirk Sangromancer
+207_Lycanthropic Outburst
+37_Sigarda's Shepherd
+79_Scare Away
+123_Sanguine Salvation
+169_Suffer the Blade
+210_Moldgraf Wurm
+39_Slayer's Grimoire
+80_Seagraf Shamblers
+124_Shilgengar's Harvester
+172_Torch Reveler
+211_Never Give Up
+40_Spectral Salvo
+83_Skaab Grappler
+127_Strangleroot's Clutches
+173_Troublesome Throng
+212_Orchard Overseer
+41_Stalwart Cathar
+87_Sunken One
+129_True Blood
+175_Vampiric Vice
+216_Prowling Wolf
+42_Subdue the Monster
+89_Unethical Research
+131_Undead Hex
+176_Volatile Alchemist
+220_Somberwald Rider
+45_Weizenmother
+90_Widow Wisp
+133_Undead Servant
+178_Voldaren Crypt-Guard
+221_Terror of the Ulvenwald
+er
+er
+er
+er
+er
+226_Bruna, Shepherd of Souls
+230_Drownyard Colossus
+245_Olivia Voldaren, Progenitrix
+249_Valseid, Leyran Brute
+233_Ghrin-Danu, the Dawnhart
+248_Tattergeist
+229_Drownyard Captain
+250_Voldaren Sovereign
+238_Leyran Hunting Pack
+247_Sigarda, Dawn of Mercy
+e
+e
+e
+e
+236_Heron's Grace Patrol
+er
+er
+er
+er
+er
+228_Divine Decree
+237_Krallenmaw, the Tempter
+241_Makodonis, Master of Form
+227_Curse of Whispers
+234_Gisela, Blade of Morning
+239_Liesa, Enemy of Shadow
+232_Garden Ghoul
+242_Makodonis's Wolfbro
+243_Malevolus
+235_Goldnight Seraph
+244_March of the Unhallowed
+e
+240_Liturgy of Brine
+e
+e
+er
+er
+er
+er
+er
+231_Edgar Markov, Bloodsire
+246_The Selhoff Twins
+e
+e
+e
+er
+er
+er
+er
+er
+254_Exsanguinator
+257_Helvault, Shard of the Moon
+259_Phylactery of Forbidden Arts
+261_Scrolls of Succession
+264_The Wickerscreech of Gatstaf
+251_Angelic Statue
+253_Demonrune Wall
+256_Harvesttide Nemesis
+263_Survivor's Torch
+252_Bodyless Knight
+255_Guardian Grotesque
+258_Hunter's Arsenal
+260_Pulse Seeker
+262_Soul-Capturing Lantern
+e
+er
+er
+er
+er
+er
+269_Fog-Ridden Wharf
+273_Macabre Pools
+272_Hellfire Crater
+267_Eerie Wildwood
+265_Blessed Grounds
+277_Solemn Bastion
+274_Putrid Corcass
+275_Secret Lagoon
+266_Coastal Cairn
+278_Sunswept Grange
+e
+1_Wesgoth Cemetery
+e
+e
+e
+er
+er
+er
+er
+er
+268_Elgaud Fortress
+270_Genesis Grove
+271_Ghoulcaller's Graf
+276_Sinister Thicket
+e
+er
+er
+er
+er
+er
+279_Plains
+282_Island
+285_Swamp
+288_Mountain
+291_Forest
+280_Plains2
+283_Island2
+286_Swamp2
+289_Mountain2
+292_Forest2
+281_Plains3
+284_Island3
+287_Swamp3
+290_Mountain3
+293_Forest3
+er
+er
+er
+er
+er
+1t_Angel
+2t_Human
+3t_Intangible Virtue
+4t_Spirit
+5t_Crab
+6t_Bat
+7t_Human Warlock
+8t_Zombie
+9t_Devil
+10t_Elemental Spirit
+11t_Human Survivor
+12t_Bear Spirit
+13t_Plant
+14t_Wolf
+15t_Vampire
+16t_Treasure
+17t_Weapon
+e
+e
+e

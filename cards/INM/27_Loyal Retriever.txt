@@ -1,0 +1,1 @@
+﻿Loyal Retriever	W	common	Creature – Dog 	27	W	2W	Foreshadow 5W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Loyal Retriever dies, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.	3/2		normal	INM		

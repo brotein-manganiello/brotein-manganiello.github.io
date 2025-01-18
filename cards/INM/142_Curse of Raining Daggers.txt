@@ -1,0 +1,1 @@
+﻿Curse of Raining Daggers	R	uncommon	Enchantment – Aura Curse 	142	R	2R	Enchant playerNEWLINEWhenever enchanted player casts a spell, Curse of Raining Daggers deals 1 damage to them.NEWLINEWhenever one or more creatures deal combat damage to enchanted player, you create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	INM		

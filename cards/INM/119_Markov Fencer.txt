@@ -1,0 +1,1 @@
+﻿Markov Fencer	B	common	Creature – Vampire Knight 	119	WB	1B	2W: Markov Fencer gains first strike until end of turn. You gain 1 life.	2/2		normal	INM		OFFCOLORNEWLINEVORTHOS

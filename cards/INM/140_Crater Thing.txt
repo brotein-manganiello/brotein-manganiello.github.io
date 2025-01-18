@@ -1,0 +1,1 @@
+﻿Crater Thing	R	common	Creature – Elemental Horror 	140	R	4RR	ReachNEWLINEWhen Crater Thing enters, it deals 3 damage to up to one target creature or planeswalker.NEWLINEMountaincycling 2 (2, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)	3/3		normal	INM		BASIC LANDCYCLINGNEWLINEVORTHOS

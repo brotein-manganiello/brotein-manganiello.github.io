@@ -1,0 +1,1 @@
+﻿Skirsdag Edict	B	uncommon	Sorcery	125	B	1B	Choose one –NEWLINE• Each opponent sacrifices a creature.NEWLINE• Each opponent sacrifices a planeswalker.NEWLINE• Each opponent sacrifices an enchantment.NEWLINEFlashback–4B, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt AlaiaoraxNEWLINECHARM

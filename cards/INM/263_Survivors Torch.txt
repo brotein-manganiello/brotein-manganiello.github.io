@@ -1,0 +1,1 @@
+﻿Survivor's Torch		uncommon	Artifact – Equipment 	263	C	0	Whenever equipped creature attacks, choose one –NEWLINE• Tap target creature.NEWLINE• Draw a card, then discard a card.NEWLINE• Exile target card from a graveyard.NEWLINEEquip 3			normal	INM		

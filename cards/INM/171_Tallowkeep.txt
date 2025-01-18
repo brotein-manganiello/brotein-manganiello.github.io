@@ -1,0 +1,1 @@
+﻿Tallowkeep	R	rare	Artifact Creature – Scarecrow 	171	R	2R	Trample, reachNEWLINETallowkeep enters with two wax counters on it.NEWLINEWhenever Tallowkeep attacks, remove a wax counter from it. Then if Tallowkeep has no wax counters on it, sacrifice it.NEWLINEWhenever another artifact you control enters, put a wax counter on Tallowkeep.	5/5		normal	INM		

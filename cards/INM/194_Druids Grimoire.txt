@@ -1,0 +1,1 @@
+﻿Druid's Grimoire	G	common	Artifact	194	G	3G	When Druid’s Grimoire enters, create two 2/2 green Wolf creature tokens.NEWLINET: Add G.			normal	INM		CLASHES WITH LYCANTROPHIC OUTBURSTNEWLINERobert Laskey altNEWLINEhttps://www.artstation.com/artwork/6aVE8r

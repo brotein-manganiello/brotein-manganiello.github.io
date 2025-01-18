@@ -1,0 +1,1 @@
+﻿Cobblespook	W	common	Creature – Spirit 	15	W	W	FlashNEWLINEFlyingNEWLINEWhen Cobblespook enters, tap target artifact or creature an opponent controls.	1/1		normal	INM		alt

@@ -1,0 +1,1 @@
+﻿Curse of the Hunter's Moon	R	uncommon	Enchantment – Aura Curse 	144	R	1R	Enchant playerNEWLINEWhen Curse of the Hunter’s Moon enters, create a 2/2 green Wolf creature token.NEWLINEWhenever enchanted player is attacked, the attacking player adds R. Until end of turn, that player doesn’t lose that mana as steps and phases end.			normal	INM		
