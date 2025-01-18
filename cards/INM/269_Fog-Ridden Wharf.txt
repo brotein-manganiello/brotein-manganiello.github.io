@@ -1,0 +1,1 @@
+﻿Fog-Ridden Wharf		common	Land	269	WU		Fog-Ridden Wharf enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)NEWLINET: Add W or U.			normal	INM		alt https://www.deviantart.com/ferdinandladera/art/The-Gloomport-alley-886384378NEWLINEVORTHOS

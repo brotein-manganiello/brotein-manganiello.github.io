@@ -1,0 +1,1 @@
+﻿Left for Dead	B	rare	Enchantment	115	B	2BB	When Left for Dead enters, create four 1/1 red Human Survivor creature tokens. Those tokens gain haste until end of turn.NEWLINEAt the beginning of your end step, sacrifice a Survivor. If you do, draw a card. Then if you control no Survivors, sacrifice Left for Dead.			normal	INM		alt https://www.artstation.com/artwork/DA8BV9

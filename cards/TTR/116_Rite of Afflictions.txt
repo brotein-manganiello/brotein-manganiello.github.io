@@ -1,0 +1,1 @@
+﻿Rite of Afflictions	B	common	Instant	116	B	1B	Until end of turn, target creature gains deathtouch and “When this creature dies, return it to the battlefield tapped under its owner’s control with a +1/+1 counter on it.”			normal	TTR		NEWLINERemoval spell, can kill small thingsNEWLINENEWLINEJuho HuttunenNEWLINENEWLINEalt art https://sv.bagoum.com/cards/106614010

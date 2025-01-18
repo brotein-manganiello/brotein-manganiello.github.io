@@ -1,0 +1,1 @@
+﻿Mox Marble		common	Mono Artifact	156	C	0	Add 1 colorless mana to your mana pool. NEWLINETapping this artifact can be played as anNEWLINEinterrupt.		Add 1 colorless mana to your mana pool. NEWLINETapping this artifact can be played as anNEWLINEinterrupt.	planeswalker	MTG		Colorless Moxen

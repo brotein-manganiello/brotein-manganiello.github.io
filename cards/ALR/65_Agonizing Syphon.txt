@@ -1,0 +1,1 @@
+﻿Agonizing Syphon	B	common	Sorcery	65	B	3B	Agonizing Syphon deals 3 damage to any target and you gain 3 life.			normal	ALR		FLAVORTEXT

@@ -1,0 +1,1 @@
+﻿Cosmic Catastrophe	R	common	Instant	139	R	4R	Cosmic Catastrophe deals 6 damage to target creature or planeswalker. If you control a creature with power greater than its base power, Cosmic Catastrophe deals 3 damage to each opponent.			normal	TTR		CN24: 3RR –> 4RNEWLINEBloodstrength

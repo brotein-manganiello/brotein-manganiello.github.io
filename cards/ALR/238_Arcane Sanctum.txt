@@ -1,0 +1,1 @@
+﻿Arcane Sanctum		uncommon	Land	238	WUB		Arcane Sanctum enters tapped.NEWLINET: Add W, U, or B.			normal	ALR		!tappedNEWLINENEWLINEVORTHOS

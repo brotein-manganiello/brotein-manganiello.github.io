@@ -1,0 +1,1 @@
+﻿Ancient Vitality	W	common	Instant	2	W	2W	Target creature gains indestructible until end of turn. Untap it.NEWLINEDraw a card.			normal	TTR		HEROISM

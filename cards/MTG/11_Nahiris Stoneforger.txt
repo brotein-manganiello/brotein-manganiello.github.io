@@ -1,0 +1,1 @@
+﻿Nahiri's Stoneforger	W	rare	Creature – Kor Artificer 	11	W	2WW	Lieutenant – Whenever an Equipment enters the battlefield under your control, choose one. If you control your commander, choose both.NEWLINE• Put two +1/+1 counters on Nahiri’s Stoneforger. You gain 2 life.NEWLINE• Draw a card.	2/2		normal	MTG		

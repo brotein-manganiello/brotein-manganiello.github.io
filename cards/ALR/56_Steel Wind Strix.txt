@@ -1,0 +1,1 @@
+﻿Steel Wind Strix	U	common	Artifact Creature – Bird 	56	U	2U	FlyingNEWLINEEmbellish 4U (If you cast this spell for 4U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)	2/2		normal	ALR		FLAVORTEXT

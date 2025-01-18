@@ -1,0 +1,1 @@
+﻿Angel of Sunrise	W	uncommon	Creature – Angel 	3	W	5W	This spell costs X less to cast, where X is the amount of life you gained this turn.NEWLINEFlyingNEWLINEWhen Angel of Sunrise enters, each opponent exiles a Spirit, Vampire, Werewolf, Zombie, or double-faced permanent they control.	4/4		normal	INM		

@@ -1,0 +1,1 @@
+﻿Vespercloak Vampire	B	uncommon	Creature – Vampire 	134	B	1B	Foreshadow 3B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Vespercloak Vampire dies, create a 1/1 black Bat creature token with flying and lifelink.	2/1		normal	INM		alt Naranbaatar Ganbold

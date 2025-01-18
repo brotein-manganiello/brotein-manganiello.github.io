@@ -1,0 +1,1 @@
+﻿Undead Servant	B	common	Creature – Zombie 	133	B	3B	When Undead Servant enters, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.	3/2		normal	INM		Adam WesierskiNEWLINEVORTHOS

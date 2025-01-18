@@ -1,0 +1,1 @@
+﻿Fear of Low-Budget Slashers	B	rare	Enchantment Creature – Horror 	49	B	X2BB	Impending 2–1BBNEWLINEWhen Fear of Low-Budget Slashers enters, if it’s a creature, manifest dread X times.NEWLINEWhenever you remove a time counter from Fear of Low-Budget Slashers, manifest dread.	4/4		normal	MTG		

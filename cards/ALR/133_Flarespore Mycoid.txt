@@ -1,0 +1,1 @@
+﻿Flarespore Mycoid	G	common	Creature – Fungus 	133	RG	3G	3R: Target creature can’t block this turn.	4/4		normal	ALR		FLAVORTEXT

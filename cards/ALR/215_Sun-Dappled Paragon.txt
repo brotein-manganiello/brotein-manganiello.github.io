@@ -1,0 +1,1 @@
+﻿Sun-Dappled Paragon	WG	uncommon	Creature – Human Knight 	215	WG	1GW	Sun-Dappled Paragon enters with a +1/+1 counter on it for each other creature you control.NEWLINEWhenever another creature you control enters, put a +1/+1 counter on Sun-Dappled Paragon.	1/1		normal	ALR		

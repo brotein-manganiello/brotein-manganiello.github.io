@@ -1,0 +1,1 @@
+﻿Jungle Shrine		uncommon	Land	250	WRG		Jungle Shrine enters tapped.NEWLINET: Add R, G, or W.			normal	ALR		!tappedNEWLINENEWLINEVORTHOS

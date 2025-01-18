@@ -1,0 +1,1 @@
+﻿Festive Euphoria	G	rare	Enchantment – Aura 	177	G	4G	Enchant creature you controlNEWLINEWhen Festive Euphoria enters the battlefield, you gain life and draw cards equal to enchanted creature’s power.NEWLINEEnchanted creature can’t be blocked by creatures with power 2 or less.			normal	TTR		#RAREAURA

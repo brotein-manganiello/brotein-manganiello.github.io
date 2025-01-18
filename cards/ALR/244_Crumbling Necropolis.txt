@@ -1,0 +1,1 @@
+﻿Crumbling Necropolis		uncommon	Land	244	UBR		Crumbling Necropolis enters tapped.NEWLINET: Add U, B, or R.			normal	ALR		!tappedNEWLINENEWLINEVORTHOS

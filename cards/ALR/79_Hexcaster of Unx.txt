@@ -1,0 +1,1 @@
+﻿Hexcaster of Unx	B	common	Creature – Zombie Warlock 	79	B	1B	Whenever you cast an instant or sorcery spell, each opponent loses 1 life and you gain 1 life.	2/2		normal	ALR		FLAVORTEXT

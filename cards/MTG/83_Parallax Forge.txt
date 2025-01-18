@@ -1,0 +1,1 @@
+﻿Parallax Forge	R	rare	Enchant World	83	R	2R	Fading 5NEWLINERemove a fade counter from Parallax Forge: Remove target artifact from the game.NEWLINEWhen Parallax Forge leaves play, each player returns to play all cards he or she owns removed from the game with Parallax Forge.			normal	MTG		it speaks for itself

@@ -1,0 +1,1 @@
+﻿Perilous Sojourn	B	common	Instant	86	B	1B	Mill three cards, then you may return a creature or land card from your graveyard to your hand.			normal	ALR		FLAVORTEXT

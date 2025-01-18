@@ -1,0 +1,1 @@
+﻿Purehorn Rescuer	W	uncommon	Creature – Unicorn 	36	W	3WW	FlashNEWLINEWhen Purehorn Rescuer enters the battlefield, return target permanent card with mana value X or less from your graveyard to the battlefield, where X is your devotion to white. (Each W in the mana costs of permanents you control counts toward your devotion to white.)	3/3		normal	TTR		

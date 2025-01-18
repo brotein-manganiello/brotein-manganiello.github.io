@@ -1,0 +1,1 @@
+﻿Hand of Death	B	rare	Sorcery	51	B	2B	Destroy target nonblack creature.			normal	MTG		it speaks for itself

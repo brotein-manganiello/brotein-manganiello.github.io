@@ -1,0 +1,1 @@
+﻿Jungle Battlemage	G	uncommon	Creature – Elf Shaman 	140	WRG	1G	1R: Exile the top card of your library. If it’s a creature card, you may play it until the end of your next turn.NEWLINE4W: Put two +1/+1 counters on target creature.	2/1		normal	ALR		VORTHOS

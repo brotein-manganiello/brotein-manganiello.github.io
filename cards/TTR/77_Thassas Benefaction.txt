@@ -1,0 +1,1 @@
+﻿Thassa's Benefaction	U	common	Enchantment – Aura 	77	U	1U	Enchant creature you controlNEWLINEWhen Thassa’s Benefaction enters the battlefield, scry 2.NEWLINEEnchanted creature gets +1/+0 and has flying.			normal	TTR		HEROISMNEWLINEAZORIUSNEWLINEalt Pascal Quidault (Helios)

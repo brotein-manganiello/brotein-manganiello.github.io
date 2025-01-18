@@ -1,0 +1,1 @@
+﻿Maelstrom Slicer	R	rare	Creature – Minotaur Warrior 	110	R	3R	MenaceNEWLINEStampede – Whenever Maelstrom Slicer and a creature with greater power attack, exile the top three cards of your library. You may play those cards until end of turn.	2/4		normal	ALR		VORTHOS

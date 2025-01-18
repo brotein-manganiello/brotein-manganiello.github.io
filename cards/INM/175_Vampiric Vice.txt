@@ -1,0 +1,1 @@
+﻿Vampiric Vice	R	common	Instant	175	R	1R	Vampiric Vice deals 3 damage to target creature or planeswalker. Vampiric Vice also deals 2 damage to that permanent’s controller if you control a Vampire.			normal	INM		alt Joshiua Raphael

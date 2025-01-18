@@ -1,0 +1,1 @@
+﻿Subduing Serum	U	common	Instant	58	U	2U	Tap up to two target creatures. Those creatures don’t untap during their controller’s next untap step.			normal	ALR		FLAVORTEXT

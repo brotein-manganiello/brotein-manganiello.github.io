@@ -1,0 +1,1 @@
+﻿Copy	WU	uncommon	Instant	147	WUG	1WU	Each other creature you control becomes a copy of target nonlegendary creature you control until end of turn.			split	MTG		Paste	WG	Instant	WUG	2GW	Remove target attacking creature from the game. Put a 1/1 green Saproling creature token into play. 				it speaks for itself

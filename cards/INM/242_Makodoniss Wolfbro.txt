@@ -1,0 +1,1 @@
+﻿Makodonis's Wolfbro	UG	rare	Creature – Wolf Gymbro 	242	UG	2GU	You have no maximum hand size.NEWLINEWhenever Makodonis’s Wolfbro attacks, if its power is greater than its base power, draw cards equal to the difference.	4/4		normal	INM		

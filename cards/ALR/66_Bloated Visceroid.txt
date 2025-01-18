@@ -1,0 +1,1 @@
+﻿Bloated Visceroid	B	uncommon	Creature – Zombie Horror 	66	B	3B	Cycling 2 (2, Discard this card: Draw a card.)NEWLINE3BB, Exile Bloated Visceroid from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.	3/2		normal	ALR		

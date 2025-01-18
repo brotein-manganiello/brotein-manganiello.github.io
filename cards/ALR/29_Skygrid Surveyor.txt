@@ -1,0 +1,1 @@
+﻿Skygrid Surveyor	W	common	Artifact Creature – Thopter 	29	WU	4W	FlyingNEWLINECycling U (U, Discard this card: Draw a card.)	3/3		normal	ALR		FLAVORTEXT 

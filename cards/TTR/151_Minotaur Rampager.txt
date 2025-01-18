@@ -1,0 +1,1 @@
+﻿Minotaur Rampager	R	common	Creature – Minotaur Berserker 	151	R	3R	Colossal 3–6R (You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay 6R as a sorcery: Put three +1/+1 counters on it if it has none.)	5/2		normal	TTR		NEWLINE3KLS7

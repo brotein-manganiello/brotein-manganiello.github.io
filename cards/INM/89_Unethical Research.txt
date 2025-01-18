@@ -1,0 +1,1 @@
+﻿Unethical Research	U	common	Sorcery	89	UB	U	Surveil 1, then draw a card.NEWLINEFlashback–2B, Pay 1 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Cantrip/card filtering (aka drawing some number of cards and then discarding)NEWLINEOFFCOLORNEWLINEVORTHOS

@@ -1,0 +1,1 @@
+﻿Sunken One	U	common	Creature – Octopus Horror 	87	U	4UU	Whenever Sunken One attacks, target creature defending player controls gets -13/-0 until end of turn.NEWLINEIslandcycling 2 (2, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)	5/5		normal	INM		BASIC LANDCYCLING

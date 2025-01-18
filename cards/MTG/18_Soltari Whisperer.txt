@@ -1,0 +1,1 @@
+﻿Soltari Whisperer	W	common	Summon Monk	18	W	2WW	Shadow (This creature can block or be blocked by only creatures with shadow.)NEWLINEFor each 1 damage Soltari Whisperer deals, gain 1 life.	2/1		normal	MTG		it speaks for itself

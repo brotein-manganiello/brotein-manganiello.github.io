@@ -1,0 +1,1 @@
+﻿Devourer of Dread	B	uncommon	Creature – Nightmare 	89	B	B	Flying, hasteNEWLINE2B: Devourer of Dread gets +1/+1 until end of turn. If there are three or more creature cards in your graveyard, put a +1/+1 counter on Devourer of Dread instead.	1/1		normal	TTR		UND3R

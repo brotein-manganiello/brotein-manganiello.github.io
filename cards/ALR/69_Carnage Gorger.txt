@@ -1,0 +1,1 @@
+﻿Carnage Gorger	B	common	Creature – Insect 	69	B	3B	Whenever another creature you control dies, put a +1/+1 counter on Carnage Gorger.	3/3		normal	ALR		FLAVORTEXT

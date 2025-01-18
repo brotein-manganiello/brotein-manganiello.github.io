@@ -1,0 +1,1 @@
+﻿Sun-Blessed Hoplite	W	common	Creature – Human Soldier 	39	W	2WW	When Sun-Blessed Hoplite enters the battlefield, target creature you control gets +X/+X until end of turn, where X is your devotion to white. (Each W in the mana costs of permanents you control counts toward your devotion to white.)	3/3		normal	TTR		

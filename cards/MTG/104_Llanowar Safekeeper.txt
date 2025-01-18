@@ -1,0 +1,1 @@
+﻿Llanowar Safekeeper	G	uncommon	Creature – Elf 	104	G	3G	When Llanowar Safekeeper is put into a graveyard from play, return up to two enchantments from your graveyard to your hand.NEWLINE2, Sacrifice an enchantment: Draw a card.	2/2		normal	MTG		it speaks for itself

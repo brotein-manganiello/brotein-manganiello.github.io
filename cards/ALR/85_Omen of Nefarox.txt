@@ -1,0 +1,1 @@
+﻿Omen of Nefarox	B	common	Instant	85	B	2B	Target creature gets -5/-5 until end of turn. Scry 1.			normal	ALR		FLAVORTEXT

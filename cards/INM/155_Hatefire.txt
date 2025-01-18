@@ -1,0 +1,1 @@
+﻿Hatefire	R	common	Instant	155	R	4R	This spell costs 3 less to cast if a creature died this turn.NEWLINEHatefire deals 6 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.			normal	INM		alt Muhamad Faizal Fikri

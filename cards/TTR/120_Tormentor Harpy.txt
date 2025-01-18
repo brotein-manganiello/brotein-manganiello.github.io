@@ -1,0 +1,1 @@
+﻿Tormentor Harpy	B	common	Creature – Harpy Horror 	120	B	5B	FlyingNEWLINEWhen Tormentor Harpy enters the battlefield, if there are three or more creature cards in your graveyard, target creature an opponent controls gets -3/-3 until end of turn.	3/3		normal	TTR		UND3R

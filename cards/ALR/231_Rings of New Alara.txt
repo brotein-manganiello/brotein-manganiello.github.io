@@ -1,0 +1,1 @@
+﻿Rings of New Alara		uncommon	Artifact	231	C	2	T: Add one mana of any color. Activate only if you control a multicolored permanent or there is a multicolored card in your graveyard.			normal	ALR		VORTHOS

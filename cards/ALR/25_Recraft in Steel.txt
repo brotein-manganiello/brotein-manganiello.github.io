@@ -1,0 +1,1 @@
+﻿Recraft in Steel	W	common	Instant	25	W	1W	Choose one or both –NEWLINE• Destroy target enchantment.NEWLINE• Return target artifact card from your graveyard to your hand.			normal	ALR		FLAVORTEXT

@@ -1,0 +1,1 @@
+﻿Nephalia Inquisitors	U	rare	Creature – Human Soldier 	72	U	3U	FlashNEWLINEVigilanceNEWLINEWhen Nephalia Inquisitors enters, draw a card for each creature that died this turn.	3/3		normal	INM		Each counter on permanents your opponents control are stun counters in addition to their other kinds.

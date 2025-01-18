@@ -1,0 +1,1 @@
+﻿Military Authority	W	common	Enchantment – Aura 	27	W	3W	Enchant creature you controlNEWLINEWhen Military Authority enters the battlefield, create two 1/1 white Soldier creature tokens.NEWLINEEnchanted creature gets +2/+2.			normal	TTR		HEROISM

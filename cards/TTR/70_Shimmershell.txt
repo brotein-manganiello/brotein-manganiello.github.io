@@ -1,0 +1,1 @@
+﻿Shimmershell	U	common	Enchantment Creature – Crab Oyster 	70	U	1U	Whenever you scry, put a +1/+1 counter on Shimmershell.	1/1		normal	TTR		2/10 – Added Ward 2NEWLINEAZORIUSNEWLINEEither 0 power creature, creature with defender, or non-creatureNEWLINEPearlescent 

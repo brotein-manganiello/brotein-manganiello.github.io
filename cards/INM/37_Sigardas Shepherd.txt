@@ -1,0 +1,1 @@
+﻿Sigarda's Shepherd	W	common	Creature – Angel 	37	W	4W	FlyingNEWLINEWhen Sigarda’s Shepherd enters, another target creature you control gains indestructible until end of turn.	3/4		normal	INM		alt Aldo Domínguez

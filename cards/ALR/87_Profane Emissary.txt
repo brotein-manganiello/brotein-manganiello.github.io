@@ -1,0 +1,1 @@
+﻿Profane Emissary	B	mythic	Creature – Human Warlock 	87	B	BB	Profane Emissary gets +2/+2 and has lifelink as long as you control a Demon.NEWLINEIf you would draw a card, you may instead search your library for a Demon card, reveal it, and put it into your hand, then shuffle. You lose life equal to that card’s mana value.	2/2		normal	ALR		REDESIGN

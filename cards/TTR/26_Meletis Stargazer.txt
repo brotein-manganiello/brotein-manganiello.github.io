@@ -1,0 +1,1 @@
+﻿Meletis Stargazer	W	rare	Creature – Human Wizard 	26	W	2W	Heroic – Whenever you cast a spell that targets Meletis Stargazer, scry 2.NEWLINET: Look at the top card of your library. If it’s a permanent card with mana value 3 or less, you may reveal it and put it into your hand.	2/2		normal	TTR		AZORIUS

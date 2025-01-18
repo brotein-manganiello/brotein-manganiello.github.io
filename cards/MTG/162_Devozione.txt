@@ -1,0 +1,1 @@
+﻿Devozione	W	common	Istantaneo	162	W	2W	Le creature bloccanti prendono +0/+3 fino alla fine del turno.			normal	MTG		just like German Drudge Skeletons as a Swamp, Piety as a Plains with War Elephant ft

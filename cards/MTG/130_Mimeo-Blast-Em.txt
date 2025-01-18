@@ -1,0 +1,1 @@
+﻿Mimeo-Blast-'Em	UBG	rare	Sorcery	130	UBG	XGUBB	Destroy up to X target creatures. Put twice X +1/+1 counters on up to one target creature. Each of those creature’s controllers puts the top thrice X cards of his or her library into his or her graveyard.			normal	MTG		it speaks for itself

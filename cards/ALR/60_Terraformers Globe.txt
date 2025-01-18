@@ -1,0 +1,1 @@
+﻿Terraformer's Globe	U	common	Artifact	60	U	U	When Terraformer’s Globe enters, draw a card.NEWLINET: Target land you control becomes the basic land type of your choice until end of turn.			normal	ALR		VORTHOS

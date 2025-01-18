@@ -1,0 +1,1 @@
+﻿Elvish Godtracker	G	common	Creature – Elf Shaman 	131	G	1G	4G, Sacrifice Elvish Godtracker: Create a 5/5 green Beast creature token.	2/2		normal	ALR		VORTHOS

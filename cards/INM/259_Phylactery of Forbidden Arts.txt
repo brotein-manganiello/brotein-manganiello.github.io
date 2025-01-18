@@ -1,0 +1,1 @@
+﻿Phylactery of Forbidden Arts		rare	Artifact	259	C	3	IndestructibleNEWLINEWhen Phylactery of Forbidden Arts enters, search your library for up to three instant and/or sorcery cards, put them into your graveyard, then shuffle.NEWLINET: Add two mana of any one color. Spend this mana only to cast spells from your graveyard or activate abilities from your graveyard.			normal	INM		

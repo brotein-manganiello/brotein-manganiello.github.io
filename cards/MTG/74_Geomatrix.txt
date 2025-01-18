@@ -1,0 +1,1 @@
+﻿Geomatrix		mythic	Legendary Land	74	R	R	When Geomatrix enters the battlefield, if it’s not a token, each of your teammates puts a tapped token onto the battlefield that’s a copy of Geomatrix.NEWLINET: Add C. If Geomatrix is a token, add CC instead.			normal	MTG		

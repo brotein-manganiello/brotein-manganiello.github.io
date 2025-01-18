@@ -1,0 +1,1 @@
+﻿Maul	G	common	Sorcery	187	G	G	Target creature you control gets +1/+0 until end of turn. It fights up to one target creature you don’t control. (Each deals damage equal to its power to the other.)			normal	TTR		HEROISMNEWLINEFight or bite (dealing damage equal to power)

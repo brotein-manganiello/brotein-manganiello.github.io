@@ -1,0 +1,1 @@
+﻿Dawnbringer Vanguard	W	common	Creature – Human Knight 	8	W	1WW	FlyingNEWLINEHeroic – Whenever you cast a spell that targets Dawnbringer Vanguard, tap target creature an opponent controls.	2/3		normal	TTR		

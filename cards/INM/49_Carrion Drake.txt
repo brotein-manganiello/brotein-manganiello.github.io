@@ -1,0 +1,1 @@
+﻿Carrion Drake	U	common	Creature – Zombie Drake 	49	U	3U	FlyingNEWLINEWhen Carrion Drake enters, you may exile a creature card from your graveyard. If you do, draw a card.	3/2		normal	INM		alt Sigbjorn PedersenNEWLINEVORTHOS

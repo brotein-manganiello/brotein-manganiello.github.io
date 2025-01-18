@@ -1,0 +1,1 @@
+﻿Visitarium Smuggler	UB	uncommon	Artifact Creature – Vedalken Rogue 	226	UB	UB	At the beginning of your upkeep, look at the top card of your library. If it’s an artifact card, you may reveal it and put it into your hand.	2/3		normal	ALR		VORTHOS

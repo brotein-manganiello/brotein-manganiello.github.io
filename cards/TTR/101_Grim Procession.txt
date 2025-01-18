@@ -1,0 +1,1 @@
+﻿Grim Procession	B	common	Enchantment	101	B	3B	When Grim Procession enters the battlefield, create two 2/2 black Zombie creature tokens.NEWLINE2B: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	TTR		Positive Aura or combat trickNEWLINEBayard Wu – Harpies

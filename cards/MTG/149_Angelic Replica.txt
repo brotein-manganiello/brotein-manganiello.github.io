@@ -1,0 +1,1 @@
+﻿Angelic Replica		rare	Artifact Creature – Angel 	149	W	5	FlyingNEWLINEMetalcraft – Angelic Replica is indestructible as long as you control three or more artifacts.NEWLINE1WW: Angelic Replica gains lifelink until end of turn.	4/4		normal	MTG		it speaks for itself

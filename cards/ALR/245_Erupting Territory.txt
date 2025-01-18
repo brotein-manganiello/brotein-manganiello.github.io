@@ -1,0 +1,1 @@
+﻿Erupting Territory		common	Land DUAL	245	BR		Erupting Territory enters tapped.NEWLINET: Add B or R.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

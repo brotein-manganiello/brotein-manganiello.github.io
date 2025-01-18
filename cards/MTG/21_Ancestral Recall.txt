@@ -1,0 +1,1 @@
+﻿Ancestral Recall	U	mythic	Instant	21	U	U	Target player draws three cards.			normal	MTG		

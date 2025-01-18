@@ -1,0 +1,1 @@
+﻿Cloud's Roar Avenger	W	common	Creature – Cat Warrior 	10	W	1W	Stampede – Whenever Cloud’s Roar Avenger and a creature with greater power attack, tap up to one target creature.	2/2		normal	ALR		FLAVORTEXT

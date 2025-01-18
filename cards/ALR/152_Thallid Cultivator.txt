@@ -1,0 +1,1 @@
+﻿Thallid Cultivator	G	common	Creature – Fungus 	152	G	G	When Thallid Cultivator dies, mill four cards. Return a creature card milled this way to your hand.	1/1		normal	ALR		VORTHOS

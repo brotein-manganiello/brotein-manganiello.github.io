@@ -1,0 +1,1 @@
+﻿Samite Apothecary	W	common	Summon Cleric	15	W	2W	Attacking does not cause Samite Apothecary to tap.NEWLINEW, T: Give target player 1 life.NEWLINE“A healer is worth their measure not only by their garden’s sprawl, but also by their faith in our cause.”NEWLINE–The Book of Atalya	2/3		normal	MTG		showcases 4ED white mana symbol in text, plus introduction of the (old) new tap symbol

@@ -1,0 +1,1 @@
+﻿Akroan Siege Captain	WR	uncommon	Creature – Human Soldier 	211	WR	1RW	HasteNEWLINEHeroic – Whenever you cast a spell that targets Akroan Siege Captain, put a +1/+1 counter on each creature you control.	2/2		normal	TTR		NEWLINEREDESIGN: HeroicNEWLINEARCUN

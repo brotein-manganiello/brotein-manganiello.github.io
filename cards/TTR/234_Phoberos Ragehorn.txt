@@ -1,0 +1,1 @@
+﻿Phoberos Ragehorn	BR	rare	Creature – Minotaur Warrior 	234	BR	2BR	TrampleNEWLINEPhoberos Ragehorn has haste as long as you control another Minotaur.NEWLINEWhenever Phoberos Ragehorn attacks, each player discards a card.	6/6		normal	TTR		Ari Targownik altNEWLINESimon Zhong altNEWLINEREDESIGNNEWLINEGOLDRARE

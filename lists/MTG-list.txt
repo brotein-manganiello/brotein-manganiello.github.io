@@ -1,0 +1,280 @@
+13_Opalescence
+21_Ancestral Recall
+41_Archfiend of Surrender
+75_Hadrus, Conflux Tyrant
+102_Hornet Titan
+16_Savai Storkliger
+32_Rarer Snapcaster Mage
+48_The Father of Machines Ascends
+81_Mardu Desolator
+103_Kessig Animist
+4_Aran, Sigiled Avenger
+20_Æther Kraken
+50_Gorghul, Destined to Bone
+66_Anarchist's Gambit
+98_Garruk Wildspeaker
+5_Archangel's Charm
+24_Invasion of Iquatana
+63_Yawgmoth's Will
+68_Chargoyf
+99_Ghor-Clan Demolishers
+9_Budoka Pacifist
+25_Laboratory Mischief
+40_Ad Hominem
+69_Chickensanity
+109_Turntimber Baloth
+11_Nahiri's Stoneforger
+26_Magical Overhaul
+42_Azimuth Paladin
+71_Dracomancy
+110_Vivien's Shot
+14_Ramosian Revivalist
+28_Mistform Djinn
+45_Deathless Horde
+72_Fang Yue, Viper of Hulao
+111_Wake of the Worldsoul
+6_Aven Lookouts
+29_Mu Yanling, Rainweaver
+49_Fear of Low-Budget Slashers
+78_Inscription of Violence
+104_Llanowar Safekeeper
+12_Nyxborn Pegasus
+31_Plunge Beneath Minamo
+51_Hand of Death
+83_Parallax Forge
+108_Rhystic Megasquirrel
+19_Subdue Artifact
+35_Steinar Icefist
+52_Hunt
+86_Splinter Twin
+112_Who's The Beatdown?
+3_AJANI
+36_Surgical Submission
+53_Iconic Tutor
+88_Terms of Lightning
+148_Penumbra
+7_Bazaar Griffin
+27_Mirage Drake
+54_Kraynox, the Deep Thane
+89_Thopter Rebellion
+94_Bloom of Paradise
+8_Bitter Winter
+38_Thassa's Deluge
+55_Morgoroth
+90_Twish, Rageborn
+95_Castaway's Plea
+10_Flight of Farewell
+22_Force of Crow
+56_Nothing
+67_Candleburst Cinder
+97_Erhnam-Dschinn
+15_Samite Apothecary
+23_Homarid Scout
+59_Shadow-Ears, Okiba Boss
+70_Cosi's Geomancer
+100_Gilt-Leaf Faultless
+17_Serra Angel
+30_Never-Where Occlusion
+43_Dack Fayden Fucking Dies
+80_Marchesa's Intel
+101_Grogle
+18_Soltari Whisperer
+33_Saffiyah from Serendib
+47_Face the End
+84_Sanguine Lineage
+105_Mystic of Nature's Coil
+162_Devozione
+34_Shores of Imagination
+60_Syr Ildred, the Perserverant
+64_&%!ZEAL OF HAZORET!+(
+106_Norwood Recluse
+e
+37_Sydri's Protege
+62_Vitalspine Sliver
+65_10E Tips and Tricks Scryfall
+107_Oran-Rief Expedition
+e
+167_Time Waltz
+44_Dark Moon
+73_Flame Dimension
+e
+e
+e
+46_Death's Undoing
+76_Horsing Around
+e
+e
+e
+57_Pygmy Kezzerdrix
+77_Hour of Torment
+e
+e
+e
+58_Sewers of Estark
+79_Jukai
+e
+e
+e
+61_Ulgrothan Hellkite
+82_Mirri, Defender of the Cause
+e
+e
+e
+e
+85_The Scholar
+e
+e
+e
+e
+87_Teeth of Akoum
+e
+e
+e
+e
+91_Worldwake
+e
+e
+e
+e
+92_You Are Beneath Contempt
+e
+e
+e
+e
+93_Spark Ritual
+e
+er
+er
+er
+er
+er
+113_Azor, Parun of the Senate
+123_Hound Unit Shinobi
+122_Grief and Fury
+126_Kavu Alpha
+133_Phantom Presence
+140_Skywise Regent
+116_Cazarus Zol, Plague Prince
+119_Galdir, God of Obsoletion
+136_Rosfar, Ire of Kessig
+144_Ziba, First of the Dromoka
+128_Lady Wren of Keyhole Downs
+e
+142_Voldaren Veinchanter
+114_Bloodbraid Elf
+e
+137_Sanctum of Timeless Friends
+e
+120_General Chanek Valteroth
+e
+e
+147_Copy
+e
+e
+e
+e
+er
+er
+er
+er
+er
+139_Shatter the Helvault
+146_Svogthos Ooze
+124_Humongous Croctorilla
+134_Phlage, Titan of Burning Wind
+129_Lily of Valley
+145_Banshee's Funeral Dirge
+e
+39_Twister
+125_Izzet Pest Control
+132_Ordruun Helicaster
+e
+e
+e
+135_Rock-n-Rabbits
+e
+er
+er
+er
+er
+er
+115_Brazen Coalition
+117_Ethersworn Corruptician
+138_Sarkhan of Tarkir
+127_Lady Foxglove
+130_Mimeo-Blast-'Em
+131_Mindrazer's Machinations
+141_Swordtooth Sovereign
+143_YOUNG THUNDER,
+121_Góraszjek, Gate-Waker
+118_Eye of the Maelstrom
+er
+er
+er
+er
+er
+154_Ghirapur Filly-Gree
+161_Whatchamacallit Wharf
+1_Insurmountable One
+2_Ugin's Resurgence
+96_Devastator Umbra
+149_Angelic Replica
+151_Argivian Overseer
+152_Arsenal Myr
+157_Opaline Spectacles
+150_Arcbound Catalyzer
+155_Humming Mage-Rings
+158_Sepsis Vessel
+153_Dys Chamber
+156_﻿Mox Marble
+159_Urza's Archive
+160_Wall of Spears
+e
+e
+e
+e
+er
+er
+er
+er
+er
+e
+e
+e
+74_Geomatrix
+e
+e
+164_Teonaxi, Mycoid Grotto
+e
+e
+e
+er
+er
+er
+er
+er
+163_Hall of Semantics
+165_Urza's Workshop
+e
+e
+e
+er
+er
+er
+er
+er
+166_Forest
+e
+e
+e
+e
+er
+er
+er
+er
+er
+1t_Banana
+2t_T O K E N
+e
+e
+e

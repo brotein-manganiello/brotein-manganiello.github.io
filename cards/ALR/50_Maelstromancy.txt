@@ -1,0 +1,1 @@
+﻿Maelstromancy	U	uncommon	Enchantment	50	WUBRG	U	Whenever you cycle a card, scry 1. (Do this before you draw.)NEWLINEWUBRG, Sacrifice Maelstromancy: NEWLINEReturn up to three target cards with cycling abilities from your graveyard to your hand.			normal	ALR		VORTHOS

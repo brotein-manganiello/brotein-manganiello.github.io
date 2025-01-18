@@ -1,0 +1,1 @@
+﻿Obscene Recitation	B	uncommon	Sorcery	84	B	1B	Target opponent exiles a card from their hand. Scry 2.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		VORTHOS 

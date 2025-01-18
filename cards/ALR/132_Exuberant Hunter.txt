@@ -1,0 +1,1 @@
+﻿Exuberant Hunter	G	common	Creature – Human Warrior 	132	G	2G	Stampede – Whenever Exuberant Hunter and a creature with greater power attack, draw a card.	2/3		normal	ALR		VORTHOS

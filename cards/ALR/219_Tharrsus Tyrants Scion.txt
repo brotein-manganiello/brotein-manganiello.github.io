@@ -1,0 +1,1 @@
+﻿Tharrsus, Tyrant's Scion	BRG	mythic	Legendary Creature – Dragon 	219	BRG	4BRG	FlyingNEWLINEAt the beginning of combat on your turn, gain control of up to one target creature an opponent controls. If you do, untap it, and it gets +4/+4 and gains flying and haste until end of turn. Sacrifice it at the beginning of the next end step.	8/8		normal	ALR		

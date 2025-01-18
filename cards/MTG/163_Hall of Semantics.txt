@@ -1,0 +1,1 @@
+﻿Hall of Semantics		rare	Land	163	C		T: Add C.NEWLINE1, T, Sacrifice Hall of Semantics: The next spell you cast this turn has demonstrate. (When you cast that spell, you may copy it. If you do, choose an opponent to also copy it. A copy of a permanent spell becomes a token.)			normal	MTG		

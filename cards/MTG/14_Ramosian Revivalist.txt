@@ -1,0 +1,1 @@
+﻿Ramosian Revivalist	W	rare	Creature – Rebel 	14	W	3W	When Ramosian Revivalist comes into play, shuffle all Rebel cards from your graveyard into your library.NEWLINE6, T: Search your library for a Rebel card with converted mana cost 5 or less and put that card into play. Then shuffle your library.	3/3		normal	MTG		it speaks for itself

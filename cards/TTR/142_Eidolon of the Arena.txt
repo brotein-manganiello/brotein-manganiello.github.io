@@ -1,0 +1,1 @@
+﻿Eidolon of the Arena	R	common	Enchantment Creature – Spirit 	142	R	3R	Your opponents can’t gain life.NEWLINEWhenever you cast a noncreature spell, put a +1/+1 counter on Eidolon of the Arena.	3/3		normal	TTR		

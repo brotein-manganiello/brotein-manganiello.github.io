@@ -1,0 +1,1 @@
+﻿Mystic of Nature's Coil	G	common	Summon Mystic	105	G	3G	G: Trample until end of turnNEWLINEAs long as a player controls any local enchantments in play, Mystics cannot be the target of spells or effects.NEWLINEAll Mystics get +1/+1 for each global enchantment in play.	2/2		normal	MTG		5ED rules update introduced global/local enchantments as terms

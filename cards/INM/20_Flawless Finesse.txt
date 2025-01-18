@@ -1,0 +1,1 @@
+﻿Flawless Finesse	W	common	Instant	20	W	1W	Untap target creature you control. It gains indestructible until end of turn. Create a Weapon token and attach it to that creature. (A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	INM		TRIXNEWLINEVORTHOS

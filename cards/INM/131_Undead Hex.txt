@@ -1,0 +1,1 @@
+﻿Undead Hex	B	common	Instant	131	B	BB	Target creature gets -X/-X until end of turn, where X is 2 plus the number of cards named Undead Servant in your graveyard.NEWLINEAs long as this card is in your graveyard, its name is Undead Servant.			normal	INM		Removal spell, can kill small thingsNEWLINEVORTHOSNEWLINEhttps://www.deviantart.com/sycra/art/Undead-Assault-324704093

@@ -1,0 +1,1 @@
+﻿Sharuum, Archmagocrat	WUB	mythic	Legendary Artifact Creature – Sphinx 	208	WUB	2WUB	FlashNEWLINEFlyingNEWLINEWhen Sharuum, Archmagocrat enters, return to the battlefield all nonlegendary artifact cards in your graveyard that were put there from the battlefield this turn.	4/4		normal	ALR		

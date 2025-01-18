@@ -1,0 +1,1 @@
+﻿Ambush Gharial	BRG	uncommon	Creature – Crocodile 	163	BRG	1BRG	FlashNEWLINEWhen Ambush Gharial enters, it fights up to one target creature. If that creature would die this turn, exile it instead.	3/4		normal	ALR		VORTHOS

@@ -1,0 +1,1 @@
+﻿Orlesia, First of the Sen	WUB	rare	Legendary Artifact Creature – Wizard 	201	WUB	WUB	Your opponents play with the top card of their library revealed.NEWLINEYour opponents can’t cast spells during your turn.NEWLINEYou may play lands and cast spells from the top of an opponent’s library during your turn.	1/3		normal	ALR		!banner

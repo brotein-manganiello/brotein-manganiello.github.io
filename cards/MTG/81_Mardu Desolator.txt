@@ -1,0 +1,1 @@
+﻿Mardu Desolator	R	mythic	Creature – Orc Warrior 	81	WBR	3R	HasteNEWLINEWhenever Mardu Desolator attacks, it deals 1 damage to any target. If it was turned face up this turn, instead it deals 3 damage to any target and you gain 3 life.NEWLINEMorph 2RWB (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)	3/3		normal	MTG		

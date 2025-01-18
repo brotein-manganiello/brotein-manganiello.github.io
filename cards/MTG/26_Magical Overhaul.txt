@@ -1,0 +1,1 @@
+﻿Magical Overhaul	U	rare	Enchantment	26	U	U	Whenever a player plays a spell that changes the color of a permanent or spell, or changes the text of a permanent or spell by replacing one color word or basic land type with another, you draw a card.			normal	MTG		it speaks for itself
