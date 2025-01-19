@@ -1,1 +1,0 @@
-﻿Reinbreaker Behemoth	R	common	Creature – Beast 	118	R	3R	Reinbreaker Behemoth attacks each combat if able.	5/4		normal	ALR		FLAVORTEXT

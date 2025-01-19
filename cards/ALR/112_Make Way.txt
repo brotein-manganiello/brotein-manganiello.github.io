@@ -1,1 +1,0 @@
-﻿Make Way	R	common	Enchantment – Aura 	112	R	1R	Enchant creatureNEWLINEWhen Make Way enters, draw a card.NEWLINEEnchanted creature can’t block.			normal	ALR		FLAVORTEXT

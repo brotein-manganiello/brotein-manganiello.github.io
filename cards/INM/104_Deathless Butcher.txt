@@ -1,1 +1,0 @@
-﻿Deathless Butcher	B	rare	Creature – Zombie Warrior 	104	B	3B	MenaceNEWLINEInvocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, return Deathless Butcher from your graveyard to your hand.	4/3		normal	INM		

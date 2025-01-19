@@ -1,1 +1,0 @@
-﻿Kess the Necromaster	UBR	rare	Legendary Creature – Human Wizard 	195	UBR	3UBR	Flying, deathtouchNEWLINEWhenever you cast an instant or sorcery spell, return target creature card from your graveyard to the battlefield.	3/5		normal	ALR		VORTHOS

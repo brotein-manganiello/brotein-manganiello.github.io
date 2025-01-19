@@ -1,1 +1,0 @@
-﻿Herald of the White Orchid	W	uncommon	Creature – Human Soldier 	19	W	W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)NEWLINEWhenever a creature deals combat damage to a player, if it was encouraged by Herald of the White Orchid this turn, create a 1/1 white Soldier creature token.	1/1		normal	ALR		

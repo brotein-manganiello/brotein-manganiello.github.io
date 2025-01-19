@@ -1,1 +1,0 @@
-﻿Aven Strategist	WU	uncommon	Creature – Bird Soldier 	167	WU	2WU	FlyingNEWLINEWhen Aven Strategist enters, return up to one target creature to its owner’s hand.	3/2		normal	ALR		FLAVORTEXT 

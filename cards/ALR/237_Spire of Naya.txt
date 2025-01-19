@@ -1,1 +1,0 @@
-﻿Spire of Naya		common	Artifact	237	WRG	3	T: Add R, G, or W.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

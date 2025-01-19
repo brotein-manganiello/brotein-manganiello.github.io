@@ -1,1 +1,0 @@
-﻿Lava Hellions	R	common	Creature – Hellion 	109	R	4R	TrampleNEWLINEWhenever Lava Hellions attacks, you may have it consume. If you do, it deals 2 damage to defending player. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	4/5		normal	ALR		

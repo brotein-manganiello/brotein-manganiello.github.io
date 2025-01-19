@@ -1,1 +1,0 @@
-﻿Tumultipede	BRG	rare	Creature – Insect 	223	BRG	2BRG	At the beginning of your end step, draw a card if a creature died this turn. Then Tumultipede deals 2 damage to each opponent if two or more creatures died this turn. Then create three 1/1 green Saproling creature tokens if three or more creatures died this turn.	6/6		normal	ALR		

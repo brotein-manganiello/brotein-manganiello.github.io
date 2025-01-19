@@ -1,1 +1,0 @@
-﻿Necropolis Battlemage	B	uncommon	Creature – Human Wizard 	82	UBR	1B	3U: Draw a card.NEWLINE2R: Necropolis Battlemage deals 1 damage to target player. Scry 1.	2/1		normal	ALR		VORTHOS

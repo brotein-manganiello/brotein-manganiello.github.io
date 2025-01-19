@@ -1,1 +1,0 @@
-﻿Etherium Sculptor	U	common	Artifact Creature – Vedalken Artificer 	42	U	1U	Artifact spells you cast cost 1 less to cast.	1/2		normal	ALR		FLAVORTEXT 

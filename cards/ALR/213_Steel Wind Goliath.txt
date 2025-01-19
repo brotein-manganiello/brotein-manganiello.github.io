@@ -1,1 +1,0 @@
-﻿Steel Wind Goliath	WUB	rare	Artifact Creature – Golem 	213	WUB	3WUB	FlyingNEWLINEOther creatures you control with flying get +2/+2.	5/5		normal	ALR		FLAVORTEXT

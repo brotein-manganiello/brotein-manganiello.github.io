@@ -1,1 +1,0 @@
-﻿Dissident's Vortex	U	uncommon	Sorcery	37	U	3U	Return up to one target creature to its owner’s hand. Draw a card.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		

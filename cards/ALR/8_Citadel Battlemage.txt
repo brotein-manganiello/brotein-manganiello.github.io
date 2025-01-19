@@ -1,1 +1,0 @@
-﻿Citadel Battlemage	W	uncommon	Creature – Human Wizard 	8	WUG	1W	3G: Search your library and/or graveyard for an Aura card, reveal it, and put it into your hand. If you search your library this way, shuffle.NEWLINE1U: Untap target creature.	2/1		normal	ALR		FLAVORTEXTNEWLINEQUALITYCHECK

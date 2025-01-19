@@ -1,1 +1,0 @@
-﻿Olivia's Offer	B	common	Instant	120	B	3B	Surveil 2, then you draw two cards and you lose 2 life. Create a 1/1 black and red Vampire creature token with menace. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)			normal	INM		

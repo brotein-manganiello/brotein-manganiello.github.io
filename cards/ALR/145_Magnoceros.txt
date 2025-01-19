@@ -1,1 +1,0 @@
-﻿Magnoceros	G	rare	Creature – Beast 	145	G	3GG	TrampleNEWLINEOther Beasts you control have trample.NEWLINEWhenever Magnoceros attacks, create a 5/5 green Beast creature token that’s tapped and attacking.	5/5		normal	ALR		VORTHOS 

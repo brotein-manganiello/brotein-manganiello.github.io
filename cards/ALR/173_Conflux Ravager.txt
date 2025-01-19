@@ -1,1 +1,0 @@
-﻿Conflux Ravager	WUBRG	uncommon	Creature – Elemental 	173	WUBRG	WUBRG	When Conflux Ravager enters, destroy target nonland permanent an opponent controls.NEWLINECycling 2 (2, Discard this card: Draw a card.)	4/4		normal	ALR		VORTHOS

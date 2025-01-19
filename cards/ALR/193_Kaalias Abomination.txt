@@ -1,1 +1,0 @@
-﻿Kaalia's Abomination	BR	rare	Creature – Zombie Demon Dragon 	193	BR	3BR	FlyingNEWLINEWhen Kaalia’s Abomination enters or dies, it deals 2 damage to target opponent. Then that player discards two cards.	4/4		normal	ALR		FLAVORTEXT

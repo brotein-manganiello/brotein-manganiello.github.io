@@ -1,1 +1,0 @@
-﻿Savage Battlemage	R	uncommon	Creature – Human Shaman 	121	BRG	1R	3B: You mill two cards. Each opponent loses 2 life.NEWLINE1G: You may put a land card from your hand or graveyard onto the battlefield tapped.	2/1		normal	ALR		VORTHOS

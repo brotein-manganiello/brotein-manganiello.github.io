@@ -1,1 +1,0 @@
-﻿Hegemon's Cutthroat	B	common	Artifact Creature – Human Rogue 	78	B	1B	LifelinkNEWLINEEmbellish 2B (If you cast this spell for 2B, create a 1/1 blue Thopter artifact creature token with flying when it enters.)	2/1		normal	ALR		FLAVORTEXT

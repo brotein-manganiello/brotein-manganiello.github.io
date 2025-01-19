@@ -1,1 +1,0 @@
-﻿Plains_ALR		common	Basic Land – Plains 	0	C					normal	ALR		!exportname Plains_ALR

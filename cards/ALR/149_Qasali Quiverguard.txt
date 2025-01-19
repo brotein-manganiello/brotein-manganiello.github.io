@@ -1,1 +1,0 @@
-﻿Qasali Quiverguard	G	common	Creature – Cat Warrior 	149	G	1G	ReachNEWLINEStampede – Whenever Qasali Quiverguard and a creature with greater power attack, untap all attacking creatures.	2/2		normal	ALR		

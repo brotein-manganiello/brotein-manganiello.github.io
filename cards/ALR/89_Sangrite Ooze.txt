@@ -1,1 +1,0 @@
-﻿Sangrite Ooze	B	common	Creature  – Ooze Elemental 	89	BR	4B	MenaceNEWLINECycling R (R, Discard this card: Draw a card.)	5/4		normal	ALR		FLAVORTEXTNEWLINE!banner

@@ -1,1 +1,0 @@
-﻿Chromeleon	R	common	Creature – Lizard 	100	R	R	Sacrifice Chromeleon: Add one mana of any color. Scry 1.	1/1		normal	ALR		FLAVORTEXTNEWLINE!banner

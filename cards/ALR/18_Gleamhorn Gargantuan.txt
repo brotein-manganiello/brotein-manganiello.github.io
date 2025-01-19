@@ -1,1 +1,0 @@
-﻿Gleamhorn Gargantuan	W	common	Creature – Beast 	18	W	4W	When Gleamhorn Gargantuan enters, put a +1/+1 counter on up to one other target creature.NEWLINECycling 2 (2, Discard this card: Draw a card.)	5/3		normal	ALR		VORTHOS

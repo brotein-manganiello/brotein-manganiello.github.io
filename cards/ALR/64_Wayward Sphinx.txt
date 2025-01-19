@@ -1,1 +1,0 @@
-﻿Wayward Sphinx	U	uncommon	Artifact Creature – Sphinx 	64	U	5U	FlyingNEWLINECycling 2 (2, Discard this card: Draw a card.)	4/5		normal	ALR		FLAVORTEXT

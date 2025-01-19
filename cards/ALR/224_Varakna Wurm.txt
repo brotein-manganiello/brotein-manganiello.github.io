@@ -1,1 +1,0 @@
-﻿Varakna Wurm	BRG	common	Creature – Wurm 	224	BRG	3BRG	When Varakna Wurm enters, it deals X damage to target creature an opponent controls, where X is the total number of creature cards you own in exile and in your graveyard.NEWLINECycling 2 (2, Discard this card: Draw a card.)	5/3		normal	ALR		

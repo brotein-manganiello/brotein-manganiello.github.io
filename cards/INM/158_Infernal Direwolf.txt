@@ -1,1 +1,0 @@
-﻿Infernal Direwolf	R	rare	Creature – Elemental Wolf 	158	R	4RR	MenaceNEWLINEWhen Infernal Direwolf enters, it fights up to one target creature an opponent controls. Excess damage Infernal Direwolf deals this way is dealt to that creature’s controller instead.	6/6		normal	INM		VORTHOS
