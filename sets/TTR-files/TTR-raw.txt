@@ -872,14 +872,4 @@ Claudya Schmidt - AlectorFencerREPLACEMEHydra	G	common	Token Creature — Hydra 
 https://www.deviantart.com/carsteno/art/The-Nymph-87965844
 Jake Ortman alt
 alt https://www.artstation.com/artwork/xzWAqW Alexandr LeskinenREPLACEMEEmblem		common	Emblem — Makodonis 	20	C		At the beginning of your draw step, draw two additional cards.
-Creatures you control get +1/+1 for each card you’ve drawn this turn.			emblem	TTR		REPLACEMEValeri Kripac	R	mythic	Legendary Planeswalker — Valeri 	0	R	1RR			Whenever you cast a spell that targets, put a loyalty counter on Valeri Kripac and create a 1/1 white Soldier creature token.
-[+1]: Add R. If you spend this mana on a spell that targets, that spell can’t be countered.
-[-3]: Valeri Kripac deals 1 damage to any target. Exile up to one target instant or sorcery card from your graveyard. Until the end of your next turn, you may play that card.	planeswalker	TTR	3	
-angelica steve argyle
-Izmeralde Vatrescu
-SPARKS
-Valery
-Pamarn Hengpraprom
-REDESIGN
-replace character 
-YR02 deals 4 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead.REPLACEME
+Creatures you control get +1/+1 for each card you’ve drawn this turn.			emblem	TTR		REPLACEME

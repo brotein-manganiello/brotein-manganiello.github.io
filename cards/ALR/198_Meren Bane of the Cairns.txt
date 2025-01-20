@@ -1,0 +1,1 @@
+﻿Meren, Bane of the Cairns	BRG	rare	Legendary Creature – Human Shaman 	198	BRG	BRG	This spell can’t be countered.NEWLINEWhenever Meren, Bane of the Cairns attacks, exile target creature card from your graveyard. You may cast that card for as long as it remains exiled by sacrificing a creature in addition to paying its other costs.	4/4		normal	ALR		

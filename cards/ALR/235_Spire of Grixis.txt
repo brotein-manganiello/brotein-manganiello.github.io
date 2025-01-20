@@ -1,0 +1,1 @@
+﻿Spire of Grixis		common	Artifact	235	UBR	3	T: Add U, B, or R.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

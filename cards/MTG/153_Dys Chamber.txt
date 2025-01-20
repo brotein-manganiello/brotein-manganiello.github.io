@@ -1,0 +1,1 @@
+﻿Dys Chamber		common	Artifact	153	C	3	Players must also sacrifice a creature to buyback spells.			normal	MTG		it speaks for itself

@@ -1,0 +1,1 @@
+﻿Exhaust Possibilities	R	rare	Sorcery	148	R	2RR	Discard your hand, then draw three cards. You can’t cast more spells this turn.NEWLINEFlashback–2R or Tap two untapped red creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		ConvokebackNEWLINEalt Yigit Koroglu

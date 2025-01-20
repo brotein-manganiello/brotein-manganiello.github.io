@@ -1,0 +1,1 @@
+﻿Demonic Rite	B	uncommon	Sorcery	72	B	5B	Create a 4/4 black Demon creature token with flying. You lose 3 life for each Demon you control.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		

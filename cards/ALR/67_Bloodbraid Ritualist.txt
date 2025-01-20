@@ -1,0 +1,1 @@
+﻿Bloodbraid Ritualist	B	rare	Creature – Human Shaman 	67	B	1B	B, Discard a card: Bloodbraid Ritualist gains indestructible until end of turn. Tap it.NEWLINEAt the beginning of your upkeep, you may have Bloodbraid Ritualist consume. If you do, draw a card. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	2/2		normal	ALR		

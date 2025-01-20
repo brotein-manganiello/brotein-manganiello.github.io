@@ -1,0 +1,1 @@
+﻿Ziggurat Behemoth	WRG	common	Creature – Beast 	227	WRG	3RGW	When Ziggurat Behemoth enters, target creature gets +3/+3 until end of turn.NEWLINECycling 2 (2, Discard this card: Draw a card.)	6/6		normal	ALR		FLAVORTEXT

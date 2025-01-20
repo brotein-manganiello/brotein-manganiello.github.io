@@ -1,0 +1,1 @@
+﻿Teeth of Akoum	R	common	Sorcery	87	R	1R	Up to two target creatures can’t block this turn.NEWLINEAwaken 4–3RR (If you cast this spell for 3RR, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)			normal	MTG		

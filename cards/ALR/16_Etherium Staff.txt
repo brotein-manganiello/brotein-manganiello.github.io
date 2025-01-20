@@ -1,0 +1,1 @@
+﻿Etherium Staff	W	uncommon	Artifact – Equipment 	16	W	1W	Embellish 4W (If you cast this spell for 4W, create a 1/1 blue Thopter artifact creature token with flying when it enters.)NEWLINEEquipped creature gets +2/+2.NEWLINEWhenever an artifact creature you control enters, you may attach Etherium Staff to it.NEWLINEEquip 2			normal	ALR		

@@ -1,0 +1,1 @@
+﻿Clairvoyant Insight	U	common	Instant	34	U	3U	Draw two cards.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT 

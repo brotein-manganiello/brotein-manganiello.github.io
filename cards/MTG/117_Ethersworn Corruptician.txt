@@ -1,0 +1,1 @@
+﻿Ethersworn Corruptician	WUB	mythic	Atifact Creature – Human Artificer 	117	WUB	1WUB	DeathtouchNEWLINEYou can’t lose the game and your opponents can’t win the game as long as you control an artifact.	2/4		normal	MTG		it speaks for itself

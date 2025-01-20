@@ -1,0 +1,1 @@
+﻿Idyllic Oasis		rare	Land	249	UG		Idyllic Oasis enters tapped unless you control a Plains.NEWLINET: Add G or U.			normal	ALR		TRICHECKS

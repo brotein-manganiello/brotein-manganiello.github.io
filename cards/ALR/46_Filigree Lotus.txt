@@ -1,0 +1,1 @@
+﻿Filigree Lotus	U	rare	Artifact	46	U	3U	T: Add three mana in any combination of colors. Spend this mana only to cast artifact spells or activate abilities of artifacts.			normal	ALR		FLAVORTEXT

@@ -1,0 +1,1 @@
+﻿Lady Wren of Keyhole Downs	WU	rare	Legendary Creature – Human Detective 	128	WU	1WU	T, Collect evidence 3: Cloak the top card of your library. Activate only as a sorcery.NEWLINE1WU, T: Return target creature card from among the evidence you’ve collected this game to the battlefield. Put a flying counter on that creature. Activate only as a sorcery.	2/2		normal	MTG		

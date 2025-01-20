@@ -1,0 +1,1 @@
+﻿Champion of Keranos	R	common	Creature – Minotaur Wizard 	135	R	2R	Menace (This creature can’t be blocked except by two or more creatures.)NEWLINEHeroic – Whenever you cast a spell that targets Champion of Keranos, Champion of Keranos deals 2 damage to each opponent.	3/2		normal	TTR		

@@ -1,0 +1,1 @@
+﻿Gorghul, Destined to Bone	B	mythic	Legendary Creature – Skeleton Wizard 	50	B	2BB	Other Skeletons you control get +1/+1.NEWLINEYou may discard a card rather than pay the cost of an activated ability of a Skeleton you control.NEWLINEAt the beginning of your end step, return target Skeleton card from your graveyard to the battlefield.	4/1		normal	MTG		

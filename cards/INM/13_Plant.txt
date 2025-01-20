@@ -1,0 +1,1 @@
+﻿Plant	G	common	Token Creature – Plant 	13	G		T: Add G.	0/1		token	INM		!related Desperate Botanist;Rosenhulk;

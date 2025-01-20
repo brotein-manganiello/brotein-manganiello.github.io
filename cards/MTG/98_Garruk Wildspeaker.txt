@@ -1,0 +1,1 @@
+﻿Garruk Wildspeaker	G	rare	Planeswalker – Garruk 	98	G	2GG	Untap two target lands.NEWLINEPut a 3/3 green Beast creature token into play.NEWLINECreatures you control get +3/+3 and gain trample until end of turn.   			planeswalker	MTG	3	it speaks for itself

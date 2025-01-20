@@ -1,0 +1,1 @@
+﻿Thassa's Deluge	U	uncommon	Sorcery	38	U	5U	Put target creature into its owner’s library just beneath the top X cards of that library, where X is your devotion to blue. (Each U in the mana costs of permanents you control counts toward your devotion to blue.)			normal	MTG		it speaks for itself

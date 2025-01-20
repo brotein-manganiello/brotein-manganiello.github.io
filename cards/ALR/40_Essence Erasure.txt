@@ -1,0 +1,1 @@
+﻿Essence Erasure	U	common	Instant	40	UB	1U	Counter target creature spell unless its controller pays 3.NEWLINECycling B (B, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

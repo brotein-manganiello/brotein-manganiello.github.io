@@ -1,0 +1,1 @@
+﻿Nylea's Tracker	G	common	Enchantment Creature – Wolf 	192	G	2GG		3/3	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Target creature you control can’t be blocked by creatures with power 2 or less this turn.NEWLINE[Lore III] Draw a card.	leveler	TTR		CN24: 3/4 –> 3/3

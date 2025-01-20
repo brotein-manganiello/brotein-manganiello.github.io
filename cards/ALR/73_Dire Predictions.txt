@@ -1,0 +1,1 @@
+﻿Dire Predictions	B	common	Sorcery	73	B	B	Surveil 1. You draw a card and you lose 1 life. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		

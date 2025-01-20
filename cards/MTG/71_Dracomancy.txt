@@ -1,0 +1,1 @@
+﻿Dracomancy	R	rare	Sorcery	71	R	9RRR	Put a 5/5 red Dragon creature token with flying into play. Dragons you control gain haste until end of turn.NEWLINEStorm (When you play this spell, copy it for each spell played before it this turn.)			normal	MTG		it speaks for itself

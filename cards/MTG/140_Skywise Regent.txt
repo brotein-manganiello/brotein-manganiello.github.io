@@ -1,0 +1,1 @@
+﻿Skywise Regent	WU	mythic	Creature – Dragon 	140	WU	4WU	Flying, vigilanceNEWLINEWhenever Skywise Regent or another Dragon enters the battlefield under your control, draw two cards.	5/5		normal	MTG		

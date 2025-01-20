@@ -1,0 +1,1 @@
+﻿Ominous Lightning	R	common	Sorcery	115	R	1R	Ominous Lightning deals 3 damage to target creature. Scry 2.			normal	ALR		FLAVORTEXT

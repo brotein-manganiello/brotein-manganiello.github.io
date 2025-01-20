@@ -1,0 +1,1 @@
+﻿Sedraxis Scourge	UBR	uncommon	Creature – Horror 	207	UBR	2UBR	T, Sacrifice a creature: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.	3/5		normal	ALR		FLAVORTEXT

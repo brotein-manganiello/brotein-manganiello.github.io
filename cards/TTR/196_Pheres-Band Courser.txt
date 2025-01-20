@@ -1,0 +1,1 @@
+﻿Pheres-Band Courser	G	common	Creature – Centaur Warrior 	196	G	3G	Heroic – Whenever you cast a spell that targets Pheres-Band Courser, put a +1/+1 counter on Pheres-Band Courser.	4/3		normal	TTR		

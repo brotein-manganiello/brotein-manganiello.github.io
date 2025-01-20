@@ -1,0 +1,1 @@
+﻿Curse of Slaughter	R	common	Enchantment – Aura Curse 	143	R	2R	Enchant playerNEWLINEWhen Curse of Slaughter enters, it deals 4 damage to target creature or planeswalker enchanted player controls.NEWLINECreatures attacking enchanted player have trample.			normal	INM		alt Denis Zhbankov

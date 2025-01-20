@@ -1,0 +1,1 @@
+﻿Iconic Tutor	B	rare	Sorcery	53	B	B	Search your library for an Angel, Sphinx, Demon, Dragon, Hydra, or a card named Black Lotus, reveal it, put it into your hand, then shuffle.			normal	MTG		

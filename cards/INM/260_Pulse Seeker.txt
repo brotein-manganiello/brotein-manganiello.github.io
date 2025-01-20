@@ -1,0 +1,1 @@
+﻿Pulse Seeker		common	Artifact – Equipment 	260	C	2	When Pulse Seeker enters, create a 1/1 black and red Vampire creature token with menace.NEWLINEEquipped creature gets +1/+0.NEWLINEEquip 1			normal	INM		

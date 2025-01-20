@@ -1,0 +1,1 @@
+﻿Moorland Slayer	W	common	Creature – Human Soldier 	29	WR	3W	When Moorland Slayer enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)NEWLINE2R: Target creature can’t block this turn.	3/3		normal	INM		OFFCOLORNEWLINEHenry PetersNEWLINEAlexey Aparin

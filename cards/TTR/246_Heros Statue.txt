@@ -1,0 +1,1 @@
+﻿Hero's Statue		common	Artifact	246	C	3	T: Add one mana of any color.NEWLINE7, T, Sacrifice Hero’s Statue: Draw three cards.			normal	TTR		NEWLINERDZNEWLINEMana production

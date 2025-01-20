@@ -1,0 +1,1 @@
+﻿Intangible Virtue	W	common	Token Enchantment	3	W		Creature tokens you control get +1/+1 and have vigilance.			token	INM		!related Polina Elgaud;

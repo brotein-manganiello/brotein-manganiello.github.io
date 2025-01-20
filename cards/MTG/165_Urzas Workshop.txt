@@ -1,0 +1,1 @@
+﻿Urza's Workshop		rare	Land	165	C		T: Add one colorless mana to your mana pool.NEWLINET: Add two colorless mana to your mana pool. This mana may only be used to pay for cycling.NEWLINE5, T, Sacrifice Urza’s Workshop: Search your library for an artifact card. Reveal that card and put it into your hand. Shuffle your library afterward.			normal	MTG		it speaks for itself

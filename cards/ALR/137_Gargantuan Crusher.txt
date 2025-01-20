@@ -1,0 +1,1 @@
+﻿Gargantuan Crusher	G	common	Creature – Beast 	137	G	3GG	TrampleNEWLINECycling 2 (2, Discard this card: Draw a card.)	5/5		normal	ALR		FLAVORTEXT

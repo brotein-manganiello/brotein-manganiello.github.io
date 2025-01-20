@@ -1,0 +1,1 @@
+﻿Mirage Drake	U	uncommon	Creature – Drake 	27	WUR	2U	FlyingNEWLINEURW: Create a token that’s a copy of target creature you control with flying. It gains haste. Exile it at end of combat. Activate only any time you could cast a sorcery.	2/2		normal	MTG		

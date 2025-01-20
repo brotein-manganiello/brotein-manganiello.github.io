@@ -1,0 +1,1 @@
+﻿Hellfreaks	R	uncommon	Creature – Devil 	156	R	2R	Menace, trampleNEWLINEHellfreaks gets +1/+0 for each Curse you control.NEWLINEHellfreaks gets +1/+0 for each instant and sorcery card you own in exile and in your graveyard.	0/4		normal	INM		

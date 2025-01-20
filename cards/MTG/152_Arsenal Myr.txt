@@ -1,0 +1,1 @@
+﻿Arsenal Myr		rare	Artifact Creature – Myr 	152	C	4	Affinity for artifacts (This spell costs 1  less to play for each artifact you control.)NEWLINE5, T: Search your library for an Equipment card with converted mana value equal to or less than the number of artifacts you control and put that card into play. Then shuffle your library.	1/2		normal	MTG		it speaks for itself

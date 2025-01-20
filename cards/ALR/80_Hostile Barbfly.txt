@@ -1,0 +1,1 @@
+﻿Hostile Barbfly	B	common	Creature – Insect 	80	B	3B	FlyingNEWLINEWhen Hostile Barbfly enters, you may have it consume. When you do, target creature gets -2/-2 until end of turn. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	2/2		normal	ALR		

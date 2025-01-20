@@ -1,0 +1,1 @@
+﻿Scatter What Remains	UB	uncommon	Sorcery	205	UB	3UB	Put target creature on top of its owner’s library. All other creatures that player controls get -2/-2 until end of turn.			normal	ALR		FLAVORTEXT

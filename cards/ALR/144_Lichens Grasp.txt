@@ -1,0 +1,1 @@
+﻿Lichen's Grasp	G	common	Instant	144	G	1G	Choose one –NEWLINE• Destroy target artifact.NEWLINE• Lichen’s Grasp deals 4 damage to target creature with flying.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOS

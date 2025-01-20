@@ -1,0 +1,1 @@
+﻿Impaling Sunbeam	W	common	Sorcery	21	W	4W	Exile target creature or enchantment. You gain 3 life.			normal	TTR		Small removal (usually damage to an attacker or blocker)

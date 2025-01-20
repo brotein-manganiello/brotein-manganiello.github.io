@@ -1,0 +1,1 @@
+﻿Hallucinate	U	common	Enchantment – Aura 	47	U	1U	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature gets -3/-0 and doesn’t untap during its controller’s untap step.			normal	ALR		VORTHOS

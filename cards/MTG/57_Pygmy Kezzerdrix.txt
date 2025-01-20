@@ -1,0 +1,1 @@
+﻿Pygmy Kezzerdrix	B	common	Creature – Beast 	57	B	B	Swampwalk (This creature is unblockable as long as defending player has a swamp in play.)	1/1		normal	MTG		it speaks for itself

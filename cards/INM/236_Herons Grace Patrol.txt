@@ -1,0 +1,1 @@
+﻿Heron's Grace Patrol	WG	uncommon	Creature – Human Ranger 	236	WG	GW	ReachNEWLINEAs long as Heron’s Grace Patrol is enchanted or equipped, it gets +1/+1 and has vigilance.NEWLINE2GW, T: Mill three cards. You may return a permanent card milled this way to your hand.	2/2		normal	INM		ARCUN SIGNPOST

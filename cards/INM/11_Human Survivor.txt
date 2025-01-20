@@ -1,0 +1,1 @@
+﻿Human Survivor	R	common	Token Creature – Human Survivor 	11	R			1/1		token	INM		!related Left for Dead<4>;

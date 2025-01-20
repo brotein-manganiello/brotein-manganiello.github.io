@@ -1,0 +1,1 @@
+﻿Aether Pull	UB	rare	Instant	161	UB	1UB	Exile target creature, then return it to the battlefield under your control. Then sacrifice it.			normal	ALR		FLAVORTEXT

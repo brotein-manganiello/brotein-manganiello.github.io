@@ -1,0 +1,1 @@
+﻿Phantom of Wolf's Run	G	rare	Creature – Spirit 	213	G	1GG	Invocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, create a 2/2 green Wolf creature token.NEWLINE4GGG: Other creatures you control get +3/+3 and gain haste until end of turn.	2/2		normal	INM		

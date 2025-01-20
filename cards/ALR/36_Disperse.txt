@@ -1,0 +1,1 @@
+﻿Disperse	U	common	Instant	36	U	1U	Return target nonland permanent to its owner’s hand.			normal	ALR		FLAVORTEXT

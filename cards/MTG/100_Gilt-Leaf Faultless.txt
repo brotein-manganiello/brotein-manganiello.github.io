@@ -1,0 +1,1 @@
+﻿Gilt-Leaf Faultless	G	common	Creature – Elf Warrior 	100	G	3G	1G, T: Untap another target Warrior. It gets +X/+X until end of turn, where X is the number of Elves you control.NEWLINEElf and Warrior cards in your hand have “Reinforce 1–G.” (G, Discard that card: Put a +1/+1 counter on target creature.)	2/3		normal	MTG		it speaks for itself

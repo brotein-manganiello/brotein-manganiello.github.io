@@ -1,0 +1,1 @@
+﻿Dack Fayden Fucking Dies	B	uncommon	Instant	43	B	B	Destroy target planeswalker. Search its opponent’s graveyard, hand, and library for any number of cards with the same planeswalker type and exile them.			normal	MTG		

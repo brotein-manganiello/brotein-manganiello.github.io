@@ -1,0 +1,1 @@
+﻿Risen Lumberknot	G	rare	Creature – Treefolk 	218	G	1GGGG	ReachNEWLINERisen Lumberknot gets +5/+5 as long as you control eight or more lands.NEWLINEInvocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap all lands you control. This ability triggers only once each turn.	5/5		normal	INM		

@@ -1,0 +1,1 @@
+﻿Death's Undoing	B	common	Sorcery	46	B	B	Play only if there are three or more creature cards in your graveyard.NEWLINEPut the bottom creature card from your graveyard into play.			normal	MTG		it speaks for itself

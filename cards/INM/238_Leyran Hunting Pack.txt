@@ -1,0 +1,1 @@
+﻿Leyran Hunting Pack	RG	uncommon	Creature – Wolf 	238	RG	1RG	HasteNEWLINEOther Wolves and Werewolves you control have haste.NEWLINELeyran Hunting Pack gets +1/+1 for each non-Human Werewolf you control.	3/2		normal	INM		ARCUN SIGNPOST

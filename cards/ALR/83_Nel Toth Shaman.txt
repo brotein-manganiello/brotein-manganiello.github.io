@@ -1,0 +1,1 @@
+﻿Nel Toth Shaman	B	common	Creature – Human Shaman 	83	B	B	DeathtouchNEWLINEWhen Nel Toth Shaman enters, mill two cards.	1/1		normal	ALR		FLAVORTEXTNEWLINEQUALITYCHECK 

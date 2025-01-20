@@ -1,0 +1,1 @@
+﻿Crypt Viper	B	common	Creature – Snake 	98	B	1B	FlashNEWLINEDeathtouch	2/1		normal	INM		alt Oleksandr KozachenkoNEWLINEVORTHOS

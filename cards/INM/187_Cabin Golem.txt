@@ -1,0 +1,1 @@
+﻿Cabin Golem	G	uncommon	Artifact Creature – Golem 	187	G	2G	Invocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, reveal the top three cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom of your library in a random order.	3/3		normal	INM		

@@ -1,0 +1,1 @@
+﻿Bloom of Paradise	G	common	Enchantment – Aura 	94	G	G	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.)NEWLINEEnchanted creature gets +0/+1 and has “T: Add one mana of any color to your mana pool.”			normal	MTG		it speaks for itself

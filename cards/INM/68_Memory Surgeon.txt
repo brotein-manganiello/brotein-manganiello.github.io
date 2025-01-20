@@ -1,0 +1,1 @@
+﻿Memory Surgeon	U	common	Creature – Human Wizard 	68	U	1U	T: Add CC. Spend this mana only to activate abilities.NEWLINE2, T: Target player mills two cards.	1/3		normal	INM		https://www.artstation.com/artwork/q2GlPNEWLINEVORTHOS

@@ -1,0 +1,1 @@
+﻿Cazarus Zol, Plague Prince	UB	uncommon	Legendary Creature – Vampire 	116	UB	1UB	Flying, vigilanceNEWLINEWhenever you cast a kicked spell, put a +1/+1 counter on Cazarus Zol, Plague Prince. Then each opponent loses 1 life and you gain 1 life.NEWLINEWhenever Cazarus Zol deals combat damage to a player, you may draw a card. If you do, discard a card.	2/2		normal	MTG		

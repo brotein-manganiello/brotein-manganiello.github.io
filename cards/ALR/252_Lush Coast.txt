@@ -1,0 +1,1 @@
+﻿Lush Coast		common	Land DUAL	252	UG		Lush Coast enters tapped.NEWLINET: Add G or U.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

@@ -1,0 +1,1 @@
+﻿Molten Mire		rare	Land	261	BR		Molten Mire enters the battlefield tapped unless you control a basic land.NEWLINET: Add B or R.			normal	TTR		NEWLINERDZNEWLINETHYROGOGNEWLINEDUAL

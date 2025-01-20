@@ -1,0 +1,1 @@
+﻿Wake of the Worldsoul	G	rare	Enchantment	111	G	3G	Domain – At the beginning of your precombat main phase, add X mana of any one color to your mana pool, where X is equal to the number of basic land types among lands you control.			normal	MTG		it speaks for itself

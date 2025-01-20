@@ -1,0 +1,1 @@
+﻿Sepsis Vessel		uncommon	Artifact – Equipment 	158	C	2	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)NEWLINEEquipped creature gets +1/+1 and has infect and “Whenever this creature attacks, proliferate.”NEWLINEEquip 2			normal	MTG		it speaks for itself

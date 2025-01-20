@@ -1,0 +1,1 @@
+﻿Diregraf Skulleater	B	uncommon	Creature – Zombie 	105	B	2B	MenaceNEWLINEWhenever Diregraf Skulleater deals combat damage to a player, that player discards a card.NEWLINEWhenever one or more cards leave your graveyard, put a +1/+1 counter on Diregraf Skulleater.	2/2		normal	INM		alt Daniel ZromNEWLINEalt Alex V. NgoNEWLINEalt Zhuoxin Ye

@@ -1,0 +1,1 @@
+﻿Kydele, World Oracle	G	rare	Legendary Enchantment Creature – Demigod 	185	G	3GG	VigilanceNEWLINEWhenever you cast a creature or planeswalker spell, draw a card.NEWLINELands you control have “T: Add CC.”	2/6		normal	TTR		NEWLINERAREGEND

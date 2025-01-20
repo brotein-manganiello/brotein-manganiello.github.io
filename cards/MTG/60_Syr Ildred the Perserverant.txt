@@ -1,0 +1,1 @@
+﻿Syr Ildred, the Perserverant	B	uncommon	Legendary Creature – Elf Knight 	60	B	BB	First strikeNEWLINE3BB: Return Syr Ildred from your graveyard to the battlefield tapped. You draw a card and you lose 1 life.	2/2		adventure	MTG		Win the Tourney	B	Sorcery – Adventure 	B	1B	Target player sacrifices a creature. Create a Food token.				

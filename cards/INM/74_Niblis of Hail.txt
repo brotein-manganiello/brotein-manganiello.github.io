@@ -1,0 +1,1 @@
+﻿Niblis of Hail	U	uncommon	Creature – Spirit 	74	U	UU	FlashNEWLINEFlying, vigilanceNEWLINEWard 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)	2/2		normal	INM		KEYWARD

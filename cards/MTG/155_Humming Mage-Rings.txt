@@ -1,0 +1,1 @@
+﻿Humming Mage-Rings		uncommon	Artifact	155	C	3	T: Draw a card, then discard a card unless there are two or more instant and/or sorcery cards in your graveyard.			normal	MTG		

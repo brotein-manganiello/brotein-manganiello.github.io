@@ -1,0 +1,1 @@
+﻿Talonwing Dragon	R	rare	Creature – Dragon 	165	R	4RR	Colossal 3–7RR (You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay 7RR as a sorcery: Put three +1/+1 counters on it if it has none.)NEWLINEFlyingNEWLINEEach creature you control with a counter on it has double strike.	5/5		normal	TTR		NEWLINERDZNEWLINE3KLS9NEWLINEdouble strike.

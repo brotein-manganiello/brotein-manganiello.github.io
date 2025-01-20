@@ -1,0 +1,1 @@
+﻿Somber Meadow		common	Land DUAL	257	WB		Somber Meadow enters tapped.NEWLINET: Add W or B.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

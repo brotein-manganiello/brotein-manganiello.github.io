@@ -1,0 +1,1 @@
+﻿Retinue Golem	U	common	Artifact Creature – Golem 	52	U	3U	Embellish 5U (If you cast this spell for 5U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)NEWLINERetinue Golem gets +1/+1 as long as you control another artifact.	3/3		normal	ALR		

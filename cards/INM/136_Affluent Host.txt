@@ -1,0 +1,1 @@
+﻿Affluent Host	R	common	Creature – Vampire Noble 	136	R	1R	Foreshadow 2R (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	2/1		normal	INM		

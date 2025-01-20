@@ -1,0 +1,1 @@
+﻿Gavony Cavaliers	G	uncommon	Creature – Human Knight 	196	G	1G	TrampleNEWLINEWhenever Gavony Cavaliers attacks, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)NEWLINECreatures you control that are enchanted or equipped have trample.	2/2		normal	INM		

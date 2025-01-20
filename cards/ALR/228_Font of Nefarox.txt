@@ -1,0 +1,1 @@
+﻿Font of Nefarox		uncommon	Artifact	228	C	3	T: Each opponent loses 1 life and you gain 1 life.NEWLINEWhenever you cycle a card or cast a spell with a cycling ability, untap Font of Nefarox.			normal	ALR		VORTHOS  

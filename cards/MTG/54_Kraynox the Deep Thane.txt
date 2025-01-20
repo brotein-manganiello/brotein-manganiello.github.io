@@ -1,0 +1,1 @@
+﻿Kraynox, the Deep Thane	B	rare	Legendary Creature – Phyrexian Horror 	54	B	4BB	LifelinkNEWLINEAt the beginning of each end step, each opponent who sacrificed a creature this turn sacrifices a creature.NEWLINEAt the beginning of each end step, each opponent who discarded a card this turn discards a card.	6/6		normal	MTG		

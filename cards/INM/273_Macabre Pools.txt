@@ -1,0 +1,1 @@
+﻿Macabre Pools		common	Land	273	UB		Macabre Pools enters tapped. When it enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)NEWLINET: Add U or B.			normal	INM		VORTHOS

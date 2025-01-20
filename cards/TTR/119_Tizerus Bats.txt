@@ -1,0 +1,1 @@
+﻿Tizerus Bats	B	common	Creature – Bat 	119	B	1B	FlyingNEWLINETizerus Bats can’t block unless you control another creature with flying.	2/1		normal	TTR		CN24: removed flying reduction –> 1/1 to 2/1 –> can’t block unless u control another flyerNEWLINEQCX

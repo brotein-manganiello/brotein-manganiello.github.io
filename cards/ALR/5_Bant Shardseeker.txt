@@ -1,0 +1,1 @@
+﻿Bant Shardseeker	W	uncommon	Creature – Rhino Scout 	5	W	2W	LifelinkNEWLINEIslandcycling 1, forestcycling 1  (1, Discard this card: Search your library for an Island or Forest card, reveal it, and put it into your hand, then shuffle.)	2/3		normal	ALR		VORTHOS 

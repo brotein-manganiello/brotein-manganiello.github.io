@@ -1,0 +1,1 @@
+﻿War-Pride Champion	G	rare	Creature – Cat Warrior 	159	G	2G	War-Pride Champion can’t be blocked by creatures with power 2 or less.NEWLINEStampede – Whenever War-Pride Champion and a creature with greater power attack, target creature you control gets +2/+2 until end of turn.	3/3		normal	ALR		
