@@ -1,1 +1,0 @@
-﻿Hound Unit Shinobi	UB	mythic	Artifact Creature – Ninja Construct 	123	UB	2UB	Reconfigurable ninjutsu UBNEWLINEWhenever Hound Unit Shinobi or equipped creature deals combat damage to a player, you draw a card and each player discards a card.	3/2		normal	MTG		

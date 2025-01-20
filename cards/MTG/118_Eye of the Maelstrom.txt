@@ -1,1 +1,0 @@
-﻿Eye of the Maelstrom	WUBRG	rare	Sorcery	118	WUBRG	WUBRG	Cascade (When you play this spell, remove cards from the top of your library from the game until you remove a nonland card that costs less. You may play it without paying its mana cost. Put the removed cards on the bottom in a random order.)NEWLINEDestroy target permanent.			normal	MTG		it speaks for itself

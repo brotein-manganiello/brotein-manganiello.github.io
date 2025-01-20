@@ -1,1 +1,0 @@
-﻿Grogle	G	common	Summon Grogle	101	G	G	Forestwalk (If defending player controls any forests, this creature is unblockable.)NEWLINEGains +2/+2 and protection from blue as long as you control a Brushwagg.	1/1		normal	MTG		it speaks for itselfNEWLINEintroduction of reminder text + teferi shout

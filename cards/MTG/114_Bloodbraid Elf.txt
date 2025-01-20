@@ -1,1 +1,0 @@
-﻿Bloodbraid Elf	RG	uncommon	Creature – Elf Berserker 	114	RG	2GR	HasteNEWLINECascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)	3/2		normal	MTG		it speaks for itself

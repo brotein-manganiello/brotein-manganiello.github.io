@@ -1,1 +1,0 @@
-﻿Hornet Titan	G	mythic	Creature – Insect 	102	G	4GG	FlyingNEWLINEWhenever Hornet Titan enters the battlefield or attacks, it deals 1 damage to target creature or player. Scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)	6/6		normal	MTG		it speaks for itself

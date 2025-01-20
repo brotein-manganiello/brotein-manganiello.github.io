@@ -1,1 +1,0 @@
-﻿Mistform Djinn	U	rare	Creature – Illusion Djinn 	28	U	2UU	Amplify 1 (As this card comes into play, put a +1/+1 counter on it for each creature card that shares a creature type with it you reveal from your hand.)NEWLINEFlyingNEWLINEMistform Djinn has the creature types of all other creatures on the battlefield.	2/2		normal	MTG		it speaks for itself

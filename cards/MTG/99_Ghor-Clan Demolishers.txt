@@ -1,1 +1,0 @@
-﻿Ghor-Clan Demolishers	G	rare	Creature – Centaur Warrior 	99	RG	3GG	Whenever a creature you control deals combat damage to a player, draw a card.NEWLINE2R: Creatures you control get +1/+0 and gain trample until end of turn.	4/4		normal	MTG		it speaks for itself

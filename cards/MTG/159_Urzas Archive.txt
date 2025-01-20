@@ -1,1 +1,0 @@
-﻿Urza's Archive		common	Artifact	159	C	6	Remove Urza’s Archive from your deck before playing if not playing for ante.NEWLINET: Draw a card. Put your contribution to the ante into your graveyard and replace it with a Wall you own and control from the Antiquities expansion.			normal	MTG		showcases 4ED white mana symbol in text, plus introduction of the (old) new tap symbol

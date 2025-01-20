@@ -1,1 +1,0 @@
-﻿Subdue Artifact	W	uncommon	Enchantment	19	W	W	When Subdue Artifact comes into play, name an artifact card.NEWLINEPlayers can’t play or use the abilities of the named artifact card.			normal	MTG		it speaks for itself

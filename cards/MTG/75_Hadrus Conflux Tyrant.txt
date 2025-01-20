@@ -1,1 +1,0 @@
-﻿Hadrus, Conflux Tyrant	R	mythic	Legendary Creature – Dragon 	75	WUBRG	3RR	FlyingNEWLINEMulticolored creatures you control have haste.NEWLINE2WUBRG: Return target multicolored permanent card from your graveyard to the battlefield. Draw a card for each of its colors.	4/4		normal	MTG		

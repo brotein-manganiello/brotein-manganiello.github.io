@@ -1,1 +1,0 @@
-﻿Humongous Croctorilla	UG	rare	Creature – Crocodille Ape Octopus 	124	UG	5GU	Mutate 3GUNEWLINEReachNEWLINEWhenever this creature mutates, it fights up to one target creature you don’t control. If you control your companion, draw cards equal to the amount of excess damage this creature dealt this way.	8/8		normal	MTG		

@@ -1,1 +1,0 @@
-﻿The Father of Machines Ascends	B	mythic	Legendary Enchantment – Saga 	48	B	3BB			NEWLINEAll creatures get -5/-5 until end of turn.NEWLINESearch your library for a historic card, reveal it, put it into your hand, then shuffle your library. (Artifacts, legendaries, and Sagas are historic.)NEWLINETarget opponent exiles a card from their hand and loses 5 life.	saga	MTG		

@@ -1,1 +1,0 @@
-﻿Kavu Alpha	RG	rare	Creature – Kavu 	126	RG	2RG	Kicker 2 (You may pay an additional 2 as you cast this spell.)NEWLINETrampleNEWLINEIf you paid the kicker cost, Kavu Alpha comes into play with three +1/+1 counters on it and has haste. (It may attack and T the turn it comes under your control.)	4/3		normal	MTG		it speaks for itself

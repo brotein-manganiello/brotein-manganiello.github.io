@@ -1,1 +1,0 @@
-﻿Rock-n-Rabbits	UR	uncommon	Creature – Rabbit Performer 	135	UR	2UR	MenaceNEWLINEWhen Rock-n-Rabbits enters the battlefield, open an Attraction.NEWLINETreat odd numbers on Attractions you control as though they were lit up.	3/4		normal	MTG		

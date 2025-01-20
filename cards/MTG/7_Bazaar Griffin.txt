@@ -1,1 +1,0 @@
-﻿Bazaar Griffin	W	common	Summon Griffin	7	W	3W	Flying (A creature with flying can be intercepted only by other creatures with flying.)	3P/3T		normal	MTG		it speaks for itself
