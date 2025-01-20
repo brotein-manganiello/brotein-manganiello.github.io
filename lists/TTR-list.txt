@@ -1,12 +1,12 @@
 13_Grandeur of Nyx
 56_Makodonis, Prime Exemplar
 88_Beyond Death
-0_Valeri Kripac
+156_Purphoros, the Fervid Flame
 190_Nylea, the Wild Chase
 17_Heliod, the Ceaseless Dawn
 76_Thassa, the Implacable Tide
 92_Erebos, the Imminent End
-156_Purphoros, the Fervid Flame
+168_Valeri Kripac
 207_Vivien the Sagittar
 3_Archon of Sunrise
 44_Astral Man-o'-War
