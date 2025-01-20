@@ -156,6 +156,8 @@
 		<img class="preload-hidden" src="/sets/INM-files/icon.png" />
 		<img class="preload-hidden" src="/sets/MTG-files/icon.png" />
 		<img class="preload-hidden" src="/sets/TTR-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/INM-files/bg.png" />
+		
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -600,7 +602,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 
