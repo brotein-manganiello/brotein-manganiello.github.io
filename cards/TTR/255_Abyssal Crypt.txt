@@ -1,1 +1,0 @@
-﻿Abyssal Crypt		common	Land	255	UB		Abyssal Crypt enters the battlefield tapped.NEWLINET: Add U or B.NEWLINE2UB, T: Sacrifice Abyssal Crypt: Draw a card.			normal	TTR		!note nbslot

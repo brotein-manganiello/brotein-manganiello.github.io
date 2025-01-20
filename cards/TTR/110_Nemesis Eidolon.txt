@@ -1,1 +1,0 @@
-﻿Nemesis Eidolon	B	common	Enchantment Creature – Spirit 	110	B	1B	1B, Sacrifice another creature: Put a +1/+1 counter on Nemesis Eidolon. Draw a card. Activate only as a sorcery.	2/2		normal	TTR		NEWLINEIn the eyes of those who implore the god of deception’s power, all the world is their nemesis.

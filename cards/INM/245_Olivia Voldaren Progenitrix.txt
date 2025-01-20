@@ -1,1 +1,0 @@
-﻿Olivia Voldaren, Progenitrix	BR	rare	Legendary Creature – Vampire 	245	BR	BR	FlyingNEWLINEWhenever Olivia Voldaren, Progenitrix attacks, you may discard a card. If you do, draw a card.NEWLINEWhenever you discard a creature card, put a +1/+1 counter on Olivia Voldaren, Progenitrix and create a 1/1 black and red Vampire creature token with menace.	2/2		normal	INM		

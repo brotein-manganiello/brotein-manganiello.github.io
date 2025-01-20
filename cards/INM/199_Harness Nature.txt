@@ -1,1 +1,0 @@
-﻿Harness Nature	G	rare	Sorcery	199	G	2G	Search your library for up to two Forest cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.NEWLINEFlashback–2G or Tap two untapped green creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		Convokeback

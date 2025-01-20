@@ -1,1 +1,0 @@
-﻿Dekatian Philosopher	WU	uncommon	Creature – Human Advisor 	215	WU	WU	Whenever you scry, tap target creature an opponent controls.NEWLINE2WU: Scry 1. You gain 1 life.	2/2		normal	TTR		Cory Trego-ErdnerNEWLINEARCUNNEWLINEAZORIUS

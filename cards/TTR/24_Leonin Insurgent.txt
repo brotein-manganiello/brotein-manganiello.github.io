@@ -1,1 +1,0 @@
-﻿Leonin Insurgent	W	common	Creature – Cat Soldier 	24	W	1W	3WW, Exile Leonin Insurgent from your graveyard: Create two 2/2 white Cat Soldier creature tokens. Activate only as a sorcery.	3/1		normal	TTR		alt Takayama Toshiaki

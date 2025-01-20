@@ -1,1 +1,0 @@
-﻿Prowling Wolf	G	common	Creature – Wolf 	216	G	4G	When Prowling Wolf enters, you may sacrifice another creature. If you do, draw a card and you gain 2 life.NEWLINEWhenever another creature you control dies, put a +1/+1 counter on Prowling Wolf.	4/4		normal	INM		

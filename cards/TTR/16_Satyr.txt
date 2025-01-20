@@ -1,1 +1,0 @@
-﻿Satyr	R	common	Token Creature – Satyr 	16	R		This creature can’t block.	1/1		token	TTR		!related Rush to Revelry<2>;Satyr Instigator;NEWLINEJacob Atienza altNEWLINEJake Ortman altNEWLINEalt https://www.artstation.com/artwork/xzWAqW Alexandr Leskinen

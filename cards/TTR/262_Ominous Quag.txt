@@ -1,1 +1,0 @@
-﻿Ominous Quag		common	Land	262	WB		Ominous Quag enters the battlefield tapped.NEWLINET: Add W or B.NEWLINE2WB, T, Sacrifice Ominous Quag: Draw a card.			normal	TTR		!note nbslot

@@ -1,1 +1,0 @@
-﻿Vivien's Shot	G	rare	Instant	110	G	G	Choose one –NEWLINE• Vivien’s Shot deals 10 damage to target creature with flying if it has exactly one creature type.NEWLINE• Vivien’s Shot deals 10 damage to target planeswalker.			normal	MTG		

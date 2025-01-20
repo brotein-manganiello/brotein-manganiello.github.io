@@ -1,1 +1,0 @@
-﻿Lady Foxglove	WRG	rare	Legendary Creature – Elf Druid 	127	WRG	1RGW	Vigilance, deathtouchNEWLINET: Copy target activated or triggered ability you control from a creature source. You may choose new targets for the copy. When the copied ability causes you to create a token, draw a card. (Mana abilities can’t be targeted.)	2/4		normal	MTG		

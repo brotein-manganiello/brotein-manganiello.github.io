@@ -1,1 +1,0 @@
-﻿Yawgmoth's Will	B	mythic	Sorcery	63	B	2B	Until end of turn, you may play cards from your graveyard.NEWLINEIf a card would be put into your graveyard from anywhere this turn, exile that card instead.			normal	MTG		

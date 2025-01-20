@@ -1,1 +1,0 @@
-﻿Twister	UG	common	Instant	39	UG	XUU	Return target creature to owner’s hand; enchantments on target creature are discarded. Owner suffers X damage.			normal	MTG		Revised Blue Hurricane, in reverse

@@ -1,1 +1,0 @@
-﻿Force of Crow	U	common	Instant	22	U	2U	You may pay 1 life and remove a blue card in your hand from the game instead of paying Force of Crow’s casting cost. Effects that prevent or redirect damage cannot be used to counter this loss of life.NEWLINETarget creature becomes a 1/2 blue Bird with flying and no other abilities until end of turn.			normal	MTG		Force of Crow

@@ -1,1 +1,0 @@
-﻿Severed Hands	U	uncommon	Creature – Zombie 	81	U	3U	When Severed Hands enters, surveil 2.NEWLINEWhenever one or more cards leave your graveyard, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)	2/5		normal	INM		Necrowmancer

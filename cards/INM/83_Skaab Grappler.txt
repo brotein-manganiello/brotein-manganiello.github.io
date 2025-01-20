@@ -1,1 +1,0 @@
-﻿Skaab Grappler	U	common	Creature – Zombie Warrior 	83	U	4U	When Skaab Grappler enters, you may exile two creature cards from your graveyard. When you do, return another target creature to its owner’s hand.	4/5		normal	INM		

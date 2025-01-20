@@ -1,1 +1,0 @@
-﻿Argivian Overseer		rare	Artifact Creature – Golem 	151	W	5	Double strikeNEWLINEOther artifact creatures you control enter the battlefield with an additional number of +1/+1 counters on them equal to Argivian Overseer’s power.	2/4		normal	MTG		

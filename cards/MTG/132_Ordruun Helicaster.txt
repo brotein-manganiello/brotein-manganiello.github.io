@@ -1,1 +1,0 @@
-﻿Ordruun Helicaster	WR	rare	Creature – Minotaur Shaman 	132	WR	3RW	VigilanceNEWLINEMentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)NEWLINEAt the beginning of your end step, if a creature you control was mentored this turn, Ordruun Helicaster deals 3 damage to any target and you gain 3 life.	4/5		normal	MTG		

@@ -1,1 +1,0 @@
-﻿Penumbra	G	uncommon	Instant	148	UG	G	Return target creature card from your graveyard to play if it was put there from play this turn. That creature becomes black.			split	MTG		Whirlpool	U	Instant	UG	1U	Shuffle any number of cards from your hand into your library, then draw that many cards.				it speaks for itself

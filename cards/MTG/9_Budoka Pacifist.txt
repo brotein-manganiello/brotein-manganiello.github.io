@@ -1,1 +1,0 @@
-﻿Budoka Pacifist	W	rare	Creature – Human Monk 	9	W	1WW	DefenderNEWLINEWhen another creature you control is put into a graveyard from play, flip Budoka Pacifist.	0/4		flip	MTG		it speaks for itself

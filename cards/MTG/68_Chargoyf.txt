@@ -1,1 +1,0 @@
-﻿Chargoyf	R	rare	Creature – Lhurgoyf 	68	R	3RR	NEWLINETrampleNEWLINEChargoyf’s power is equal to the number of instant and sorcery cards in all graveyards and its toughness is equal to that number plus 1.NEWLINE	*/1+*		normal	MTG		it speaks for itself

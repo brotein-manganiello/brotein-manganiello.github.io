@@ -1,1 +1,0 @@
-﻿Norwood Recluse	G	common	Creature – Spider 	106	G	3GG	Norwood Recluse can block creatures with flying.	4P/4T		normal	MTG		it speaks for itself

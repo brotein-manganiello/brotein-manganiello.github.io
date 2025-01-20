@@ -1,1 +1,0 @@
-﻿Cave of Pleonexia		uncommon	Land	257	C		T: Add C.NEWLINE1, T, Sacrifice Cave of Pleonexia: Destroy target nonbasic land. Each player creates a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	TTR		Pleonexia

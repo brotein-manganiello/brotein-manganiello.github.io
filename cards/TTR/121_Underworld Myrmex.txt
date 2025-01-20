@@ -1,1 +1,0 @@
-﻿Underworld Myrmex	B	common	Creature – Insect 	121	B	B	Colossal 2–4B (You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay 4B as a sorcery: Put two +1/+1 counters on it if it has none.)NEWLINELifelink	1/1		normal	TTR		alt art: Ryan Wardlow

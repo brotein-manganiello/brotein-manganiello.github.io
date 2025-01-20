@@ -1,1 +1,0 @@
-﻿Omendancer	U	uncommon	Creature – Shapeshifter 	76	U	2U	You may have Omendancer enter as a copy of a creature you control or a Curse you control. (If it copies a double-faced permanent, it can’t transform.)	0/0		normal	INM		VORTHOS

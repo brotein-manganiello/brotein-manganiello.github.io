@@ -1,1 +1,0 @@
-﻿Covetous Possessor	U	common	Creature – Spirit 	52	U	2U	Whenever Covetous Possessor deals combat damage to a player, draw a card.NEWLINE3U, T: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, draw a card.” Activate only as a sorcery.	2/2		normal	INM		alt Jay Lockwood Carpenter 

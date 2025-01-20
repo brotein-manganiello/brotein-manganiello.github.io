@@ -1,1 +1,0 @@
-﻿Never Give Up	G	common	Sorcery	211	WG	G	Return target creature card from your graveyard to your hand. If that card is a Human, you gain 3 life.NEWLINEFlashback 3W (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		Another combat trickNEWLINEOFCCOLOR

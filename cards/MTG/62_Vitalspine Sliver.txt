@@ -1,1 +1,0 @@
-﻿Vitalspine Sliver	B	uncommon	Creature – Sliver 	62	B	2BB	Sliver creatures you control have “T: This creature gains indestructible until end of turn.” (Effects that say “destroy” don’t destroy it, and it can’t be destroyed by damage.)	2/3		normal	MTG		it speaks for itself

@@ -1,1 +1,0 @@
-﻿Subdue the Monster	W	common	Enchantment – Aura 	42	W	1W	Enchant creatureNEWLINEEnchanted permanent can’t attack, block, or transform.			normal	INM		

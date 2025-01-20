@@ -1,1 +1,0 @@
-﻿Aven Lookouts	W	uncommon	Creature – Bird Soldier 	6	W	5W	Flying, protection from ElvesNEWLINEMorph 4W (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)NEWLINEWhen Aven Lookouts is turned face up, tap target creature an opponent controls.	3/5		normal	MTG		it speaks for itself

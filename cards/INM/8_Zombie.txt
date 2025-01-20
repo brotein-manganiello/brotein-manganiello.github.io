@@ -1,1 +1,0 @@
-﻿Zombie	B	common	Token Creature – Zombie 	8	B			2/2		token	INM		!related Lich’s Grimoire;Wurgelurg <3>;Stitched Gargantua;Garden Ghoul;Undead Servant<X>;Undead Servant;

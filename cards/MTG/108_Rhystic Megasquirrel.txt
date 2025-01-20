@@ -1,1 +1,0 @@
-﻿Rhystic Megasquirrel	G	uncommon	Creature – Squirrel 	108	G	3G	Whenever Rhystic Megasquirrel attacks or blocks, if any player pays 3, Rhystic Megasquirrel deals no combat damage this turn.	6/6		normal	MTG		it speaks for itself

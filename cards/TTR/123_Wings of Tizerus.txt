@@ -1,1 +1,0 @@
-﻿Wings of Tizerus	B	rare	Enchantment – Aura 	123	B	3B	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature gets +2/+2 and has flying and “At the beginning of your upkeep, you lose 1 life and create a 1/1 black Harpy creature token with flying.”			normal	TTR		RDZNEWLINE#RAREAURA

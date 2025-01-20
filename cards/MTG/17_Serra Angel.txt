@@ -1,1 +1,0 @@
-﻿Serra Angel	W	common	Creature – Angel 	17	W	3WW	Flying, vigilance	4/4		normal	MTG		

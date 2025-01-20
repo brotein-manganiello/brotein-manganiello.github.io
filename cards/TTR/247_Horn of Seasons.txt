@@ -1,1 +1,0 @@
-﻿Horn of Seasons		uncommon	Artifact – Equipment 	247	C	3	When Horn of Seasons enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.NEWLINEEquipped creature gets +3/+0.NEWLINEEquip 3 (3: Attach to target creature you control. Equip only as a sorcery.)			normal	TTR		

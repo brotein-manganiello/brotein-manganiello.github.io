@@ -1,1 +1,0 @@
-﻿Banana	W	common	Artifact	1	WRG	W	T, Sacrifice this artifact: Add R or G. You gain 2 life.”			token	MTG		

@@ -1,1 +1,0 @@
-﻿Orchard Overseer	G	common	Creature – Treefolk 	212	G	3G	TrampleNEWLINEWhen Orchard Overseer enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)	4/4		normal	INM		Beware the Ulvenwald when the howls go quiet and the leaves turn the color of blood.

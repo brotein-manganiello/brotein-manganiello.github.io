@@ -1,1 +1,0 @@
-﻿Azimuth Paladin	B	rare	Creature – Knight 	42	B	2BB	BB, T: Destroy target blue creature.	3/3		normal	MTG		it speaks for itself

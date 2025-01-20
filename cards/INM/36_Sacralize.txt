@@ -1,1 +1,0 @@
-﻿Sacralize	W	uncommon	Instant	36	W	1W	Exile target artifact, creature, or enchantment. If that permanent’s mana value was 3 or greater, its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle. (A transformed permanent retains the mana value of its front face.)			normal	INM		

@@ -1,1 +1,0 @@
-﻿Merfolk Rogue	U	common	Token Creature – Merfolk Rogue 	12	U		T: Draw a card, then discard a card.	1/1		token	TTR		!related Thassa, the Implacable Tide
