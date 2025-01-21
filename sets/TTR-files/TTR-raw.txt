@@ -460,8 +460,7 @@ Enchanted creature gets +10/+0 and attacks each combat if able.			normal	TTR
 #RAREAURAREPLACEMEPolis's Demise	R	rare	Sorcery	155	R	3RR	This spell can’t be countered.
 Polis’s Demise deals 5 damage to each creature. Destroy all artifacts.			normal	TTR		RAREWIPEREPLACEMEValeri Kripac	R	mythic	Legendary Planeswalker — Valeri 	168	R	1RR			Whenever you cast a spell that targets, put a loyalty counter on Valeri Kripac and create a 1/1 white Soldier creature token.
 [+1]: Add R. If you spend this mana on a spell that targets, that spell can’t be countered.
-[-2]: Valeri Kripac deals 1 damage to any target. Return up to one target instant or sorcery card from your graveyard to your hand.	planeswalker	TTR	3	
-angelica steve argyle
+[-2]: Valeri Kripac deals 1 damage to any target. Return up to one target instant or sorcery card from your graveyard to your hand.	planeswalker	TTR	3	angelica steve argyle
 Izmeralde Vatrescu
 SPARKS
 Valery
