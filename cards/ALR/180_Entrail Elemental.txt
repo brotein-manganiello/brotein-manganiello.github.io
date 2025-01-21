@@ -1,1 +1,0 @@
-﻿Entrail Elemental	UBR	rare	Creature – Elemental Horror 	180	UBR	UBR	MenaceNEWLINEWhenever Entrail Elemental deals combat damage to a player, you may cast target card from your graveyard this turn. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead. (You still pay its costs. Timing rules still apply.)	3/3		normal	ALR		

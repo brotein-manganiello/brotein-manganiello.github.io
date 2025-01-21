@@ -1,1 +1,0 @@
-﻿Dawnhart's Envoy	W	rare	Creature – Elk 	16	W	2W	LifelinkNEWLINEYour opponents casting spells don’t cause abilities to trigger.NEWLINECreatures entering under your opponents’ control don’t cause abilities to trigger.	1/4		normal	INM		VORTHOS

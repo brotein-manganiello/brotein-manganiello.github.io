@@ -1,1 +1,0 @@
-﻿Pharika's Herbalist	G	uncommon	Enchantment Creature – Centaur Druid 	195	G	3G	At the beginning of your end step, if there are three or more creature cards in your graveyard, put a +1/+1 counter on target creature you control.	3/3		normal	TTR		NEWLINEWhenever you gain life, put a +1/+1 counter on Pharika’s Herbalist.

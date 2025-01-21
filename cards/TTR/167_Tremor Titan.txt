@@ -1,1 +1,0 @@
-﻿Tremor Titan	R	uncommon	Creature – Elemental Giant 	167	R	5RR	Whenever Tremor Titan enters the battlefield or attacks, each player sacrifices a permanent. Then you draw a card for each opponent who sacrificed a land this way.	7/7		normal	TTR		

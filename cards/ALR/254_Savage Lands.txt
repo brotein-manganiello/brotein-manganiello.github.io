@@ -1,1 +1,0 @@
-﻿Savage Lands		uncommon	Land	254	BRG		Savage Lands enters tapped.NEWLINET: Add B, R, or G.			normal	ALR		!tappedNEWLINENEWLINEVORTHOS

@@ -1,1 +1,0 @@
-﻿Rosenhulk	G	uncommon	Creature – Plant Spirit 	219	G	3GG	TrampleNEWLINEWhen Rosenhulk enters, choose one –NEWLINE• Create a 0/1 green Plant creature token with “T: Add G.”NEWLINE• Destroy target artifact or enchantment.NEWLINE• Rosenhulk fights target creature an opponent controls.	4/3		normal	INM		

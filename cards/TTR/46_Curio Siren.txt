@@ -1,1 +1,0 @@
-﻿Curio Siren	U	common	Creature – Siren 	46	U	1U	FlyingNEWLINEWhenever one or more counters are put on a creature you control, Curio Siren gets +1/+0 until end of turn.	1/3		normal	TTR		NEWLINEDavid Swan alt

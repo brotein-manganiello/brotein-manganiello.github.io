@@ -1,1 +1,0 @@
-﻿Tidal Cacophony	U	common	Instant	81	U	4U	Choose one –NEWLINE• Draw three cards, then discard a card.NEWLINE• The owner of target nonland permanent puts it on the top or bottom of their library.			normal	TTR		SORCERY –> INSTANTNEWLINEPositive Aura or combat trick

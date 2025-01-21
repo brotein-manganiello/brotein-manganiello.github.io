@@ -1,1 +1,0 @@
-﻿Falkenrath Fletcher	R	common	Creature – Vampire Archer 	150	R	3R	ReachNEWLINEWhen Falkenrath Fletcher enters, if an opponent lost life this turn, create a 1/1 black and red Vampire creature token with menace.	4/3		normal	INM		alt https://www.artstation.com/artwork/9PdxaNEWLINEVORTHOSNEWLINEalt https://www.deviantart.com/fredhild/art/Nyrak-The-Vampire-Archer-586043798

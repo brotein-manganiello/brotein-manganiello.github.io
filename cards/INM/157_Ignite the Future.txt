@@ -1,1 +1,0 @@
-﻿Ignite the Future	R	uncommon	Sorcery	157	R	3R	Exile the top three cards of your library. Until the end of your next turn, you may play those cards. If this spell was cast from a graveyard, you may play cards this way without paying their mana costs.NEWLINEFlashback 7R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		

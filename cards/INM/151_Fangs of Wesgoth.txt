@@ -1,1 +1,0 @@
-﻿Fangs of Wesgoth	R	rare	Creature – Vampire Assassin 	151	R	R	Whenever Fangs of Wesgoth deals combat damage to a player, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)NEWLINEAs long as you control three or more artifacts, Fangs of Wesgoth has menace.	2/1		normal	INM		VORTHOS

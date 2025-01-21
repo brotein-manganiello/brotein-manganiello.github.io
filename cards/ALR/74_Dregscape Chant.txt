@@ -1,1 +1,0 @@
-﻿Dregscape Chant	B	rare	Sorcery	74	B	3B	Return up to one target creature card from your graveyard to the battlefield tapped. You gain 2 life.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		

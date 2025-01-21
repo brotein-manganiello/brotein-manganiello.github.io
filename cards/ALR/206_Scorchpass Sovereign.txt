@@ -1,1 +1,0 @@
-﻿Scorchpass Sovereign	RG	uncommon	Creature – Dragon 	206	RG	3RG	FlyingNEWLINEWhen Scorchpass Sovereign enters, it deals 1 damage to each creature with flying you don’t control.	4/4		normal	ALR		FLAVORTEXT

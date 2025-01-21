@@ -1,1 +1,0 @@
-﻿Ethersworn Indoctrination	WUB	uncommon	Enchantment – Aura 	183	WUB	3WUB	Enchant creatureNEWLINEYou control enchanted creature.NEWLINEEnchanted creature gets +1/+1 and is an artifact in addition to its other types.			normal	ALR		VORTHOS

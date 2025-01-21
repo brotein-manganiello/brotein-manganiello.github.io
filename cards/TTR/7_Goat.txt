@@ -1,1 +1,0 @@
-﻿Goat	W	common	Token Creature – Goat 	7	W			0/1		token	TTR		!related Astral Capricine<2>;NEWLINEalt Ihor Reshetnikov

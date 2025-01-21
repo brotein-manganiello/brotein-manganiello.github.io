@@ -1,1 +1,0 @@
-﻿Curse of the Vein	R	common	Enchantment – Aura Curse 	145	R	1R	Enchant playerNEWLINEWhen Curse of the Vein enters, create a 1/1 black and red Vampire creature token with menace.NEWLINEWhenever enchanted player is attacked, Curse of the Vein deals 1 damage to them.			normal	INM		

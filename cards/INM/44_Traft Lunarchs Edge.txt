@@ -1,1 +1,0 @@
-﻿Traft, Lunarch's Edge	W	rare	Legendary Creature – Human Cleric Knight 	44	W	1W	First strikeNEWLINEAngel spells you cast cost 2 less to cast.NEWLINEAs long as you control an Angel, prevent all noncombat damage that would be dealt to Traft, Lunarch’s Edge.	2/2		normal	INM		VORTHOS

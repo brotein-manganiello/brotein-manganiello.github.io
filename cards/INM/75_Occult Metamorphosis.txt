@@ -1,1 +1,0 @@
-﻿Occult Metamorphosis	U	mythic	Enchantment	75	U	3U	At the beginning of your end step, create a token that’s a copy of target transformed permanent you control, except it has “This permanent can’t transform.”			normal	INM		VORTHOSNEWLINEERASE

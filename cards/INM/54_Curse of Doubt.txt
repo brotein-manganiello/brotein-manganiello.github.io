@@ -1,1 +1,0 @@
-﻿Curse of Doubt	U	common	Enchantment – Aura Curse 	54	U	1U	FlashNEWLINEEnchant playerNEWLINEWhen Curse of Doubt enters, counter target spell enchanted player controls unless they pay 2.NEWLINE4U: Enchanted player mills three cards.			normal	INM		

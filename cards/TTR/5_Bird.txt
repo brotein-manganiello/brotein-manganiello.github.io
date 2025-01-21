@@ -1,1 +1,0 @@
-﻿Bird	W	common	Token Creature – Bird 	5	W		Flying	1/1		token	TTR		!related Halcyon Hoplite;NEWLINEVictor Felix-Diaz alt

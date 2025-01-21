@@ -1,1 +1,0 @@
-﻿Destined Confrontation	R	common	Sorcery	140	R	2R	Target creature you control deals damage equal to its power to target creature or planeswalker you don’t control. Scry 1.			normal	TTR		HEROISM

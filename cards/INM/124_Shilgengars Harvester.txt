@@ -1,1 +1,0 @@
-﻿Shilgengar's Harvester	B	common	Creature – Demon 	124	B	4B	FlyingNEWLINE3, Sacrifice another creature: Draw a card. Activate only as a sorcery.	3/3		normal	INM		alt Vladimir MatyukhinNEWLINEVORTHOS

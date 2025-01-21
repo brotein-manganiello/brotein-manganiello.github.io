@@ -1,57 +1,57 @@
 4_Avacyn, the Savior
-63_Fathom the Unfathomable
+61_Fathom the Unfathomable
 92_Archdemon Shilgengar
 162_Marzela Falkenrath
 201_Kernon, Primeval Ritualist
 21_Flight of Angels
-75_Occult Metamorphosis
+73_Occult Metamorphosis
 126_Sorin, Vampire Maverick
 174_Utter Pandemonium
-205_Krendel of Kessig
+204_Krendel of Kessig
 32_Polina Elgaud
-86_Stitched Gargantua
+84_Stitched Gargantua
 135_Wurgelurg
 177_Volcanic Malignus
 214_Prayers for the Hunted
-8_Beseech Aid
-53_Cryptic Possessor
+7_Beseech Aid
+54_Curse of the Breathless
 97_Corpse Thief
 138_Charging Commando
 197_Glutton of Zhava
-12_Cathar's Armory
-56_Curse of the Breathless
+11_Cathar's Armory
+56_Curse of Time
 99_Curse of Fangs
 141_Curse of Hallucinations
 199_Harness Nature
-14_Cenotaph Possessor
-58_Curse of Time
+13_Cenotaph Possessor
+62_Geist of Yesterdays
 102_Dark Ascension
 148_Exhaust Possibilities
 208_Mistwood Rites
-16_Dawnhart's Envoy
-67_Krothuss, Abyssal Terror
+15_Dawnhart's Envoy
+66_Krothuss, Abyssal Terror
 104_Deathless Butcher
 151_Fangs of Wesgoth
 209_Molderkin
 25_Hecatomb Haunter
-72_Nephalia Inquisitors
+71_Nephalia Inquisitors
 106_Doomsday Horde
 158_Infernal Direwolf
 213_Phantom of Wolf's Run
 30_Outrider Captain
-73_Nervewing Skaab
+75_Paranormal Convergence
 110_Falkenrath Bladesire
 161_Leyran Spellchainer
-218_Risen Lumberknot
+217_Risen Lumberknot
 34_Resting Tombs
-77_Paranormal Convergence
+82_Snag Apparition
 115_Left for Dead
 164_Pyromantic Duo
 223_Ulvenwald Ranger
 43_Sword of the Heavens
-84_Snag Apparition
+86_Trawler Skaab
 121_Oswin, Skirsdag Diabolist
-171_Tallowkeep
+170_Tallowkeep
 224_Ursagore
 44_Traft, Lunarch's Edge
 88_Undercroft Portal
@@ -64,62 +64,62 @@
 139_Clash at Geier Reach
 181_Adderblade Exterminator
 3_Angel of Sunrise
-55_Curse of Scuttling Thoughts
+53_Curse of Scuttling Thoughts
 95_Carnage Throne
 142_Curse of Raining Daggers
 183_Barge Through
 5_Avacyn's Mark
-57_Curse of the Tattletale
+55_Curse of the Tattletale
 100_Curse of Nightmares
 144_Curse of the Hunter's Moon
-185_Brambleswine
-7_Beckoning Possessor
-59_Drunau Egg
+185_Briarswine
+8_Blessed Bladewright
+57_Drunau Egg
 103_Death Undone
 146_Dance with Devils
 186_Brutalizer Gear
-9_Blessed Bladewright
-60_Ensnaring Possessor
+12_Cathedral Gargoyle
+58_Ensnaring Possessor
 105_Diregraf Skulleater
 154_Hanweir Miscreant
 187_Cabin Golem
-13_Cathedral Gargoyle
-66_Havengul Banshee
+18_Elgaud Redeemer
+65_Havengul Banshee
 107_Dowager of Traublassen
 156_Hellfreaks
 189_Curse of Venom
 19_Evanescence
-69_Mistmourner
+68_Mistmourner
 113_Grim Raven of Wesgoth
 157_Ignite the Future
 190_Dawnhart Ceremony
 24_Haunted Waif
-70_Morkrut Gryff
+69_Morkrut Gryff
 118_Malicious Eclipse
 159_Irascible Bloodwitch
 196_Gavony Cavaliers
 31_Phantom Presence
-74_Niblis of Hail
+72_Niblis of Hail
 122_Plague Herald
 160_Kessig Jeweler
 200_Hungering Howlpack
 33_Puresoul Possessor
-76_Omendancer
+74_Omendancer
 125_Skirsdag Edict
 163_Obsidian Hellkite
 215_Primordial Slime
 35_Righteous Chaplain
-81_Severed Hands
+79_Severed Hands
 130_Umbersteed
 165_Silvershot Crossbow
-217_Pushing Daisies
+216_Pushing Daisies
 36_Sacralize
-82_Shackled Memories
+80_Shackled Memories
 132_Undead Necromancer
-170_Surfacing Horripede
-219_Rosenhulk
+169_Surfacing Horripede
+218_Rosenhulk
 38_Silverblade Cathar
-85_Spine-Chilling Discovery
+83_Spine-Chilling Discovery
 134_Vespercloak Vampire
 179_Voldaren Heartslicer
 222_Treeline Archer
@@ -133,86 +133,86 @@
 93_Augury of Misfortunes
 137_Alchemist's Grimoire
 184_Blossoming Defense
-10_Breaking Dawn
+9_Breaking Dawn
 49_Carrion Drake
 96_Contagious Ghoul
 140_Crater Thing
 188_Creep of the Crop
-11_Candlecrown Stag
+10_Candlecrown Stag
 50_Claim of the Deep
 98_Crypt Viper
 143_Curse of Slaughter
-191_Dawnhart Druid
-15_﻿Cobblespook
+191_Dawnhart Druids
+14_﻿Cobblespook
 51_Corrupted Sorcerer
 101_Curse of the Unburied
 145_Curse of the Vein
 192_Death in Bloom
-17_Departed Butler
-52_Covetous Possessor
+16_Departed Butler
+52_Curse of Doubt
 108_Drain Youth
 147_Embercut Duelist
 193_Desperate Botanist
-18_Drogskol Possessor
-54_Curse of Doubt
+17_Drogskol Possessor
+59_Erase Identity
 109_Dread Elk
 149_Faithless Razing
 194_Druid's Grimoire
 20_Flawless Finesse
-61_Erase Identity
+60_Escaped Ooze
 111_Falkenrath Ordainer
 150_Falkenrath Fletcher
 195_Entropy's Descent
 22_Frightful Visitation
-62_Escaped Ooze
+63_Geistmage's Grimoire
 112_Final Destination
 152_Go Feral
-198_Grizzled Parish-Blade
+198_Grizzled Woodcutter
 23_Harvesttide Healer
-64_Geistmage's Grimoire
+64_Ghastly Guidance
 114_It Came from the Bog
 153_Grasping Carriage
 202_Kernon's Consecration
 26_Lifted Spirits
-65_Ghastly Guidance
+67_Memory Surgeon
 116_Lich's Grimoire
 155_Hatefire
-203_Kessig Woodcutter
+203_Killer Scorpion
 27_Loyal Retriever
-68_Memory Surgeon
+70_Nebelgast Possessor
 117_Lone Zombie
-166_Skirsdag Ritualist
-204_Killer Scorpion
+166_Stensia Cavalcade
+205_Lambholt Tracker
 28_Moonscythe
-71_Nebelgast Possessor
+76_Remove Soul
 119_Markov Fencer
-167_Stensia Cavalcade
-206_Lambholt Tracker
+167_Stromkirk Sangromancer
+206_Lupine Prowler
 29_Moorland Slayer
-78_Remove Soul
+77_Scare Away
 120_Olivia's Offer
-168_Stromkirk Sangromancer
+168_Suffer the Blade
 207_Lycanthropic Outburst
 37_Sigarda's Shepherd
-79_Scare Away
+78_Seagraf Shamblers
 123_Sanguine Salvation
-169_Suffer the Blade
+171_Thunderwolf
 210_Moldgraf Wurm
 39_Slayer's Grimoire
-80_Seagraf Shamblers
+81_Skaab Grappler
 124_Shilgengar's Harvester
 172_Torch Reveler
 211_Never Give Up
 40_Spectral Salvo
-83_Skaab Grappler
+85_Sunken One
 127_Strangleroot's Clutches
 173_Troublesome Throng
 212_Orchard Overseer
 41_Stalwart Cathar
-87_Sunken One
+87_Uncovered Secrets
 129_True Blood
 175_Vampiric Vice
-216_Prowling Wolf
+219_Shrivelthorn Howler
 42_Subdue the Monster
 89_Unethical Research
 131_Undead Hex

@@ -1,1 +1,0 @@
-﻿Glimpse the Gorgon	B	common	Instant	99	B	4B	Destroy target non-Gorgon creature. Scry 1.			normal	TTR		2/8 3BB –> 2BB 

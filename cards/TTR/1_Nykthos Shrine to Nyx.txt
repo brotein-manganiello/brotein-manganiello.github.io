@@ -1,1 +1,0 @@
-﻿Nykthos, Shrine to Nyx		masterpiece	Legendary Land	1	C		T: Add C.NEWLINE2, T: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)			normal	TTR		

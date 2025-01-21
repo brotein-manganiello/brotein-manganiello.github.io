@@ -1,1 +1,0 @@
-﻿Nervewing Skaab	U	rare	Creature – Zombie Horror 	73	U	2UU	Flying, ward 2NEWLINEWhen Nervewing Skaab enters, target instant or sorcery card in your graveyard with mana value 3 or less gains flashback 0 until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)	3/2		normal	INM		alt https://www.artstation.com/artwork/Z5QDBNNEWLINEKEYWARD

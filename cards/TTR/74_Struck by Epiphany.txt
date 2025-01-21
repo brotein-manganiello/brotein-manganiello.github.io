@@ -1,1 +1,0 @@
-﻿Struck by Epiphany	U	common	Enchantment – Aura 	74	U	2U	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature gets +1/+1 and has “Whenever this creature deals combat damage to an opponent, draw a card.”			normal	TTR		HEROISM

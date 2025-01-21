@@ -1,1 +1,0 @@
-﻿Behemoth Channeler	WRG	uncommon	Creature – Elf Shaman 	169	WRG	RGW	At the beginning of combat on your turn, target creature you control has base power and toughness 5/5 until end of turn.	2/2		normal	ALR		VORTHOS

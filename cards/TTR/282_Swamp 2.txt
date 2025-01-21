@@ -1,1 +1,0 @@
-﻿Swamp 2		common	Basic Land – Swamp 	282	C					normal	TTR		!exportname Swamp 2

@@ -1,1 +1,0 @@
-﻿Devil	R	common	Token Creature – Devil 	9	R		When this creature dies, it deals 1 damage to any target.	1/1		token	INM		!related Dance with Devils<2>;

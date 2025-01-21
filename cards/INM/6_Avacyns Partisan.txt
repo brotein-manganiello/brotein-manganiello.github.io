@@ -1,1 +1,0 @@
-﻿Avacyn's Partisan	W	common	Creature – Human Peasant 	6	W	1W	At the beginning of your end step, if you control two or more artifacts and/or enchantments, transform Avacyn’s Partisan.	2/2		transform double faced	INM		Avacyn's Paladin	W	Creature – Human Cleric Knight 	W		Lifelink	3/3			DFCNEWLINEChris DienNEWLINEhttps://www.artstation.com/artwork/X9Yon

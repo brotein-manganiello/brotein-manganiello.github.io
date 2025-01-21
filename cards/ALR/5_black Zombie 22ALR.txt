@@ -1,1 +1,0 @@
-﻿black Zombie 22ALR	B	common	Token Creature – Zombie 	5	B			2/2		token	ALR		!exportname black Zombie 22ALR

@@ -1,1 +1,0 @@
-﻿Nyxborn Cockatrice	B	common	Enchantment Creature – Cockatrice 	112	B	1BB	Flying, deathtouch	2/2		normal	TTR		

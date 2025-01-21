@@ -1,1 +1,0 @@
-﻿Starlight Veil	W	uncommon	Enchantment – Aura 	38	W	1W	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature gets +1/+1 for each enchantment you control.			normal	TTR		HEROISMNEWLINEAZORIUS

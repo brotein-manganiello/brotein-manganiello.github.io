@@ -1,1 +1,0 @@
-﻿Greedstoker Demon	B	rare	Creature – Demon 	100	B	2BB	Flying, trampleNEWLINEWhen Greedstoker Demon enters the battlefield, you lose X life and create X Treasure tokens, where X is your devotion to black. (Each B in the mana costs of permanents you control counts toward your devotion to black.)NEWLINEYou can’t sacrifice more than one Treasure each turn.	5/4		normal	TTR		

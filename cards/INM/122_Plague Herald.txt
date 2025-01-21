@@ -1,1 +1,0 @@
-﻿Plague Herald	B	uncommon	Creature – Zombie Goat 	122	B	2BB	Other Zombies you control get +1/+1.NEWLINEWhenever Plague Herald or another Zombie enters under your control, target creature you control gains deathtouch until end of turn.	3/3		normal	INM		alt Rogier van de BeekNEWLINEVORTHOS

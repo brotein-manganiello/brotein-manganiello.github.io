@@ -1,1 +1,0 @@
-﻿Mountain 3		common	Basic Land – Mountain 	287	C					normal	TTR		!exportname Mountain 3

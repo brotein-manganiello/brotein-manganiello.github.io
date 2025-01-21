@@ -1,1 +1,0 @@
-﻿Giltspire Exemplar	WUG	uncommon	Creature – Human Knight 	184	WUG	2GWU	TrampleNEWLINESpells your opponents cast that target a creature you control cost 2 more to cast.NEWLINEWhenever a creature you control attacks alone, it gets +2/+2 until end of turn.	4/4		normal	ALR		FLAVORTEXT

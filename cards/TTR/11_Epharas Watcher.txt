@@ -1,1 +1,0 @@
-﻿Ephara's Watcher	W	common	Enchantment Creature – Bird 	11	W	W	FlyingNEWLINEWhen Ephara’s Watcher enters the battlefield, scry 2.	1/1		normal	TTR		NEWLINEAZORIUS

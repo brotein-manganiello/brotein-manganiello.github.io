@@ -1,1 +1,0 @@
-﻿Final Destination	B	common	Instant	112	B	B	As an additional cost to cast this spell, pay 4 or sacrifice a creature.NEWLINETarget creature gets -13/-13 until end of turn. If that creature would die this turn, exile it instead.			normal	INM		https://www.pinterest.ph/pin/792774340672793836/

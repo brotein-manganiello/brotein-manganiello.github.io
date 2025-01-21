@@ -1,1 +1,0 @@
-﻿Pristine Delta		common	Land	263	WU		Pristine Delta enters the battlefield tapped.NEWLINET: Add W or U.NEWLINE2WU, T, Sacrifice Pristine Delta: Draw a card.			normal	TTR		!note nbslot

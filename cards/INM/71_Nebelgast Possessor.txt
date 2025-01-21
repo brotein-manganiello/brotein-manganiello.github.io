@@ -1,1 +1,0 @@
-﻿Nebelgast Possessor	U	common	Creature – Spirit 	71	U	U	FlyingNEWLINE2U, T: Target creature gets +1/+1 and gains flying until end of turn. Activate only as a sorcery.	1/1		normal	INM		“Beware the light of the moors, which whisper promises of safety. Trust it less than moonlight.”NEWLINE–Ismara, geist-trapperNEWLINEVORTHOS
