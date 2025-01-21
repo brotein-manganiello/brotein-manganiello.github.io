@@ -1,0 +1,1 @@
+﻿Plains 2		common	Basic Land – Plains 	274	C					normal	TTR		!exportname Plains 2

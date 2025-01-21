@@ -1,0 +1,1 @@
+﻿Behold the Horizon	G	common	Enchantment – Aura 	170	G	1G	Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has vigilance.NEWLINE2G: Return Behold the Horizon from your graveyard to your hand.			normal	TTR		HEROISMNEWLINEToru-meow altNEWLINEVORTHOSNEWLINEPower/toughness pumping (usually on an instant)

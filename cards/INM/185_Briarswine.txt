@@ -1,0 +1,1 @@
+﻿Briarswine	G	uncommon	Creature – Boar 	185	G	2G	Foreshadow 4G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Briarswine dies, create a 2/2 green Wolf creature token.	2/2		normal	INM		VORTHOS

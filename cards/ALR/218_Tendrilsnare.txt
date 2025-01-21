@@ -1,0 +1,1 @@
+﻿Tendrilsnare	WG	uncommon	Sorcery	218	WG	GW	Exile target creature an opponent controls. Each player may search their library for a basic land card and put that card onto the battlefield tapped. Then each player who searched their library this way shuffles.			normal	ALR		VORTHOS

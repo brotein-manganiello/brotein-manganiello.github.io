@@ -1,0 +1,1 @@
+﻿Mountain_ALR		common	Basic Land – Mountain 	0	C					normal	ALR		!exportname Mountain_ALR

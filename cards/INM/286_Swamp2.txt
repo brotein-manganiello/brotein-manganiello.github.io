@@ -1,0 +1,1 @@
+﻿Swamp2		common	Basic Land – Swamp 	286	C					normal	INM		

@@ -1,0 +1,1 @@
+﻿Jenara's Favor	WUG	uncommon	Enchantment – Aura 	191	WUG	1GWU	Enchant creatureNEWLINEEnchanted creature gets +3/+3, has flying, and “1W: Put a +1/+1 counter on this creature.”			normal	ALR		FLAVORTEXT 

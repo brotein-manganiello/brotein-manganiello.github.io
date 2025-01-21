@@ -1,0 +1,1 @@
+﻿Moldgraf Wurm	G	common	Creature – Wurm 	210	G	7G	This spell costs 1 less to cast for each card type among cards in your graveyard.NEWLINETrample	6/6		normal	INM		

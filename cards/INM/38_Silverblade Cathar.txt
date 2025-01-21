@@ -1,0 +1,1 @@
+﻿Silverblade Cathar	W	uncommon	Creature – Human Knight 	38	W	2W	First strikeNEWLINEWhenever Silverblade Cathar and two other creatures attack, draw a card.	2/3		normal	INM		VORTHOS

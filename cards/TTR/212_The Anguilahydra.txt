@@ -1,0 +1,1 @@
+﻿The Anguilahydra	UBG	rare	Legendary Enchantment Creature – Fish Hydra 	212	UBG	3BGU	MenaceNEWLINEWhen The Anguilahydra enters the battlefield, draw X cards and put X +1/+1 counters on The Anguilahydra, where X is the number of enchantments you control.	5/5		normal	TTR		CN24: ETB+upkeep –> ETB+saboteur, name clauseNEWLINEartifact slotNEWLINEQCX

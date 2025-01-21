@@ -1,0 +1,1 @@
+﻿Faithless Razing	R	common	Sorcery	149	R	1R	Choose one –NEWLINE• Create a 2/2 green Wolf creature token. You may discard a card. If you do, draw a card.NEWLINE• Destroy target artifact.NEWLINEFlashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	INM		alt Piotr Ruszkowski

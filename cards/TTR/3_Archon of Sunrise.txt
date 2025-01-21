@@ -1,0 +1,1 @@
+﻿Archon of Sunrise	W	rare	Enchantment Creature – Archon 	3	W	4WW	Flying, lifelinkNEWLINE2WW, Exile Archon of Sunrise from your graveyard: Create a token that’s a copy of it, except it’s an Aura enchantment with enchant creature and “Enchanted creature gets +4/+4 and has flying and lifelink.” Activate only as a sorcery.	4/4		normal	TTR		NOTE: See Scavenged Brawler

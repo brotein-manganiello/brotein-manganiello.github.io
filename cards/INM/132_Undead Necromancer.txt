@@ -1,0 +1,1 @@
+﻿Undead Necromancer	B	uncommon	Creature – Zombie Warlock 	132	B	2B	When Undead Necromancer enters, search your library for a card, put that card into your graveyard, then shuffle.NEWLINEAs long as this card is in your graveyard, its name is Undead Servant.	3/2		normal	INM		VORTHOS

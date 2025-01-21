@@ -1,0 +1,1 @@
+﻿Cathedral Gargoyle	W	uncommon	Artifact Creature – Gargoyle 	12	W	3W	Foreshadow 4W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEFlyingNEWLINEWhen Cathedral Gargoyle dies, you gain 2 life and create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	3/3		normal	INM		

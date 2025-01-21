@@ -1,0 +1,1 @@
+﻿Keranos's Ideosphinx	U	rare	Creature – Sphinx 	54	U	2UU	Flying, ward 2NEWLINEThe first noncreature spell you cast each turn costs X less to cast, where X is your devotion to blue. (Each U in the mana costs of permanents you control counts toward your devotion to blue.)	4/3		normal	TTR		alt art: John Tedrick

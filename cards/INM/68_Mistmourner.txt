@@ -1,0 +1,1 @@
+﻿Mistmourner	U	uncommon	Creature – Spirit 	68	U	2UU	Other Spirits you control get +1/+1.NEWLINEWhenever Mistmourner or another Spirit you control enters, you may draw a card. If you do, discard a card.	3/3		normal	INM		

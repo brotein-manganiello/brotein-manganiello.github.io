@@ -1,0 +1,1 @@
+﻿Wolf	G	common	Token Creature – Wolf 	14	G			2/2		token	INM		!related Druid’s Grimoire<2>;Brambleswine;Phantom of Wolf’s Run;Curse of the Hunter’s Moon;Faithless Razing;

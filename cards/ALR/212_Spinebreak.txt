@@ -1,0 +1,1 @@
+﻿Spinebreak	BR	common	Sorcery	212	BR	BR	Gain control of target creature until end of turn. Untap it. Until end of turn, it gets -1/-1 and gains haste.			normal	ALR		FLAVORTEXT

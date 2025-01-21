@@ -1,0 +1,1 @@
+﻿Blood-Cantor of Mogis	R	common	Enchantment Creature – Minotaur Shaman 	133	R	2R		2/3	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Target creature you control gets +1/+0 until end of turn.NEWLINE[Lore III] Target creature you control gets +2/+0 until end of turn.	leveler	TTR		

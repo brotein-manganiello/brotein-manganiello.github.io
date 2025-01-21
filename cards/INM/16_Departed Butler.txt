@@ -1,0 +1,1 @@
+﻿Departed Butler	W	common	Creature – Spirit 	16	W	2W	FlyingNEWLINEWhen Departed Butler enters, draw a card.	2/1		normal	INM		

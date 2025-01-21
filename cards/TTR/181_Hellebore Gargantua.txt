@@ -1,0 +1,1 @@
+﻿Hellebore Gargantua	G	common	Creature – Plant 	181	G	7G	This spell costs X less to cast, where X is your devotion to green. (Each G in the mana costs of permanents you control counts toward your devotion to green.)NEWLINETrample	6/5		normal	TTR		

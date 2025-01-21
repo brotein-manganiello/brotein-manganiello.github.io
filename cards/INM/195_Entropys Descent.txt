@@ -1,0 +1,1 @@
+﻿Entropy's Descent	G	common	Sorcery	195	G	1G	Choose one –NEWLINE• Destroy target artifact.NEWLINE• Destroy target enchantment.NEWLINE• Destroy target creature with flying.NEWLINE• Target creature you control fights target creature an opponent controls.			normal	INM		Doomed Descent

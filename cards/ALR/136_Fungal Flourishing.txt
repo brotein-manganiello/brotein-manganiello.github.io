@@ -1,0 +1,1 @@
+﻿Fungal Flourishing	G	uncommon	Sorcery	136	G	1GG	Create three 1/1 green Saproling creature tokens.			normal	ALR		FLAVORTEXT

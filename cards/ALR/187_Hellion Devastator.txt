@@ -1,0 +1,1 @@
+﻿Hellion Devastator	BRG	rare	Creature – Hellion 	187	BRG	1BRG	When Hellion Devastator enters, destroy up to one target nonland permanent with mana value 3 or less.NEWLINECycling 2 (2, Discard this card: Draw a card.)	4/3		normal	ALR		VORTHOS 

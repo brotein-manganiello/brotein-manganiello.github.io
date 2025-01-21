@@ -1,0 +1,1 @@
+﻿Stromkirk Sangromancer	R	common	Creature – Vampire Wizard 	167	R	1R	Whenever you cast an instant, sorcery, or Curse spell, Stromkirk Sangromancer deals 1 damage to each opponent.	2/2		normal	INM		alt https://www.deviantart.com/michalivan/art/Vladimir-League-of-Legends-348879460NEWLINEVORTHOS

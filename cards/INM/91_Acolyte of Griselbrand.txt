@@ -1,0 +1,1 @@
+﻿Acolyte of Griselbrand	B	common	Creature – Human Warlock 	91	B	2B	Foreshadow 4B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Acolyte of Griselbrand dies, you draw a card and you lose 1 life.	3/1		normal	INM		

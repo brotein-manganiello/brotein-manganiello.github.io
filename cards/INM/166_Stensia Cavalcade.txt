@@ -1,0 +1,1 @@
+﻿Stensia Cavalcade	R	common	Creature – Vampire Knight 	166	R	4R	TrampleNEWLINEWhen Stensia Cavalcade enters, create two Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip 2.)	5/4		normal	INM		Oleg Kasputin ALTNEWLINEVORTHOS

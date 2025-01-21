@@ -1,0 +1,1 @@
+﻿Godspeaker Mayael	WRG	mythic	Legendary Creature – Elf Shaman 	185	WRG	1RGW	At the beginning of your upkeep, you may discard a card. If you do, draw a card.NEWLINET: You may put a creature card from your hand onto the battlefield. If you do, put a +1/+1 counter on that creature.	3/3		normal	ALR		VORTHOS

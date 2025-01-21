@@ -1,0 +1,1 @@
+﻿Nestraider	B	uncommon	Enchantment Creature – Horror 	111	B	1B		3/2	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Each player loses 1 life.NEWLINE[Lore III] Create a 1/1 black Harpy creature token with flying.	leveler	TTR		

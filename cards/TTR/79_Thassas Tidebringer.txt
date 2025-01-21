@@ -1,0 +1,1 @@
+﻿Thassa's Tidebringer	U	common	Creature – Serpent 	79	U	5U	5UU: Thassa’s Tidebringer can’t be blocked this turn. This ability costs 1 less to activate for each creature you control with a counter on it.	5/6		normal	TTR		5UU –> 6UUNEWLINENEWLINEWard 2NEWLINE2/10 – Ward 2 > Ward 3NEWLINENEWLINE2KLS8

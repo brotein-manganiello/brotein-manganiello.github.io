@@ -1,0 +1,1 @@
+﻿Kaleidoscape		rare	Land	251	C		T: Add C.NEWLINET: Add one mana of any color. Spend this mana only to cast a spell that’s three or more colors.			normal	ALR		FLAVORTEXTNEWLINE!design Mako

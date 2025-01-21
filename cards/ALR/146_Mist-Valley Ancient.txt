@@ -1,0 +1,1 @@
+﻿Mist-Valley Ancient	G	uncommon	Creature – Beast 	146	G	5G	HexproofNEWLINEMist-Valley Ancient enters tapped.NEWLINECycling 2 (2, Discard this card: Draw a card.)	7/7		normal	ALR		!tapped NEWLINEVORTHOS

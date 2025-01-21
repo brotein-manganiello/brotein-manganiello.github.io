@@ -1,0 +1,1 @@
+﻿Serpentine Woods		common	Land	264	BG		Serpentine Woods enters the battlefield tapped.NEWLINET: Add B or G.NEWLINE2BG, T, Sacrifice Serpentine Woods: Draw a card.			normal	TTR		!note nbslot

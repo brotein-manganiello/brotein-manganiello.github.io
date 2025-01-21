@@ -1,0 +1,1 @@
+﻿Beseech Aid	W	rare	Sorcery	7	W	1W	Return target artifact, creature, or enchantment card from your graveyard to the battlefield if it has mana value 3 or less.NEWLINEFlashback–2W or Tap two untapped white creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)			normal	INM		Convokeback

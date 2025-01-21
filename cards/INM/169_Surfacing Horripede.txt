@@ -1,0 +1,1 @@
+﻿Surfacing Horripede	R	uncommon	Creature – Insect Horror 	169	R	3RR	Menace, reachNEWLINEWhen Surfacing Horripede enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)	5/5		normal	INM		VORTHOS

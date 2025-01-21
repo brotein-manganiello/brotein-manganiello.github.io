@@ -1,0 +1,1 @@
+﻿Archon	W	common	Token Creature – Archon 	4	W		Flying	3/3		token	TTR		!related Tykron of the Agnomachi;

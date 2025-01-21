@@ -1,0 +1,1 @@
+﻿Stalker of Myth	UR	uncommon	Enchantment Creature – Chimera 	237	UR	UR	MenaceNEWLINEStalker of Myth gets +1/+0 for each creature you control with chronicle.NEWLINE2, Remove a counter from a permanent you control: Draw a card, then discard a card.	1/3		normal	TTR		NEWLINERDZNEWLINEARCUN

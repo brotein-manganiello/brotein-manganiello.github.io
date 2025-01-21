@@ -1,0 +1,1 @@
+﻿Derevi's Adjutant	W	rare	Creature – Bird Soldier 	12	W	3WW	FlyingNEWLINEWhen Derevi’s Adjutant enters, put a +1/+1 counter on each other creature you control.NEWLINECycling 2 (2, Discard this card: Draw a card.)NEWLINEWhen you cycle Derevi’s Adjutant, exile it. You may cast it from exile for as long as it remains exiled.	4/4		normal	ALR		

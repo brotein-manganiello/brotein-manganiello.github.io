@@ -1,0 +1,1 @@
+﻿Satyr Instigator	R	uncommon	Enchantment Creature – Satyr Shaman 	162	R	3R		3/4	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Create a 1/1 red Satyr creature token with “This creature can’t block.”NEWLINE[Lore III] Creatures you control get +1/+0 until end of turn.	leveler	TTR		

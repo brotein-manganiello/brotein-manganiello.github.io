@@ -1,0 +1,1 @@
+﻿Banewidow	G	common	Creature – Spider 	182	BG	2G	ReachNEWLINE2B: Each opponent loses 1 life and you gain 1 life.	1/4		normal	INM		OFFCOLORNEWLINEVORTHOS

@@ -1,0 +1,1 @@
+﻿Extract the Truth	B	common	Sorcery	95	B	1B	Choose one –NEWLINE• Target opponent reveals their hand. You may choose a creature, enchantment, or planeswalker card from it. That player discards that card.NEWLINE• Target opponent sacrifices an enchantment.			normal	TTR		Removal spell, limitations, different from the others, usually weaker

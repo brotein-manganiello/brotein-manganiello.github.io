@@ -1,0 +1,1 @@
+﻿Arcanist's Reaver	UBR	rare	Creature – Zombie Beast 	166	UBR	UBR	If you casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.NEWLINECycling 2 (2, Discard this card: Draw a card.)	4/4		normal	ALR		VORTHOS

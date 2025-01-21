@@ -1,0 +1,1 @@
+﻿Ajani Emblem ALR		common	Emblem – Ajani 	12	C		Creatures you control get +X/+X, where X is your life total.			emblem	ALR		!exportname Ajani Emblem ALR

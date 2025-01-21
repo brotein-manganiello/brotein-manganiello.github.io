@@ -1,0 +1,1 @@
+﻿Goldnight Seraph	WR	uncommon	Creature – Angel 	235	WR	3RW	FlyingNEWLINEWhen Goldnight Seraph enters, it deals X damage to up to one target creature or planeswalker and you gain X life, where X is the number of artifacts you control.	3/2		normal	INM		ARCUN SIGNPOSTNEWLINEalt Tanya PodolskaiaNEWLINEDiablo IIINEWLINEhttps://hearthstone.fandom.com/wiki/Forbidden_Flame

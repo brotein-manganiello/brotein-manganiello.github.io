@@ -1,0 +1,1 @@
+﻿Beseech the War Gods	R	common	Instant	132	R	1R	Choose one –NEWLINE• Target creature gets +2/+0 and gains first strike until end of turn.NEWLINE• Destroy target artifact.			normal	TTR		HEROISMNEWLINETeam pump (power greater than toughness)/land destruction

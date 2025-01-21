@@ -1,0 +1,1 @@
+﻿Paradise Chimera	UG	uncommon	Creature – Chimera 	231	UG	2GU	Colossal 2–5GU (You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay 5GU as a sorcery: Put two +1/+1 counters on it if it has none.)NEWLINEFlyingNEWLINEEach creature you control with a counter on it has vigilance and “T: Add one mana of any color.”	2/4		normal	TTR		2KLS7NEWLINEARCUN

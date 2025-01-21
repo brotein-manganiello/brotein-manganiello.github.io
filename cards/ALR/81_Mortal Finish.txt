@@ -1,0 +1,1 @@
+﻿Mortal Finish	B	rare	Instant	81	B	3B	Exile target creature or planeswalker, then exile its controller’s graveyard.			normal	ALR		FLAVORTEXT 

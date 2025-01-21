@@ -1,0 +1,1 @@
+﻿Hellspark Prankster	R	rare	Creature – Devil 	106	R	1R	HasteNEWLINEThe first instant or sorcery spell you cast each turn costs 1 less to cast.NEWLINER, T, Sacrifice Hellspark Prankster: Change the target of target spell with a single target.	2/1		normal	ALR		

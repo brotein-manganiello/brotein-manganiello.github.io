@@ -1,0 +1,1 @@
+﻿Felhide Marauder	B	common	Creature – Minotaur Warrior 	96	B	3B	When Felhide Marauder enters the battlefield, if you control a creature with power greater than its base power, Felhide Marauder gains haste until end of turn.	4/3		normal	TTR		BloodstrengthNEWLINE(Memento Gorgon goes to 3/3)

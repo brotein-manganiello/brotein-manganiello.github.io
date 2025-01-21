@@ -1,0 +1,1 @@
+﻿Spectral Salvo	W	common	Instant	40	W	2W	Spectral Salvo deals 13 damage to target tapped creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	INM		

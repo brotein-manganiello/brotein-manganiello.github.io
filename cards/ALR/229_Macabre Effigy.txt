@@ -1,0 +1,1 @@
+﻿Macabre Effigy		uncommon	Artifact	229	C	1	Macabre Effigy enters with three charge counters on it.NEWLINE3, T, Remove a charge counter from Macabre Effigy: Create a 2/2 black Zombie creature token. Activate only as a sorcery.			normal	ALR		

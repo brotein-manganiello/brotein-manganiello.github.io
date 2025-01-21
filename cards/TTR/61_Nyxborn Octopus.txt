@@ -1,0 +1,1 @@
+﻿Nyxborn Octopus	U	common	Enchantment Creature – Octopus 	61	U	3U		3/3	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Tap target creature you don’t control.NEWLINE[Lore III] Tap target creature you don’t control. It doesn’t untap during its controller’s next untap step.	leveler	TTR		

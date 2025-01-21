@@ -1,0 +1,1 @@
+﻿Hazy Summits		common	Land DUAL	248	WR		Hazy Summits enters tapped.NEWLINET: Add R or W.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tappedNEWLINE!note nbslotNEWLINE!landslot

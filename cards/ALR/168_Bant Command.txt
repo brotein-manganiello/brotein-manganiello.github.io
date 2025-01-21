@@ -1,0 +1,1 @@
+﻿Bant Command	WUG	rare	Instant	168	WUG	1GWU	Choose two –NEWLINE• Target player creates two 2/2 white Knight creature tokens with vigilance.NEWLINE• Destroy target creature with power 4 or greater.NEWLINE• Target player gains hexproof until end of turn.NEWLINE• Return target nonland permanent you don’t control to its owner’s hand.			normal	ALR		

@@ -1,0 +1,1 @@
+﻿Sheltered Haven		common	Land	265	WG		Sheltered Haven enters the battlefield tapped.NEWLINET: Add G or W.NEWLINE2GW, T, Sacrifice Sheltered Haven: Draw a card.			normal	TTR		!note nbslotNEWLINENEWLINEALT https://www.deviantart.com/ferdinandladera/art/The-Well-of-Stars-634366503

@@ -1,0 +1,1 @@
+﻿Emblem		common	Emblem – Makodonis 	20	C		At the beginning of your draw step, draw two additional cards.NEWLINECreatures you control get +1/+1 for each card you’ve drawn this turn.			emblem	TTR		

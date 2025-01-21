@@ -1,0 +1,1 @@
+﻿Ensnaring Possessor	U	uncommon	Creature – Spirit 	58	U	1U	Whenever Ensnaring Possessor attacks, you may tap or untap target permanent.NEWLINE1U, T: Until end of turn, target creature gets +1/+1 and gains “Whenever this creature attacks, you may tap or untap target permanent.” Activate only as a sorcery.	1/1		normal	INM		

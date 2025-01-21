@@ -1,0 +1,1 @@
+﻿Memory Surgeon	U	common	Creature – Human Wizard 	67	U	2U	VigilanceNEWLINE2, T: Target player mills two cards.	2/4		normal	INM		https://www.artstation.com/artwork/q2GlPNEWLINEVORTHOS

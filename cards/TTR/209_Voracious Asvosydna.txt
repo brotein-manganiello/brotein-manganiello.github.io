@@ -1,0 +1,1 @@
+﻿Voracious Asvosydna	G	common	Creature – Badger 	209	G	3GG	Colossal 3–7G (You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay 7G as a sorcery: Put three +1/+1 counters on it if it has none.)NEWLINEWhen Voracious Asvosydna’s colossal ability puts one or more counters on it, you gain 5 life.	5/5		normal	TTR		3KLS8

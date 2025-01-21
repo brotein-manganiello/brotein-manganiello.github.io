@@ -1,0 +1,1 @@
+﻿Brutal Struggle	RG	common	Instant	171	RG	1RG	Brutal Struggle deals 2 damage to any target. Put a +1/+1 counter on up to one target creature.			normal	ALR		VORTHOS

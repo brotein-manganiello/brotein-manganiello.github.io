@@ -1,0 +1,1 @@
+﻿Swamp 3		common	Basic Land – Swamp 	283	C					normal	TTR		!exportname Swamp 3

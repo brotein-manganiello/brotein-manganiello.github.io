@@ -1,0 +1,1 @@
+﻿Grizzled Woodcutter	G	common	Creature – Human Warrior 	198	G	3G	Grizzled Woodcutter gets +1/+1 as long as you control an artifact.NEWLINEGrizzled Woodcutter gets +1/+1 as long as you control an enchantment.	3/3		normal	INM		VORTHOSNEWLINEKEYWARDNEWLINEAdam Gleba

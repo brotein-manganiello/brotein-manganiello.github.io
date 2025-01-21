@@ -1,0 +1,1 @@
+﻿Elgaud Fortress		rare	Land	268	C		T: Add C.NEWLINE4, T, Sacrifice Elgaud Fortress: Create a token that’s a copy of target artifact you control. Activate only as a sorcery.			normal	INM		https://www.deviantart.com/reneaigner/art/The-Old-Hall-271020603NEWLINEalt Pedro Veloso

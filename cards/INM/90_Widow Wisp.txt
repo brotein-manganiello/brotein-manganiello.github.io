@@ -1,0 +1,1 @@
+﻿Widow Wisp	U	common	Creature – Spirit 	90	U	1U	FlyingNEWLINEWidow Wisp can’t block unless you control another Spirit.NEWLINEWhen Widow Wisp enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/1		normal	INM		

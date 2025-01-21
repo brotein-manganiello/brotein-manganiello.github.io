@@ -1,0 +1,1 @@
+﻿Erase Identity	U	common	Enchantment – Aura 	59	U	2U	Enchant creatureNEWLINEWhen Erase Identity enters, tap enchanted creature.NEWLINEEnchanted creature doesn’t untap during its controller’s untap step and loses all abilities.			normal	INM		alt Oleg Saakyan

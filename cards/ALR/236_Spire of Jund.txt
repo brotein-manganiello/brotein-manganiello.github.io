@@ -1,0 +1,1 @@
+﻿Spire of Jund		common	Artifact	236	BRG	3	T: Add B, R, or G.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		FLAVORTEXT

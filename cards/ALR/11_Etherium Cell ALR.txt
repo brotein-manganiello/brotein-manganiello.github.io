@@ -1,0 +1,1 @@
+﻿Etherium Cell ALR		common	Token Artifact	11	C		T, Sacrifice this artifact: Add one mana of any color.			token	ALR		!exportname Etherium Cell ALR
