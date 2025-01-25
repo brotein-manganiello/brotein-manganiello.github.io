@@ -1,1 +1,0 @@
-﻿Chained Minotaur	R	uncommon	Creature – Minotaur 	134	R	3R	Defender, trampleNEWLINEAs long as you control a creature with power greater than its base power, Chained Minotaur can attack as though it didn’t have defender.	5/4		normal	TTR		ProteanizeNEWLINEBloodstrength

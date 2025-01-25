@@ -1,1 +1,0 @@
-﻿Valeron Vanguard	W	common	Creature – Human Soldier 	32	W	1W	Valeron Vanguard can’t be blocked by 1/1 creatures.	3/1		normal	ALR		FLAVORTEXT

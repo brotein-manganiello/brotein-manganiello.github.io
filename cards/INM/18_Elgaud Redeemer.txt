@@ -1,1 +1,0 @@
-﻿Elgaud Redeemer	W	uncommon	Creature – Human Soldier 	18	W	1W	FlashNEWLINEWhen Elgaud Redeemer enters, return to the battlefield target permanent card in your graveyard that was put there from the battlefield this turn. If that permanent enters as a creature, put a +1/+1 counter on it.	2/2		normal	INM		alt Andrej Zsolt Turáni

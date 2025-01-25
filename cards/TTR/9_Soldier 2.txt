@@ -1,1 +1,0 @@
-﻿Soldier 2	W	common	Token Creature – Soldier 	9	W			1/1		token	TTR		!related Conscript Reinforcements<3>;Military Authority<2>;Taranika’s Endeavor<2>;Lagonna-Band Mentor;Guidance of Iroas;Valeri Kripac;Akroan Siege Captain;NEWLINE!exportname Soldier 2

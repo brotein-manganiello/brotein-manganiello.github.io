@@ -100,17 +100,15 @@
 			cursor: pointer;
 			border: none;
 			position: absolute;
-			top: 6.5%;
-			left: 8.5%;
+			left: 50%;
+			top: 48%;
 			transform: translate(-50%, -50%);
+			opacity: 0.5;
 		}
 		.flip-btn:hover {
 			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
-		}
-		.sidebar .flip-btn {
-			transform: translate(-50%, -85%);
 		}
 		.icon-bar {
 			display: grid;
@@ -163,6 +161,7 @@
 			<img class="sg-icon" src="/img/search.png">
 			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
 			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -340,11 +339,11 @@
 			<div class="container"><img alt="sets\ALR-files\img\96_Unearth.png" id="96" data-flag="@X" onclick="openSidebar('96')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\127_Volcano Elemental.png" id="127" data-flag="@X" onclick="openSidebar('127')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\156_Tranquil Repose.png" id="156" data-flag="@X" onclick="openSidebar('156')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\175_Duneglass Ascetic.png" id="175" data-flag="@X" onclick="openSidebar('175')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\194_Kederekt Deepdweller.png" id="194" data-flag="@X" onclick="openSidebar('194')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\177_Edarna the Everforge.png" id="177" data-flag="@X" onclick="openSidebar('177')"></div>
@@ -365,96 +364,111 @@
 			<div class="container"><img alt="sets\ALR-files\img\197_Magmatic Violator.png" id="197" data-flag="@X" onclick="openSidebar('197')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\171_Brutal Struggle.png" id="171" data-flag="@X" onclick="openSidebar('171')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\218_Tendrilsnare.png" id="218" data-flag="@X" onclick="openSidebar('218')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\211_Sphinx's Scrutiny.png" id="211" data-flag="@X" onclick="openSidebar('211')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\212_Spinebreak.png" id="212" data-flag="@X" onclick="openSidebar('212')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\204_Sacellum Visionary.png" id="204" data-flag="@X" onclick="openSidebar('204')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\185_Godspeaker Mayael.png" id="185" data-flag="@X" onclick="openSidebar('185')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\190_Jenara, Virtue of Bant.png" id="190" data-flag="@X" onclick="openSidebar('190')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\200_Nefarox, Strifelord.png" id="200" data-flag="@X" onclick="openSidebar('200')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\208_Sharuum, Archmagocrat.png" id="208" data-flag="@X" onclick="openSidebar('208')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\200_Nefarox, Strifelord.png" id="200" data-flag="@X" onclick="openSidebar('200')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\219_Tharrsus, Tyrant's Scion.png" id="219" data-flag="@X" onclick="openSidebar('219')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\185_Godspeaker Mayael.png" id="185" data-flag="@X" onclick="openSidebar('185')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\164_Angel of Succor.png" id="164" data-flag="@X" onclick="openSidebar('164')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\165_Antali Archdruid.png" id="165" data-flag="@X" onclick="openSidebar('165')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\166_Arcanist's Reaver.png" id="166" data-flag="@X" onclick="openSidebar('166')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\168_Bant Command.png" id="168" data-flag="@X" onclick="openSidebar('168')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\179_Empyrial Reverence.png" id="179" data-flag="@X" onclick="openSidebar('179')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\180_Entrail Elemental.png" id="180" data-flag="@X" onclick="openSidebar('180')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\181_Esper Command.png" id="181" data-flag="@X" onclick="openSidebar('181')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\186_Grixis Command.png" id="186" data-flag="@X" onclick="openSidebar('186')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\166_Arcanist's Reaver.png" id="166" data-flag="@X" onclick="openSidebar('166')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\187_Hellion Devastator.png" id="187" data-flag="@X" onclick="openSidebar('187')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\192_Jund Command.png" id="192" data-flag="@X" onclick="openSidebar('192')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\195_Kess the Necromaster.png" id="195" data-flag="@X" onclick="openSidebar('195')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\198_Meren, Bane of the Cairns.png" id="198" data-flag="@X" onclick="openSidebar('198')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\199_Naya Command.png" id="199" data-flag="@X" onclick="openSidebar('199')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\165_Antali Archdruid.png" id="165" data-flag="@X" onclick="openSidebar('165')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\168_Bant Command.png" id="168" data-flag="@X" onclick="openSidebar('168')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\201_Orlesia, First of the Sen.png" id="201" data-flag="@X" onclick="openSidebar('201')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\180_Entrail Elemental.png" id="180" data-flag="@X" onclick="openSidebar('180')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\192_Jund Command.png" id="192" data-flag="@X" onclick="openSidebar('192')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\199_Naya Command.png" id="199" data-flag="@X" onclick="openSidebar('199')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\179_Empyrial Reverence.png" id="179" data-flag="@X" onclick="openSidebar('179')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\202_Profound Introspection.png" id="202" data-flag="@X" onclick="openSidebar('202')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\186_Grixis Command.png" id="186" data-flag="@X" onclick="openSidebar('186')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\198_Meren, Bane of the Cairns.png" id="198" data-flag="@X" onclick="openSidebar('198')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\214_Summit Guardian.png" id="214" data-flag="@X" onclick="openSidebar('214')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\203_Rafiq the Magnanimous.png" id="203" data-flag="@X" onclick="openSidebar('203')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\213_Steel Wind Goliath.png" id="213" data-flag="@X" onclick="openSidebar('213')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\214_Summit Guardian.png" id="214" data-flag="@X" onclick="openSidebar('214')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\221_Timus, the Cloud's Roar.png" id="221" data-flag="@X" onclick="openSidebar('221')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\195_Kess the Necromaster.png" id="195" data-flag="@X" onclick="openSidebar('195')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\223_Tumultipede.png" id="223" data-flag="@X" onclick="openSidebar('223')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\221_Timus, the Cloud's Roar.png" id="221" data-flag="@X" onclick="openSidebar('221')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\184_Giltspire Exemplar.png" id="184" data-flag="@X" onclick="openSidebar('184')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\183_Ethersworn Indoctrination.png" id="183" data-flag="@X" onclick="openSidebar('183')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\174_Corpsemound.png" id="174" data-flag="@X" onclick="openSidebar('174')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\163_Ambush Gharial.png" id="163" data-flag="@X" onclick="openSidebar('163')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\169_Behemoth Channeler.png" id="169" data-flag="@X" onclick="openSidebar('169')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\170_Bellowing Thoctar.png" id="170" data-flag="@X" onclick="openSidebar('170')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\174_Corpsemound.png" id="174" data-flag="@X" onclick="openSidebar('174')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\183_Ethersworn Indoctrination.png" id="183" data-flag="@X" onclick="openSidebar('183')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\184_Giltspire Exemplar.png" id="184" data-flag="@X" onclick="openSidebar('184')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\191_Jenara's Favor.png" id="191" data-flag="@X" onclick="openSidebar('191')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\207_Sedraxis Scourge.png" id="207" data-flag="@X" onclick="openSidebar('207')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\209_Sharuum's Council.png" id="209" data-flag="@X" onclick="openSidebar('209')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\207_Sedraxis Scourge.png" id="207" data-flag="@X" onclick="openSidebar('207')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\220_Thrinax Sporemother.png" id="220" data-flag="@X" onclick="openSidebar('220')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\170_Bellowing Thoctar.png" id="170" data-flag="@X" onclick="openSidebar('170')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\172_Celebrant of Jubilation.png" id="172" data-flag="@X" onclick="openSidebar('172')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\182_Ethersworn Elite.png" id="182" data-flag="@X" onclick="openSidebar('182')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\188_Incantation Demon.png" id="188" data-flag="@X" onclick="openSidebar('188')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\224_Varakna Wurm.png" id="224" data-flag="@X" onclick="openSidebar('224')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\227_Ziggurat Behemoth.png" id="227" data-flag="@X" onclick="openSidebar('227')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\0_Kaalia, Sky's End.png" id="0" data-flag="@X" onclick="openSidebar('0')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\189_Influence of Progenitus.png" id="189" data-flag="@X" onclick="openSidebar('189')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\225_Velir the Sunderer.png" id="225" data-flag="@X" onclick="openSidebar('225')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\196_Maelstrom Elemental.png" id="196" data-flag="@X" onclick="openSidebar('196')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\173_Conflux Ravager.png" id="173" data-flag="@X" onclick="openSidebar('173')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\230_The Riddle Gate.png" id="230" data-flag="@X" onclick="openSidebar('230')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\228_Font of Nefarox.png" id="228" data-flag="@X" onclick="openSidebar('228')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\229_Macabre Effigy.png" id="229" data-flag="@X" onclick="openSidebar('229')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\231_Rings of New Alara.png" id="231" data-flag="@X" onclick="openSidebar('231')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\232_Sigil of the Skyward Eye.png" id="232" data-flag="@X" onclick="openSidebar('232')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\12_Ajani Emblem ALR.png" id="12" data-flag="@X" onclick="openSidebar('12')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\233_Spire of Bant.png" id="233" data-flag="@X" onclick="openSidebar('233')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\234_Spire of Esper.png" id="234" data-flag="@X" onclick="openSidebar('234')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\235_Spire of Grixis.png" id="235" data-flag="@X" onclick="openSidebar('235')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\236_Spire of Jund.png" id="236" data-flag="@X" onclick="openSidebar('236')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\237_Spire of Naya.png" id="237" data-flag="@X" onclick="openSidebar('237')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\255_Sculpted Observatory.png" id="255" data-flag="@X" onclick="openSidebar('255')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\247_Gloomtide Gulf.png" id="247" data-flag="@X" onclick="openSidebar('247')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\245_Erupting Territory.png" id="245" data-flag="@X" onclick="openSidebar('245')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\239_Bigroot Valley.png" id="239" data-flag="@X" onclick="openSidebar('239')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\253_Peaceful Passage.png" id="253" data-flag="@X" onclick="openSidebar('253')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\240_Bleak Shoreline.png" id="240" data-flag="@X" onclick="openSidebar('240')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\242_Charred Marsh.png" id="242" data-flag="@X" onclick="openSidebar('242')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\249_Idyllic Oasis.png" id="249" data-flag="@X" onclick="openSidebar('249')"></div>
@@ -465,36 +479,46 @@
 			<div class="container"><img alt="sets\ALR-files\img\252_Lush Coast.png" id="252" data-flag="@X" onclick="openSidebar('252')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\259_Twisting Fissure.png" id="259" data-flag="@X" onclick="openSidebar('259')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\248_Hazy Summits.png" id="248" data-flag="@X" onclick="openSidebar('248')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\251_Kaleidoscape.png" id="251" data-flag="@X" onclick="openSidebar('251')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\256_Seaside Citadel.png" id="256" data-flag="@X" onclick="openSidebar('256')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\238_Arcane Sanctum.png" id="238" data-flag="@X" onclick="openSidebar('238')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\244_Crumbling Necropolis.png" id="244" data-flag="@X" onclick="openSidebar('244')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\250_Jungle Shrine.png" id="250" data-flag="@X" onclick="openSidebar('250')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\254_Savage Lands.png" id="254" data-flag="@X" onclick="openSidebar('254')"></div>
-			<div class="container"><img alt="sets\ALR-files\img\256_Seaside Citadel.png" id="256" data-flag="@X" onclick="openSidebar('256')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\250_Jungle Shrine.png" id="250" data-flag="@X" onclick="openSidebar('250')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\251_Kaleidoscape.png" id="251" data-flag="@X" onclick="openSidebar('251')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\258_Terramorphic Expanse.png" id="258" data-flag="@X" onclick="openSidebar('258')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\0_Plains_ALR.png" id="0" data-flag="@X" onclick="openSidebar('0')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\0_Island_ALR.png" id="0" data-flag="@X" onclick="openSidebar('0')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\0_Swamp_ALR.png" id="0" data-flag="@X" onclick="openSidebar('0')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\0_Mountain_ALR.png" id="0" data-flag="@X" onclick="openSidebar('0')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\0_Forest_ALR.png" id="0" data-flag="@X" onclick="openSidebar('0')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\1t_white Knight 22ALR.png" id="1t" data-flag="@X" onclick="openSidebar('1t')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\2t_white Soldier 11ALR.png" id="2t" data-flag="@X" onclick="openSidebar('2t')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\3t_blue Thopter 11ALR.png" id="3t" data-flag="@X" onclick="openSidebar('3t')"></div>
@@ -506,10 +530,10 @@
 			<div class="container"><img alt="sets\ALR-files\img\9t_green Saproling 11ALR.png" id="9t" data-flag="@X" onclick="openSidebar('9t')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\10t_Elemental 88ALR.png" id="10t" data-flag="@X" onclick="openSidebar('10t')"></div>
 			<div class="container"><img alt="sets\ALR-files\img\11t_Etherium Cell ALR.png" id="11t" data-flag="@X" onclick="openSidebar('11t')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\ALR-files\img\12t_Ajani Emblem ALR.png" id="12t" data-flag="@N" onclick="openSidebar('12t')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 	</div>
 </div>
 	<div class="sidebar" id="sidebar">
@@ -526,10 +550,10 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.txt')
-					.then(response => response.text())
-					.then(text => {
-						card_list_stringified = text;
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
 				await fetch('/resources/replacechars.txt')
@@ -538,12 +562,7 @@
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
-				card_list_arrayified = card_list_stringified.split('\\n');
-
-				for (let i = 0; i < card_list_arrayified.length; i++)
-				{
-					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
-				}
+				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 		
@@ -659,13 +678,13 @@
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i][0];
+				let card_name = card_list_arrayified[i].card_name;
 				for (const char of specialchars)
 				{
 					card_name = card_name.replaceAll(char, "");
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
 			}
 	</script>
 </body>

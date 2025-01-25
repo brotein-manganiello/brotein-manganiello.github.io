@@ -1,1 +1,0 @@
-﻿Oreskos Warden	W	common	Creature – Cat Cleric 	33	W	2W	Oreskos Warden has lifelink as long as you control an enchantment.	3/2		normal	TTR		08/15/22 –> Constellation – You gain 1 life and scry 1 TO Buff target +1/+1

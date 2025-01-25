@@ -1,1 +1,0 @@
-﻿Fodder Goblins	R	common	Creature – Goblin 	102	R	1R	When Fodder Goblins enters, create a 1/1 red Goblin creature token.	1/1		normal	ALR		FLAVORTEXT

@@ -1,1 +1,0 @@
-﻿Sangrite Dragon	R	rare	Creature – Dragon 	120	R	3RR	FlyingNEWLINE1R: Sangrite Dragon gets +2/+0 until end of turn.NEWLINESacrifice another creature: Add RR.	4/4		normal	ALR		VORTHOS 

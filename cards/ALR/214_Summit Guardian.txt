@@ -1,1 +1,0 @@
-﻿Summit Guardian	WRG	rare	Creature – Beast 	214	WRG	2RGW	Vigilance, reachNEWLINENoncreature spells cost 2 more to cast.NEWLINECycling 2 (2, Discard this card: Draw a card.)	5/4		normal	ALR		VORTHOS

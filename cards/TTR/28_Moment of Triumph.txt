@@ -1,1 +1,0 @@
-﻿Moment of Triumph	W	common	Instant	28	W	W	Target creature gets +2/+2 until end of turn. You gain 2 life.			normal	TTR		HEROISMNEWLINECombat TrickNEWLINENEWLINERPTNEWLINENEWLINEREPRINT – RIX

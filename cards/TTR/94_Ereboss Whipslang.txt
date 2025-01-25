@@ -1,1 +1,0 @@
-﻿Erebos's Whipslang	B	common	Enchantment Creature – Snake 	94	B	1B	Whenever Erebos’s Whipslang or another enchantment enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.	1/3		normal	TTR		QCX

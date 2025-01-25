@@ -1,1 +1,0 @@
-﻿Ilysian Bounty	G	common	Sorcery	182	G	G	Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Mill three cards.			normal	TTR		https://i.pinimg.com/564x/2e/98/6c/2e986c029904282f6277081203aec1b1.jpg

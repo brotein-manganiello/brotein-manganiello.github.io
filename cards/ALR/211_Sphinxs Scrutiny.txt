@@ -1,1 +1,0 @@
-﻿Sphinx's Scrutiny	UB	common	Instant	211	UB	1UB	Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	ALR		FLAVORTEXT

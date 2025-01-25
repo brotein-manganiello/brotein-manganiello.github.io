@@ -1,1 +1,0 @@
-﻿Reliquary Rhox	W	common	Creature – Rhino Soldier 	27	W	2W		3/3		normal	ALR		FLAVORTEXT

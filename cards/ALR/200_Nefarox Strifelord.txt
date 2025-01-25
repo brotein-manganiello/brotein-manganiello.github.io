@@ -1,1 +1,0 @@
-﻿Nefarox, Strifelord	UBR	mythic	Legendary Creature – Demon 	200	UBR	2UBR	FlyingNEWLINE1U, Exile an instant card from your graveyard: Draw a card.NEWLINE1B, Exile a creature card from your graveyard: Target creature gets -3/-3 until end of turn.NEWLINE1R, Exile a sorcery card from your graveyard: Nefarox, Strifelord deals 3 damage to each opponent.	6/6		normal	ALR		!banner

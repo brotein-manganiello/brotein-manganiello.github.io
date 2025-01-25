@@ -1,1 +1,0 @@
-﻿Seagraf Shamblers	U	common	Creature – Zombie 	78	U	1U	Whenever one or more cards leave your graveyard, put a +1/+1 counter on Seagraf Shamblers.	2/2		normal	INM		VORTHOS

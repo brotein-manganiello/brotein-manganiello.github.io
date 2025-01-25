@@ -1,1 +1,0 @@
-﻿Curse of Time	U	rare	Enchantment – Aura Curse 	56	U	4UU	Enchant playerNEWLINEWhenever enchanted player casts a spell from anywhere other than exile, exile that spell. During that player’s next turn, they may cast that card without paying its mana cost.			normal	INM		May your days be without hours.NEWLINE–Locket inscription

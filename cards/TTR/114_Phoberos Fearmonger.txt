@@ -1,1 +1,0 @@
-﻿Phoberos Fearmonger	B	uncommon	Enchantment Creature – Minotaur Warlock 	114	B	2B	Whenever a creature you control dies, draw a card if it had power greater than its base power.	3/1		normal	TTR		NEWLINELaurel D. Austin altNEWLINEBloodstrength

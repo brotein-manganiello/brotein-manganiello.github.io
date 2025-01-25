@@ -1,1 +1,0 @@
-﻿Vampire	BR	common	Token Creature – Vampire 	15	BR		Menace	1/1		token	INM		!related Pulse Seeker;Falkenrath Fletcher;Falkenrath Bladesire;Curse of the Vein;Olivia’s Offer;Marzela Falkenrath;Olivia Voldaren, Progenitrix;True Blood<2>;

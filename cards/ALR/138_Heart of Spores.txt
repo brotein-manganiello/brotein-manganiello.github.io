@@ -1,1 +1,0 @@
-﻿Heart of Spores	G	rare	Enchantment	138	G	3G	At the beginning of your upkeep, create a 1/1 green Saproling creature token.NEWLINEWhenever a creature you control dies, put a +1/+1 counter on Heart of Spores.NEWLINEXG: Move X +1/+1 counters from Heart of Spores onto target creature. Activate only as a sorcery.			normal	ALR		

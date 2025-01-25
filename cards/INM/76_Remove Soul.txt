@@ -1,1 +1,0 @@
-﻿Remove Soul	U	common	Instant	76	U	1U	Counter target creature spell.			normal	INM		VORTHOS

@@ -1,1 +1,0 @@
-﻿Sacellum Visionary	WG	common	Creature – Elf Shaman 	204	WG	2GW	LifelinkNEWLINEWhen Sacellum Visionary enters, draw a card.	3/2		normal	ALR		FLAVORTEXT

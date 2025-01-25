@@ -1,1 +1,0 @@
-﻿Ghoulcaller's Graf		uncommon	Land	271	C		When Ghoulcaller’s Graf enters, mill two cards.NEWLINET: Add C.NEWLINE5, T, Sacrifice Ghoulcaller’s Graf: Return up to two target creature cards from your graveyard to your hand.			normal	INM		alt Cygames haunted houseNEWLINEalt Chris Bradley

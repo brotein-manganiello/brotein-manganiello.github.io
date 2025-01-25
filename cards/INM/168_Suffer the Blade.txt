@@ -1,1 +1,0 @@
-﻿Suffer the Blade	R	common	Instant	168	R	1R	Target creature you control gets +2/+0 and gains first strike until end of turn. If you control an artifact, draw a card.			normal	INM		VORTHOS

@@ -1,1 +1,0 @@
-﻿Scrying Pool		common	Artifact	252	C	2	When Scrying Pool enters the battlefield, scry 2.NEWLINE1, T: Add one mana of any color.			normal	TTR		Land fetching/color fixingNEWLINEAZORIUS

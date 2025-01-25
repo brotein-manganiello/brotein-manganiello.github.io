@@ -1,1 +1,0 @@
-﻿Falkenrath Ordainer	B	common	Creature – Vampire Cleric 	111	B	2B	FlyingNEWLINEFalkenrath Ordainer has lifelink as long as you control a token.	2/2		normal	INM		Geunjoo BaikNEWLINE6B: Create a 1/1 black and red Vampire creature token with haste and “When this creature dies, it deals 1 damage to each opponent.” Activate only as a sorcery.

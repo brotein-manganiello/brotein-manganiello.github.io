@@ -1,1 +1,0 @@
-﻿Dawnhart Druids	G	common	Creature – Human Druid 	191	G	1G	T: Add one mana of any color.NEWLINEInvocation – Whenever you spend four or more mana to cast a spell or activate an ability during your turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/1		normal	INM		alt Dan RossiNEWLINEalt Anastasia DevyatovskayaNEWLINEalt Kristian Nüsser

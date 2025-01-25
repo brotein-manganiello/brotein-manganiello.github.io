@@ -1,1 +1,0 @@
-﻿Dawnray Castellan	W	common	Creature – Human Knight 	11	W	3W	Lifelink	2/4		normal	ALR		FLAVORTEXT

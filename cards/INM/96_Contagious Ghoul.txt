@@ -1,1 +1,0 @@
-﻿Contagious Ghoul	B	common	Creature – Zombie 	96	B	B	Foreshadow 2B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Contagious Ghoul dies, target creature an opponent controls gets -1/-1 until end of turn.	1/1		normal	INM		alt Carl Beu

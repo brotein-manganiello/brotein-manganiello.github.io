@@ -1,1 +1,0 @@
-﻿Hellkite Omnivore	R	rare	Creature – Dragon 	104	R	5R	FlyingNEWLINEWhenever Hellkite Omnivore attacks, you may have it consume. If you do, put a +1/+1 counter on Hellkite Omnivore. When a creature is sacrificed this way, Hellkite Omnivore deals 3 damage to any target. (To consume, sacrifice another creature or exile a creature card from your graveyard.)	5/5		normal	ALR		

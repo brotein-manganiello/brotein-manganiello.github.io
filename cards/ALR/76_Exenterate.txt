@@ -1,1 +1,0 @@
-﻿Exenterate	B	uncommon	Instant	76	B	1B	Destroy target creature with power equal to its toughness.			normal	ALR		FLAVORTEXT

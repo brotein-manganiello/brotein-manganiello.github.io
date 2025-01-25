@@ -1,1 +1,0 @@
-﻿Fatefire	R	uncommon	Instant	145	R	XR	Choose one –NEWLINE• Fatefire deals X damage to target creature. It loses indestructible until end of turn.NEWLINE• Fatefire deals 2 damage to each creature if X is 2. Creatures dealt damage this way lose indestructible until end of turn.			normal	TTR		RenacerNEWLINEhttps://www.artstation.com/artwork/L2oXLA

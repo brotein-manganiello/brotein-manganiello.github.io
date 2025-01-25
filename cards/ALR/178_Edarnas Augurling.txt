@@ -1,1 +1,0 @@
-﻿Edarna's Augurling	BR	uncommon	Creature – Elemental Phoenix 	178	BR	1BR	Flying, hasteNEWLINE2BR: Return Edarna’s Augurling from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step. Activate only as a sorcery.	2/2		normal	ALR		VORTHOS

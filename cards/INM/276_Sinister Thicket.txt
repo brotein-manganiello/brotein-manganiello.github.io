@@ -1,1 +1,0 @@
-﻿Sinister Thicket		common	Land	276	C		T, Sacrifice Sinister Thicket: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.NEWLINE4, Exile Sinister Thicket from your graveyard: Draw a card. Activate only as a sorcery.			normal	INM		VORTHOS

@@ -1,1 +1,0 @@
-﻿Subdue the Monster	W	common	Enchantment – Aura 	42	W	1W	Enchant creature or planeswalkerNEWLINEEnchanted permanent can’t attack, block, or transform, and its activated abilities can’t be activated.			normal	INM		

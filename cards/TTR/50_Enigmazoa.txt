@@ -1,1 +1,0 @@
-﻿Enigmazoa	U	common	Enchantment Creature – Jellyfish Beast 	50	U	2U		1/4	Chronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] Scry 1.NEWLINE[Lore III] Target creature you control can’t be blocked until end of turn.	leveler	TTR		AZORIUSNEWLINEwanbao

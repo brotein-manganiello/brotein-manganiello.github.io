@@ -1,1 +1,0 @@
-﻿Escaped Ooze	U	common	Creature – Ooze 	60	UG	3U	When Escaped Ooze enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)NEWLINE3G: Put a +1/+1 counter on Escaped Ooze.	3/3		normal	INM		OFFCOLORNEWLINEalt Kristina Pavlovic

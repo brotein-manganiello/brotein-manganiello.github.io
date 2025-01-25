@@ -1,1 +1,0 @@
-﻿Jund Shardseeker	R	uncommon	Creature – Goblin Scout 	108	R	2R	MenaceNEWLINESwampcycling 1, forestcycling 1  (1, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.)	3/2		normal	ALR		VORTHOS

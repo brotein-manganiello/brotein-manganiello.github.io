@@ -1,1 +1,0 @@
-﻿Topan Curemaster	W	common	Creature – Human Cleric 	31	W	1W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)NEWLINEWhenever Topan Curemaster encourages a creature, you gain 1 life.	1/3		normal	ALR		VORTHOS

@@ -1,1 +1,0 @@
-﻿Nacatl Skirmisher	R	uncommon	Creature – Cat Warrior 	114	R	R	R, Sacrifice Nacatl Skirmisher: Destroy target artifact.NEWLINEStampede – Whenever Nacatl Skirmisher and a creature with greater power attack, creatures you control get +1/+0 until end of turn.	1/2		normal	ALR		VORTHOS

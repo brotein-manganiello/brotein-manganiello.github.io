@@ -1,1 +1,0 @@
-﻿white Knight 22ALR	W	common	Token Creature – Knight 	1	W		Vigilance	2/2		token	ALR		!exportname white Knight 22ALR

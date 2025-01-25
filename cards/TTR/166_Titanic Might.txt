@@ -1,1 +1,0 @@
-﻿Titanic Might	R	rare	Enchantment – Aura 	166	R	4R	Enchant creature without flyingNEWLINEEnchanted creature gets +10/+0 and attacks each combat if able.			normal	TTR		NEWLINE#RAREAURA

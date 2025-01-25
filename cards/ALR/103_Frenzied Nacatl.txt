@@ -1,1 +1,0 @@
-﻿Frenzied Nacatl	R	common	Creature – Cat Berserker 	103	R	2R	First strikeNEWLINEStampede – Whenever Frenzied Nacatl and a creature with greater power attack, Frenzied Nacatl gets +2/+0 until end of turn.	2/3		normal	ALR		VORTHOS 

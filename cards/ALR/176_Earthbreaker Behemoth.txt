@@ -1,1 +1,0 @@
-﻿Earthbreaker Behemoth	RG	rare	Creature – Beast 	176	RG	3RG	When Earthbreaker Behemoth enters, it deals damage equal to its power to up to one target creature you don’t control. Excess damage is dealt to that creature’s controller instead.	5/5		normal	ALR		

@@ -1,1 +1,0 @@
-﻿Towering Silkweaver	G	common	Creature – Spider 	155	G	4G	ReachNEWLINETowering Silkweaver can block an additional creature each combat.	5/4		normal	ALR		VORTHOS

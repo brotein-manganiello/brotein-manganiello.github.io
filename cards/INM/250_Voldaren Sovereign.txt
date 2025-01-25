@@ -1,1 +1,0 @@
-﻿Voldaren Sovereign	BR	uncommon	Creature – Vampire Noble 	250	BR	1BR	LifelinkNEWLINECreature tokens you control get +1/+0.NEWLINEAt the beginning of your end step, if you created a token this turn, each opponent loses 1 life and you gain that much life.	3/3		normal	INM		ARCUN SIGNPOST

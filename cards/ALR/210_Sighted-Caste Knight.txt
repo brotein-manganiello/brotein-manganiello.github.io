@@ -1,1 +1,0 @@
-﻿Sighted-Caste Knight	WU	common	Creature – Human Knight 	210	WU	1WU	First strikeNEWLINEWhenever Sighted-Caste Knight deals combat damage to a player, draw a card.	2/2		normal	ALR		VORTHOSNEWLINE!banner

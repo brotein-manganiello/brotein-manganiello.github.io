@@ -1,1 +1,0 @@
-﻿Lightning Strike	R	common	Instant	150	R	1R	Lightning Strike deals 3 damage to any target.			normal	TTR		REPRINT – THSNEWLINEEfficient direct-damage spell (usually one of this and CB12 is any target)NEWLINERPT

@@ -1,1 +1,0 @@
-﻿Purphoros, the Fervid Flame	R	mythic	Legendary Enchantment Creature – God 	156	R	2R	IndestructibleNEWLINEAs long as your devotion to red is less than five, Purphoros isn’t a creature.NEWLINEWhenever you attack, Purphoros deals 1 damage to any target.NEWLINE3R: Discard up to two cards, then draw that many cards.	6/4		normal	TTR		

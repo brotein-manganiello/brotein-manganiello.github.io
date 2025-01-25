@@ -1,1 +1,0 @@
-﻿Fathom the Forbidden	U	common	Instant	43	U	2U	Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.NEWLINETether (Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)			normal	ALR		

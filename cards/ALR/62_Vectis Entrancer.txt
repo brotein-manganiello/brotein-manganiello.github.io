@@ -1,1 +1,0 @@
-﻿Vectis Entrancer	U	uncommon	Artifact Creature – Human Wizard 	62	U	2U	FlashNEWLINEEmbellish 5U (If you cast this spell for 5U, create a 1/1 blue Thopter artifact creature token with flying when it enters.)NEWLINEWhenever Vectis Entrancer or another artifact you control enters, tap target creature an opponent controls. It loses all abilities until end of turn.	2/2		normal	ALR		

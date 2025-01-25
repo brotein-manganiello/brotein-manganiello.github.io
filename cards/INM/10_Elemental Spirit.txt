@@ -1,1 +1,0 @@
-﻿Elemental Spirit	R	common	Token Creature – Elemental Spirit 	10	R		Trample, haste	3/1		token	INM		!related Dance with Devils<2>;

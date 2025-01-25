@@ -1,1 +1,0 @@
-﻿Fletcher's Precision	G	common	Instant	135	G	1G	Target creature you control deals damage equal to its power to target creature you don’t control. Scry 1.			normal	ALR		VORTHOS

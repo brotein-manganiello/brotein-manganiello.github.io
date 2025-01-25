@@ -1,1 +1,0 @@
-﻿Telemin Architect	WU	uncommon	Artifact Creature – Human Artificer 	217	WU	1WU	T: Tap target creature.NEWLINET: Draw a card, then discard a card.NEWLINEWhenever another artifact you control enters, untap Telemin Architect.	1/1		normal	ALR		VORTHOSNEWLINE!banner

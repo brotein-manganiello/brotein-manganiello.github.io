@@ -1,1 +1,0 @@
-﻿Strangleroot's Clutches	B	common	Instant	127	B	2BB	Destroy target creature or planeswalker. Its controller loses 1 life. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	INM		Exile target creature or planeswalker. You gain 1 life.NEWLINERemoval spell, limitations, different from the others, usually weaker

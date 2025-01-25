@@ -1,1 +1,0 @@
-﻿Mage's Warding	U	common	Instant	51	U	U	Target creature you control gains hexproof until end of turn. Scry 1.			normal	ALR		FLAVORTEXT

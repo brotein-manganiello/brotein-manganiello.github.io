@@ -1,1 +1,0 @@
-﻿Setessan Armaments		rare	Artifact – Equipment 	253	C	2	Equipped creature gets +2/+2 and has ward 2 and  “Whenever this creature attacks, draw a card, then you may put a land card from your hand onto the battlefield.”NEWLINEEquip 2			normal	TTR		KEYWARD

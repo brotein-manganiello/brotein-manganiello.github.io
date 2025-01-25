@@ -1,1 +1,0 @@
-﻿Morkrut Gryff	U	uncommon	Creature – Hippogriff 	69	U	4U	Foreshadow 5UU (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEFlyingNEWLINEWhen Morkrut Gryff dies, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)	4/3		normal	INM		

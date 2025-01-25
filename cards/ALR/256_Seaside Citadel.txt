@@ -1,1 +1,0 @@
-﻿Seaside Citadel		uncommon	Land	256	WUG		Seaside Citadel enters tapped.NEWLINET: Add G, W, or U.			normal	ALR		!tappedNEWLINENEWLINEVORTHOS

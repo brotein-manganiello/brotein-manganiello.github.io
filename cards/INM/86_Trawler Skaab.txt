@@ -1,1 +1,0 @@
-﻿Trawler Skaab	U	rare	Creature – Zombie Horror 	86	U	1U	Trawler Skaab gets +1/+1 for each card put into your graveyard from your library this turn.	1/1		normal	INM		possessor

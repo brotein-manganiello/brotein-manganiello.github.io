@@ -1,1 +1,0 @@
-﻿Slayer's Grimoire	W	common	Artifact	39	W	3W	When Slayer’s Grimoire enters, exile target non-Human creature an opponent controls until Slayer’s Grimoire leaves the battlefield.NEWLINEW, T: You gain 1 life.			normal	INM		GrimoireX

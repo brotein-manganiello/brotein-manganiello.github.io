@@ -1,1 +1,0 @@
-﻿Marzela Falkenrath	R	mythic	Legendary Creature – Vampire Warrior 	162	BR	2RR	Flying, double strikeNEWLINEWhenever Marzela Falkenrath deals combat damage to a player, create a 1/1 black and red Vampire creature token with menace.NEWLINE2B: Vampires you control gain lifelink until end of turn.	2/4		normal	INM		alt lilith Claina Sárka

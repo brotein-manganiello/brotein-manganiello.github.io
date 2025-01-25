@@ -1,1 +1,0 @@
-﻿Curse of Whispers	UR	rare	Enchantment – Aura Curse 	227	UR	2UR	Enchant playerNEWLINEAt the beginning of enchanted player’s draw step, they draw an additional card.NEWLINEAt the beginning of enchanted player’s end step, that player discards all but one card in their hand.			normal	INM		VORTHOS

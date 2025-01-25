@@ -1,1 +1,0 @@
-﻿Blessed Vanquisher	W	rare	Creature – Human Cleric 	7	W	3W	Encourage (T: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)NEWLINEWhenever Blessed Vanquisher encourages a creature, destroy target creature an opponent controls if it’s tapped. Otherwise, tap that creature.	2/2		normal	ALR		

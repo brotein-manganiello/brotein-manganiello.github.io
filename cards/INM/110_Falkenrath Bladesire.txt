@@ -1,1 +1,0 @@
-﻿Falkenrath Bladesire	B	rare	Creature – Vampire Knight 	110	B	2B	Flying, first strikeNEWLINEIf one or more tokens would be created under your control, those tokens plus a 1/1 black and red Vampire creature token with menace are created instead.NEWLINE3BB: Each opponent loses X life and you gain X life, where X is the number of Vampires you control.	2/2		normal	INM		

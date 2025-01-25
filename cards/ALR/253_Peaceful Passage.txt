@@ -1,1 +1,0 @@
-﻿Peaceful Passage		common	Land	253	WG		Peaceful Passage enters tapped.NEWLINET: Add G or W.NEWLINE1, T: Add one mana of any color.			normal	ALR		!tapped

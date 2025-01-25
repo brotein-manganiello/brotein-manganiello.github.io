@@ -1,1 +1,0 @@
-﻿blue Thopter 11ALR	U	common	Token Artifact Creature – Thopter 	3	U		Flying	1/1		token	ALR		!exportname blue Thopter 11ALR

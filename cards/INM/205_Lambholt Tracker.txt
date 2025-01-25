@@ -1,1 +1,0 @@
-﻿Lambholt Tracker	G	common	Creature – Human Ranger 	205	G	1G	Foreshadow 2G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)NEWLINEWhen Lambholt Tracker dies, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	3/1		normal	INM		

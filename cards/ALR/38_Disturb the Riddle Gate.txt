@@ -1,1 +1,0 @@
-﻿Disturb the Riddle Gate	U	uncommon	Sorcery	38	U	2U	Mill five cards. Return any number of cards with cycling abilities milled this way to your hand.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	ALR		VORTHOS 

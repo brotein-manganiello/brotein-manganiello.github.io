@@ -1,1 +1,0 @@
-﻿Forest 2		common	Basic Land – Forest 	290	C					normal	TTR		!exportname Forest 2

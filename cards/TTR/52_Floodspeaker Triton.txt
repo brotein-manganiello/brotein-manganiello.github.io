@@ -1,1 +1,0 @@
-﻿Floodspeaker Triton	U	common	Creature – Merfolk Wizard 	52	U	1U	Heroic – Whenever you cast a spell that targets Floodspeaker Triton, put a +1/+1 counter on Floodspeaker Triton, then scry 1.	2/1		normal	TTR		AZORIUS

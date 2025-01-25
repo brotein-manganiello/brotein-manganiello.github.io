@@ -1,1 +1,0 @@
-﻿Lone Zombie	B	common	Creature – Zombie 	117	B	2B	MenaceNEWLINEWhen Lone Zombie and two other creatures attack, transform Lone Zombie.	2/3		transform double faced	INM		Zombie Legion	B	Creature – Zombie 	B		Menace	4/4			DFCNEWLINEVORTHOS

@@ -1,1 +1,0 @@
-﻿Draconic Symphony	R	uncommon	Enchantment	141	R	1R	At the beginning of your precombat main phase, add R.NEWLINEWhenever a colossal ability puts one or more counters on a creature you control, Draconic Symphony deals 2 damage to any target.			normal	TTR		Dragons work in the forges of the sky.

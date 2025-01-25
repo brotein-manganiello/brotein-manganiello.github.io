@@ -1,1 +1,0 @@
-﻿Fallspeaker Satyr	G	common	Creature – Satyr Druid Archer 	176	G	1G	When Fallspeaker Satyr enters the battlefield or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	3/1		normal	TTR		CN24: from ETB mill 3 –> ETB or DIES surveil 1, fxn Wary ThespianNEWLINEQCXNEWLINEPositive Aura or Equipment

@@ -1,1 +1,0 @@
-﻿Bone Splinters_ALR	B	common	Sorcery	68	B	B	As an additional cost to cast this spell, sacrifice a creature.NEWLINEDestroy target creature.			normal	ALR		FLAVORTEXTNEWLINE!exportname Bone Splinters_ALR

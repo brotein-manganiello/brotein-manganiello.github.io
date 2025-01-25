@@ -1,1 +1,0 @@
-﻿Bellowing Thoctar	WRG	uncommon	Creature – Beast 	170	WRG	1RGW	Creature spells you cast cost 1 less to cast.NEWLINEWhenever you cast a creature spell, Bellowing Thoctar gets +2/+2 until end of turn.	5/3		normal	ALR		FLAVORTEXT

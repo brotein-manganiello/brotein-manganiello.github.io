@@ -1,1 +1,0 @@
-﻿Cryptic Reef		common	Land	258	UG		Cryptic Reef enters the battlefield tapped.NEWLINET: Add G or U.NEWLINE2GU, T, Sacrifice Cryptic Reef: Draw a card.			normal	TTR		!note nbslotNEWLINENEWLINEJorge Jacinto https://www.artstation.com/artwork/8emw1O

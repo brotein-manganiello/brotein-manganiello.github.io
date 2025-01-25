@@ -1,1 +1,0 @@
-﻿Setessan Avenger	G	uncommon	Creature – Human Druid Warrior 	201	G	2G	Heroic – Whenever you cast a spell that targets Setessan Avenger, create a 1/1 green Nymph Dryad enchantment creature token with “T: Add G.”NEWLINEWhenever Setessan Avenger deals combat damage to a player, untap all lands and Dryads you control.	3/3		normal	TTR		NEWLINERDZ

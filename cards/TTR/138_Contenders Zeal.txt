@@ -1,1 +1,0 @@
-﻿Contender's Zeal	R	uncommon	Enchantment – Aura 	138	R	1R	Enchant creatureNEWLINEEnchanted creature gets +2/+1 and has “Whenever this creature attacks, target creature an opponent controls can’t block this turn.”			normal	TTR		HEROISM

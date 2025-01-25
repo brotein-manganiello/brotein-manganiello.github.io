@@ -1,1 +1,0 @@
-﻿Volatile Alchemist	R	common	Creature – Human Wizard 	176	UR	2R	HasteNEWLINE2U: Volatile Alchemist gains vigilance until end of turn and can’t be blocked this turn.	3/2		normal	INM		OFFCOLORNEWLINEalt Artem BorisovNEWLINEVORTHOS

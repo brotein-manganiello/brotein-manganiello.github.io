@@ -1,1 +1,0 @@
-﻿Mire Triton	B	uncommon	Creature – Zombie Merfolk 	108	B	1B	DeathtouchNEWLINEWhen Mire Triton enters the battlefield, mill two cards and you gain 2 life.	2/1		normal	TTR		REPRINT – THBNEWLINERPT
