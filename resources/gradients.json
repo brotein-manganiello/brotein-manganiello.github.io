@@ -1,6 +1,11 @@
 {
 	"gradients":[
 	{
+		"name":"Virgin America",
+		"color1":"#7b4397",
+		"color2":"#dc2430"
+	},
+	{
 		"name":"Purple White",
 		"color1":"#ba5370",
 		"color2":"#f4e2d8"
@@ -94,11 +99,6 @@
 		"name":"Almost",
 		"color1":"#ddd6f3",
 		"color2":"#faaca8"
-	},
-	{
-		"name":"Virgin America",
-		"color1":"#7b4397",
-		"color2":"#dc2430"
 	},
 	{
 		"name":"Endless River",
