@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/TTR-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>TTR visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/TTR-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ALR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/INM-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TTR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ALR"><img src="/sets/ALR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="INM"><img src="/sets/INM-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="TTR"><img src="/sets/TTR-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/TTR-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\TTR-files\img\13_Grandeur of Nyx.png" id="13_Grandeur of Nyx" data-flag="@X" onclick="openSidebar('13_Grandeur of Nyx',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\57_Makodonis, Prime Exemplar.png" id="57_Makodonis, Prime Exemplar" data-flag="@X" onclick="openSidebar('57_Makodonis, Prime Exemplar',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\89_Beyond Death.png" id="89_Beyond Death" data-flag="@X" onclick="openSidebar('89_Beyond Death',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\157_Purphoros, the Fervid Flame.png" id="157_Purphoros, the Fervid Flame" data-flag="@X" onclick="openSidebar('157_Purphoros, the Fervid Flame',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\191_Nylea, the Wild Chase.png" id="191_Nylea, the Wild Chase" data-flag="@X" onclick="openSidebar('191_Nylea, the Wild Chase',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\14_Grandeur of Nyx (FNM).png" id="14_Grandeur of Nyx (FNM)" data-flag="@X" onclick="openSidebar('14_Grandeur of Nyx (FNM)',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\77_Thassa, the Implacable Tide.png" id="77_Thassa, the Implacable Tide" data-flag="@X" onclick="openSidebar('77_Thassa, the Implacable Tide',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\93_Erebos, the Imminent End.png" id="93_Erebos, the Imminent End" data-flag="@X" onclick="openSidebar('93_Erebos, the Imminent End',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\169_Valeri Kripac.png" id="169_Valeri Kripac" data-flag="@X" onclick="openSidebar('169_Valeri Kripac',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\208_Vivien the Sagittar.png" id="208_Vivien the Sagittar" data-flag="@X" onclick="openSidebar('208_Vivien the Sagittar',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\18_Heliod, the Ceaseless Dawn.png" id="18_Heliod, the Ceaseless Dawn" data-flag="@X" onclick="openSidebar('18_Heliod, the Ceaseless Dawn',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\45_Astral Man-o'-War.png" id="45_Astral Man-o-War" data-flag="@X" onclick="openSidebar('45_Astral Man-o-War',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\86_Abandoned by the Gods.png" id="86_Abandoned by the Gods" data-flag="@X" onclick="openSidebar('86_Abandoned by the Gods',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\130_Anax's Endeavor.png" id="130_Anaxs Endeavor" data-flag="@X" onclick="openSidebar('130_Anaxs Endeavor',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\170_Astral Leucrocota.png" id="170_Astral Leucrocota" data-flag="@X" onclick="openSidebar('170_Astral Leucrocota',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\3_Archon of Sunrise.png" id="3_Archon of Sunrise" data-flag="@X" onclick="openSidebar('3_Archon of Sunrise',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\55_Keranos's Ideosphinx.png" id="55_Keranoss Ideosphinx" data-flag="@X" onclick="openSidebar('55_Keranoss Ideosphinx',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\88_Astral Leech.png" id="88_Astral Leech" data-flag="@X" onclick="openSidebar('88_Astral Leech',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\131_Astral Cerberus.png" id="131_Astral Cerberus" data-flag="@X" onclick="openSidebar('131_Astral Cerberus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\174_Climactic Conflict.png" id="174_Climactic Conflict" data-flag="@X" onclick="openSidebar('174_Climactic Conflict',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\4_Astral Capricine.png" id="4_Astral Capricine" data-flag="@X" onclick="openSidebar('4_Astral Capricine',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\56_Lenkastra, Omniprophet.png" id="56_Lenkastra, Omniprophet" data-flag="@X" onclick="openSidebar('56_Lenkastra, Omniprophet',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\92_Enopraxia's Endeavor.png" id="92_Enopraxias Endeavor" data-flag="@X" onclick="openSidebar('92_Enopraxias Endeavor',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\138_Cinderhoof Minotaur.png" id="138_Cinderhoof Minotaur" data-flag="@X" onclick="openSidebar('138_Cinderhoof Minotaur',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\175_Endless Hydra.png" id="175_Endless Hydra" data-flag="@X" onclick="openSidebar('175_Endless Hydra',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\17_Hekaton Dismantler.png" id="17_Hekaton Dismantler" data-flag="@X" onclick="openSidebar('17_Hekaton Dismantler',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\58_Megalokraken.png" id="58_Megalokraken" data-flag="@X" onclick="openSidebar('58_Megalokraken',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\101_Greedstoker Demon.png" id="101_Greedstoker Demon" data-flag="@X" onclick="openSidebar('101_Greedstoker Demon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\153_Mira and Kalisti of Akros.png" id="153_Mira and Kalisti of Akros" data-flag="@X" onclick="openSidebar('153_Mira and Kalisti of Akros',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\178_Festive Euphoria.png" id="178_Festive Euphoria" data-flag="@X" onclick="openSidebar('178_Festive Euphoria',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\27_Meletis Stargazer.png" id="27_Meletis Stargazer" data-flag="@X" onclick="openSidebar('27_Meletis Stargazer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\63_Olantin Pearlreader.png" id="63_Olantin Pearlreader" data-flag="@X" onclick="openSidebar('63_Olantin Pearlreader',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\104_Hand of Phenax.png" id="104_Hand of Phenax" data-flag="@X" onclick="openSidebar('104_Hand of Phenax',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\155_Phoenix of Agonas.png" id="155_Phoenix of Agonas" data-flag="@X" onclick="openSidebar('155_Phoenix of Agonas',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\186_Kydele, World Oracle.png" id="186_Kydele, World Oracle" data-flag="@X" onclick="openSidebar('186_Kydele, World Oracle',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\33_Nyxfall.png" id="33_Nyxfall" data-flag="@X" onclick="openSidebar('33_Nyxfall',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\65_Perceive Eons.png" id="65_Perceive Eons" data-flag="@X" onclick="openSidebar('65_Perceive Eons',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\108_Minotaur Skullsmasher.png" id="108_Minotaur Skullsmasher" data-flag="@X" onclick="openSidebar('108_Minotaur Skullsmasher',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\156_Polis's Demise.png" id="156_Poliss Demise" data-flag="@X" onclick="openSidebar('156_Poliss Demise',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\199_Primordial Artisan.png" id="199_Primordial Artisan" data-flag="@X" onclick="openSidebar('199_Primordial Artisan',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\38_Rise of Heroes.png" id="38_Rise of Heroes" data-flag="@X" onclick="openSidebar('38_Rise of Heroes',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\76_Sway of the Rivers.png" id="76_Sway of the Rivers" data-flag="@X" onclick="openSidebar('76_Sway of the Rivers',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\124_Wings of Tizerus.png" id="124_Wings of Tizerus" data-flag="@X" onclick="openSidebar('124_Wings of Tizerus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\166_Talonwing Dragon.png" id="166_Talonwing Dragon" data-flag="@X" onclick="openSidebar('166_Talonwing Dragon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\200_Satyr Vigormage.png" id="200_Satyr Vigormage" data-flag="@X" onclick="openSidebar('200_Satyr Vigormage',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\42_Taranika's Endeavor.png" id="42_Taranikas Endeavor" data-flag="@X" onclick="openSidebar('42_Taranikas Endeavor',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\81_Thrasios's Endeavor.png" id="81_Thrasioss Endeavor" data-flag="@X" onclick="openSidebar('81_Thrasioss Endeavor',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\126_Zygos, Underworld Scourge.png" id="126_Zygos, Underworld Scourge" data-flag="@X" onclick="openSidebar('126_Zygos, Underworld Scourge',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\167_Titanic Might.png" id="167_Titanic Might" data-flag="@X" onclick="openSidebar('167_Titanic Might',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\209_Vivien's Endeavor.png" id="209_Viviens Endeavor" data-flag="@X" onclick="openSidebar('209_Viviens Endeavor',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\43_Tykron of the Agnomachi.png" id="43_Tykron of the Agnomachi" data-flag="@X" onclick="openSidebar('43_Tykron of the Agnomachi',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\44_Agent of Deception.png" id="44_Agent of Deception" data-flag="@X" onclick="openSidebar('44_Agent of Deception',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\90_Devourer of Dread.png" id="90_Devourer of Dread" data-flag="@X" onclick="openSidebar('90_Devourer of Dread',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\135_Chained Minotaur.png" id="135_Chained Minotaur" data-flag="@X" onclick="openSidebar('135_Chained Minotaur',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\172_Blessing of Autumn.png" id="172_Blessing of Autumn" data-flag="@X" onclick="openSidebar('172_Blessing of Autumn',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\5_Battlewise Paragon.png" id="5_Battlewise Paragon" data-flag="@X" onclick="openSidebar('5_Battlewise Paragon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\46_Augurwing.png" id="46_Augurwing" data-flag="@X" onclick="openSidebar('46_Augurwing',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\91_Drown in Sorrow.png" id="91_Drown in Sorrow" data-flag="@X" onclick="openSidebar('91_Drown in Sorrow',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\137_Chieftain of Slaughter.png" id="137_Chieftain of Slaughter" data-flag="@X" onclick="openSidebar('137_Chieftain of Slaughter',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\173_Brawnsurge.png" id="173_Brawnsurge" data-flag="@X" onclick="openSidebar('173_Brawnsurge',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\6_Boon of Courage.png" id="6_Boon of Courage" data-flag="@X" onclick="openSidebar('6_Boon of Courage',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\48_Deluge Giant.png" id="48_Deluge Giant" data-flag="@X" onclick="openSidebar('48_Deluge Giant',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\99_Fiendish Psychopomp.png" id="99_Fiendish Psychopomp" data-flag="@X" onclick="openSidebar('99_Fiendish Psychopomp',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\139_Contender's Zeal.png" id="139_Contenders Zeal" data-flag="@X" onclick="openSidebar('139_Contenders Zeal',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\180_Gigascorpion.png" id="180_Gigascorpion" data-flag="@X" onclick="openSidebar('180_Gigascorpion',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\7_Conscript Reinforcements.png" id="7_Conscript Reinforcements" data-flag="@X" onclick="openSidebar('7_Conscript Reinforcements',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\50_Echoshaping.png" id="50_Echoshaping" data-flag="@X" onclick="openSidebar('50_Echoshaping',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\103_Guidance of Pharika.png" id="103_Guidance of Pharika" data-flag="@X" onclick="openSidebar('103_Guidance of Pharika',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\142_Draconic Symphony.png" id="142_Draconic Symphony" data-flag="@X" onclick="openSidebar('142_Draconic Symphony',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\181_Guidance of Karametra.png" id="181_Guidance of Karametra" data-flag="@X" onclick="openSidebar('181_Guidance of Karametra',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\9_Daystrider Pegasus.png" id="9_Daystrider Pegasus" data-flag="@X" onclick="openSidebar('9_Daystrider Pegasus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\52_Equinautilus.png" id="52_Equinautilus" data-flag="@X" onclick="openSidebar('52_Equinautilus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\105_Lampad of Anathemas.png" id="105_Lampad of Anathemas" data-flag="@X" onclick="openSidebar('105_Lampad of Anathemas',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\146_Fatefire.png" id="146_Fatefire" data-flag="@X" onclick="openSidebar('146_Fatefire',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\184_Influence of Kruphix.png" id="184_Influence of Kruphix" data-flag="@X" onclick="openSidebar('184_Influence of Kruphix',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\10_Disciple of Passage.png" id="10_Disciple of Passage" data-flag="@X" onclick="openSidebar('10_Disciple of Passage',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\54_Guidance of Phenax.png" id="54_Guidance of Phenax" data-flag="@X" onclick="openSidebar('54_Guidance of Phenax',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\106_Mantle of the Returned.png" id="106_Mantle of the Returned" data-flag="@X" onclick="openSidebar('106_Mantle of the Returned',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\148_Forge Adept.png" id="148_Forge Adept" data-flag="@X" onclick="openSidebar('148_Forge Adept',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\185_Klothys's Lookout.png" id="185_Klothyss Lookout" data-flag="@X" onclick="openSidebar('185_Klothyss Lookout',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\15_Guidance of Iroas.png" id="15_Guidance of Iroas" data-flag="@X" onclick="openSidebar('15_Guidance of Iroas',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\61_Misquantify.png" id="61_Misquantify" data-flag="@X" onclick="openSidebar('61_Misquantify',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\109_Mire Triton.png" id="109_Mire Triton" data-flag="@X" onclick="openSidebar('109_Mire Triton',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\149_Guidance of Keranos.png" id="149_Guidance of Keranos" data-flag="@X" onclick="openSidebar('149_Guidance of Keranos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\194_Nyx-Eater Basilisk.png" id="194_Nyx-Eater Basilisk" data-flag="@X" onclick="openSidebar('194_Nyx-Eater Basilisk',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\16_Halcyon Hoplite.png" id="16_Halcyon Hoplite" data-flag="@X" onclick="openSidebar('16_Halcyon Hoplite',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\66_Perplexing Visions.png" id="66_Perplexing Visions" data-flag="@X" onclick="openSidebar('66_Perplexing Visions',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\112_Nestraider.png" id="112_Nestraider" data-flag="@X" onclick="openSidebar('112_Nestraider',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\150_Intense Revelation.png" id="150_Intense Revelation" data-flag="@X" onclick="openSidebar('150_Intense Revelation',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\195_Phalanx Beetle.png" id="195_Phalanx Beetle" data-flag="@X" onclick="openSidebar('195_Phalanx Beetle',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\21_Heroes' Adversary.png" id="21_Heroes Adversary" data-flag="@X" onclick="openSidebar('21_Heroes Adversary',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\67_Progenitor of Mysteries.png" id="67_Progenitor of Mysteries" data-flag="@X" onclick="openSidebar('67_Progenitor of Mysteries',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\114_Pay Up.png" id="114_Pay Up" data-flag="@X" onclick="openSidebar('114_Pay Up',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\154_Oread of Rising Chaos.png" id="154_Oread of Rising Chaos" data-flag="@X" onclick="openSidebar('154_Oread of Rising Chaos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\196_Pharika's Herbalist.png" id="196_Pharikas Herbalist" data-flag="@X" onclick="openSidebar('196_Pharikas Herbalist',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\23_Journey's End.png" id="23_Journeys End" data-flag="@X" onclick="openSidebar('23_Journeys End',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\72_Shrewd-Eye Sphinx.png" id="72_Shrewd-Eye Sphinx" data-flag="@X" onclick="openSidebar('72_Shrewd-Eye Sphinx',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\115_Phoberos Fearmonger.png" id="115_Phoberos Fearmonger" data-flag="@X" onclick="openSidebar('115_Phoberos Fearmonger',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\160_Pyromanticore.png" id="160_Pyromanticore" data-flag="@X" onclick="openSidebar('160_Pyromanticore',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\198_Priest of Nylea.png" id="198_Priest of Nylea" data-flag="@X" onclick="openSidebar('198_Priest of Nylea',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\32_Nykthos Enchantress.png" id="32_Nykthos Enchantress" data-flag="@X" onclick="openSidebar('32_Nykthos Enchantress',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\79_Thassa's Shoreguards.png" id="79_Thassas Shoreguards" data-flag="@X" onclick="openSidebar('79_Thassas Shoreguards',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\123_Vulturous Harpy.png" id="123_Vulturous Harpy" data-flag="@X" onclick="openSidebar('123_Vulturous Harpy',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\163_Satyr Instigator.png" id="163_Satyr Instigator" data-flag="@X" onclick="openSidebar('163_Satyr Instigator',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\202_Setessan Avenger.png" id="202_Setessan Avenger" data-flag="@X" onclick="openSidebar('202_Setessan Avenger',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\35_Pantheon Breaker.png" id="35_Pantheon Breaker" data-flag="@X" onclick="openSidebar('35_Pantheon Breaker',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\83_Titanic Fathomclaw.png" id="83_Titanic Fathomclaw" data-flag="@X" onclick="openSidebar('83_Titanic Fathomclaw',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\125_Wretched Catoblepas.png" id="125_Wretched Catoblepas" data-flag="@X" onclick="openSidebar('125_Wretched Catoblepas',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\165_Storm-Eye Salamander.png" id="165_Storm-Eye Salamander" data-flag="@X" onclick="openSidebar('165_Storm-Eye Salamander',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\207_Vigorbreath Scourge.png" id="207_Vigorbreath Scourge" data-flag="@X" onclick="openSidebar('207_Vigorbreath Scourge',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\37_Purehorn Rescuer.png" id="37_Purehorn Rescuer" data-flag="@X" onclick="openSidebar('37_Purehorn Rescuer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\84_Undeniable Prophecy.png" id="84_Undeniable Prophecy" data-flag="@X" onclick="openSidebar('84_Undeniable Prophecy',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\127_Zygos's Decimators.png" id="127_Zygoss Decimators" data-flag="@X" onclick="openSidebar('127_Zygoss Decimators',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\168_Tremor Titan.png" id="168_Tremor Titan" data-flag="@X" onclick="openSidebar('168_Tremor Titan',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\211_Wild-Trail Chimera.png" id="211_Wild-Trail Chimera" data-flag="@X" onclick="openSidebar('211_Wild-Trail Chimera',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\39_Starlight Veil.png" id="39_Starlight Veil" data-flag="@X" onclick="openSidebar('39_Starlight Veil',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\47_Curio Siren.png" id="47_Curio Siren" data-flag="@X" onclick="openSidebar('47_Curio Siren',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\87_Asphodel Gravedealer.png" id="87_Asphodel Gravedealer" data-flag="@X" onclick="openSidebar('87_Asphodel Gravedealer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\128_Akroan Truespear.png" id="128_Akroan Truespear" data-flag="@X" onclick="openSidebar('128_Akroan Truespear',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\171_Behold the Horizon.png" id="171_Behold the Horizon" data-flag="@X" onclick="openSidebar('171_Behold the Horizon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\1_Aegis Hero.png" id="1_Aegis Hero" data-flag="@X" onclick="openSidebar('1_Aegis Hero',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\49_Descend into Dream.png" id="49_Descend into Dream" data-flag="@X" onclick="openSidebar('49_Descend into Dream',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\94_Erebos's Benefaction.png" id="94_Ereboss Benefaction" data-flag="@X" onclick="openSidebar('94_Ereboss Benefaction',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\129_Amalgam of Havoc.png" id="129_Amalgam of Havoc" data-flag="@X" onclick="openSidebar('129_Amalgam of Havoc',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\176_Envoy of Karametra.png" id="176_Envoy of Karametra" data-flag="@X" onclick="openSidebar('176_Envoy of Karametra',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\2_Ancient Vitality.png" id="2_Ancient Vitality" data-flag="@X" onclick="openSidebar('2_Ancient Vitality',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\51_Enigmazoa.png" id="51_Enigmazoa" data-flag="@X" onclick="openSidebar('51_Enigmazoa',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\95_Erebos's Whipslang.png" id="95_Ereboss Whipslang" data-flag="@X" onclick="openSidebar('95_Ereboss Whipslang',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\132_Athletic Skill.png" id="132_Athletic Skill" data-flag="@X" onclick="openSidebar('132_Athletic Skill',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\177_Fallspeaker Satyr.png" id="177_Fallspeaker Satyr" data-flag="@X" onclick="openSidebar('177_Fallspeaker Satyr',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\8_Dawnbringer Vanguard.png" id="8_Dawnbringer Vanguard" data-flag="@X" onclick="openSidebar('8_Dawnbringer Vanguard',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\53_Floodspeaker Triton.png" id="53_Floodspeaker Triton" data-flag="@X" onclick="openSidebar('53_Floodspeaker Triton',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\96_Extract the Truth.png" id="96_Extract the Truth" data-flag="@X" onclick="openSidebar('96_Extract the Truth',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\133_Beseech the War Gods.png" id="133_Beseech the War Gods" data-flag="@X" onclick="openSidebar('133_Beseech the War Gods',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\179_Forbid from the Sky.png" id="179_Forbid from the Sky" data-flag="@X" onclick="openSidebar('179_Forbid from the Sky',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\11_Ephara's Watcher.png" id="11_Epharas Watcher" data-flag="@X" onclick="openSidebar('11_Epharas Watcher',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\59_Meletis Stratomancer.png" id="59_Meletis Stratomancer" data-flag="@X" onclick="openSidebar('59_Meletis Stratomancer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\97_Felhide Marauder.png" id="97_Felhide Marauder" data-flag="@X" onclick="openSidebar('97_Felhide Marauder',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\134_Blood-Cantor of Mogis.png" id="134_Blood-Cantor of Mogis" data-flag="@X" onclick="openSidebar('134_Blood-Cantor of Mogis',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\182_Hellebore Gargantua.png" id="182_Hellebore Gargantua" data-flag="@X" onclick="openSidebar('182_Hellebore Gargantua',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\12_Goldengrain Alseid.png" id="12_Goldengrain Alseid" data-flag="@X" onclick="openSidebar('12_Goldengrain Alseid',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\60_Mesmerize.png" id="60_Mesmerize" data-flag="@X" onclick="openSidebar('60_Mesmerize',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\98_Felhide Sacrament.png" id="98_Felhide Sacrament" data-flag="@X" onclick="openSidebar('98_Felhide Sacrament',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\136_Champion of Keranos.png" id="136_Champion of Keranos" data-flag="@X" onclick="openSidebar('136_Champion of Keranos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\183_Ilysian Bounty.png" id="183_Ilysian Bounty" data-flag="@X" onclick="openSidebar('183_Ilysian Bounty',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\19_Heliod's Benefaction.png" id="19_Heliods Benefaction" data-flag="@X" onclick="openSidebar('19_Heliods Benefaction',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\62_Nyxborn Octopus.png" id="62_Nyxborn Octopus" data-flag="@X" onclick="openSidebar('62_Nyxborn Octopus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\100_Glimpse the Gorgon.png" id="100_Glimpse the Gorgon" data-flag="@X" onclick="openSidebar('100_Glimpse the Gorgon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\140_Cosmic Catastrophe.png" id="140_Cosmic Catastrophe" data-flag="@X" onclick="openSidebar('140_Cosmic Catastrophe',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\187_Leina Tower Sentry.png" id="187_Leina Tower Sentry" data-flag="@X" onclick="openSidebar('187_Leina Tower Sentry',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\20_Heliod's Stag.png" id="20_Heliods Stag" data-flag="@X" onclick="openSidebar('20_Heliods Stag',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\64_Omendiver.png" id="64_Omendiver" data-flag="@X" onclick="openSidebar('64_Omendiver',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\102_Grim Procession.png" id="102_Grim Procession" data-flag="@X" onclick="openSidebar('102_Grim Procession',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\141_Destined Confrontation.png" id="141_Destined Confrontation" data-flag="@X" onclick="openSidebar('141_Destined Confrontation',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\188_Maul.png" id="188_Maul" data-flag="@X" onclick="openSidebar('188_Maul',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\22_Impaling Sunbeam.png" id="22_Impaling Sunbeam" data-flag="@X" onclick="openSidebar('22_Impaling Sunbeam',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\68_Prognosticate.png" id="68_Prognosticate" data-flag="@X" onclick="openSidebar('68_Prognosticate',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\107_Memento Gorgon.png" id="107_Memento Gorgon" data-flag="@X" onclick="openSidebar('107_Memento Gorgon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\143_Eidolon of the Arena.png" id="143_Eidolon of the Arena" data-flag="@X" onclick="openSidebar('143_Eidolon of the Arena',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\189_Moss Viper.png" id="189_Moss Viper" data-flag="@X" onclick="openSidebar('189_Moss Viper',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\24_Lagonna-Band Mentor.png" id="24_Lagonna-Band Mentor" data-flag="@X" onclick="openSidebar('24_Lagonna-Band Mentor',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\69_Prophet's Paranoia.png" id="69_Prophets Paranoia" data-flag="@X" onclick="openSidebar('69_Prophets Paranoia',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\110_Miserable Portent.png" id="110_Miserable Portent" data-flag="@X" onclick="openSidebar('110_Miserable Portent',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\144_Emberhound.png" id="144_Emberhound" data-flag="@X" onclick="openSidebar('144_Emberhound',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\190_Nessian Recluse.png" id="190_Nessian Recluse" data-flag="@X" onclick="openSidebar('190_Nessian Recluse',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\25_Leonin Insurgent.png" id="25_Leonin Insurgent" data-flag="@X" onclick="openSidebar('25_Leonin Insurgent',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\70_Sage of Dilemmas.png" id="70_Sage of Dilemmas" data-flag="@X" onclick="openSidebar('70_Sage of Dilemmas',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\111_Nemesis Eidolon.png" id="111_Nemesis Eidolon" data-flag="@X" onclick="openSidebar('111_Nemesis Eidolon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\145_Errant Cyclops.png" id="145_Errant Cyclops" data-flag="@X" onclick="openSidebar('145_Errant Cyclops',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\192_Nylea's Benefaction.png" id="192_Nyleas Benefaction" data-flag="@X" onclick="openSidebar('192_Nyleas Benefaction',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\26_Meletis Oracle.png" id="26_Meletis Oracle" data-flag="@X" onclick="openSidebar('26_Meletis Oracle',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\71_Shimmershell.png" id="71_Shimmershell" data-flag="@X" onclick="openSidebar('71_Shimmershell',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\113_Nyxborn Cockatrice.png" id="113_Nyxborn Cockatrice" data-flag="@X" onclick="openSidebar('113_Nyxborn Cockatrice',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\147_Flamespeaker's Craft.png" id="147_Flamespeakers Craft" data-flag="@X" onclick="openSidebar('147_Flamespeakers Craft',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\193_Nylea's Tracker.png" id="193_Nyleas Tracker" data-flag="@X" onclick="openSidebar('193_Nyleas Tracker',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\28_Military Authority.png" id="28_Military Authority" data-flag="@X" onclick="openSidebar('28_Military Authority',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\73_Spawn of Keranos.png" id="73_Spawn of Keranos" data-flag="@X" onclick="openSidebar('73_Spawn of Keranos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\116_Returned Minotaur.png" id="116_Returned Minotaur" data-flag="@X" onclick="openSidebar('116_Returned Minotaur',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\151_Lightning Strike.png" id="151_Lightning Strike" data-flag="@X" onclick="openSidebar('151_Lightning Strike',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\197_Pheres-Band Courser.png" id="197_Pheres-Band Courser" data-flag="@X" onclick="openSidebar('197_Pheres-Band Courser',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\29_Moment of Triumph.png" id="29_Moment of Triumph" data-flag="@X" onclick="openSidebar('29_Moment of Triumph',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\74_Stormsea Naiad.png" id="74_Stormsea Naiad" data-flag="@X" onclick="openSidebar('74_Stormsea Naiad',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\117_Rite of Afflictions.png" id="117_Rite of Afflictions" data-flag="@X" onclick="openSidebar('117_Rite of Afflictions',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\152_Minotaur Rampager.png" id="152_Minotaur Rampager" data-flag="@X" onclick="openSidebar('152_Minotaur Rampager',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\201_Serene Harmony.png" id="201_Serene Harmony" data-flag="@X" onclick="openSidebar('201_Serene Harmony',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\30_Morningheart Griffin.png" id="30_Morningheart Griffin" data-flag="@X" onclick="openSidebar('30_Morningheart Griffin',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\75_Struck by Epiphany.png" id="75_Struck by Epiphany" data-flag="@X" onclick="openSidebar('75_Struck by Epiphany',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\118_Servant of Athreos.png" id="118_Servant of Athreos" data-flag="@X" onclick="openSidebar('118_Servant of Athreos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\158_Purphoros's Benefaction.png" id="158_Purphoross Benefaction" data-flag="@X" onclick="openSidebar('158_Purphoross Benefaction',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\203_Springstep Dryad.png" id="203_Springstep Dryad" data-flag="@X" onclick="openSidebar('203_Springstep Dryad',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\31_Nightpiercer Unicorn.png" id="31_Nightpiercer Unicorn" data-flag="@X" onclick="openSidebar('31_Nightpiercer Unicorn',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\78_Thassa's Benefaction.png" id="78_Thassas Benefaction" data-flag="@X" onclick="openSidebar('78_Thassas Benefaction',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\119_Three-Headed Thrash.png" id="119_Three-Headed Thrash" data-flag="@X" onclick="openSidebar('119_Three-Headed Thrash',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\159_Purphoros's Gemback.png" id="159_Purphoross Gemback" data-flag="@X" onclick="openSidebar('159_Purphoross Gemback',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\204_Sylvan Strength.png" id="204_Sylvan Strength" data-flag="@X" onclick="openSidebar('204_Sylvan Strength',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\34_Oreskos Warden.png" id="34_Oreskos Warden" data-flag="@X" onclick="openSidebar('34_Oreskos Warden',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\80_Thassa's Tidebringer.png" id="80_Thassas Tidebringer" data-flag="@X" onclick="openSidebar('80_Thassas Tidebringer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\120_Tizerus Bats.png" id="120_Tizerus Bats" data-flag="@X" onclick="openSidebar('120_Tizerus Bats',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\161_Reckless Impulse.png" id="161_Reckless Impulse" data-flag="@X" onclick="openSidebar('161_Reckless Impulse',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\205_Thornbriar Caryatid.png" id="205_Thornbriar Caryatid" data-flag="@X" onclick="openSidebar('205_Thornbriar Caryatid',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\36_Philosophical Conundrum.png" id="36_Philosophical Conundrum" data-flag="@X" onclick="openSidebar('36_Philosophical Conundrum',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\82_Tidal Cacophony.png" id="82_Tidal Cacophony" data-flag="@X" onclick="openSidebar('82_Tidal Cacophony',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\121_Tormentor Harpy.png" id="121_Tormentor Harpy" data-flag="@X" onclick="openSidebar('121_Tormentor Harpy',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\162_Rush to Revelry.png" id="162_Rush to Revelry" data-flag="@X" onclick="openSidebar('162_Rush to Revelry',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\206_Trifold Atrocity.png" id="206_Trifold Atrocity" data-flag="@X" onclick="openSidebar('206_Trifold Atrocity',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\40_Sun-Blessed Hoplite.png" id="40_Sun-Blessed Hoplite" data-flag="@X" onclick="openSidebar('40_Sun-Blessed Hoplite',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\85_Whirling Gyre.png" id="85_Whirling Gyre" data-flag="@X" onclick="openSidebar('85_Whirling Gyre',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\122_Underworld Myrmex.png" id="122_Underworld Myrmex" data-flag="@X" onclick="openSidebar('122_Underworld Myrmex',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\164_Satyr Trailblazer.png" id="164_Satyr Trailblazer" data-flag="@X" onclick="openSidebar('164_Satyr Trailblazer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\210_Voracious Asvosydna.png" id="210_Voracious Asvosydna" data-flag="@X" onclick="openSidebar('210_Voracious Asvosydna',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\41_Swift Response.png" id="41_Swift Response" data-flag="@X" onclick="openSidebar('41_Swift Response',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\219_Ephara, Patron of Enlightenment.png" id="219_Ephara, Patron of Enlightenment" data-flag="@X" onclick="openSidebar('219_Ephara, Patron of Enlightenment',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\234_Phenax, Patron of Deceit.png" id="234_Phenax, Patron of Deceit" data-flag="@X" onclick="openSidebar('234_Phenax, Patron of Deceit',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\230_Mogis, Patron of Malice.png" id="230_Mogis, Patron of Malice" data-flag="@X" onclick="openSidebar('230_Mogis, Patron of Malice',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\227_Klothys, Patron of Fate.png" id="227_Klothys, Patron of Fate" data-flag="@X" onclick="openSidebar('227_Klothys, Patron of Fate',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\223_Karametra, Patron of Plenty.png" id="223_Karametra, Patron of Plenty" data-flag="@X" onclick="openSidebar('223_Karametra, Patron of Plenty',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\215_Celestial Hieromancer.png" id="215_Celestial Hieromancer" data-flag="@X" onclick="openSidebar('215_Celestial Hieromancer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\242_Unlikely Tandem.png" id="242_Unlikely Tandem" data-flag="@X" onclick="openSidebar('242_Unlikely Tandem',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\235_Phoberos Ragehorn.png" id="235_Phoberos Ragehorn" data-flag="@X" onclick="openSidebar('235_Phoberos Ragehorn',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\231_Monstriform.png" id="231_Monstriform" data-flag="@X" onclick="openSidebar('231_Monstriform',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\236_Sacred Lynx.png" id="236_Sacred Lynx" data-flag="@X" onclick="openSidebar('236_Sacred Lynx',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\216_Dekatian Philosopher.png" id="216_Dekatian Philosopher" data-flag="@X" onclick="openSidebar('216_Dekatian Philosopher',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\217_Dire Harpies of Odunos.png" id="217_Dire Harpies of Odunos" data-flag="@X" onclick="openSidebar('217_Dire Harpies of Odunos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\228_Kragma Eviscerator.png" id="228_Kragma Eviscerator" data-flag="@X" onclick="openSidebar('228_Kragma Eviscerator',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\220_Feral Persuader.png" id="220_Feral Persuader" data-flag="@X" onclick="openSidebar('220_Feral Persuader',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\224_Karametra's Touch.png" id="224_Karametras Touch" data-flag="@X" onclick="openSidebar('224_Karametras Touch',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\214_Athreos, Patron of Slience.png" id="214_Athreos, Patron of Slience" data-flag="@X" onclick="openSidebar('214_Athreos, Patron of Slience',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\233_Pharika, Patron of Malady.png" id="233_Pharika, Patron of Malady" data-flag="@X" onclick="openSidebar('233_Pharika, Patron of Malady',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\229_Kruphix, Patron of Mystery.png" id="229_Kruphix, Patron of Mystery" data-flag="@X" onclick="openSidebar('229_Kruphix, Patron of Mystery',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\226_Keranos, Patron of Epiphany.png" id="226_Keranos, Patron of Epiphany" data-flag="@X" onclick="openSidebar('226_Keranos, Patron of Epiphany',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\221_Iroas, Patron of Triumph.png" id="221_Iroas, Patron of Triumph" data-flag="@X" onclick="openSidebar('221_Iroas, Patron of Triumph',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\237_Somber River Bearer.png" id="237_Somber River Bearer" data-flag="@X" onclick="openSidebar('237_Somber River Bearer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\239_Tombweaver.png" id="239_Tombweaver" data-flag="@X" onclick="openSidebar('239_Tombweaver',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\240_Triton's Invocation.png" id="240_Tritons Invocation" data-flag="@X" onclick="openSidebar('240_Tritons Invocation',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\241_Typhoon Terror.png" id="241_Typhoon Terror" data-flag="@X" onclick="openSidebar('241_Typhoon Terror',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\222_Iroas's Charioteer.png" id="222_Iroass Charioteer" data-flag="@X" onclick="openSidebar('222_Iroass Charioteer',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\243_Watch of the Dead.png" id="243_Watch of the Dead" data-flag="@X" onclick="openSidebar('243_Watch of the Dead',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\218_Enopraxia, Cure-Witch.png" id="218_Enopraxia, Cure-Witch" data-flag="@X" onclick="openSidebar('218_Enopraxia, Cure-Witch',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\232_Paradise Chimera.png" id="232_Paradise Chimera" data-flag="@X" onclick="openSidebar('232_Paradise Chimera',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\238_Stalker of Myth.png" id="238_Stalker of Myth" data-flag="@X" onclick="openSidebar('238_Stalker of Myth',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\212_Akroan Siege Captain.png" id="212_Akroan Siege Captain" data-flag="@X" onclick="openSidebar('212_Akroan Siege Captain',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\225_Kardox, Hero of Skophos.png" id="225_Kardox, Hero of Skophos" data-flag="@X" onclick="openSidebar('225_Kardox, Hero of Skophos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\213_The Anguilahydra.png" id="213_The Anguilahydra" data-flag="@X" onclick="openSidebar('213_The Anguilahydra',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\244_Anvilwrought Colossus.png" id="244_Anvilwrought Colossus" data-flag="@X" onclick="openSidebar('244_Anvilwrought Colossus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\252_Protean Jar.png" id="252_Protean Jar" data-flag="@X" onclick="openSidebar('252_Protean Jar',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\254_Setessan Armaments.png" id="254_Setessan Armaments" data-flag="@X" onclick="openSidebar('254_Setessan Armaments',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\246_Gilded Ram.png" id="246_Gilded Ram" data-flag="@X" onclick="openSidebar('246_Gilded Ram',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\248_Horn of Seasons.png" id="248_Horn of Seasons" data-flag="@X" onclick="openSidebar('248_Horn of Seasons',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\249_Keepsake of Binding.png" id="249_Keepsake of Binding" data-flag="@X" onclick="openSidebar('249_Keepsake of Binding',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\250_Meletian Trireme.png" id="250_Meletian Trireme" data-flag="@X" onclick="openSidebar('250_Meletian Trireme',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\245_Anvilwrought Pegasus.png" id="245_Anvilwrought Pegasus" data-flag="@X" onclick="openSidebar('245_Anvilwrought Pegasus',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\247_Hero's Statue.png" id="247_Heros Statue" data-flag="@X" onclick="openSidebar('247_Heros Statue',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\251_Necrodromos.png" id="251_Necrodromos" data-flag="@X" onclick="openSidebar('251_Necrodromos',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\253_Scrying Pool.png" id="253_Scrying Pool" data-flag="@X" onclick="openSidebar('253_Scrying Pool',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\255_Torch of Phoenixfire.png" id="255_Torch of Phoenixfire" data-flag="@X" onclick="openSidebar('255_Torch of Phoenixfire',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\271_Waterfront Market.png" id="271_Waterfront Market" data-flag="@X" onclick="openSidebar('271_Waterfront Market',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\272_Whispering Canal.png" id="272_Whispering Canal" data-flag="@X" onclick="openSidebar('272_Whispering Canal',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\262_Molten Mire.png" id="262_Molten Mire" data-flag="@X" onclick="openSidebar('262_Molten Mire',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\257_Autumnal Boscage.png" id="257_Autumnal Boscage" data-flag="@X" onclick="openSidebar('257_Autumnal Boscage',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\267_Splendid Scenery.png" id="267_Splendid Scenery" data-flag="@X" onclick="openSidebar('267_Splendid Scenery',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\264_Pristine Delta.png" id="264_Pristine Delta" data-flag="@X" onclick="openSidebar('264_Pristine Delta',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\256_Abyssal Crypt.png" id="256_Abyssal Crypt" data-flag="@X" onclick="openSidebar('256_Abyssal Crypt',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\269_Treacherous Den.png" id="269_Treacherous Den" data-flag="@X" onclick="openSidebar('269_Treacherous Den',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\261_Jagged Cairn.png" id="261_Jagged Cairn" data-flag="@X" onclick="openSidebar('261_Jagged Cairn',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\266_Sheltered Haven.png" id="266_Sheltered Haven" data-flag="@X" onclick="openSidebar('266_Sheltered Haven',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\263_Ominous Quag.png" id="263_Ominous Quag" data-flag="@X" onclick="openSidebar('263_Ominous Quag',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\265_Serpentine Woods.png" id="265_Serpentine Woods" data-flag="@X" onclick="openSidebar('265_Serpentine Woods',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\259_Cryptic Reef.png" id="259_Cryptic Reef" data-flag="@X" onclick="openSidebar('259_Cryptic Reef',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\268_Stunning Cascade.png" id="268_Stunning Cascade" data-flag="@X" onclick="openSidebar('268_Stunning Cascade',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\260_Fortress Arena.png" id="260_Fortress Arena" data-flag="@X" onclick="openSidebar('260_Fortress Arena',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\0_Nykthos, Shrine to Nyx.png" id="0_Nykthos, Shrine to Nyx" data-flag="@X" onclick="openSidebar('0_Nykthos, Shrine to Nyx',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\258_Cave of Pleonexia.png" id="258_Cave of Pleonexia" data-flag="@X" onclick="openSidebar('258_Cave of Pleonexia',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\270_Uncharted Haven.png" id="270_Uncharted Haven" data-flag="@X" onclick="openSidebar('270_Uncharted Haven',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\273_Plains.png" id="273_Plains" data-flag="@X" onclick="openSidebar('273_Plains',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\277_Island.png" id="277_Island" data-flag="@X" onclick="openSidebar('277_Island',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\281_Swamp.png" id="281_Swamp" data-flag="@X" onclick="openSidebar('281_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\285_Mountain.png" id="285_Mountain" data-flag="@X" onclick="openSidebar('285_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\289_Forest.png" id="289_Forest" data-flag="@X" onclick="openSidebar('289_Forest',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\274_Plains 1.png" id="274_Plains 1" data-flag="@X" onclick="openSidebar('274_Plains 1',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\278_Island 1.png" id="278_Island 1" data-flag="@X" onclick="openSidebar('278_Island 1',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\282_Swamp 1.png" id="282_Swamp 1" data-flag="@X" onclick="openSidebar('282_Swamp 1',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\286_Mountain 1.png" id="286_Mountain 1" data-flag="@X" onclick="openSidebar('286_Mountain 1',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\290_Forest 1.png" id="290_Forest 1" data-flag="@X" onclick="openSidebar('290_Forest 1',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\275_Plains 2.png" id="275_Plains 2" data-flag="@X" onclick="openSidebar('275_Plains 2',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\279_Island 2.png" id="279_Island 2" data-flag="@X" onclick="openSidebar('279_Island 2',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\283_Swamp 2.png" id="283_Swamp 2" data-flag="@X" onclick="openSidebar('283_Swamp 2',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\287_Mountain 2.png" id="287_Mountain 2" data-flag="@X" onclick="openSidebar('287_Mountain 2',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\291_Forest 2.png" id="291_Forest 2" data-flag="@X" onclick="openSidebar('291_Forest 2',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\276_Plains 3.png" id="276_Plains 3" data-flag="@X" onclick="openSidebar('276_Plains 3',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\280_Island 3.png" id="280_Island 3" data-flag="@X" onclick="openSidebar('280_Island 3',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\284_Swamp 3.png" id="284_Swamp 3" data-flag="@X" onclick="openSidebar('284_Swamp 3',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\288_Mountain 3.png" id="288_Mountain 3" data-flag="@X" onclick="openSidebar('288_Mountain 3',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\292_Forest 3.png" id="292_Forest 3" data-flag="@X" onclick="openSidebar('292_Forest 3',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\1t_Copy.png" id="1t_Copy" data-flag="@X" onclick="openSidebar('1t_Copy',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\2t_Golem.png" id="2t_Golem" data-flag="@X" onclick="openSidebar('2t_Golem',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\3t_Treasure.png" id="3t_Treasure" data-flag="@X" onclick="openSidebar('3t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\4t_Archon.png" id="4t_Archon" data-flag="@X" onclick="openSidebar('4t_Archon',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\5t_Bird.png" id="5t_Bird" data-flag="@X" onclick="openSidebar('5t_Bird',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\6t_Cat Soldier.png" id="6t_Cat Soldier" data-flag="@X" onclick="openSidebar('6t_Cat Soldier',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\7t_Goat.png" id="7t_Goat" data-flag="@X" onclick="openSidebar('7t_Goat',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\8t_Soldier.png" id="8t_Soldier" data-flag="@X" onclick="openSidebar('8t_Soldier',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\9t_Soldier 2.png" id="9t_Soldier 2" data-flag="@X" onclick="openSidebar('9t_Soldier 2',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\10t_Chimera.png" id="10t_Chimera" data-flag="@X" onclick="openSidebar('10t_Chimera',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\11t_Elemental.png" id="11t_Elemental" data-flag="@X" onclick="openSidebar('11t_Elemental',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\12t_Merfolk Rogue.png" id="12t_Merfolk Rogue" data-flag="@X" onclick="openSidebar('12t_Merfolk Rogue',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\13t_Harpy.png" id="13t_Harpy" data-flag="@X" onclick="openSidebar('13t_Harpy',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\14t_Zombie.png" id="14t_Zombie" data-flag="@X" onclick="openSidebar('14t_Zombie',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\15t_Minotaur.png" id="15t_Minotaur" data-flag="@X" onclick="openSidebar('15t_Minotaur',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\16t_Satyr.png" id="16t_Satyr" data-flag="@X" onclick="openSidebar('16t_Satyr',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\17t_Cat Spirit.png" id="17t_Cat Spirit" data-flag="@X" onclick="openSidebar('17t_Cat Spirit',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\18t_Hydra.png" id="18t_Hydra" data-flag="@X" onclick="openSidebar('18t_Hydra',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\19t_Nymph Dryad.png" id="19t_Nymph Dryad" data-flag="@X" onclick="openSidebar('19t_Nymph Dryad',false)"></div>
+			<div class="container"><img alt="/sets\TTR-files\img\20t_Emblem.png" id="20t_Emblem" data-flag="@X" onclick="openSidebar('20t_Emblem',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && sidebar_img.src.includes("_front"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

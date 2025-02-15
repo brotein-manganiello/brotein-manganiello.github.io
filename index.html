@@ -213,15 +213,15 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
-									<a href="ALR-spoiler"><div class="set-icon"><img src="sets/ALR-files/icon.png" title="ALARA"></img></div>
+									<a href="previews/ALR"><div class="set-icon"><img src="sets/ALR-files/icon.png" title="ALARA"></img></div>
 									<div class="set-icon-name">ALARA</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="INM-spoiler"><div class="set-icon"><img src="sets/INM-files/icon.png" title="INNISTRAD IN MEMORIAM"></img></div>
+									<a href="previews/INM"><div class="set-icon"><img src="sets/INM-files/icon.png" title="INNISTRAD IN MEMORIAM"></img></div>
 									<div class="set-icon-name">INNISTRAD IN MEMORIAM</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="TTR-spoiler"><div class="set-icon"><img src="sets/TTR-files/icon.png" title="THEROS TRIUMPHANT"></img></div>
+									<a href="previews/TTR"><div class="set-icon"><img src="sets/TTR-files/icon.png" title="THEROS TRIUMPHANT"></img></div>
 									<div class="set-icon-name">THEROS TRIUMPHANT</div></a>
 								</div>
 									</div>
@@ -292,12 +292,17 @@
 				const card_stats = card_list_cleaned[cotd];
 
 				const a = document.createElement("a");
-				let card_name = card_stats.card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: card_stats.set,
+					num: card_stats.number,
+					name: card_stats.card_name
 				}
-				a.href = '/cards/' + card_stats.set + '/' + card_stats.number + '_' + card_name;
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+				a.href = url;
 
 				const img = document.createElement("img");
 				img.id = "cotd";
@@ -389,18 +394,26 @@
 			}
 
 			function search() {
-				window.location = ("search?search=" + document.getElementById("search").value);
+				const url = new URL('search', window.location.origin);
+				url.searchParams.append('search', document.getElementById("search").value);
+				window.location.href = url;
 			}
 
 			function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i].card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+				window.location.href = url;
 			}
 		</script>
 	</body>
