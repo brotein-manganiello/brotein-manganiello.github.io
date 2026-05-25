@@ -1,4 +1,71 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Atraxa, Perfect Synthesis
+
+Viral Incursion
+
+Consecrated Imperator
+
+Subjugator's Stylus
+
+Elesh Norn, Praetor of Unity
+
+Viral Diffusion
+
+Surgical Imperator
+
+Augur's Atrium
+
+Jin-Gitaxias, Praetor of Synthesis
+
+Viral Awakening
+
+Mephitic Imperator
+
+Tormentor's Apparatus
+
+Sheoldred, Praetor of Secrets
+
+Viral Crescendo
+
+Volatile Imperator
+
+Combustor's Crucible
+
+Urabrask, Praetor of Defiance
+
+Viral Muscularity
+
+Monstrous Imperator
+
+Sporesinger's Lung
+rules_text: [i]({GP} can be paid with {G} or 2 life.)[/i]
+Whenever a permanent you control enters tapped, untap it.
+{T}: You may put a land card from your hand onto the battlefield. => [i]({GP} can be paid with {G} or 2 life.)[/i]
+Whenever a land you control enters tapped, untap it.
+{T}: Untap target creature you control. Activate only as a sorcery and only once each turn.
+
+Vorinclex, Praetor of Evolution
+
+Lidless Mutilant
+
+Winged Mutilant
+
+Septic Mutilant
+
+Incendiary Mutilant
+
+Brutal Mutilant
+
+The Propagation Theater
+
+Sheoldred, Praetor of Secrets-P
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

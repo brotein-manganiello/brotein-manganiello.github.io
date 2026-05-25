@@ -5282,7 +5282,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "PROMO",
+            "notes": "PROMO\n!group promo\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5949,7 +5949,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "phyunc\nMYRART\nMODAL\nVRTHS",
+            "notes": "!group viral\n!sort 01\nphyunc\nMYRART\nMODAL\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6041,7 +6041,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "phyoil\nFLYART\nhttps://i.pinimg.com/1200x/16/0e/d1/160ed1ea465beb91a4c9f0a638293892.jpg\nhttps://i.pinimg.com/1200x/16/3f/6a/163f6a13399432200cae7fe867bd1f8c.jpg\nWINGDING",
+            "notes": "!group imperator\n!sort 01\nphyoil\nFLYART\nhttps://i.pinimg.com/1200x/16/0e/d1/160ed1ea465beb91a4c9f0a638293892.jpg\nhttps://i.pinimg.com/1200x/16/3f/6a/163f6a13399432200cae7fe867bd1f8c.jpg\nWINGDING",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6133,7 +6133,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "newrare\nhttps://www.artstation.com/artwork/KJ33x",
+            "notes": "!group devices\n!sort 01\nnewrare\nhttps://www.artstation.com/artwork/KJ33x",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6156,7 +6156,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "extra combat-cant attack you\nartifact 2 less-nonartifact 2 more\ncreate token-cant create token (issue: mondrak, moved to jin)\nCROWN\nVRTHS\npraetors should evoke STRONG feelings. divisive is ok. they should feel just a little quite NOT allowed.",
+            "notes": "!group praetor\n!sort 01\nextra combat-cant attack you\nartifact 2 less-nonartifact 2 more\ncreate token-cant create token (issue: mondrak, moved to jin)\nCROWN\nVRTHS\npraetors should evoke STRONG feelings. divisive is ok. they should feel just a little quite NOT allowed.",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6754,7 +6754,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "phyunc\nVRTHS",
+            "notes": "!group viral\n!sort 02\nphyunc\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6915,7 +6915,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "Cycle\nphyoil\nVRTHS",
+            "notes": "!group imperator\n!sort 02\nCycle\nphyoil\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7053,7 +7053,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "newrare\nhttps://jamespaickart.artstation.com/projects/8bmkG",
+            "notes": "!group devices\n!sort 02\nnewrare\nhttps://jamespaickart.artstation.com/projects/8bmkG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7076,7 +7076,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "too similar to Sheoldred (add draw step/no draw extra)\ntoo similar to Teferi, Mage of Zhalfir (flash/sorc only)\nCROWN\nVRTHS",
+            "notes": "!group praetor\n!sort 02\ntoo similar to Sheoldred (add draw step/no draw extra)\ntoo similar to Teferi, Mage of Zhalfir (flash/sorc only)\nCROWN\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7697,7 +7697,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "phyunc\nVRTHS",
+            "notes": "!group viral\n!sort 03\nphyunc\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7881,7 +7881,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "phyoil\nYannis Colas",
+            "notes": "!group imperator\n!sort 03\nphyoil\nYannis Colas",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7973,7 +7973,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "newrare\nalt P\u00e4r Olofsson\ncontagion",
+            "notes": "!group devices\n!sort 03\nnewrare\nalt P\u00e4r Olofsson\ncontagion",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7996,7 +7996,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "CROWN\nalt Muhammad Rafi\nVRTHS",
+            "notes": "!group praetor\n!sort 03\nCROWN\nalt Muhammad Rafi\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8709,7 +8709,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": "phyunc\nclinic\nVRTHS\nhttps://i.pinimg.com/1200x/b3/74/fd/b374fd106ba16dad15bb2c0e12cb11ae.jpg",
+            "notes": "!group viral\n!sort 04\nphyunc\nclinic\nVRTHS\nhttps://i.pinimg.com/1200x/b3/74/fd/b374fd106ba16dad15bb2c0e12cb11ae.jpg",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8824,7 +8824,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "phyoil\nclinic\nobsidian\nhttps://www.artstation.com/artwork/3NJng\nhttps://i.pinimg.com/1200x/a7/a4/d3/a7a4d39b22c1a7af0d246dc5b447d72e.jpg\nhttps://i.pinimg.com/1200x/c2/5e/43/c25e43bb712b4d2442a4c6584488c28e.jpg\nhttps://jp.pinterest.com/pin/666814288618492185/\nhttps://www.deviantart.com/vidagr/art/Firelord-213934171\nhttps://www.deviantart.com/tomaszmrozinski/art/Fire-Colossus-211007239\nhttps://www.deviantart.com/kevin-glint/art/Cross-the-Ages-Baram-Alt-951991176\nVRTHS",
+            "notes": "!group imperator\n!sort 04\nphyoil\nclinic\nobsidian\nhttps://www.artstation.com/artwork/3NJng\nhttps://i.pinimg.com/1200x/a7/a4/d3/a7a4d39b22c1a7af0d246dc5b447d72e.jpg\nhttps://i.pinimg.com/1200x/c2/5e/43/c25e43bb712b4d2442a4c6584488c28e.jpg\nhttps://jp.pinterest.com/pin/666814288618492185/\nhttps://www.deviantart.com/vidagr/art/Firelord-213934171\nhttps://www.deviantart.com/tomaszmrozinski/art/Fire-Colossus-211007239\nhttps://www.deviantart.com/kevin-glint/art/Cross-the-Ages-Baram-Alt-951991176\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8893,7 +8893,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "newrare\nalt https://ph.pinterest.com/pin/524106475408131217/\nalt https://www.danseagrave.com/project_images/cover33_lead.JPG\nhttps://mgartworks.myportfolio.com/work\nhttps://static.wikia.nocookie.net/wowpedia/images/6/67/Firelands_Artwork_2.jpg/revision/latest/scale-to-width-down/1000?cb=20210531171941",
+            "notes": "!group devices\n!sort 04\nnewrare\nalt https://ph.pinterest.com/pin/524106475408131217/\nalt https://www.danseagrave.com/project_images/cover33_lead.JPG\nhttps://mgartworks.myportfolio.com/work\nhttps://static.wikia.nocookie.net/wowpedia/images/6/67/Firelands_Artwork_2.jpg/revision/latest/scale-to-width-down/1000?cb=20210531171941",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8916,7 +8916,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "CROWN\nclinic\nalt sitoni42\nalt https://images.squarespace-cdn.com/content/v1/5c76bcd990f90464d7970263/38900054-a192-49bb-9e9c-f7a094855945/ONE+-+Urabrask%27s+Throne+-+Jose+Vega.jpeg?format=500w",
+            "notes": "!group praetor\n!sort 04\nCROWN\nclinic\nalt sitoni42\nalt https://images.squarespace-cdn.com/content/v1/5c76bcd990f90464d7970263/38900054-a192-49bb-9e9c-f7a094855945/ONE+-+Urabrask%27s+Throne+-+Jose+Vega.jpeg?format=500w",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9583,7 +9583,7 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": "phyunc\nCOMBATTRICK\nVRTHS",
+            "notes": "!group viral\n!sort 05\nphyunc\nCOMBATTRICK\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9721,7 +9721,7 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": "phyoil\nPeter Nicholas Nodiff\nhttps://www.pixiv.net/en/artworks/23617391",
+            "notes": "!group imperator\n!sort 05\nphyoil\nPeter Nicholas Nodiff\nhttps://www.pixiv.net/en/artworks/23617391",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9802,7 +9802,7 @@
             "number": 188,
             "color_identity": "G",
             "cost": "{2}{GP}",
-            "rules_text": "[i]({GP} can be paid with {G} or 2 life.)[/i]\nWhenever a permanent you control enters tapped, untap it.\n{T}: You may put a land card from your hand onto the battlefield.",
+            "rules_text": "[i]({GP} can be paid with {G} or 2 life.)[/i]\nWhenever a land you control enters tapped, untap it.\n{T}: Untap target creature you control. Activate only as a sorcery and only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9813,7 +9813,7 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": "newrare",
+            "notes": "!group devices\n!sort 05\nnewrare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9836,7 +9836,7 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "CROWN",
+            "notes": "!group praetor\n!sort 05\nCROWN",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10411,7 +10411,7 @@
             "alias": "",
             "position": "223",
             "rotated": false,
-            "notes": "https://www.deviantart.com/a-u-r-e-l/art/Endless-Space-Cravers-defeate-348850036",
+            "notes": "!group mutilant\n!sort 01\nhttps://www.deviantart.com/a-u-r-e-l/art/Endless-Space-Cravers-defeate-348850036",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10434,7 +10434,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "FLYART\nWINGDING",
+            "notes": "!group mutilant\n!sort 02\nFLYART\nWINGDING",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10457,7 +10457,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "",
+            "notes": "!group mutilant\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10480,7 +10480,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "",
+            "notes": "!group mutilant\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10503,7 +10503,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": "",
+            "notes": "!group mutilant\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11833,11 +11833,11 @@
             "shape": "normal",
             "set": "DNP",
             "loyalty": "",
-            "artist": "Leon Tukker",
+            "artist": "David Levy",
             "alias": "",
             "position": "285",
             "rotated": false,
-            "notes": "alt Decepticoin",
+            "notes": "alt Decepticoin\nhttps://www.artstation.com/artwork/XaL4Y?utm_source=Pinterest&utm_medium=organic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12113,7 +12113,7 @@
             "alias": "",
             "position": "297",
             "rotated": false,
-            "notes": "!exportname Sheoldred, Praetor of Secrets-P",
+            "notes": "!exportname Sheoldred, Praetor of Secrets-P\n!group promo\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },

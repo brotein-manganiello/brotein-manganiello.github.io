@@ -1,0 +1,4145 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Atraxa, Perfect Synthesis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Phyrexian Angel",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/0.png"
+			}
+		},
+		{
+			"name": "Flayer Drone",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Phyrexian Drone",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/1.png"
+			}
+		},
+		{
+			"name": "Merciless Lacerator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/2.png"
+			}
+		},
+		{
+			"name": "Puresteel Myr",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Myr",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/3.png"
+			}
+		},
+		{
+			"name": "Auriok Militia Captain",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/4.png"
+			}
+		},
+		{
+			"name": "Marrow Raptor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Bird",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/5.png"
+			}
+		},
+		{
+			"name": "Norn's Dogmatist",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Human Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/6.png"
+			}
+		},
+		{
+			"name": "Fallen Shikari",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Cat Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/7.png"
+			}
+		},
+		{
+			"name": "Apostles of Perfection",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Phyrexian Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/8.png"
+			}
+		},
+		{
+			"name": "Sutured Retriever",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Phyrexian Dog",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/9.png"
+			}
+		},
+		{
+			"name": "Taj-Nar Hippogriff",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Hippogriff",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/10.png"
+			}
+		},
+		{
+			"name": "Bladehold Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/11.png"
+			}
+		},
+		{
+			"name": "Elspeth's Inspiration",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/12.png"
+			}
+		},
+		{
+			"name": "Shut Down",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/13.png"
+			}
+		},
+		{
+			"name": "Cenobite's Decree",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/14.png"
+			}
+		},
+		{
+			"name": "Unrig the Unworthy",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/15.png"
+			}
+		},
+		{
+			"name": "Accorder's Sledge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/16.png"
+			}
+		},
+		{
+			"name": "Leonin Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/17.png"
+			}
+		},
+		{
+			"name": "Shrieking Shrike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Phyrexian Bird",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/18.png"
+			}
+		},
+		{
+			"name": "Porcelain Prelate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/19.png"
+			}
+		},
+		{
+			"name": "Annex Intercessor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/20.png"
+			}
+		},
+		{
+			"name": "Splicer's Opus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/21.png"
+			}
+		},
+		{
+			"name": "Argent Anointer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Phyrexian Artificer",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/22.png"
+			}
+		},
+		{
+			"name": "Loxodon War Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/23.png"
+			}
+		},
+		{
+			"name": "Disgraced Accorder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Phyrexian Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/24.png"
+			}
+		},
+		{
+			"name": "Envoy of the Orthodoxy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Phyrexian Angel",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/25.png"
+			}
+		},
+		{
+			"name": "Compleation",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/26.png"
+			}
+		},
+		{
+			"name": "Blessed by Phyrexia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/27.png"
+			}
+		},
+		{
+			"name": "Syphon Sinew",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/28.png"
+			}
+		},
+		{
+			"name": "Viral Incursion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W/P}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/29.png"
+			}
+		},
+		{
+			"name": "Cartilage Golem",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/30.png"
+			}
+		},
+		{
+			"name": "Enduring Edgewright",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/31.png"
+			}
+		},
+		{
+			"name": "Ria Ivor, Porcelain Paladin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Phyrexian Knight",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/32.png"
+			}
+		},
+		{
+			"name": "Consecrated Imperator",
+			"rarity": "rare",
+			"mana_cost": "{4}{W/P}{W/P}",
+			"type": "Artifact Creature — Phyrexian Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/33.png"
+			}
+		},
+		{
+			"name": "Banisher's Battle-Axe",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/34.png"
+			}
+		},
+		{
+			"name": "Planar Purge",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/35.png"
+			}
+		},
+		{
+			"name": "White Sun's Lacuna",
+			"rarity": "rare",
+			"mana_cost": "{8}{W}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/36.png"
+			}
+		},
+		{
+			"name": "Subjugator's Stylus",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/P}",
+			"type": "Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/37.png"
+			}
+		},
+		{
+			"name": "Elesh Norn, Praetor of Unity",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/38.png"
+			}
+		},
+		{
+			"name": "Porcelain Avenger",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Phyrexian Angel",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/39.png"
+			}
+		},
+		{
+			"name": "Elspeth, Honor Bound",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Elspeth",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/40.png"
+			}
+		},
+		{
+			"name": "Vedalken Vat-Priest",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Phyrexian Vedalken Cleric",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/41.png"
+			}
+		},
+		{
+			"name": "Nimbulox",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish Beast",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/42.png"
+			}
+		},
+		{
+			"name": "Burrowing Brainfluke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Phyrexian Worm",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/43.png"
+			}
+		},
+		{
+			"name": "Telchor Cerebrophyte",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Phyrexian Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/44.png"
+			}
+		},
+		{
+			"name": "Gitaxian Scrutinizer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/45.png"
+			}
+		},
+		{
+			"name": "Serum Servitor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Phyrexian Human Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/46.png"
+			}
+		},
+		{
+			"name": "Neurok Escort",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/47.png"
+			}
+		},
+		{
+			"name": "Contaminator Drake",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Phyrexian Drake",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/48.png"
+			}
+		},
+		{
+			"name": "Aetherskite",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Phyrexian Horror",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/49.png"
+			}
+		},
+		{
+			"name": "Lumengrid Skimmer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/50.png"
+			}
+		},
+		{
+			"name": "Tune the Narrative",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/51.png"
+			}
+		},
+		{
+			"name": "Synaptic Collapse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/52.png"
+			}
+		},
+		{
+			"name": "Shielding Protocol",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/53.png"
+			}
+		},
+		{
+			"name": "Forced Incubation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/54.png"
+			}
+		},
+		{
+			"name": "Ichor Squall",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/55.png"
+			}
+		},
+		{
+			"name": "Surgical Intrusion",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/56.png"
+			}
+		},
+		{
+			"name": "Thought Parasite",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Phyrexian Horror",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/57.png"
+			}
+		},
+		{
+			"name": "Meldweb Metatect",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Phyrexian Artificer",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/58.png"
+			}
+		},
+		{
+			"name": "Hovering Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/59.png"
+			}
+		},
+		{
+			"name": "Mercurial Entity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/60.png"
+			}
+		},
+		{
+			"name": "Progressor Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Phyrexian Horror",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/61.png"
+			}
+		},
+		{
+			"name": "Cryogenus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/62.png"
+			}
+		},
+		{
+			"name": "Pontiff of Phyresis",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/63.png"
+			}
+		},
+		{
+			"name": "Viral Diffusion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/P}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/64.png"
+			}
+		},
+		{
+			"name": "Praetor's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/65.png"
+			}
+		},
+		{
+			"name": "Malcator's Droneyard",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/66.png"
+			}
+		},
+		{
+			"name": "Countercharge",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/67.png"
+			}
+		},
+		{
+			"name": "Synthesize",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/68.png"
+			}
+		},
+		{
+			"name": "Psychic Recall",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/69.png"
+			}
+		},
+		{
+			"name": "Quicksilver Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/70.png"
+			}
+		},
+		{
+			"name": "Surgical Imperator",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/P}{U/P}",
+			"type": "Artifact Creature — Phyrexian Cleric",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/71.png"
+			}
+		},
+		{
+			"name": "Chronoplasm",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/72.png"
+			}
+		},
+		{
+			"name": "Vedalken Panopticon",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/73.png"
+			}
+		},
+		{
+			"name": "Mass Bifurcation",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/74.png"
+			}
+		},
+		{
+			"name": "Memory Harvest",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/75.png"
+			}
+		},
+		{
+			"name": "Blue Sun's Lacuna",
+			"rarity": "rare",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/76.png"
+			}
+		},
+		{
+			"name": "Augur's Atrium",
+			"rarity": "rare",
+			"mana_cost": "{5}{U/P}",
+			"type": "Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/77.png"
+			}
+		},
+		{
+			"name": "Jin-Gitaxias, Praetor of Synthesis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/78.png"
+			}
+		},
+		{
+			"name": "Arbiters of Progress",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Phyrexian Vedalken",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/79.png"
+			}
+		},
+		{
+			"name": "Neurosphinx",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Phyrexian Sphinx",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/80.png"
+			}
+		},
+		{
+			"name": "Salvage Myr",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/81.png"
+			}
+		},
+		{
+			"name": "Necrogen Skirge",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Phyrexian Imp",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/82.png"
+			}
+		},
+		{
+			"name": "Grimnarch Sermonist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/83.png"
+			}
+		},
+		{
+			"name": "Dross Surveyor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/84.png"
+			}
+		},
+		{
+			"name": "Geth's Silencer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Phyrexian Human Assassin",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/85.png"
+			}
+		},
+		{
+			"name": "Myr Scrapseeker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/86.png"
+			}
+		},
+		{
+			"name": "Bleak Coven Glistener",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Phyrexian Vampire",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/87.png"
+			}
+		},
+		{
+			"name": "Chittering Vat-Nurse",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Phyrexian Insect",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/88.png"
+			}
+		},
+		{
+			"name": "Clatterwurm",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Phyrexian Skeleton Wurm",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/89.png"
+			}
+		},
+		{
+			"name": "Ichor Hulk",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/90.png"
+			}
+		},
+		{
+			"name": "Mephidross Gargantua",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/91.png"
+			}
+		},
+		{
+			"name": "Abscise",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/92.png"
+			}
+		},
+		{
+			"name": "Bellow of Undeath",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/93.png"
+			}
+		},
+		{
+			"name": "Caustic Turbines",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/94.png"
+			}
+		},
+		{
+			"name": "Sinister Recollection",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/95.png"
+			}
+		},
+		{
+			"name": "Succumb to the Dross",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/96.png"
+			}
+		},
+		{
+			"name": "Abyssal Myr",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/97.png"
+			}
+		},
+		{
+			"name": "Dread Mongrels",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Phyrexian Zombie Dog",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/98.png"
+			}
+		},
+		{
+			"name": "Liege of Ish Sah",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Phyrexian Knight",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/99.png"
+			}
+		},
+		{
+			"name": "Exterminator Exarch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/100.png"
+			}
+		},
+		{
+			"name": "Fume Belcher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/101.png"
+			}
+		},
+		{
+			"name": "Steward of Corrosion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/102.png"
+			}
+		},
+		{
+			"name": "Chimney Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Phyrexian Zombie Drake",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/103.png"
+			}
+		},
+		{
+			"name": "Gore Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/104.png"
+			}
+		},
+		{
+			"name": "Viral Awakening",
+			"rarity": "uncommon",
+			"mana_cost": "{B/P}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/105.png"
+			}
+		},
+		{
+			"name": "Pitiless Betrayal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/106.png"
+			}
+		},
+		{
+			"name": "Malevolent Embrace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/107.png"
+			}
+		},
+		{
+			"name": "Lethal Intent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/108.png"
+			}
+		},
+		{
+			"name": "Tower of Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/109.png"
+			}
+		},
+		{
+			"name": "Cranial Clamp",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/110.png"
+			}
+		},
+		{
+			"name": "Zealot of the Vault",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Phyrexian Human Cleric",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/111.png"
+			}
+		},
+		{
+			"name": "Flagellator Fiend",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Phyrexian Demon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/112.png"
+			}
+		},
+		{
+			"name": "Mephitic Imperator",
+			"rarity": "rare",
+			"mana_cost": "{4}{B/P}{B/P}",
+			"type": "Artifact Creature — Phyrexian Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/113.png"
+			}
+		},
+		{
+			"name": "Orb of the Nim",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/114.png"
+			}
+		},
+		{
+			"name": "Suffocating Plague",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/115.png"
+			}
+		},
+		{
+			"name": "Black Sun's Lacuna",
+			"rarity": "rare",
+			"mana_cost": "{8}{B}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/116.png"
+			}
+		},
+		{
+			"name": "Tormentor's Apparatus",
+			"rarity": "rare",
+			"mana_cost": "{4}{B/P}",
+			"type": "Artifact",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/117.png"
+			}
+		},
+		{
+			"name": "Sheoldred, Praetor of Secrets",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/118.png"
+			}
+		},
+		{
+			"name": "Azax-Azog, the Demon Thane",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/119.png"
+			}
+		},
+		{
+			"name": "Phyrexian Eradicator",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}{B}{B}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/120.png"
+			}
+		},
+		{
+			"name": "Slag Newt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Phyrexian Salamander",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/121.png"
+			}
+		},
+		{
+			"name": "Kiln Swimmer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/122.png"
+			}
+		},
+		{
+			"name": "Koth's Adherent",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/123.png"
+			}
+		},
+		{
+			"name": "Corrupted Lavaspeaker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Phyrexian Human Sorcerer",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/124.png"
+			}
+		},
+		{
+			"name": "Forge Boss",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/125.png"
+			}
+		},
+		{
+			"name": "Ironclaw Ogre",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phyrexian Ogre",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/126.png"
+			}
+		},
+		{
+			"name": "Phyrexiatog",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phyrexian Atog",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/127.png"
+			}
+		},
+		{
+			"name": "Scoria Stomper",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/128.png"
+			}
+		},
+		{
+			"name": "Ignition Golem",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/129.png"
+			}
+		},
+		{
+			"name": "Furnace Overseer",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/130.png"
+			}
+		},
+		{
+			"name": "Ire of Kuldotha",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/131.png"
+			}
+		},
+		{
+			"name": "Melting Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/132.png"
+			}
+		},
+		{
+			"name": "Volcanic Greaves",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/133.png"
+			}
+		},
+		{
+			"name": "Electric Surge",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/134.png"
+			}
+		},
+		{
+			"name": "Toll of Industry",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/135.png"
+			}
+		},
+		{
+			"name": "Furnace Blast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/136.png"
+			}
+		},
+		{
+			"name": "Spikegrabber",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Phyrexian Goblin",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/137.png"
+			}
+		},
+		{
+			"name": "Ore-Miner Viron",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Phyrexian Insect",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/138.png"
+			}
+		},
+		{
+			"name": "Signal Spitter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Myr",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/139.png"
+			}
+		},
+		{
+			"name": "Goblin Melee Master",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/140.png"
+			}
+		},
+		{
+			"name": "Hazard Stoker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phyrexian Artificer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/141.png"
+			}
+		},
+		{
+			"name": "Urabrask's Bombarder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Phyrexian Wizard",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/142.png"
+			}
+		},
+		{
+			"name": "Cremator Amalgam",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Phyrexian Horror",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/143.png"
+			}
+		},
+		{
+			"name": "Artery Smasher",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/144.png"
+			}
+		},
+		{
+			"name": "Whipflare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/145.png"
+			}
+		},
+		{
+			"name": "Trifold Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/146.png"
+			}
+		},
+		{
+			"name": "Immolate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/147.png"
+			}
+		},
+		{
+			"name": "Insatiable Kiln",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/148.png"
+			}
+		},
+		{
+			"name": "Viral Crescendo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/P}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/149.png"
+			}
+		},
+		{
+			"name": "Strife Conductor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Phyrexian Wizard",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/150.png"
+			}
+		},
+		{
+			"name": "Oxidda Firehawk",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/151.png"
+			}
+		},
+		{
+			"name": "Harg, Krark-Clan Explodineer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/152.png"
+			}
+		},
+		{
+			"name": "Meltslagger",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/153.png"
+			}
+		},
+		{
+			"name": "Volatile Imperator",
+			"rarity": "rare",
+			"mana_cost": "{4}{R/P}{R/P}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/154.png"
+			}
+		},
+		{
+			"name": "Draconic Hypothesis",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/155.png"
+			}
+		},
+		{
+			"name": "Red Sun's Lacuna",
+			"rarity": "rare",
+			"mana_cost": "{8}{R}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/156.png"
+			}
+		},
+		{
+			"name": "Combustor's Crucible",
+			"rarity": "rare",
+			"mana_cost": "{3}{R/P}",
+			"type": "Artifact",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/157.png"
+			}
+		},
+		{
+			"name": "Urabrask, Praetor of Defiance",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/158.png"
+			}
+		},
+		{
+			"name": "Koth, Scars of Mirrodin",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Planeswalker — Koth",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/159.png"
+			}
+		},
+		{
+			"name": "Chiss-Goria's Incinerator",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/160.png"
+			}
+		},
+		{
+			"name": "Viridian Emissary",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Phyrexian Elf Scout",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/161.png"
+			}
+		},
+		{
+			"name": "Vatborn Digester",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/162.png"
+			}
+		},
+		{
+			"name": "Herald of the Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/163.png"
+			}
+		},
+		{
+			"name": "Bronzewidow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Phyrexian Spider",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/164.png"
+			}
+		},
+		{
+			"name": "Gutripper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Phyrexian Beast",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/165.png"
+			}
+		},
+		{
+			"name": "Injector Nettle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Phyrexian Plant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/166.png"
+			}
+		},
+		{
+			"name": "Venomous Hierophant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Phyrexian Cleric",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/167.png"
+			}
+		},
+		{
+			"name": "Lattice Predator",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Phyexian Beast",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/168.png"
+			}
+		},
+		{
+			"name": "Copperhide Vorrac",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Boar Beast",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/169.png"
+			}
+		},
+		{
+			"name": "Tanglespoiler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Phyrexian Elemental",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/170.png"
+			}
+		},
+		{
+			"name": "Savage Carnogore",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/171.png"
+			}
+		},
+		{
+			"name": "Gift of Phyrexia",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/172.png"
+			}
+		},
+		{
+			"name": "Indomitable Blow",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/173.png"
+			}
+		},
+		{
+			"name": "Ravenous Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/174.png"
+			}
+		},
+		{
+			"name": "Hunter's Habitat",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/175.png"
+			}
+		},
+		{
+			"name": "Pestilent Barrage",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/176.png"
+			}
+		},
+		{
+			"name": "Tel-Jilad Slime",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Phyrexian Ooze",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/177.png"
+			}
+		},
+		{
+			"name": "Serum Centurion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Phyrexian Warrior",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/178.png"
+			}
+		},
+		{
+			"name": "Swarm Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Phyrexian Beast",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/179.png"
+			}
+		},
+		{
+			"name": "Acidophage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Phyrexian Insect",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/180.png"
+			}
+		},
+		{
+			"name": "Priest of Vorinclex",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/181.png"
+			}
+		},
+		{
+			"name": "Fourth-Sphere Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Phyrexian Knight",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/182.png"
+			}
+		},
+		{
+			"name": "Plague Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Phyrexian Wurm",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/183.png"
+			}
+		},
+		{
+			"name": "Pinnacle of Might",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/184.png"
+			}
+		},
+		{
+			"name": "Sundered Horizons",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/185.png"
+			}
+		},
+		{
+			"name": "Sinuous Hive",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/186.png"
+			}
+		},
+		{
+			"name": "Viral Muscularity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/P}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/187.png"
+			}
+		},
+		{
+			"name": "Layershaping",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/188.png"
+			}
+		},
+		{
+			"name": "Superlatively Massive",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/189.png"
+			}
+		},
+		{
+			"name": "Glistener Herald",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Phyrexian Elf Warrior",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/190.png"
+			}
+		},
+		{
+			"name": "Tanglecord Witness",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad Shaman",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/191.png"
+			}
+		},
+		{
+			"name": "Hungering Maw",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Phyrexian Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/192.png"
+			}
+		},
+		{
+			"name": "Monstrous Imperator",
+			"rarity": "rare",
+			"mana_cost": "{5}{G/P}{G/P}",
+			"type": "Artifact Creature — Phyrexian Wurm",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/193.png"
+			}
+		},
+		{
+			"name": "Alphamorphosis",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/194.png"
+			}
+		},
+		{
+			"name": "Green Sun's Lacuna",
+			"rarity": "rare",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/195.png"
+			}
+		},
+		{
+			"name": "Sylvan Rhapsody",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/196.png"
+			}
+		},
+		{
+			"name": "Sporesinger's Lung",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/P}",
+			"type": "Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/197.png"
+			}
+		},
+		{
+			"name": "Vorinclex, Praetor of Evolution",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/198.png"
+			}
+		},
+		{
+			"name": "Omega Tyrranax",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Phyrexian Dinosaur",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/199.png"
+			}
+		},
+		{
+			"name": "Dawn on New Phyrexia",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/200.png"
+			}
+		},
+		{
+			"name": "Seraph of Propagation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Phyrexian Angel",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/201.png"
+			}
+		},
+		{
+			"name": "Gitaxian Dissectorium",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/202.png"
+			}
+		},
+		{
+			"name": "Ingot Monitor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact Creature — Phyrexian Artificer",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/203.png"
+			}
+		},
+		{
+			"name": "Bringer Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Bringer",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/204.png"
+			}
+		},
+		{
+			"name": "Razorverge Suturist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/205.png"
+			}
+		},
+		{
+			"name": "Ichor Slasher",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/206.png"
+			}
+		},
+		{
+			"name": "Ovika's Galvanizer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Phyrexian",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/207.png"
+			}
+		},
+		{
+			"name": "Temple Might Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Phyrexian Horror Druid",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/208.png"
+			}
+		},
+		{
+			"name": "Accorder Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/209.png"
+			}
+		},
+		{
+			"name": "Engineered Skystinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact Creature — Phyrexian Mutant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/210.png"
+			}
+		},
+		{
+			"name": "Solar Simulacrum",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/211.png"
+			}
+		},
+		{
+			"name": "Sarnvax, Excisor Exarch",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Artifact Creature — Phyrexian Cleric",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/212.png"
+			}
+		},
+		{
+			"name": "Syringophile",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact Creature — Phyrexian Mutant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/213.png"
+			}
+		},
+		{
+			"name": "Scrapmouth Menial",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Creature — Phyrexian Ogre",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/214.png"
+			}
+		},
+		{
+			"name": "Hunter Maze Goliath",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Phyrexian Beast",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/215.png"
+			}
+		},
+		{
+			"name": "Pathogen Evangel",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Phyrexian Druid Cleric",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/216.png"
+			}
+		},
+		{
+			"name": "Taj-Nar Traitor",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Phyrexian Cat Rogue",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/217.png"
+			}
+		},
+		{
+			"name": "Thunder Conger",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Fish",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/218.png"
+			}
+		},
+		{
+			"name": "Vat Spawner",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Phyrexian Horror",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/219.png"
+			}
+		},
+		{
+			"name": "Goldwarden's Scepter",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/220.png"
+			}
+		},
+		{
+			"name": "Master the Multiverse",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}{U}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/221.png"
+			}
+		},
+		{
+			"name": "Velir, Setter of Suns",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Velir",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/222.png"
+			}
+		},
+		{
+			"name": "Lidless Mutilant",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/223.png"
+			}
+		},
+		{
+			"name": "Winged Mutilant",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/224.png"
+			}
+		},
+		{
+			"name": "Septic Mutilant",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/225.png"
+			}
+		},
+		{
+			"name": "Incendiary Mutilant",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/226.png"
+			}
+		},
+		{
+			"name": "Brutal Mutilant",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/227.png"
+			}
+		},
+		{
+			"name": "Origin-Core Myr",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/228.png"
+			}
+		},
+		{
+			"name": "Wreckage Scrabbler",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/229.png"
+			}
+		},
+		{
+			"name": "Skin Cathedral Sentry",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Phyrexian Gargoyle",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/230.png"
+			}
+		},
+		{
+			"name": "Glistening Vat",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/231.png"
+			}
+		},
+		{
+			"name": "Invasion Seed",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/232.png"
+			}
+		},
+		{
+			"name": "Dross Grinder",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/233.png"
+			}
+		},
+		{
+			"name": "Zenith Pillar",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/234.png"
+			}
+		},
+		{
+			"name": "Hazard Core",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/235.png"
+			}
+		},
+		{
+			"name": "Ichor Wellspring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/236.png"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/237.png"
+			}
+		},
+		{
+			"name": "Bristling Barricade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/238.png"
+			}
+		},
+		{
+			"name": "Necrogen Foundry",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/239.png"
+			}
+		},
+		{
+			"name": "Moriok Saw",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/240.png"
+			}
+		},
+		{
+			"name": "Vulshok Flail",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/241.png"
+			}
+		},
+		{
+			"name": "Gilded Pinions",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/242.png"
+			}
+		},
+		{
+			"name": "Serum Myr",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/243.png"
+			}
+		},
+		{
+			"name": "Voltaic Hellkite",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Phyrexian Dragon",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/244.png"
+			}
+		},
+		{
+			"name": "Inert Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/245.png"
+			}
+		},
+		{
+			"name": "Germination Chamber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/246.png"
+			}
+		},
+		{
+			"name": "Thorn Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/247.png"
+			}
+		},
+		{
+			"name": "Cortex Kite",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/248.png"
+			}
+		},
+		{
+			"name": "Slaughter Pylon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/249.png"
+			}
+		},
+		{
+			"name": "Flenser Statue",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/250.png"
+			}
+		},
+		{
+			"name": "Solar Transformer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/251.png"
+			}
+		},
+		{
+			"name": "Portent Generators",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/252.png"
+			}
+		},
+		{
+			"name": "Smeltingworks",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/253.png"
+			}
+		},
+		{
+			"name": "Paradise Mantle",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/254.png"
+			}
+		},
+		{
+			"name": "Necromancer's Vestments",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/255.png"
+			}
+		},
+		{
+			"name": "Yoxir, Myr Ultimus",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Phyrexian Myr",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/256.png"
+			}
+		},
+		{
+			"name": "Torpor Golem",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Phyrexian Golem",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/257.png"
+			}
+		},
+		{
+			"name": "Basilica Devastator",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Phyrexian Dragon",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/258.png"
+			}
+		},
+		{
+			"name": "Festerhold Engine",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/259.png"
+			}
+		},
+		{
+			"name": "Gurgling Furnace",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/260.png"
+			}
+		},
+		{
+			"name": "Whispering Monument",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/261.png"
+			}
+		},
+		{
+			"name": "Iteration Pod",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/262.png"
+			}
+		},
+		{
+			"name": "Mycosynth Network",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/263.png"
+			}
+		},
+		{
+			"name": "Oscillatrix",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/264.png"
+			}
+		},
+		{
+			"name": "Imminence Coil",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/265.png"
+			}
+		},
+		{
+			"name": "Contagion Station",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/266.png"
+			}
+		},
+		{
+			"name": "Fulcrum of Tributes",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/267.png"
+			}
+		},
+		{
+			"name": "Vertebrace",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/268.png"
+			}
+		},
+		{
+			"name": "Phyrexian Patagia",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/269.png"
+			}
+		},
+		{
+			"name": "Puresteel Armaments",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/270.png"
+			}
+		},
+		{
+			"name": "Realmbreaker, Vector of the End",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/271.png"
+			}
+		},
+		{
+			"name": "Wurmcoil Hatchery",
+			"rarity": "mythic",
+			"mana_cost": "{9}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/272.png"
+			}
+		},
+		{
+			"name": "Dreadnought Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{12}",
+			"type": "Artifact Creature — Dreadnought Golem",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/273.png"
+			}
+		},
+		{
+			"name": "Flawless Clinic",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/274.png"
+			}
+		},
+		{
+			"name": "Effluvium Drains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/275.png"
+			}
+		},
+		{
+			"name": "Magmatic Vents",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/276.png"
+			}
+		},
+		{
+			"name": "Predation Zone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/277.png"
+			}
+		},
+		{
+			"name": "Barbed Weald",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/278.png"
+			}
+		},
+		{
+			"name": "Humming Cavity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/279.png"
+			}
+		},
+		{
+			"name": "Roiling Reservoir",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/280.png"
+			}
+		},
+		{
+			"name": "Noxious Turf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/281.png"
+			}
+		},
+		{
+			"name": "Slag Site",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/282.png"
+			}
+		},
+		{
+			"name": "Evolution Sector",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/283.png"
+			}
+		},
+		{
+			"name": "Scarred Terrain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/284.png"
+			}
+		},
+		{
+			"name": "The Propagation Theater",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/285.png"
+			}
+		},
+		{
+			"name": "The Dawning Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Sphere",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/286.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/287.png"
+			}
+		},
+		{
+			"name": "Plains 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/288.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/289.png"
+			}
+		},
+		{
+			"name": "Island 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/290.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/291.png"
+			}
+		},
+		{
+			"name": "Swamp 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/292.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/293.png"
+			}
+		},
+		{
+			"name": "Mountain 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/294.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/295.png"
+			}
+		},
+		{
+			"name": "Forest 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/296.png"
+			}
+		},
+		{
+			"name": "Sheoldred, Praetor of Secrets-P",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature Phyrexian Praetor",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/297.png"
+			}
+		},
+		{
+			"name": "Energy Reserve",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/298.png"
+			}
+		},
+		{
+			"name": "Phyrexian",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/299.png"
+			}
+		},
+		{
+			"name": "Phyrexian Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/300.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/301.png"
+			}
+		},
+		{
+			"name": "Phyrexian Drone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Drone",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/302.png"
+			}
+		},
+		{
+			"name": "Phyrexian Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Demon",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/303.png"
+			}
+		},
+		{
+			"name": "Phyrexian Germ",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Germ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/304.png"
+			}
+		},
+		{
+			"name": "Phyrexian Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Zombie",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/305.png"
+			}
+		},
+		{
+			"name": "Phyrexian Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Dragon",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/306.png"
+			}
+		},
+		{
+			"name": "Phyrexian Goblin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Goblin",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/307.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/308.png"
+			}
+		},
+		{
+			"name": "Phyrexian Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Beast",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/309.png"
+			}
+		},
+		{
+			"name": "Bringer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bringer",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/310.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/311.png"
+			}
+		},
+		{
+			"name": "Extractor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Extractor",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/312.png"
+			}
+		},
+		{
+			"name": "Phyrexian Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Golem",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/313.png"
+			}
+		},
+		{
+			"name": "Phyrexian Myr",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Myr",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/314.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/315.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Atraxa, Perfect Synthesis
+	2 Cartilage Golem
+	2 Enduring Edgewright
+	2 Ria Ivor, Porcelain Paladin
+	2 Consecrated Imperator
+	2 Banisher's Battle-Axe
+	2 Planar Purge
+	2 White Sun's Lacuna
+	2 Subjugator's Stylus
+	1 Elesh Norn, Praetor of Unity
+	1 Porcelain Avenger
+	1 Elspeth, Honor Bound
+	2 Quicksilver Prodigy
+	2 Surgical Imperator
+	2 Chronoplasm
+	2 Vedalken Panopticon
+	2 Mass Bifurcation
+	2 Memory Harvest
+	2 Blue Sun's Lacuna
+	2 Augur's Atrium
+	1 Jin-Gitaxias, Praetor of Synthesis
+	1 Arbiters of Progress
+	1 Neurosphinx
+	2 Cranial Clamp
+	2 Zealot of the Vault
+	2 Flagellator Fiend
+	2 Mephitic Imperator
+	2 Orb of the Nim
+	2 Suffocating Plague
+	2 Black Sun's Lacuna
+	2 Tormentor's Apparatus
+	1 Sheoldred, Praetor of Secrets
+	1 Azax-Azog, the Demon Thane
+	1 Phyrexian Eradicator
+	2 Strife Conductor
+	2 Oxidda Firehawk
+	2 Harg, Krark-Clan Explodineer
+	2 Meltslagger
+	2 Volatile Imperator
+	2 Draconic Hypothesis
+	2 Red Sun's Lacuna
+	2 Combustor's Crucible
+	1 Urabrask, Praetor of Defiance
+	1 Koth, Scars of Mirrodin
+	1 Chiss-Goria's Incinerator
+	2 Glistener Herald
+	2 Tanglecord Witness
+	2 Hungering Maw
+	2 Monstrous Imperator
+	2 Alphamorphosis
+	2 Green Sun's Lacuna
+	2 Sylvan Rhapsody
+	2 Sporesinger's Lung
+	1 Vorinclex, Praetor of Evolution
+	1 Omega Tyrranax
+	1 Dawn on New Phyrexia
+	2 Sarnvax, Excisor Exarch
+	2 Syringophile
+	2 Scrapmouth Menial
+	2 Hunter Maze Goliath
+	2 Pathogen Evangel
+	2 Taj-Nar Traitor
+	2 Thunder Conger
+	2 Vat Spawner
+	2 Goldwarden's Scepter
+	2 Master the Multiverse
+	1 Velir, Setter of Suns
+	2 Yoxir, Myr Ultimus
+	2 Torpor Golem
+	2 Basilica Devastator
+	2 Festerhold Engine
+	2 Gurgling Furnace
+	2 Whispering Monument
+	2 Iteration Pod
+	2 Mycosynth Network
+	2 Oscillatrix
+	2 Imminence Coil
+	2 Contagion Station
+	2 Fulcrum of Tributes
+	2 Vertebrace
+	2 Phyrexian Patagia
+	1 Puresteel Armaments
+	1 Realmbreaker, Vector of the End
+	1 Wurmcoil Hatchery
+	1 Dreadnought Colossus
+	2 The Dawning Nexus
+	1 Sheoldred, Praetor of Secrets-P
+[uncommon(3)]
+	4 Leonin Tactician
+	4 Shrieking Shrike
+	4 Porcelain Prelate
+	4 Annex Intercessor
+	4 Splicer's Opus
+	4 Argent Anointer
+	4 Loxodon War Marshal
+	4 Disgraced Accorder
+	4 Envoy of the Orthodoxy
+	4 Compleation
+	4 Blessed by Phyrexia
+	4 Syphon Sinew
+	4 Viral Incursion
+	4 Thought Parasite
+	4 Meldweb Metatect
+	4 Hovering Observer
+	4 Mercurial Entity
+	4 Progressor Tyrant
+	4 Cryogenus
+	4 Pontiff of Phyresis
+	4 Viral Diffusion
+	4 Praetor's Influence
+	4 Malcator's Droneyard
+	4 Countercharge
+	4 Synthesize
+	4 Psychic Recall
+	4 Abyssal Myr
+	4 Dread Mongrels
+	4 Liege of Ish Sah
+	4 Exterminator Exarch
+	4 Fume Belcher
+	4 Steward of Corrosion
+	4 Chimney Drake
+	4 Gore Altar
+	4 Viral Awakening
+	4 Pitiless Betrayal
+	4 Malevolent Embrace
+	4 Lethal Intent
+	4 Tower of Souls
+	4 Spikegrabber
+	4 Ore-Miner Viron
+	4 Signal Spitter
+	4 Goblin Melee Master
+	4 Hazard Stoker
+	4 Urabrask's Bombarder
+	4 Cremator Amalgam
+	4 Artery Smasher
+	4 Whipflare
+	4 Trifold Chaos
+	4 Immolate
+	4 Insatiable Kiln
+	4 Viral Crescendo
+	4 Tel-Jilad Slime
+	4 Serum Centurion
+	4 Swarm Prowler
+	4 Acidophage
+	4 Priest of Vorinclex
+	4 Fourth-Sphere Paladin
+	4 Plague Crusher
+	4 Pinnacle of Might
+	4 Sundered Horizons
+	4 Sinuous Hive
+	4 Viral Muscularity
+	4 Layershaping
+	4 Superlatively Massive
+	4 Seraph of Propagation
+	4 Gitaxian Dissectorium
+	4 Ingot Monitor
+	4 Bringer Remnant
+	4 Razorverge Suturist
+	4 Ichor Slasher
+	4 Ovika's Galvanizer
+	4 Temple Might Acolyte
+	4 Accorder Elite
+	4 Engineered Skystinger
+	4 Solar Simulacrum
+	4 Serum Myr
+	4 Voltaic Hellkite
+	4 Inert Colossus
+	4 Germination Chamber
+	4 Thorn Fortress
+	4 Cortex Kite
+	4 Slaughter Pylon
+	4 Flenser Statue
+	4 Solar Transformer
+	4 Portent Generators
+	4 Smeltingworks
+	4 Paradise Mantle
+	4 Necromancer's Vestments
+	4 The Propagation Theater
+[common(6)]
+	8 Flayer Drone
+	8 Merciless Lacerator
+	8 Puresteel Myr
+	8 Auriok Militia Captain
+	8 Marrow Raptor
+	8 Norn's Dogmatist
+	8 Fallen Shikari
+	8 Apostles of Perfection
+	8 Sutured Retriever
+	8 Taj-Nar Hippogriff
+	8 Bladehold Guardian
+	8 Elspeth's Inspiration
+	8 Shut Down
+	8 Cenobite's Decree
+	8 Unrig the Unworthy
+	8 Accorder's Sledge
+	8 Vedalken Vat-Priest
+	8 Nimbulox
+	8 Burrowing Brainfluke
+	8 Telchor Cerebrophyte
+	8 Gitaxian Scrutinizer
+	8 Serum Servitor
+	8 Neurok Escort
+	8 Contaminator Drake
+	8 Aetherskite
+	8 Lumengrid Skimmer
+	8 Tune the Narrative
+	8 Synaptic Collapse
+	8 Shielding Protocol
+	8 Forced Incubation
+	8 Ichor Squall
+	8 Surgical Intrusion
+	8 Salvage Myr
+	8 Necrogen Skirge
+	8 Grimnarch Sermonist
+	8 Dross Surveyor
+	8 Geth's Silencer
+	8 Myr Scrapseeker
+	8 Bleak Coven Glistener
+	8 Chittering Vat-Nurse
+	8 Clatterwurm
+	8 Ichor Hulk
+	8 Mephidross Gargantua
+	8 Abscise
+	8 Bellow of Undeath
+	8 Caustic Turbines
+	8 Sinister Recollection
+	8 Succumb to the Dross
+	8 Slag Newt
+	8 Kiln Swimmer
+	8 Koth's Adherent
+	8 Corrupted Lavaspeaker
+	8 Forge Boss
+	8 Ironclaw Ogre
+	8 Phyrexiatog
+	8 Scoria Stomper
+	8 Ignition Golem
+	8 Furnace Overseer
+	8 Ire of Kuldotha
+	8 Melting Fury
+	8 Volcanic Greaves
+	8 Electric Surge
+	8 Toll of Industry
+	8 Furnace Blast
+	8 Viridian Emissary
+	8 Vatborn Digester
+	8 Herald of the Swarm
+	8 Bronzewidow
+	8 Gutripper
+	8 Injector Nettle
+	8 Venomous Hierophant
+	8 Lattice Predator
+	8 Copperhide Vorrac
+	8 Tanglespoiler
+	8 Savage Carnogore
+	8 Gift of Phyrexia
+	8 Indomitable Blow
+	8 Ravenous Ambush
+	8 Hunter's Habitat
+	8 Pestilent Barrage
+	8 Lidless Mutilant
+	8 Winged Mutilant
+	8 Septic Mutilant
+	8 Incendiary Mutilant
+	8 Brutal Mutilant
+	8 Origin-Core Myr
+	8 Wreckage Scrabbler
+	8 Skin Cathedral Sentry
+	8 Glistening Vat
+	8 Invasion Seed
+	8 Dross Grinder
+	8 Zenith Pillar
+	8 Hazard Core
+	8 Ichor Wellspring
+	8 Prophetic Prism
+	8 Bristling Barricade
+	8 Necrogen Foundry
+	8 Moriok Saw
+	8 Vulshok Flail
+	8 Gilded Pinions
+	8 Flawless Clinic
+	8 Effluvium Drains
+	8 Magmatic Vents
+	8 Predation Zone
+	8 Barbed Weald
+	8 Humming Cavity
+	8 Roiling Reservoir
+	8 Noxious Turf
+	8 Slag Site
+	8 Evolution Sector
+	8 Scarred Terrain
+[common | masterpiece(1)]
+	8 Flayer Drone
+	8 Merciless Lacerator
+	8 Puresteel Myr
+	8 Auriok Militia Captain
+	8 Marrow Raptor
+	8 Norn's Dogmatist
+	8 Fallen Shikari
+	8 Apostles of Perfection
+	8 Sutured Retriever
+	8 Taj-Nar Hippogriff
+	8 Bladehold Guardian
+	8 Elspeth's Inspiration
+	8 Shut Down
+	8 Cenobite's Decree
+	8 Unrig the Unworthy
+	8 Accorder's Sledge
+	8 Vedalken Vat-Priest
+	8 Nimbulox
+	8 Burrowing Brainfluke
+	8 Telchor Cerebrophyte
+	8 Gitaxian Scrutinizer
+	8 Serum Servitor
+	8 Neurok Escort
+	8 Contaminator Drake
+	8 Aetherskite
+	8 Lumengrid Skimmer
+	8 Tune the Narrative
+	8 Synaptic Collapse
+	8 Shielding Protocol
+	8 Forced Incubation
+	8 Ichor Squall
+	8 Surgical Intrusion
+	8 Salvage Myr
+	8 Necrogen Skirge
+	8 Grimnarch Sermonist
+	8 Dross Surveyor
+	8 Geth's Silencer
+	8 Myr Scrapseeker
+	8 Bleak Coven Glistener
+	8 Chittering Vat-Nurse
+	8 Clatterwurm
+	8 Ichor Hulk
+	8 Mephidross Gargantua
+	8 Abscise
+	8 Bellow of Undeath
+	8 Caustic Turbines
+	8 Sinister Recollection
+	8 Succumb to the Dross
+	8 Slag Newt
+	8 Kiln Swimmer
+	8 Koth's Adherent
+	8 Corrupted Lavaspeaker
+	8 Forge Boss
+	8 Ironclaw Ogre
+	8 Phyrexiatog
+	8 Scoria Stomper
+	8 Ignition Golem
+	8 Furnace Overseer
+	8 Ire of Kuldotha
+	8 Melting Fury
+	8 Volcanic Greaves
+	8 Electric Surge
+	8 Toll of Industry
+	8 Furnace Blast
+	8 Viridian Emissary
+	8 Vatborn Digester
+	8 Herald of the Swarm
+	8 Bronzewidow
+	8 Gutripper
+	8 Injector Nettle
+	8 Venomous Hierophant
+	8 Lattice Predator
+	8 Copperhide Vorrac
+	8 Tanglespoiler
+	8 Savage Carnogore
+	8 Gift of Phyrexia
+	8 Indomitable Blow
+	8 Ravenous Ambush
+	8 Hunter's Habitat
+	8 Pestilent Barrage
+	8 Lidless Mutilant
+	8 Winged Mutilant
+	8 Septic Mutilant
+	8 Incendiary Mutilant
+	8 Brutal Mutilant
+	8 Origin-Core Myr
+	8 Wreckage Scrabbler
+	8 Skin Cathedral Sentry
+	8 Glistening Vat
+	8 Invasion Seed
+	8 Dross Grinder
+	8 Zenith Pillar
+	8 Hazard Core
+	8 Ichor Wellspring
+	8 Prophetic Prism
+	8 Bristling Barricade
+	8 Necrogen Foundry
+	8 Moriok Saw
+	8 Vulshok Flail
+	8 Gilded Pinions
+	8 Flawless Clinic
+	8 Effluvium Drains
+	8 Magmatic Vents
+	8 Predation Zone
+	8 Barbed Weald
+	8 Humming Cavity
+	8 Roiling Reservoir
+	8 Noxious Turf
+	8 Slag Site
+	8 Evolution Sector
+	8 Scarred Terrain
+[foil(1)]
+	1 Atraxa, Perfect Synthesis
+	12 Flayer Drone
+	12 Merciless Lacerator
+	12 Puresteel Myr
+	12 Auriok Militia Captain
+	12 Marrow Raptor
+	12 Norn's Dogmatist
+	12 Fallen Shikari
+	12 Apostles of Perfection
+	12 Sutured Retriever
+	12 Taj-Nar Hippogriff
+	12 Bladehold Guardian
+	12 Elspeth's Inspiration
+	12 Shut Down
+	12 Cenobite's Decree
+	12 Unrig the Unworthy
+	12 Accorder's Sledge
+	6 Leonin Tactician
+	6 Shrieking Shrike
+	6 Porcelain Prelate
+	6 Annex Intercessor
+	6 Splicer's Opus
+	6 Argent Anointer
+	6 Loxodon War Marshal
+	6 Disgraced Accorder
+	6 Envoy of the Orthodoxy
+	6 Compleation
+	6 Blessed by Phyrexia
+	6 Syphon Sinew
+	6 Viral Incursion
+	2 Cartilage Golem
+	2 Enduring Edgewright
+	2 Ria Ivor, Porcelain Paladin
+	2 Consecrated Imperator
+	2 Banisher's Battle-Axe
+	2 Planar Purge
+	2 White Sun's Lacuna
+	2 Subjugator's Stylus
+	1 Elesh Norn, Praetor of Unity
+	1 Porcelain Avenger
+	1 Elspeth, Honor Bound
+	12 Vedalken Vat-Priest
+	12 Nimbulox
+	12 Burrowing Brainfluke
+	12 Telchor Cerebrophyte
+	12 Gitaxian Scrutinizer
+	12 Serum Servitor
+	12 Neurok Escort
+	12 Contaminator Drake
+	12 Aetherskite
+	12 Lumengrid Skimmer
+	12 Tune the Narrative
+	12 Synaptic Collapse
+	12 Shielding Protocol
+	12 Forced Incubation
+	12 Ichor Squall
+	12 Surgical Intrusion
+	6 Thought Parasite
+	6 Meldweb Metatect
+	6 Hovering Observer
+	6 Mercurial Entity
+	6 Progressor Tyrant
+	6 Cryogenus
+	6 Pontiff of Phyresis
+	6 Viral Diffusion
+	6 Praetor's Influence
+	6 Malcator's Droneyard
+	6 Countercharge
+	6 Synthesize
+	6 Psychic Recall
+	2 Quicksilver Prodigy
+	2 Surgical Imperator
+	2 Chronoplasm
+	2 Vedalken Panopticon
+	2 Mass Bifurcation
+	2 Memory Harvest
+	2 Blue Sun's Lacuna
+	2 Augur's Atrium
+	1 Jin-Gitaxias, Praetor of Synthesis
+	1 Arbiters of Progress
+	1 Neurosphinx
+	12 Salvage Myr
+	12 Necrogen Skirge
+	12 Grimnarch Sermonist
+	12 Dross Surveyor
+	12 Geth's Silencer
+	12 Myr Scrapseeker
+	12 Bleak Coven Glistener
+	12 Chittering Vat-Nurse
+	12 Clatterwurm
+	12 Ichor Hulk
+	12 Mephidross Gargantua
+	12 Abscise
+	12 Bellow of Undeath
+	12 Caustic Turbines
+	12 Sinister Recollection
+	12 Succumb to the Dross
+	6 Abyssal Myr
+	6 Dread Mongrels
+	6 Liege of Ish Sah
+	6 Exterminator Exarch
+	6 Fume Belcher
+	6 Steward of Corrosion
+	6 Chimney Drake
+	6 Gore Altar
+	6 Viral Awakening
+	6 Pitiless Betrayal
+	6 Malevolent Embrace
+	6 Lethal Intent
+	6 Tower of Souls
+	2 Cranial Clamp
+	2 Zealot of the Vault
+	2 Flagellator Fiend
+	2 Mephitic Imperator
+	2 Orb of the Nim
+	2 Suffocating Plague
+	2 Black Sun's Lacuna
+	2 Tormentor's Apparatus
+	1 Sheoldred, Praetor of Secrets
+	1 Azax-Azog, the Demon Thane
+	1 Phyrexian Eradicator
+	12 Slag Newt
+	12 Kiln Swimmer
+	12 Koth's Adherent
+	12 Corrupted Lavaspeaker
+	12 Forge Boss
+	12 Ironclaw Ogre
+	12 Phyrexiatog
+	12 Scoria Stomper
+	12 Ignition Golem
+	12 Furnace Overseer
+	12 Ire of Kuldotha
+	12 Melting Fury
+	12 Volcanic Greaves
+	12 Electric Surge
+	12 Toll of Industry
+	12 Furnace Blast
+	6 Spikegrabber
+	6 Ore-Miner Viron
+	6 Signal Spitter
+	6 Goblin Melee Master
+	6 Hazard Stoker
+	6 Urabrask's Bombarder
+	6 Cremator Amalgam
+	6 Artery Smasher
+	6 Whipflare
+	6 Trifold Chaos
+	6 Immolate
+	6 Insatiable Kiln
+	6 Viral Crescendo
+	2 Strife Conductor
+	2 Oxidda Firehawk
+	2 Harg, Krark-Clan Explodineer
+	2 Meltslagger
+	2 Volatile Imperator
+	2 Draconic Hypothesis
+	2 Red Sun's Lacuna
+	2 Combustor's Crucible
+	1 Urabrask, Praetor of Defiance
+	1 Koth, Scars of Mirrodin
+	1 Chiss-Goria's Incinerator
+	12 Viridian Emissary
+	12 Vatborn Digester
+	12 Herald of the Swarm
+	12 Bronzewidow
+	12 Gutripper
+	12 Injector Nettle
+	12 Venomous Hierophant
+	12 Lattice Predator
+	12 Copperhide Vorrac
+	12 Tanglespoiler
+	12 Savage Carnogore
+	12 Gift of Phyrexia
+	12 Indomitable Blow
+	12 Ravenous Ambush
+	12 Hunter's Habitat
+	12 Pestilent Barrage
+	6 Tel-Jilad Slime
+	6 Serum Centurion
+	6 Swarm Prowler
+	6 Acidophage
+	6 Priest of Vorinclex
+	6 Fourth-Sphere Paladin
+	6 Plague Crusher
+	6 Pinnacle of Might
+	6 Sundered Horizons
+	6 Sinuous Hive
+	6 Viral Muscularity
+	6 Layershaping
+	6 Superlatively Massive
+	2 Glistener Herald
+	2 Tanglecord Witness
+	2 Hungering Maw
+	2 Monstrous Imperator
+	2 Alphamorphosis
+	2 Green Sun's Lacuna
+	2 Sylvan Rhapsody
+	2 Sporesinger's Lung
+	1 Vorinclex, Praetor of Evolution
+	1 Omega Tyrranax
+	1 Dawn on New Phyrexia
+	6 Seraph of Propagation
+	6 Gitaxian Dissectorium
+	6 Ingot Monitor
+	6 Bringer Remnant
+	6 Razorverge Suturist
+	6 Ichor Slasher
+	6 Ovika's Galvanizer
+	6 Temple Might Acolyte
+	6 Accorder Elite
+	6 Engineered Skystinger
+	6 Solar Simulacrum
+	2 Sarnvax, Excisor Exarch
+	2 Syringophile
+	2 Scrapmouth Menial
+	2 Hunter Maze Goliath
+	2 Pathogen Evangel
+	2 Taj-Nar Traitor
+	2 Thunder Conger
+	2 Vat Spawner
+	2 Goldwarden's Scepter
+	2 Master the Multiverse
+	1 Velir, Setter of Suns
+	12 Lidless Mutilant
+	12 Winged Mutilant
+	12 Septic Mutilant
+	12 Incendiary Mutilant
+	12 Brutal Mutilant
+	12 Origin-Core Myr
+	12 Wreckage Scrabbler
+	12 Skin Cathedral Sentry
+	12 Glistening Vat
+	12 Invasion Seed
+	12 Dross Grinder
+	12 Zenith Pillar
+	12 Hazard Core
+	12 Ichor Wellspring
+	12 Prophetic Prism
+	12 Bristling Barricade
+	12 Necrogen Foundry
+	12 Moriok Saw
+	12 Vulshok Flail
+	12 Gilded Pinions
+	6 Serum Myr
+	6 Voltaic Hellkite
+	6 Inert Colossus
+	6 Germination Chamber
+	6 Thorn Fortress
+	6 Cortex Kite
+	6 Slaughter Pylon
+	6 Flenser Statue
+	6 Solar Transformer
+	6 Portent Generators
+	6 Smeltingworks
+	6 Paradise Mantle
+	6 Necromancer's Vestments
+	2 Yoxir, Myr Ultimus
+	2 Torpor Golem
+	2 Basilica Devastator
+	2 Festerhold Engine
+	2 Gurgling Furnace
+	2 Whispering Monument
+	2 Iteration Pod
+	2 Mycosynth Network
+	2 Oscillatrix
+	2 Imminence Coil
+	2 Contagion Station
+	2 Fulcrum of Tributes
+	2 Vertebrace
+	2 Phyrexian Patagia
+	1 Puresteel Armaments
+	1 Realmbreaker, Vector of the End
+	1 Wurmcoil Hatchery
+	1 Dreadnought Colossus
+	12 Flawless Clinic
+	12 Effluvium Drains
+	12 Magmatic Vents
+	12 Predation Zone
+	12 Barbed Weald
+	12 Humming Cavity
+	12 Roiling Reservoir
+	12 Noxious Turf
+	12 Slag Site
+	12 Evolution Sector
+	12 Scarred Terrain
+	6 The Propagation Theater
+	2 The Dawning Nexus
+	1 Sheoldred, Praetor of Secrets-P
+[wildcard(1)]
+	4 Atraxa, Perfect Synthesis
+	6 Flayer Drone
+	6 Merciless Lacerator
+	6 Puresteel Myr
+	6 Auriok Militia Captain
+	6 Marrow Raptor
+	6 Norn's Dogmatist
+	6 Fallen Shikari
+	6 Apostles of Perfection
+	6 Sutured Retriever
+	6 Taj-Nar Hippogriff
+	6 Bladehold Guardian
+	6 Elspeth's Inspiration
+	6 Shut Down
+	6 Cenobite's Decree
+	6 Unrig the Unworthy
+	6 Accorder's Sledge
+	15 Leonin Tactician
+	15 Shrieking Shrike
+	15 Porcelain Prelate
+	15 Annex Intercessor
+	15 Splicer's Opus
+	15 Argent Anointer
+	15 Loxodon War Marshal
+	15 Disgraced Accorder
+	15 Envoy of the Orthodoxy
+	15 Compleation
+	15 Blessed by Phyrexia
+	15 Syphon Sinew
+	15 Viral Incursion
+	7 Cartilage Golem
+	7 Enduring Edgewright
+	7 Ria Ivor, Porcelain Paladin
+	7 Consecrated Imperator
+	7 Banisher's Battle-Axe
+	7 Planar Purge
+	7 White Sun's Lacuna
+	7 Subjugator's Stylus
+	4 Elesh Norn, Praetor of Unity
+	4 Porcelain Avenger
+	4 Elspeth, Honor Bound
+	6 Vedalken Vat-Priest
+	6 Nimbulox
+	6 Burrowing Brainfluke
+	6 Telchor Cerebrophyte
+	6 Gitaxian Scrutinizer
+	6 Serum Servitor
+	6 Neurok Escort
+	6 Contaminator Drake
+	6 Aetherskite
+	6 Lumengrid Skimmer
+	6 Tune the Narrative
+	6 Synaptic Collapse
+	6 Shielding Protocol
+	6 Forced Incubation
+	6 Ichor Squall
+	6 Surgical Intrusion
+	15 Thought Parasite
+	15 Meldweb Metatect
+	15 Hovering Observer
+	15 Mercurial Entity
+	15 Progressor Tyrant
+	15 Cryogenus
+	15 Pontiff of Phyresis
+	15 Viral Diffusion
+	15 Praetor's Influence
+	15 Malcator's Droneyard
+	15 Countercharge
+	15 Synthesize
+	15 Psychic Recall
+	7 Quicksilver Prodigy
+	7 Surgical Imperator
+	7 Chronoplasm
+	7 Vedalken Panopticon
+	7 Mass Bifurcation
+	7 Memory Harvest
+	7 Blue Sun's Lacuna
+	7 Augur's Atrium
+	4 Jin-Gitaxias, Praetor of Synthesis
+	4 Arbiters of Progress
+	4 Neurosphinx
+	6 Salvage Myr
+	6 Necrogen Skirge
+	6 Grimnarch Sermonist
+	6 Dross Surveyor
+	6 Geth's Silencer
+	6 Myr Scrapseeker
+	6 Bleak Coven Glistener
+	6 Chittering Vat-Nurse
+	6 Clatterwurm
+	6 Ichor Hulk
+	6 Mephidross Gargantua
+	6 Abscise
+	6 Bellow of Undeath
+	6 Caustic Turbines
+	6 Sinister Recollection
+	6 Succumb to the Dross
+	15 Abyssal Myr
+	15 Dread Mongrels
+	15 Liege of Ish Sah
+	15 Exterminator Exarch
+	15 Fume Belcher
+	15 Steward of Corrosion
+	15 Chimney Drake
+	15 Gore Altar
+	15 Viral Awakening
+	15 Pitiless Betrayal
+	15 Malevolent Embrace
+	15 Lethal Intent
+	15 Tower of Souls
+	7 Cranial Clamp
+	7 Zealot of the Vault
+	7 Flagellator Fiend
+	7 Mephitic Imperator
+	7 Orb of the Nim
+	7 Suffocating Plague
+	7 Black Sun's Lacuna
+	7 Tormentor's Apparatus
+	4 Sheoldred, Praetor of Secrets
+	4 Azax-Azog, the Demon Thane
+	4 Phyrexian Eradicator
+	6 Slag Newt
+	6 Kiln Swimmer
+	6 Koth's Adherent
+	6 Corrupted Lavaspeaker
+	6 Forge Boss
+	6 Ironclaw Ogre
+	6 Phyrexiatog
+	6 Scoria Stomper
+	6 Ignition Golem
+	6 Furnace Overseer
+	6 Ire of Kuldotha
+	6 Melting Fury
+	6 Volcanic Greaves
+	6 Electric Surge
+	6 Toll of Industry
+	6 Furnace Blast
+	15 Spikegrabber
+	15 Ore-Miner Viron
+	15 Signal Spitter
+	15 Goblin Melee Master
+	15 Hazard Stoker
+	15 Urabrask's Bombarder
+	15 Cremator Amalgam
+	15 Artery Smasher
+	15 Whipflare
+	15 Trifold Chaos
+	15 Immolate
+	15 Insatiable Kiln
+	15 Viral Crescendo
+	7 Strife Conductor
+	7 Oxidda Firehawk
+	7 Harg, Krark-Clan Explodineer
+	7 Meltslagger
+	7 Volatile Imperator
+	7 Draconic Hypothesis
+	7 Red Sun's Lacuna
+	7 Combustor's Crucible
+	4 Urabrask, Praetor of Defiance
+	4 Koth, Scars of Mirrodin
+	4 Chiss-Goria's Incinerator
+	6 Viridian Emissary
+	6 Vatborn Digester
+	6 Herald of the Swarm
+	6 Bronzewidow
+	6 Gutripper
+	6 Injector Nettle
+	6 Venomous Hierophant
+	6 Lattice Predator
+	6 Copperhide Vorrac
+	6 Tanglespoiler
+	6 Savage Carnogore
+	6 Gift of Phyrexia
+	6 Indomitable Blow
+	6 Ravenous Ambush
+	6 Hunter's Habitat
+	6 Pestilent Barrage
+	15 Tel-Jilad Slime
+	15 Serum Centurion
+	15 Swarm Prowler
+	15 Acidophage
+	15 Priest of Vorinclex
+	15 Fourth-Sphere Paladin
+	15 Plague Crusher
+	15 Pinnacle of Might
+	15 Sundered Horizons
+	15 Sinuous Hive
+	15 Viral Muscularity
+	15 Layershaping
+	15 Superlatively Massive
+	7 Glistener Herald
+	7 Tanglecord Witness
+	7 Hungering Maw
+	7 Monstrous Imperator
+	7 Alphamorphosis
+	7 Green Sun's Lacuna
+	7 Sylvan Rhapsody
+	7 Sporesinger's Lung
+	4 Vorinclex, Praetor of Evolution
+	4 Omega Tyrranax
+	4 Dawn on New Phyrexia
+	15 Seraph of Propagation
+	15 Gitaxian Dissectorium
+	15 Ingot Monitor
+	15 Bringer Remnant
+	15 Razorverge Suturist
+	15 Ichor Slasher
+	15 Ovika's Galvanizer
+	15 Temple Might Acolyte
+	15 Accorder Elite
+	15 Engineered Skystinger
+	15 Solar Simulacrum
+	7 Sarnvax, Excisor Exarch
+	7 Syringophile
+	7 Scrapmouth Menial
+	7 Hunter Maze Goliath
+	7 Pathogen Evangel
+	7 Taj-Nar Traitor
+	7 Thunder Conger
+	7 Vat Spawner
+	7 Goldwarden's Scepter
+	7 Master the Multiverse
+	4 Velir, Setter of Suns
+	6 Lidless Mutilant
+	6 Winged Mutilant
+	6 Septic Mutilant
+	6 Incendiary Mutilant
+	6 Brutal Mutilant
+	6 Origin-Core Myr
+	6 Wreckage Scrabbler
+	6 Skin Cathedral Sentry
+	6 Glistening Vat
+	6 Invasion Seed
+	6 Dross Grinder
+	6 Zenith Pillar
+	6 Hazard Core
+	6 Ichor Wellspring
+	6 Prophetic Prism
+	6 Bristling Barricade
+	6 Necrogen Foundry
+	6 Moriok Saw
+	6 Vulshok Flail
+	6 Gilded Pinions
+	15 Serum Myr
+	15 Voltaic Hellkite
+	15 Inert Colossus
+	15 Germination Chamber
+	15 Thorn Fortress
+	15 Cortex Kite
+	15 Slaughter Pylon
+	15 Flenser Statue
+	15 Solar Transformer
+	15 Portent Generators
+	15 Smeltingworks
+	15 Paradise Mantle
+	15 Necromancer's Vestments
+	7 Yoxir, Myr Ultimus
+	7 Torpor Golem
+	7 Basilica Devastator
+	7 Festerhold Engine
+	7 Gurgling Furnace
+	7 Whispering Monument
+	7 Iteration Pod
+	7 Mycosynth Network
+	7 Oscillatrix
+	7 Imminence Coil
+	7 Contagion Station
+	7 Fulcrum of Tributes
+	7 Vertebrace
+	7 Phyrexian Patagia
+	4 Puresteel Armaments
+	4 Realmbreaker, Vector of the End
+	4 Wurmcoil Hatchery
+	4 Dreadnought Colossus
+	6 Flawless Clinic
+	6 Effluvium Drains
+	6 Magmatic Vents
+	6 Predation Zone
+	6 Barbed Weald
+	6 Humming Cavity
+	6 Roiling Reservoir
+	6 Noxious Turf
+	6 Slag Site
+	6 Evolution Sector
+	6 Scarred Terrain
+	15 The Propagation Theater
+	7 The Dawning Nexus
+	4 Sheoldred, Praetor of Secrets-P
