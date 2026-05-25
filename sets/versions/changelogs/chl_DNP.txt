@@ -1,4 +1,40 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Viral Incursion
+
+Consecrated Imperator
+
+Viral Diffusion
+
+Surgical Imperator
+
+Viral Awakening
+
+Mephitic Imperator
+
+Viral Crescendo
+
+Volatile Imperator
+
+Viral Muscularity
+
+Monstrous Imperator
+
+Lidless Mutilant
+
+Winged Mutilant
+
+Septic Mutilant
+
+Incendiary Mutilant
+
+Brutal Mutilant
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

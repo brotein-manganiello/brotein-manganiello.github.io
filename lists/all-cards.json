@@ -5949,7 +5949,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "!group viral\n!sort 01\nphyunc\nMYRART\nMODAL\nVRTHS",
+            "notes": "phyunc\nMYRART\nMODAL\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6041,7 +6041,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "!group imperator\n!sort 01\nphyoil\nFLYART\nhttps://i.pinimg.com/1200x/16/0e/d1/160ed1ea465beb91a4c9f0a638293892.jpg\nhttps://i.pinimg.com/1200x/16/3f/6a/163f6a13399432200cae7fe867bd1f8c.jpg\nWINGDING",
+            "notes": "phyoil\nFLYART\nhttps://i.pinimg.com/1200x/16/0e/d1/160ed1ea465beb91a4c9f0a638293892.jpg\nhttps://i.pinimg.com/1200x/16/3f/6a/163f6a13399432200cae7fe867bd1f8c.jpg\nWINGDING",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6754,7 +6754,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "!group viral\n!sort 02\nphyunc\nVRTHS",
+            "notes": "phyunc\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6915,7 +6915,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "!group imperator\n!sort 02\nCycle\nphyoil\nVRTHS",
+            "notes": "Cycle\nphyoil\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7697,7 +7697,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "!group viral\n!sort 03\nphyunc\nVRTHS",
+            "notes": "phyunc\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7881,7 +7881,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "!group imperator\n!sort 03\nphyoil\nYannis Colas",
+            "notes": "phyoil\nYannis Colas",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8709,7 +8709,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": "!group viral\n!sort 04\nphyunc\nclinic\nVRTHS\nhttps://i.pinimg.com/1200x/b3/74/fd/b374fd106ba16dad15bb2c0e12cb11ae.jpg",
+            "notes": "phyunc\nclinic\nVRTHS\nhttps://i.pinimg.com/1200x/b3/74/fd/b374fd106ba16dad15bb2c0e12cb11ae.jpg",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8824,7 +8824,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "!group imperator\n!sort 04\nphyoil\nclinic\nobsidian\nhttps://www.artstation.com/artwork/3NJng\nhttps://i.pinimg.com/1200x/a7/a4/d3/a7a4d39b22c1a7af0d246dc5b447d72e.jpg\nhttps://i.pinimg.com/1200x/c2/5e/43/c25e43bb712b4d2442a4c6584488c28e.jpg\nhttps://jp.pinterest.com/pin/666814288618492185/\nhttps://www.deviantart.com/vidagr/art/Firelord-213934171\nhttps://www.deviantart.com/tomaszmrozinski/art/Fire-Colossus-211007239\nhttps://www.deviantart.com/kevin-glint/art/Cross-the-Ages-Baram-Alt-951991176\nVRTHS",
+            "notes": "phyoil\nclinic\nobsidian\nhttps://www.artstation.com/artwork/3NJng\nhttps://i.pinimg.com/1200x/a7/a4/d3/a7a4d39b22c1a7af0d246dc5b447d72e.jpg\nhttps://i.pinimg.com/1200x/c2/5e/43/c25e43bb712b4d2442a4c6584488c28e.jpg\nhttps://jp.pinterest.com/pin/666814288618492185/\nhttps://www.deviantart.com/vidagr/art/Firelord-213934171\nhttps://www.deviantart.com/tomaszmrozinski/art/Fire-Colossus-211007239\nhttps://www.deviantart.com/kevin-glint/art/Cross-the-Ages-Baram-Alt-951991176\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9583,7 +9583,7 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": "!group viral\n!sort 05\nphyunc\nCOMBATTRICK\nVRTHS",
+            "notes": "phyunc\nCOMBATTRICK\nVRTHS",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9721,7 +9721,7 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": "!group imperator\n!sort 05\nphyoil\nPeter Nicholas Nodiff\nhttps://www.pixiv.net/en/artworks/23617391",
+            "notes": "phyoil\nPeter Nicholas Nodiff\nhttps://www.pixiv.net/en/artworks/23617391",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10411,7 +10411,7 @@
             "alias": "",
             "position": "223",
             "rotated": false,
-            "notes": "!group mutilant\n!sort 01\nhttps://www.deviantart.com/a-u-r-e-l/art/Endless-Space-Cravers-defeate-348850036",
+            "notes": "https://www.deviantart.com/a-u-r-e-l/art/Endless-Space-Cravers-defeate-348850036",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10434,7 +10434,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "!group mutilant\n!sort 02\nFLYART\nWINGDING",
+            "notes": "FLYART\nWINGDING",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10457,7 +10457,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "!group mutilant\n!sort 03",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10480,7 +10480,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "!group mutilant\n!sort 04",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10503,7 +10503,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": "!group mutilant\n!sort 05",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },

@@ -215,12 +215,12 @@
         "position": "190"
     },
     {
-        "card_name": "Enduring Edgewright",
-        "number": 17,
+        "card_name": "Consecrated Imperator",
+        "number": 12,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "31"
+        "position": "33"
     },
     {
         "card_name": "Mass Bifurcation",
@@ -255,12 +255,12 @@
         "position": "195"
     },
     {
-        "card_name": "Planar Purge",
-        "number": 26,
+        "card_name": "Enduring Edgewright",
+        "number": 17,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "35"
+        "position": "31"
     },
     {
         "card_name": "Memory Harvest",
@@ -271,12 +271,12 @@
         "position": "75"
     },
     {
-        "card_name": "Orb of the Nim",
-        "number": 108,
+        "card_name": "Mephitic Imperator",
+        "number": 105,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "114"
+        "position": "113"
     },
     {
         "card_name": "Oxidda Firehawk",
@@ -295,12 +295,12 @@
         "position": "192"
     },
     {
-        "card_name": "Ria Ivor, Porcelain Paladin",
-        "number": 30,
+        "card_name": "Planar Purge",
+        "number": 26,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "32"
+        "position": "35"
     },
     {
         "card_name": "Quicksilver Prodigy",
@@ -311,12 +311,12 @@
         "position": "70"
     },
     {
-        "card_name": "Suffocating Plague",
-        "number": 116,
+        "card_name": "Orb of the Nim",
+        "number": 108,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "115"
+        "position": "114"
     },
     {
         "card_name": "Red Sun's Lacuna",
@@ -325,6 +325,46 @@
         "set": "DNP",
         "rotated": false,
         "position": "156"
+    },
+    {
+        "card_name": "Monstrous Imperator",
+        "number": 178,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Ria Ivor, Porcelain Paladin",
+        "number": 30,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Surgical Imperator",
+        "number": 71,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Suffocating Plague",
+        "number": 116,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Strife Conductor",
+        "number": 152,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "150"
     },
     {
         "card_name": "Sylvan Rhapsody",
@@ -359,12 +399,12 @@
         "position": "111"
     },
     {
-        "card_name": "Strife Conductor",
-        "number": 152,
+        "card_name": "Volatile Imperator",
+        "number": 158,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "150"
+        "position": "154"
     },
     {
         "card_name": "Tanglecord Witness",
@@ -839,12 +879,12 @@
         "position": "109"
     },
     {
-        "card_name": "Whipflare",
-        "number": 160,
+        "card_name": "Viral Crescendo",
+        "number": 157,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
-        "position": "145"
+        "position": "149"
     },
     {
         "card_name": "Tel-Jilad Slime",
@@ -853,6 +893,46 @@
         "set": "DNP",
         "rotated": false,
         "position": "177"
+    },
+    {
+        "card_name": "Viral Incursion",
+        "number": 39,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Viral Diffusion",
+        "number": 80,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Viral Awakening",
+        "number": 119,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Whipflare",
+        "number": 160,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Viral Muscularity",
+        "number": 198,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "187"
     },
     {
         "card_name": "Accorder's Sledge",
@@ -1992,6 +2072,14 @@
         "position": "238"
     },
     {
+        "card_name": "Brutal Mutilant",
+        "number": 225,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "227"
+    },
+    {
         "card_name": "Dross Grinder",
         "number": 229,
         "shape": "normal",
@@ -2032,12 +2120,28 @@
         "position": "236"
     },
     {
+        "card_name": "Incendiary Mutilant",
+        "number": 240,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "226"
+    },
+    {
         "card_name": "Invasion Seed",
         "number": 242,
         "shape": "normal",
         "set": "DNP",
         "rotated": false,
         "position": "232"
+    },
+    {
+        "card_name": "Lidless Mutilant",
+        "number": 244,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "223"
     },
     {
         "card_name": "Moriok Saw",
@@ -2072,6 +2176,14 @@
         "position": "237"
     },
     {
+        "card_name": "Septic Mutilant",
+        "number": 257,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "225"
+    },
+    {
         "card_name": "Skin Cathedral Sentry",
         "number": 259,
         "shape": "normal",
@@ -2086,6 +2198,14 @@
         "set": "DNP",
         "rotated": false,
         "position": "241"
+    },
+    {
+        "card_name": "Winged Mutilant",
+        "number": 269,
+        "shape": "normal",
+        "set": "DNP",
+        "rotated": false,
+        "position": "224"
     },
     {
         "card_name": "Wreckage Scrabbler",
