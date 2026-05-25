@@ -1,0 +1,828 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>L4D</name>
+			<longname>LEFT4DEAD</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Rock-Throwing Tank</name>
+			<text>Reach, trample
+You may look at the top card of your library any time.
+Whenever Rock-Throwing Tank attacks, you may put a permanent card from your hand or the top of your library onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/29_Rock-Throwing Tank.png" num="29">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>12/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Apartments // The Hospital</name>
+			<text>When you unlock this door, create four 1/1 red Human Survivor creature tokens.
+
+---
+
+Creatures you control get +2/+2 and have lifelink.</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/6_The Apartments.png" num="6">L4D</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW // 5WW</manacost>
+				<cmc>11</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bill, the Sacrifice</name>
+			<text>Menace
+{1}{B}, {T}, Sacrifice Bill, the Sacrifice: Creatures you control gain indestructible until end of turn.
+{4}{B}{B}{B}{B}, {T}, Sacrifice Bill, the Sacrifice: Destroy all creatures you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/14_Bill, the Sacrifice.png" num="14">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Sugar Mill // Return to Town</name>
+			<text>At the beginning of your end step, target player mills two cards. (They put the top two cards of their library into their graveyard.)
+
+---
+
+At the beginning of your first main phase, until end of turn, target instant or sorcery card in your graveyard gains flashback {0}.</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/12_The Sugar Mill.png" num="12">L4D</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U // 4UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Auto Shotgun</name>
+			<text>When Auto Shotgun enters, attach it to target creature you control. When you do, destroy target creature an opponent controls.
+Equipped creature gets +2/+0 and has menace.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/42_Auto Shotgun.png" num="42">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Startled Witch</name>
+			<text>Haste
+Whenever Startled Witch deals combat damage to a player, it deals X damage to that player, where X is half that player&apos;s life total, rounded down.</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/24_Startled Witch.png" num="24">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helicopter Pilot</name>
+			<text>Flying
+Whenever Helicopter Pilot becomes tapped, you may draw a card. If you do, discard a card.
+When Helicopter Pilot dies, return another target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/34_Helicopter Pilot.png" num="34">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Coaster // The Concert</name>
+			<text>When you unlock this door, this Room deals 25 damage to target creature an opponent controls.
+
+---
+
+Attacking creatures you control get +1/+0 and have menace.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/39_The Coaster.png" num="39">L4D</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BR // 3BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zoey, Hope Against Hope</name>
+			<text>First strike
+Whenever Zoey, Hope Against Hope attacks, exile the top card of your library. You may put it onto the battlefield tapped if it&apos;s a land. Otherwise, you may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/38_Zoey, Hope Against Hope.png" num="38">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coach, Devoted Leader</name>
+			<text>When Coach, Devoted Leader enters, it deals damage equal to its power to target creature an opponent controls. You gain life equal to the excess damage dealt.
+Whenever you gain life, put a +1/+1 counter on Coach, Devoted Leader.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/32_Coach, Devoted Leader.png" num="32">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Louis, the Optimist</name>
+			<text>Vigilance
+Whenever one or more creatures you control coordinate a spell, put a +1/+1 counter on each of those creatures and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/35_Louis, the Optimist.png" num="35">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wedding Witch</name>
+			<text>Double strike
+Morbid — At the beginning of your end step, if a creature died this turn, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/37_Wedding Witch.png" num="37">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cargo Plane</name>
+			<text>Flying, trample, ward {3}
+As long as Cargo Plane has five or more fuel counters on it, it&apos;s a creature in addition to its other types.
+Tap another untapped artifact you control: Put a fuel counter on Cargo Plane.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/31_Cargo Plane.png" num="31">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Waterfront // The Park</name>
+			<text>Landfall — Whenever a land enters under your control, draw a card.
+
+---
+
+Landfall — Whenever a land enters under your control, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/40_The Waterfront.png" num="40">L4D</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GU // GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ellis, Killing Machine</name>
+			<text>Haste
+Whenever an Equipment you control enters, Ellis, Killing Machine deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/33_Ellis, Killing Machine.png" num="33">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pestilent Zombies</name>
+			<text>Deathtouch
+Virulence costs you pay cost {1} less.
+Creatures you control with decayed get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/36_Pestilent Zombies.png" num="36">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alarmed Car</name>
+			<text>{T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{6}, {T}, Sacrifice Alarmed Car: Create three 2/2 black Zombie creature tokens. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/41_Alarmed Car.png" num="41">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sniper Rifle</name>
+			<text>When Sniper Rifle enters, attach it to target creature you control.
+Equipped creature has vigilance and &quot;{T}: This creature deals 1 damage to target opponent. Draw a card.&quot;
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/45_Sniper Rifle.png" num="45">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jockey Ride</name>
+			<text>Flash
+Enchant creature
+When Jockey Ride enters, tap enchanted creature.
+Enchanted creature loses all abilities and doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/10_Jockey Ride.png" num="10">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pummeling Charger</name>
+			<text>Virulence {4}{G}{G} (You may cast this spell for its virulence cost. If you do, when it enters, create a token that&apos;s a copy of it with decayed.)
+Trample</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/27_Pummeling Charger.png" num="27">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Horde</name>
+			<text>Lifelink, haste
+Morbid — When Ravenous Horde enters, if a creature died this turn, create a 2/2 black Zombie creature token. That token gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/17_Ravenous Horde.png" num="17">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Headshot</name>
+			<text>Coordinate (You may tap two creatures you control as you cast this spell.)
+Headshot deals 3 damage to target attacking or blocking creature. If this spell was coordinated, destroy that creature instead.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/2_Headshot.png" num="2">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Team Healer</name>
+			<text>Vigilance
+When Team Healer enters, put a +1/+1 counter on up to one other target creature you control. You gain 2 life.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/5_Team Healer.png" num="5">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rooftop Smoker</name>
+			<text>Reach
+Whenever Rooftop Smoker or another creature you control enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/30_Rooftop Smoker.png" num="30">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bilious Boomer</name>
+			<text>Virulence {3}{B} (You may cast this spell for its virulence cost. If you do, when it enters, create a token that&apos;s a copy of it with decayed.)
+When Bilious Boomer dies, target creature an opponent controls gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/13_Bilious Boomer.png" num="13">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Molotov Throw</name>
+			<text>Coordinate (You may tap two creatures you control as you cast this spell.)
+Molotov Throw deals 3 damage to target creature. If this spell was coordinated, it deals 5 damage to that creature instead.
+If a creature dealt damage by Molotov Throw would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/22_Molotov Throw.png" num="22">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fallen CEDA Agent</name>
+			<text>Virulence {3}{W} (You may cast this spell for its virulence cost. If you do, when it enters, create a token that&apos;s a copy of it with decayed.)
+Lifelink</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/1_Fallen CEDA Agent.png" num="1">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ensnaring Smoker</name>
+			<text>Virulence {5}{U} (You may cast this spell for its virulence cost. If you do, when it enters, create a token that&apos;s a copy of it with decayed.)
+When Ensnaring Smoker enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/8_Ensnaring Smoker.png" num="8">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rocket-Launched Survivor</name>
+			<text>Flying
+Whenever Rocket-Launched Survivor becomes tapped, another target creature you control without flying gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/4_Rocket-Launched Survivor.png" num="4">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spawn-Point Scouting</name>
+			<text>Coordinate (You may tap two creatures you control as you cast this spell.)
+This spell costs {2} less to cast if it&apos;s coordinated.
+Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/11_Spawn-Point Scouting.png" num="11">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Katana Wielder</name>
+			<text>First strike
+Whenever Katana Wielder attacks, tap target creature defending player controls.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/3_Katana Wielder.png" num="3">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expert Tactician</name>
+			<text>Vigilance
+Morbid — When Expert Tactician enters, you may draw a card. If you do, discard a card unless a creature died this turn.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/9_Expert Tactician.png" num="9">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ceiling Hunter</name>
+			<text>Flying
+Whenever Ceiling Hunter attacks, untap up to two target creatures you control.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/7_Ceiling Hunter.png" num="7">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swamp Fever</name>
+			<text>Morbid — This spell costs {2} less to cast if a creature died this turn.
+Destroy target creature. Its controller loses 2 life.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/18_Swamp Fever.png" num="18">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reckless Speedster</name>
+			<text>Menace
+Rush 2 (Whenever this creature attacks, you may have it get +2/+0 and gain &quot;When this creature dies, draw a card&quot; until end of turn. If you do, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/23_Reckless Speedster.png" num="23">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cacophonous Crows</name>
+			<text>Flash
+Flying
+Whenever another creature you control dies, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/15_Cacophonous Crows.png" num="15">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noxious Spitter</name>
+			<text>Virulence {5}{B} (You may cast this spell for its virulence cost. If you do, when it enters, create a token that&apos;s a copy of it with decayed.)
+When Noxious Spitter enters, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/16_Noxious Spitter.png" num="16">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eviscerating Hunter</name>
+			<text>During your turn, Eviscerating Hunter has first strike.
+{3}{R}: Target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/19_Eviscerating Hunter.png" num="19">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infected Clown</name>
+			<text>Menace
+Whenever Infected Clown attacks, another target creature you control gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/21_Infected Clown.png" num="21">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Clown</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resourceful Survivor</name>
+			<text>When Resourceful Survivor enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/28_Resourceful Survivor.png" num="28">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infected Riot Guards</name>
+			<text>Virulence {3}{G} (You may cast this spell for its virulence cost. If you do, when it enters, create a token that&apos;s a copy of it with decayed.)
+Ward {2}
+When Infected Riot Guards dies, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/26_Infected Riot Guards.png" num="26">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incendiary Explosion</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Incendiary Explosion deals 5 damage to target creature and 2 damage to that creature&apos;s controller.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/20_Incendiary Explosion.png" num="20">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pipe Bomb</name>
+			<text>Flash
+When Pipe Bomb enters, sacrifice it. When you do, choose one —
+• Tap target creature and put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Pipe Bomb deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/44_Pipe Bomb.png" num="44">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Electric Guitar</name>
+			<text>When Electric Guitar enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, target creature can&apos;t block it this turn.
+Equip {2}</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/43_Electric Guitar.png" num="43">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Green Flu Mutation</name>
+			<text>Choose one —
+• Target creature gets +3/+3 until end of turn.
+• Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/L4D-files/img/25_Green Flu Mutation.png" num="25">L4D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

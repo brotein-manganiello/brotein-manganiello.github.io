@@ -1,0 +1,502 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Rock-Throwing Tank",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/29_Rock-Throwing Tank.png"
+			}
+		},
+		{
+			"name": "The Apartments",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Room",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/6_The Apartments.png"
+			}
+		},
+		{
+			"name": "Bill, the Sacrifice",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/14_Bill, the Sacrifice.png"
+			}
+		},
+		{
+			"name": "The Sugar Mill",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Room",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/12_The Sugar Mill.png"
+			}
+		},
+		{
+			"name": "Auto Shotgun",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/42_Auto Shotgun.png"
+			}
+		},
+		{
+			"name": "Startled Witch",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/24_Startled Witch.png"
+			}
+		},
+		{
+			"name": "Helicopter Pilot",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/34_Helicopter Pilot.png"
+			}
+		},
+		{
+			"name": "The Coaster",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Room",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/39_The Coaster.png"
+			}
+		},
+		{
+			"name": "Zoey, Hope Against Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/38_Zoey, Hope Against Hope.png"
+			}
+		},
+		{
+			"name": "Coach, Devoted Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/32_Coach, Devoted Leader.png"
+			}
+		},
+		{
+			"name": "Louis, the Optimist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/35_Louis, the Optimist.png"
+			}
+		},
+		{
+			"name": "Wedding Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/37_Wedding Witch.png"
+			}
+		},
+		{
+			"name": "Cargo Plane",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/31_Cargo Plane.png"
+			}
+		},
+		{
+			"name": "The Waterfront",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment — Room",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/40_The Waterfront.png"
+			}
+		},
+		{
+			"name": "Ellis, Killing Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/33_Ellis, Killing Machine.png"
+			}
+		},
+		{
+			"name": "Pestilent Zombies",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/36_Pestilent Zombies.png"
+			}
+		},
+		{
+			"name": "Alarmed Car",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/41_Alarmed Car.png"
+			}
+		},
+		{
+			"name": "Sniper Rifle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/45_Sniper Rifle.png"
+			}
+		},
+		{
+			"name": "Jockey Ride",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/10_Jockey Ride.png"
+			}
+		},
+		{
+			"name": "Pummeling Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/27_Pummeling Charger.png"
+			}
+		},
+		{
+			"name": "Ravenous Horde",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/17_Ravenous Horde.png"
+			}
+		},
+		{
+			"name": "Headshot",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/2_Headshot.png"
+			}
+		},
+		{
+			"name": "Team Healer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/5_Team Healer.png"
+			}
+		},
+		{
+			"name": "Rooftop Smoker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/30_Rooftop Smoker.png"
+			}
+		},
+		{
+			"name": "Bilious Boomer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/13_Bilious Boomer.png"
+			}
+		},
+		{
+			"name": "Molotov Throw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/22_Molotov Throw.png"
+			}
+		},
+		{
+			"name": "Fallen CEDA Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie Doctor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/1_Fallen CEDA Agent.png"
+			}
+		},
+		{
+			"name": "Ensnaring Smoker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/8_Ensnaring Smoker.png"
+			}
+		},
+		{
+			"name": "Rocket-Launched Survivor",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/4_Rocket-Launched Survivor.png"
+			}
+		},
+		{
+			"name": "Spawn-Point Scouting",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/11_Spawn-Point Scouting.png"
+			}
+		},
+		{
+			"name": "Katana Wielder",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/3_Katana Wielder.png"
+			}
+		},
+		{
+			"name": "Expert Tactician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/9_Expert Tactician.png"
+			}
+		},
+		{
+			"name": "Ceiling Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/7_Ceiling Hunter.png"
+			}
+		},
+		{
+			"name": "Swamp Fever",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/18_Swamp Fever.png"
+			}
+		},
+		{
+			"name": "Reckless Speedster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/23_Reckless Speedster.png"
+			}
+		},
+		{
+			"name": "Cacophonous Crows",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/15_Cacophonous Crows.png"
+			}
+		},
+		{
+			"name": "Noxious Spitter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/16_Noxious Spitter.png"
+			}
+		},
+		{
+			"name": "Eviscerating Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/19_Eviscerating Hunter.png"
+			}
+		},
+		{
+			"name": "Infected Clown",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Clown",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/21_Infected Clown.png"
+			}
+		},
+		{
+			"name": "Resourceful Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/28_Resourceful Survivor.png"
+			}
+		},
+		{
+			"name": "Infected Riot Guards",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/26_Infected Riot Guards.png"
+			}
+		},
+		{
+			"name": "Incendiary Explosion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/20_Incendiary Explosion.png"
+			}
+		},
+		{
+			"name": "Pipe Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/44_Pipe Bomb.png"
+			}
+		},
+		{
+			"name": "Electric Guitar",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/43_Electric Guitar.png"
+			}
+		},
+		{
+			"name": "Green Flu Mutation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://brotein-manganiello.github.io/sets/L4D-files/img/25_Green Flu Mutation.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Rock-Throwing Tank
+	5 The Apartments
+	5 Bill, the Sacrifice
+	5 The Sugar Mill
+	5 Auto Shotgun
+	5 Startled Witch
+[uncommon(3)]
+	5 Helicopter Pilot
+	5 The Coaster
+	5 Zoey, Hope Against Hope
+	5 Coach, Devoted Leader
+	5 Louis, the Optimist
+	5 Wedding Witch
+	5 Cargo Plane
+	5 The Waterfront
+	5 Ellis, Killing Machine
+	5 Pestilent Zombies
+	5 Alarmed Car
+	5 Sniper Rifle
+[common(10)]
+	5 Jockey Ride
+	5 Pummeling Charger
+	5 Ravenous Horde
+	5 Headshot
+	5 Team Healer
+	5 Rooftop Smoker
+	5 Bilious Boomer
+	5 Molotov Throw
+	5 Fallen CEDA Agent
+	5 Ensnaring Smoker
+	5 Rocket-Launched Survivor
+	5 Spawn-Point Scouting
+	5 Katana Wielder
+	5 Expert Tactician
+	5 Ceiling Hunter
+	5 Swamp Fever
+	5 Reckless Speedster
+	5 Cacophonous Crows
+	5 Noxious Spitter
+	5 Eviscerating Hunter
+	5 Infected Clown
+	5 Resourceful Survivor
+	5 Infected Riot Guards
+	5 Incendiary Explosion
+	5 Pipe Bomb
+	5 Electric Guitar
+	5 Green Flu Mutation
