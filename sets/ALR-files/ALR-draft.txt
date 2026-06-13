@@ -7,7 +7,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/22_Paladin's Attendant.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/1_Ajani's Advocate.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/32_Valeron Vanguard.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/31_Topan Curemaster.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/10_Cloud's Roar Avenger.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/2_Akrasan Sentry.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Rhino Soldier",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/27_Reliquary Rhox.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Artifact Creature — Human Artificer",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/20_Meticulous Mechanist.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/11_Dawnray Castellan.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Artifact Creature — Thopter",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/29_Skygrid Surveyor.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/18_Gleamhorn Gargantuan.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/24_Radiant Resolve.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/25_Recraft in Steel.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Artifact",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/13_Dominator's Diadem.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Instant",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/30_Sunstrike.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/6_Blessed Radiance.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/23_Pledge of Peace.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/19_Herald of the White Orchid.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/17_Etlan High Priest.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/8_Citadel Battlemage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/14_Eos Beseecher.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Rhino Scout",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/5_Bant Shardseeker.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/3_Amesha of the Honorable.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Enchantment",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/28_Sigil of the Many.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/16_Etherium Staff.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Artifact",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/21_Ostracizer Orb.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Artifact Creature — Vedalken Artificer",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/42_Etherium Sculptor.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/48_Jhessian Cavalier.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/49_Kederekt Seawitch.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Artifact Creature — Bird",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/56_Steel Wind Strix.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/52_Retinue Golem.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/54_Serul Cove Escort.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/31.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Artifact Creature — Drake",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/45_Filigree Drake.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/32.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Artifact Creature — Fish",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/57_Steelfin Manta.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/51_Mage's Warding.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/34.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Artifact",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/60_Terraformer's Globe.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/40_Essence Erasure.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/36_Disperse.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/47_Hallucinate.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/58_Subduing Serum.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/43_Fathom the Forbidden.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/34_Clairvoyant Insight.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/61_Unbeholden Navigator.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Artifact",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/35_Cognition Crucible.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/43.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/53_Sanctum Battlemage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/44.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Artifact Creature — Vedalken Scout",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/39_Esper Shardseeker.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/45.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/62_Vectis Entrancer.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/46.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Artifact Creature — Sphinx",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/64_Wayward Sphinx.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/47.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Enchantment",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/50_Maelstromancy.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/63_Vibrant Expulsion.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/38_Disturb the Riddle Gate.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/50.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/37_Dissident's Vortex.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/51.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/83_Nel Toth Shaman.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/52.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Artifact Creature — Human Rogue",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/78_Hegemon's Cutthroat.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/53.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Creature — Zombie Warlock",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/79_Hexcaster of Unx.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/54.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/70_Cesspool Scrapper.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/55.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/80_Hostile Barbfly.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/56.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/94_Thunderscorn.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/57.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/69_Carnage Gorger.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/58.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Sorcery",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/96_Unearth.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/59.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Ooze Elemental",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/89_Sangrite Ooze.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/60.png"
 			}
 		},
 		{
@@ -617,17 +617,17 @@
 			"type": "Artifact",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/91_Sculler's Oar.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/61.png"
 			}
 		},
 		{
-			"name": "Bone Splinters_ALR",
+			"name": "Bone Splinters",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/68_Bone Splinters_ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/62.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Sorcery",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/73_Dire Predictions.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/63.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/86_Perilous Sojourn.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/64.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/85_Omen of Nefarox.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/65.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Sorcery",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/65_Agonizing Syphon.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/66.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Zombie Mutant Warrior",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/92_Sedraxis Trepanator.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/67.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/82_Necropolis Battlemage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/68.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Creature — Zombie Scout",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/77_Grixis Shardseeker.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/69.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/66_Bloated Visceroid.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/70.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/88_Ravenous Tarwurm.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/71.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Artifact",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/90_Scrap Spiral.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/72.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/76_Exenterate.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/73.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/84_Obscene Recitation.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/74.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/93_Shining Revival.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/75.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Sorcery",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/72_Demonic Rite.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/76.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/100_Chromeleon.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/77.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Devil",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/123_Torchlight Tormentor.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/78.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Goblin",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/102_Fodder Goblins.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/79.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/119_Sadistic Sparkmage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/80.png"
 			}
 		},
 		{
@@ -817,17 +817,17 @@
 			"type": "Creature — Cat Berserker",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/103_Frenzied Nacatl.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/81.png"
 			}
 		},
 		{
 			"name": "Dagger-Thrash Marauders",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Viashino Warrior",
+			"type": "Creature — Lizard Warrior",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/101_Dagger-Thrash Marauders.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/82.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/127_Volcano Elemental.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/83.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/118_Reinbreaker Behemoth.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/84.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/109_Lava Hellions.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/85.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/99_Cantankeroth.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/86.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/111_Magma Spray.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/87.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/117_Ragemist.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/88.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/116_Pain's Embrace.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/89.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/115_Ominous Lightning.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/90.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/107_Infernal Flames.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/91.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/98_Calamitous Rampage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/92.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/112_Make Way.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/93.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/114_Nacatl Skirmisher.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/94.png"
 			}
 		},
 		{
@@ -957,17 +957,17 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/121_Savage Battlemage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/95.png"
 			}
 		},
 		{
 			"name": "Viashino Glutton",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Viashino Warrior",
+			"type": "Creature — Lizard Warrior",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/124_Viashino Glutton.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/96.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/126_Vithian Arcanist.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/97.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Goblin Scout",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/108_Jund Shardseeker.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/98.png"
 			}
 		},
 		{
@@ -997,17 +997,17 @@
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/113_Mist-Valley Minotaurs.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/99.png"
 			}
 		},
 		{
 			"name": "Scaleshredder",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
-			"type": "Creature — Viashino Shaman",
+			"type": "Creature — Lizard Shaman",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/122_Scaleshredder.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/100.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/105_Hellkite's Decree.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/101.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/125_Vigor from the Vein.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/102.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Instant",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/97_Bask in Fire.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/103.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/152_Thallid Cultivator.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/104.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/130_Conduit of the Conflux.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/105.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/131_Elvish Godtracker.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/106.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/143_Leotau Rider.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/107.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/134_Flesheater Vine.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/108.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/132_Exuberant Hunter.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/109.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/141_Knight of the Olive Orchard.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/110.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/133_Flarespore Mycoid.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/111.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/155_Towering Silkweaver.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/112.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/137_Gargantuan Crusher.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/113.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/154_Titanothoctar.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/114.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/144_Lichen's Grasp.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/115.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Instant",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/151_Sigil of Fortitude.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/116.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/135_Fletcher's Precision.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/117.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Instant",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/156_Tranquil Repose.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/118.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/129_Canopy Assault.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/119.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/140_Jungle Battlemage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/120.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/153_Thoctar Yearling.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/121.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/147_Naya Shardseeker.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/122.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Creature — Rhino Soldier",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/157_Veteran Horncaptain.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/123.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/142_Knotvine Preserver.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/124.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/150_Regurgitator Ooze.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/125.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/146_Mist-Valley Ancient.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/126.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Enchantment",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/160_Worldheart Nexus.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/127.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/136_Fungal Flourishing.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/128.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/148_Overpower.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/129.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/210_Sighted-Caste Knight.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/130.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Instant",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/211_Sphinx's Scrutiny.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/131.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/212_Spinebreak.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/132.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Instant",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/171_Brutal Struggle.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/133.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/204_Sacellum Visionary.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/134.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Angel Soldier",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/172_Celebrant of Jubilation.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/135.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Artifact Creature — Human Artificer",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/182_Ethersworn Elite.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/136.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/188_Incantation Demon.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/137.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/224_Varakna Wurm.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/138.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/227_Ziggurat Behemoth.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/139.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Bird Soldier",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/167_Aven Strategist.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/140.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Artifact Creature — Human Artificer",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/217_Telemin Architect.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/141.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Artifact Creature — Vedalken Rogue",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/226_Visitarium Smuggler.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/142.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/205_Scatter What Remains.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/143.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Creature — Elemental Phoenix",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/178_Edarna's Augurling.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/144.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/197_Magmatic Violator.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/145.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/222_Tremor Seer.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/146.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/206_Scorchpass Sovereign.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/147.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/215_Sun-Dappled Paragon.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/148.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Sorcery",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/218_Tendrilsnare.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/149.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/191_Jenara's Favor.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/150.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/184_Giltspire Exemplar.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/151.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Artifact Creature — Vedalken Artificer",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/209_Sharuum's Council.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/152.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/183_Ethersworn Indoctrination.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/153.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Creature — Zombie Mutant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/174_Corpsemound.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/154.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/207_Sedraxis Scourge.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/155.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/220_Thrinax Sporemother.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/156.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Creature — Crocodile",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/163_Ambush Gharial.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/157.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/170_Bellowing Thoctar.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/158.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/169_Behemoth Channeler.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/159.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/173_Conflux Ravager.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/160.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Artifact",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/233_Spire of Bant.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/161.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Artifact",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/234_Spire of Esper.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/162.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/235_Spire of Grixis.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/163.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Artifact",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/236_Spire of Jund.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/164.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Artifact",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/237_Spire of Naya.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/165.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/231_Rings of New Alara.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/166.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/228_Font of Nefarox.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/167.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/232_Sigil of the Skyward Eye.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/168.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Artifact",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/229_Macabre Effigy.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/169.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Land",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/255_Sculpted Observatory.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/170.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Land",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/247_Gloomtide Gulf.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/171.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Land",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/245_Erupting Territory.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/172.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Land",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/239_Bigroot Valley.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/173.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Land",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/253_Peaceful Passage.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/174.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Land",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/257_Somber Meadow.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/175.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/259_Twisting Fissure.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/176.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Land",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/241_Caustic Mangrove.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/177.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Land",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/248_Hazy Summits.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/178.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Land",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/252_Lush Coast.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/179.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Land",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/258_Terramorphic Expanse.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/180.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Land",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/256_Seaside Citadel.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/181.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Land",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/238_Arcane Sanctum.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/182.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Land",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/244_Crumbling Necropolis.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/183.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Land",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/254_Savage Lands.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/184.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/250_Jungle Shrine.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/185.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/7_Blessed Vanquisher.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/186.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Creature — Bird Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/12_Derevi's Adjutant.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/187.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/15_Etherium Abrogator.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/188.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/26_Refulgent Rupture.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/189.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/4_Archangel of Bliss.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/190.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Artifact Creature — Leviathan",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/41_Etherium Leviathan.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/191.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Artifact Creature — Human Artificer",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/59_Supreme Mechanothurge.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/192.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Artifact",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/46_Filigree Lotus.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/193.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Sorcery",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/44_Fearful Flooding.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/194.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Artifact Creature — Sphinx",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/55_Sphinx Paramount.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/195.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/74_Dregscape Chant.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/196.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/67_Bloodbraid Ritualist.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/197.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Artifact Creature — Zombie Artificer",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/95_Tidehollow Lich.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/198.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/81_Mortal Finish.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/199.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/87_Profane Emissary.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/200.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/120_Sangrite Dragon.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/201.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/104_Hellkite Omnivore.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/202.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Creature — Devil",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/106_Hellspark Prankster.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/203.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/110_Maelstrom Slicer.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/204.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Creature — Elemental Avatar",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/128_Worldheart Avatar.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/205.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/145_Magnoceros.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/206.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/159_War-Pride Champion.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/207.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Creature — Human Druid Ranger",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/139_Hierarch Ranger.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/208.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Enchantment",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/138_Heart of Spores.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/209.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/158_Vitalhydra.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/210.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Instant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/161_Aether Pull.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/211.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Creature — Zombie Demon Dragon",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/193_Kaalia's Abomination.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/212.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/176_Earthbreaker Behemoth.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/213.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/216_Sun-Sigil Ordainer.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/214.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/203_Rafiq the Magnanimous.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/215.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/164_Angel of Succor.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/216.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Legendary Artifact Creature — Wizard",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/201_Orlesia, First of the Sen.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/217.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/202_Profound Introspection.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/218.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/213_Steel Wind Goliath.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/219.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/195_Kess the Necromaster.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/220.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Creature — Zombie Beast",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/166_Arcanist's Reaver.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/221.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/186_Grixis Command.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/222.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Creature — Elemental Horror",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/180_Entrail Elemental.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/223.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/198_Meren, Bane of the Cairns.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/224.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/187_Hellion Devastator.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/225.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/223_Tumultipede.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/226.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Legendary Creature — Cat Warrior",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/221_Timus, the Cloud's Roar.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/227.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/214_Summit Guardian.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/228.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Instant",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/199_Naya Command.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/229.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Creature — Cat Druid",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/165_Antali Archdruid.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/230.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/196_Maelstrom Elemental.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/231.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/194_Kederekt Deepdweller.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/232.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Legendary Planeswalker — Edarna",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/177_Edarna the Everforge.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/233.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Legendary Planeswalker — Ajani",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/162_Ajani Resolute.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/234.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/190_Jenara, Virtue of Bant.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/235.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Legendary Artifact Creature — Sphinx",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/208_Sharuum, Archmagocrat.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/236.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/200_Nefarox, Strifelord.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/237.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/219_Tharrsus, Tyrant's Scion.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/238.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Legendary Creature — Elf Shaman",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/185_Godspeaker Mayael.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/239.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Legendary Planeswalker — Velir",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/225_Velir the Sunderer.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/240.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Enchantment",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/189_Influence of Progenitus.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/241.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/230_The Riddle Gate.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/242.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Land",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/240_Bleak Shoreline.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/243.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Land",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/246_Forbidding Isle.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/244.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Land",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/242_Charred Marsh.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/245.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Land",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/243_Cloudcover Heights.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/246.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Land",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/249_Idyllic Oasis.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/247.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Land",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/251_Kaleidoscape.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/248.png"
 			}
 		},
 		{
@@ -2497,167 +2497,167 @@
 			"type": "Artifact Creature — Bird",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/9_Cloudheath Sentinel.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/249.png"
 			}
 		},
 		{
-			"name": "blue Thopter 11ALR",
+			"name": "Thopter",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/3t_blue Thopter 11ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/250.png"
 			}
 		},
 		{
-			"name": "white Soldier 11ALR",
+			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/2t_white Soldier 11ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/251.png"
 			}
 		},
 		{
-			"name": "black Zombie 22ALR",
+			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/5t_black Zombie 22ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/252.png"
 			}
 		},
 		{
-			"name": "black Demon 44ALR",
+			"name": "Demon",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/4t_black Demon 44ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/253.png"
 			}
 		},
 		{
-			"name": "red Goblin 11ALR",
+			"name": "Goblin",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Goblin",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/6t_red Goblin 11ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/254.png"
 			}
 		},
 		{
-			"name": "green Beast 55ALR",
+			"name": "Beast",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/7t_green Beast 55ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/255.png"
 			}
 		},
 		{
-			"name": "green Saproling 11ALR",
+			"name": "Saproling",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/9t_green Saproling 11ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/256.png"
 			}
 		},
 		{
-			"name": "Etherium Cell ALR",
+			"name": "Etherium Cell",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/11t_Etherium Cell ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/257.png"
 			}
 		},
 		{
-			"name": "Elemental 88ALR",
+			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/10t_Elemental 88ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/258.png"
 			}
 		},
 		{
-			"name": "white Knight 22ALR",
+			"name": "Knight",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/1t_white Knight 22ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/259.png"
 			}
 		},
 		{
-			"name": "green Cat Warrior 22ALR",
+			"name": "Cat Warrior",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cat Warrior",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/8t_green Cat Warrior 22ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/260.png"
 			}
 		},
 		{
-			"name": "Plains_ALR",
+			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0_Plains_ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/261.png"
 			}
 		},
 		{
-			"name": "Island_ALR",
+			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0_Island_ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/262.png"
 			}
 		},
 		{
-			"name": "Swamp_ALR",
+			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0_Swamp_ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/263.png"
 			}
 		},
 		{
-			"name": "Mountain_ALR",
+			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0_Mountain_ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/264.png"
 			}
 		},
 		{
-			"name": "Forest_ALR",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0_Forest_ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/265.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Enchantment",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/179_Empyrial Reverence.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/266.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Creature — Crab",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/33_Brackwater Scuttler.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/267.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/71_Cling to Undeath.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/268.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/149_Qasali Quiverguard.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/269.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/75_Dregscape Wretch.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/270.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/168_Bant Command.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/271.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Instant",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/181_Esper Command.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/272.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Artifact Creature — Human Artificer",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/175_Duneglass Ascetic.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/273.png"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Instant",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/192_Jund Command.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/274.png"
 			}
 		},
 		{
@@ -2757,280 +2757,912 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/0_Kaalia, Sky's End.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/275.png"
 			}
 		},
 		{
-			"name": "Ajani Emblem ALR",
+			"name": "Ajani Emblem",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem — Ajani",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/12t_Ajani Emblem ALR.png"
+				"en": "https://brotein-manganiello.github.io/sets/ALR-files/img/276.png"
 			}
 		}
 	]
 
 [rare(1)]
-	5 Blessed Vanquisher
-	5 Derevi's Adjutant
-	5 Etherium Abrogator
-	5 Refulgent Rupture
-	5 Archangel of Bliss
-	5 Etherium Leviathan
-	5 Supreme Mechanothurge
-	5 Filigree Lotus
-	5 Fearful Flooding
-	5 Sphinx Paramount
-	5 Dregscape Chant
-	5 Bloodbraid Ritualist
-	5 Tidehollow Lich
-	5 Mortal Finish
-	5 Profane Emissary
-	5 Sangrite Dragon
-	5 Hellkite Omnivore
-	5 Hellspark Prankster
-	5 Maelstrom Slicer
-	5 Worldheart Avatar
-	5 Magnoceros
-	5 War-Pride Champion
-	5 Hierarch Ranger
-	5 Heart of Spores
-	5 Vitalhydra
-	5 Aether Pull
-	5 Kaalia's Abomination
-	5 Earthbreaker Behemoth
-	5 Sun-Sigil Ordainer
-	5 Rafiq the Magnanimous
-	5 Angel of Succor
-	5 Orlesia, First of the Sen
-	5 Profound Introspection
-	5 Steel Wind Goliath
-	5 Kess the Necromaster
-	5 Arcanist's Reaver
-	5 Grixis Command
-	5 Entrail Elemental
-	5 Meren, Bane of the Cairns
-	5 Hellion Devastator
-	5 Tumultipede
-	5 Timus, the Cloud's Roar
-	5 Summit Guardian
-	5 Naya Command
-	5 Antali Archdruid
-	5 Maelstrom Elemental
-	5 Kederekt Deepdweller
-	5 Edarna the Everforge
-	5 Ajani Resolute
-	5 Jenara, Virtue of Bant
-	5 Sharuum, Archmagocrat
-	5 Nefarox, Strifelord
-	5 Tharrsus, Tyrant's Scion
-	5 Godspeaker Mayael
-	5 Velir the Sunderer
-	5 Influence of Progenitus
-	5 The Riddle Gate
-	5 Bleak Shoreline
-	5 Forbidding Isle
-	5 Charred Marsh
-	5 Cloudcover Heights
-	5 Idyllic Oasis
-	5 Kaleidoscape
-	5 Empyrial Reverence
-	5 Bant Command
-	5 Esper Command
-	5 Duneglass Ascetic
-	5 Jund Command
+	2 Blessed Vanquisher
+	2 Derevi's Adjutant
+	2 Etherium Abrogator
+	2 Refulgent Rupture
+	1 Archangel of Bliss
+	2 Etherium Leviathan
+	2 Supreme Mechanothurge
+	2 Filigree Lotus
+	2 Fearful Flooding
+	1 Sphinx Paramount
+	2 Dregscape Chant
+	2 Bloodbraid Ritualist
+	2 Tidehollow Lich
+	2 Mortal Finish
+	1 Profane Emissary
+	2 Sangrite Dragon
+	2 Hellkite Omnivore
+	2 Hellspark Prankster
+	2 Maelstrom Slicer
+	1 Worldheart Avatar
+	2 Magnoceros
+	2 War-Pride Champion
+	2 Hierarch Ranger
+	2 Heart of Spores
+	1 Vitalhydra
+	2 Aether Pull
+	2 Kaalia's Abomination
+	2 Earthbreaker Behemoth
+	2 Sun-Sigil Ordainer
+	2 Rafiq the Magnanimous
+	2 Angel of Succor
+	2 Orlesia, First of the Sen
+	2 Profound Introspection
+	2 Steel Wind Goliath
+	2 Kess the Necromaster
+	2 Arcanist's Reaver
+	2 Grixis Command
+	2 Entrail Elemental
+	2 Meren, Bane of the Cairns
+	2 Hellion Devastator
+	2 Tumultipede
+	2 Timus, the Cloud's Roar
+	2 Summit Guardian
+	2 Naya Command
+	2 Antali Archdruid
+	2 Maelstrom Elemental
+	1 Kederekt Deepdweller
+	1 Edarna the Everforge
+	1 Ajani Resolute
+	1 Jenara, Virtue of Bant
+	1 Sharuum, Archmagocrat
+	1 Nefarox, Strifelord
+	1 Tharrsus, Tyrant's Scion
+	1 Godspeaker Mayael
+	1 Velir the Sunderer
+	1 Influence of Progenitus
+	2 The Riddle Gate
+	2 Bleak Shoreline
+	2 Forbidding Isle
+	2 Charred Marsh
+	2 Cloudcover Heights
+	2 Idyllic Oasis
+	2 Kaleidoscape
+	2 Empyrial Reverence
+	2 Bant Command
+	2 Esper Command
+	2 Duneglass Ascetic
+	2 Jund Command
 [uncommon(3)]
-	5 Herald of the White Orchid
-	5 Etlan High Priest
-	5 Citadel Battlemage
-	5 Eos Beseecher
-	5 Bant Shardseeker
-	5 Amesha of the Honorable
-	5 Sigil of the Many
-	5 Etherium Staff
-	5 Ostracizer Orb
-	5 Unbeholden Navigator
-	5 Cognition Crucible
-	5 Sanctum Battlemage
-	5 Esper Shardseeker
-	5 Vectis Entrancer
-	5 Wayward Sphinx
-	5 Maelstromancy
-	5 Vibrant Expulsion
-	5 Disturb the Riddle Gate
-	5 Dissident's Vortex
-	5 Sedraxis Trepanator
-	5 Necropolis Battlemage
-	5 Grixis Shardseeker
-	5 Bloated Visceroid
-	5 Ravenous Tarwurm
-	5 Scrap Spiral
-	5 Exenterate
-	5 Obscene Recitation
-	5 Shining Revival
-	5 Demonic Rite
-	5 Nacatl Skirmisher
-	5 Savage Battlemage
-	5 Viashino Glutton
-	5 Vithian Arcanist
-	5 Jund Shardseeker
-	5 Mist-Valley Minotaurs
-	5 Scaleshredder
-	5 Hellkite's Decree
-	5 Vigor from the Vein
-	5 Bask in Fire
-	5 Jungle Battlemage
-	5 Thoctar Yearling
-	5 Naya Shardseeker
-	5 Veteran Horncaptain
-	5 Knotvine Preserver
-	5 Regurgitator Ooze
-	5 Mist-Valley Ancient
-	5 Worldheart Nexus
-	5 Fungal Flourishing
-	5 Overpower
-	5 Aven Strategist
-	5 Telemin Architect
-	5 Visitarium Smuggler
-	5 Scatter What Remains
-	5 Edarna's Augurling
-	5 Magmatic Violator
-	5 Tremor Seer
-	5 Scorchpass Sovereign
-	5 Sun-Dappled Paragon
-	5 Tendrilsnare
-	5 Jenara's Favor
-	5 Giltspire Exemplar
-	5 Sharuum's Council
-	5 Ethersworn Indoctrination
-	5 Corpsemound
-	5 Sedraxis Scourge
-	5 Thrinax Sporemother
-	5 Ambush Gharial
-	5 Bellowing Thoctar
-	5 Behemoth Channeler
-	5 Conflux Ravager
-	5 Rings of New Alara
-	5 Font of Nefarox
-	5 Sigil of the Skyward Eye
-	5 Macabre Effigy
-	5 Seaside Citadel
-	5 Arcane Sanctum
-	5 Crumbling Necropolis
-	5 Savage Lands
-	5 Jungle Shrine
-	5 Cloudheath Sentinel
-[common(10)]
-	5 Paladin's Attendant
-	5 Ajani's Advocate
-	5 Valeron Vanguard
-	5 Topan Curemaster
-	5 Cloud's Roar Avenger
-	5 Akrasan Sentry
-	5 Reliquary Rhox
-	5 Meticulous Mechanist
-	5 Dawnray Castellan
-	5 Skygrid Surveyor
-	5 Gleamhorn Gargantuan
-	5 Radiant Resolve
-	5 Recraft in Steel
-	5 Dominator's Diadem
-	5 Sunstrike
-	5 Blessed Radiance
-	5 Pledge of Peace
-	5 Etherium Sculptor
-	5 Jhessian Cavalier
-	5 Kederekt Seawitch
-	5 Steel Wind Strix
-	5 Retinue Golem
-	5 Serul Cove Escort
-	5 Filigree Drake
-	5 Steelfin Manta
-	5 Mage's Warding
-	5 Terraformer's Globe
-	5 Essence Erasure
-	5 Disperse
-	5 Hallucinate
-	5 Subduing Serum
-	5 Fathom the Forbidden
-	5 Clairvoyant Insight
-	5 Nel Toth Shaman
-	5 Hegemon's Cutthroat
-	5 Hexcaster of Unx
-	5 Cesspool Scrapper
-	5 Hostile Barbfly
-	5 Thunderscorn
-	5 Carnage Gorger
-	5 Unearth
-	5 Sangrite Ooze
-	5 Sculler's Oar
-	5 Bone Splinters_ALR
-	5 Dire Predictions
-	5 Perilous Sojourn
-	5 Omen of Nefarox
-	5 Agonizing Syphon
-	5 Chromeleon
-	5 Torchlight Tormentor
-	5 Fodder Goblins
-	5 Sadistic Sparkmage
-	5 Frenzied Nacatl
-	5 Dagger-Thrash Marauders
-	5 Volcano Elemental
-	5 Reinbreaker Behemoth
-	5 Lava Hellions
-	5 Cantankeroth
-	5 Magma Spray
-	5 Ragemist
-	5 Pain's Embrace
-	5 Ominous Lightning
-	5 Infernal Flames
-	5 Calamitous Rampage
-	5 Make Way
-	5 Thallid Cultivator
-	5 Conduit of the Conflux
-	5 Elvish Godtracker
-	5 Leotau Rider
-	5 Flesheater Vine
-	5 Exuberant Hunter
-	5 Knight of the Olive Orchard
-	5 Flarespore Mycoid
-	5 Towering Silkweaver
-	5 Gargantuan Crusher
-	5 Titanothoctar
-	5 Lichen's Grasp
-	5 Sigil of Fortitude
-	5 Fletcher's Precision
-	5 Tranquil Repose
-	5 Canopy Assault
-	5 Sighted-Caste Knight
-	5 Sphinx's Scrutiny
-	5 Spinebreak
-	5 Brutal Struggle
-	5 Sacellum Visionary
-	5 Celebrant of Jubilation
-	5 Ethersworn Elite
-	5 Incantation Demon
-	5 Varakna Wurm
-	5 Ziggurat Behemoth
-	5 Spire of Bant
-	5 Spire of Esper
-	5 Spire of Grixis
-	5 Spire of Jund
-	5 Spire of Naya
-	5 Sculpted Observatory
-	5 Gloomtide Gulf
-	5 Erupting Territory
-	5 Bigroot Valley
-	5 Peaceful Passage
-	5 Somber Meadow
-	5 Twisting Fissure
-	5 Caustic Mangrove
-	5 Hazy Summits
-	5 Lush Coast
-	5 Terramorphic Expanse
-	5 Brackwater Scuttler
-	5 Cling to Undeath
-	5 Qasali Quiverguard
-	5 Dregscape Wretch
+	4 Herald of the White Orchid
+	4 Etlan High Priest
+	4 Citadel Battlemage
+	4 Eos Beseecher
+	4 Bant Shardseeker
+	4 Amesha of the Honorable
+	4 Sigil of the Many
+	4 Etherium Staff
+	4 Ostracizer Orb
+	4 Unbeholden Navigator
+	4 Cognition Crucible
+	4 Sanctum Battlemage
+	4 Esper Shardseeker
+	4 Vectis Entrancer
+	4 Wayward Sphinx
+	4 Maelstromancy
+	4 Vibrant Expulsion
+	4 Disturb the Riddle Gate
+	4 Dissident's Vortex
+	4 Sedraxis Trepanator
+	4 Necropolis Battlemage
+	4 Grixis Shardseeker
+	4 Bloated Visceroid
+	4 Ravenous Tarwurm
+	4 Scrap Spiral
+	4 Exenterate
+	4 Obscene Recitation
+	4 Shining Revival
+	4 Demonic Rite
+	4 Nacatl Skirmisher
+	4 Savage Battlemage
+	4 Viashino Glutton
+	4 Vithian Arcanist
+	4 Jund Shardseeker
+	4 Mist-Valley Minotaurs
+	4 Scaleshredder
+	4 Hellkite's Decree
+	4 Vigor from the Vein
+	4 Bask in Fire
+	4 Jungle Battlemage
+	4 Thoctar Yearling
+	4 Naya Shardseeker
+	4 Veteran Horncaptain
+	4 Knotvine Preserver
+	4 Regurgitator Ooze
+	4 Mist-Valley Ancient
+	4 Worldheart Nexus
+	4 Fungal Flourishing
+	4 Overpower
+	4 Aven Strategist
+	4 Telemin Architect
+	4 Visitarium Smuggler
+	4 Scatter What Remains
+	4 Edarna's Augurling
+	4 Magmatic Violator
+	4 Tremor Seer
+	4 Scorchpass Sovereign
+	4 Sun-Dappled Paragon
+	4 Tendrilsnare
+	4 Jenara's Favor
+	4 Giltspire Exemplar
+	4 Sharuum's Council
+	4 Ethersworn Indoctrination
+	4 Corpsemound
+	4 Sedraxis Scourge
+	4 Thrinax Sporemother
+	4 Ambush Gharial
+	4 Bellowing Thoctar
+	4 Behemoth Channeler
+	4 Conflux Ravager
+	4 Rings of New Alara
+	4 Font of Nefarox
+	4 Sigil of the Skyward Eye
+	4 Macabre Effigy
+	4 Seaside Citadel
+	4 Arcane Sanctum
+	4 Crumbling Necropolis
+	4 Savage Lands
+	4 Jungle Shrine
+	4 Cloudheath Sentinel
+[common(6)]
+	8 Paladin's Attendant
+	8 Ajani's Advocate
+	8 Valeron Vanguard
+	8 Topan Curemaster
+	8 Cloud's Roar Avenger
+	8 Akrasan Sentry
+	8 Reliquary Rhox
+	8 Meticulous Mechanist
+	8 Dawnray Castellan
+	8 Skygrid Surveyor
+	8 Gleamhorn Gargantuan
+	8 Radiant Resolve
+	8 Recraft in Steel
+	8 Dominator's Diadem
+	8 Sunstrike
+	8 Blessed Radiance
+	8 Pledge of Peace
+	8 Etherium Sculptor
+	8 Jhessian Cavalier
+	8 Kederekt Seawitch
+	8 Steel Wind Strix
+	8 Retinue Golem
+	8 Serul Cove Escort
+	8 Filigree Drake
+	8 Steelfin Manta
+	8 Mage's Warding
+	8 Terraformer's Globe
+	8 Essence Erasure
+	8 Disperse
+	8 Hallucinate
+	8 Subduing Serum
+	8 Fathom the Forbidden
+	8 Clairvoyant Insight
+	8 Nel Toth Shaman
+	8 Hegemon's Cutthroat
+	8 Hexcaster of Unx
+	8 Cesspool Scrapper
+	8 Hostile Barbfly
+	8 Thunderscorn
+	8 Carnage Gorger
+	8 Unearth
+	8 Sangrite Ooze
+	8 Sculler's Oar
+	8 Bone Splinters
+	8 Dire Predictions
+	8 Perilous Sojourn
+	8 Omen of Nefarox
+	8 Agonizing Syphon
+	8 Chromeleon
+	8 Torchlight Tormentor
+	8 Fodder Goblins
+	8 Sadistic Sparkmage
+	8 Frenzied Nacatl
+	8 Dagger-Thrash Marauders
+	8 Volcano Elemental
+	8 Reinbreaker Behemoth
+	8 Lava Hellions
+	8 Cantankeroth
+	8 Magma Spray
+	8 Ragemist
+	8 Pain's Embrace
+	8 Ominous Lightning
+	8 Infernal Flames
+	8 Calamitous Rampage
+	8 Make Way
+	8 Thallid Cultivator
+	8 Conduit of the Conflux
+	8 Elvish Godtracker
+	8 Leotau Rider
+	8 Flesheater Vine
+	8 Exuberant Hunter
+	8 Knight of the Olive Orchard
+	8 Flarespore Mycoid
+	8 Towering Silkweaver
+	8 Gargantuan Crusher
+	8 Titanothoctar
+	8 Lichen's Grasp
+	8 Sigil of Fortitude
+	8 Fletcher's Precision
+	8 Tranquil Repose
+	8 Canopy Assault
+	8 Sighted-Caste Knight
+	8 Sphinx's Scrutiny
+	8 Spinebreak
+	8 Brutal Struggle
+	8 Sacellum Visionary
+	8 Celebrant of Jubilation
+	8 Ethersworn Elite
+	8 Incantation Demon
+	8 Varakna Wurm
+	8 Ziggurat Behemoth
+	8 Spire of Bant
+	8 Spire of Esper
+	8 Spire of Grixis
+	8 Spire of Jund
+	8 Spire of Naya
+	8 Sculpted Observatory
+	8 Gloomtide Gulf
+	8 Erupting Territory
+	8 Bigroot Valley
+	8 Peaceful Passage
+	8 Somber Meadow
+	8 Twisting Fissure
+	8 Caustic Mangrove
+	8 Hazy Summits
+	8 Lush Coast
+	8 Terramorphic Expanse
+	8 Brackwater Scuttler
+	8 Cling to Undeath
+	8 Qasali Quiverguard
+	8 Dregscape Wretch
+[common | masterpiece(1)]
+	8 Paladin's Attendant
+	8 Ajani's Advocate
+	8 Valeron Vanguard
+	8 Topan Curemaster
+	8 Cloud's Roar Avenger
+	8 Akrasan Sentry
+	8 Reliquary Rhox
+	8 Meticulous Mechanist
+	8 Dawnray Castellan
+	8 Skygrid Surveyor
+	8 Gleamhorn Gargantuan
+	8 Radiant Resolve
+	8 Recraft in Steel
+	8 Dominator's Diadem
+	8 Sunstrike
+	8 Blessed Radiance
+	8 Pledge of Peace
+	8 Etherium Sculptor
+	8 Jhessian Cavalier
+	8 Kederekt Seawitch
+	8 Steel Wind Strix
+	8 Retinue Golem
+	8 Serul Cove Escort
+	8 Filigree Drake
+	8 Steelfin Manta
+	8 Mage's Warding
+	8 Terraformer's Globe
+	8 Essence Erasure
+	8 Disperse
+	8 Hallucinate
+	8 Subduing Serum
+	8 Fathom the Forbidden
+	8 Clairvoyant Insight
+	8 Nel Toth Shaman
+	8 Hegemon's Cutthroat
+	8 Hexcaster of Unx
+	8 Cesspool Scrapper
+	8 Hostile Barbfly
+	8 Thunderscorn
+	8 Carnage Gorger
+	8 Unearth
+	8 Sangrite Ooze
+	8 Sculler's Oar
+	8 Bone Splinters
+	8 Dire Predictions
+	8 Perilous Sojourn
+	8 Omen of Nefarox
+	8 Agonizing Syphon
+	8 Chromeleon
+	8 Torchlight Tormentor
+	8 Fodder Goblins
+	8 Sadistic Sparkmage
+	8 Frenzied Nacatl
+	8 Dagger-Thrash Marauders
+	8 Volcano Elemental
+	8 Reinbreaker Behemoth
+	8 Lava Hellions
+	8 Cantankeroth
+	8 Magma Spray
+	8 Ragemist
+	8 Pain's Embrace
+	8 Ominous Lightning
+	8 Infernal Flames
+	8 Calamitous Rampage
+	8 Make Way
+	8 Thallid Cultivator
+	8 Conduit of the Conflux
+	8 Elvish Godtracker
+	8 Leotau Rider
+	8 Flesheater Vine
+	8 Exuberant Hunter
+	8 Knight of the Olive Orchard
+	8 Flarespore Mycoid
+	8 Towering Silkweaver
+	8 Gargantuan Crusher
+	8 Titanothoctar
+	8 Lichen's Grasp
+	8 Sigil of Fortitude
+	8 Fletcher's Precision
+	8 Tranquil Repose
+	8 Canopy Assault
+	8 Sighted-Caste Knight
+	8 Sphinx's Scrutiny
+	8 Spinebreak
+	8 Brutal Struggle
+	8 Sacellum Visionary
+	8 Celebrant of Jubilation
+	8 Ethersworn Elite
+	8 Incantation Demon
+	8 Varakna Wurm
+	8 Ziggurat Behemoth
+	8 Spire of Bant
+	8 Spire of Esper
+	8 Spire of Grixis
+	8 Spire of Jund
+	8 Spire of Naya
+	8 Sculpted Observatory
+	8 Gloomtide Gulf
+	8 Erupting Territory
+	8 Bigroot Valley
+	8 Peaceful Passage
+	8 Somber Meadow
+	8 Twisting Fissure
+	8 Caustic Mangrove
+	8 Hazy Summits
+	8 Lush Coast
+	8 Terramorphic Expanse
+	8 Brackwater Scuttler
+	8 Cling to Undeath
+	8 Qasali Quiverguard
+	8 Dregscape Wretch
+[foil(1)]
+	12 Paladin's Attendant
+	12 Ajani's Advocate
+	12 Valeron Vanguard
+	12 Topan Curemaster
+	12 Cloud's Roar Avenger
+	12 Akrasan Sentry
+	12 Reliquary Rhox
+	12 Meticulous Mechanist
+	12 Dawnray Castellan
+	12 Skygrid Surveyor
+	12 Gleamhorn Gargantuan
+	12 Radiant Resolve
+	12 Recraft in Steel
+	12 Dominator's Diadem
+	12 Sunstrike
+	12 Blessed Radiance
+	12 Pledge of Peace
+	6 Herald of the White Orchid
+	6 Etlan High Priest
+	6 Citadel Battlemage
+	6 Eos Beseecher
+	6 Bant Shardseeker
+	6 Amesha of the Honorable
+	6 Sigil of the Many
+	6 Etherium Staff
+	6 Ostracizer Orb
+	12 Etherium Sculptor
+	12 Jhessian Cavalier
+	12 Kederekt Seawitch
+	12 Steel Wind Strix
+	12 Retinue Golem
+	12 Serul Cove Escort
+	12 Filigree Drake
+	12 Steelfin Manta
+	12 Mage's Warding
+	12 Terraformer's Globe
+	12 Essence Erasure
+	12 Disperse
+	12 Hallucinate
+	12 Subduing Serum
+	12 Fathom the Forbidden
+	12 Clairvoyant Insight
+	6 Unbeholden Navigator
+	6 Cognition Crucible
+	6 Sanctum Battlemage
+	6 Esper Shardseeker
+	6 Vectis Entrancer
+	6 Wayward Sphinx
+	6 Maelstromancy
+	6 Vibrant Expulsion
+	6 Disturb the Riddle Gate
+	6 Dissident's Vortex
+	12 Nel Toth Shaman
+	12 Hegemon's Cutthroat
+	12 Hexcaster of Unx
+	12 Cesspool Scrapper
+	12 Hostile Barbfly
+	12 Thunderscorn
+	12 Carnage Gorger
+	12 Unearth
+	12 Sangrite Ooze
+	12 Sculler's Oar
+	12 Bone Splinters
+	12 Dire Predictions
+	12 Perilous Sojourn
+	12 Omen of Nefarox
+	12 Agonizing Syphon
+	6 Sedraxis Trepanator
+	6 Necropolis Battlemage
+	6 Grixis Shardseeker
+	6 Bloated Visceroid
+	6 Ravenous Tarwurm
+	6 Scrap Spiral
+	6 Exenterate
+	6 Obscene Recitation
+	6 Shining Revival
+	6 Demonic Rite
+	12 Chromeleon
+	12 Torchlight Tormentor
+	12 Fodder Goblins
+	12 Sadistic Sparkmage
+	12 Frenzied Nacatl
+	12 Dagger-Thrash Marauders
+	12 Volcano Elemental
+	12 Reinbreaker Behemoth
+	12 Lava Hellions
+	12 Cantankeroth
+	12 Magma Spray
+	12 Ragemist
+	12 Pain's Embrace
+	12 Ominous Lightning
+	12 Infernal Flames
+	12 Calamitous Rampage
+	12 Make Way
+	6 Nacatl Skirmisher
+	6 Savage Battlemage
+	6 Viashino Glutton
+	6 Vithian Arcanist
+	6 Jund Shardseeker
+	6 Mist-Valley Minotaurs
+	6 Scaleshredder
+	6 Hellkite's Decree
+	6 Vigor from the Vein
+	6 Bask in Fire
+	12 Thallid Cultivator
+	12 Conduit of the Conflux
+	12 Elvish Godtracker
+	12 Leotau Rider
+	12 Flesheater Vine
+	12 Exuberant Hunter
+	12 Knight of the Olive Orchard
+	12 Flarespore Mycoid
+	12 Towering Silkweaver
+	12 Gargantuan Crusher
+	12 Titanothoctar
+	12 Lichen's Grasp
+	12 Sigil of Fortitude
+	12 Fletcher's Precision
+	12 Tranquil Repose
+	12 Canopy Assault
+	6 Jungle Battlemage
+	6 Thoctar Yearling
+	6 Naya Shardseeker
+	6 Veteran Horncaptain
+	6 Knotvine Preserver
+	6 Regurgitator Ooze
+	6 Mist-Valley Ancient
+	6 Worldheart Nexus
+	6 Fungal Flourishing
+	6 Overpower
+	12 Sighted-Caste Knight
+	12 Sphinx's Scrutiny
+	12 Spinebreak
+	12 Brutal Struggle
+	12 Sacellum Visionary
+	12 Celebrant of Jubilation
+	12 Ethersworn Elite
+	12 Incantation Demon
+	12 Varakna Wurm
+	12 Ziggurat Behemoth
+	6 Aven Strategist
+	6 Telemin Architect
+	6 Visitarium Smuggler
+	6 Scatter What Remains
+	6 Edarna's Augurling
+	6 Magmatic Violator
+	6 Tremor Seer
+	6 Scorchpass Sovereign
+	6 Sun-Dappled Paragon
+	6 Tendrilsnare
+	6 Jenara's Favor
+	6 Giltspire Exemplar
+	6 Sharuum's Council
+	6 Ethersworn Indoctrination
+	6 Corpsemound
+	6 Sedraxis Scourge
+	6 Thrinax Sporemother
+	6 Ambush Gharial
+	6 Bellowing Thoctar
+	6 Behemoth Channeler
+	6 Conflux Ravager
+	12 Spire of Bant
+	12 Spire of Esper
+	12 Spire of Grixis
+	12 Spire of Jund
+	12 Spire of Naya
+	6 Rings of New Alara
+	6 Font of Nefarox
+	6 Sigil of the Skyward Eye
+	6 Macabre Effigy
+	12 Sculpted Observatory
+	12 Gloomtide Gulf
+	12 Erupting Territory
+	12 Bigroot Valley
+	12 Peaceful Passage
+	12 Somber Meadow
+	12 Twisting Fissure
+	12 Caustic Mangrove
+	12 Hazy Summits
+	12 Lush Coast
+	12 Terramorphic Expanse
+	6 Seaside Citadel
+	6 Arcane Sanctum
+	6 Crumbling Necropolis
+	6 Savage Lands
+	6 Jungle Shrine
+	2 Blessed Vanquisher
+	2 Derevi's Adjutant
+	2 Etherium Abrogator
+	2 Refulgent Rupture
+	1 Archangel of Bliss
+	2 Etherium Leviathan
+	2 Supreme Mechanothurge
+	2 Filigree Lotus
+	2 Fearful Flooding
+	1 Sphinx Paramount
+	2 Dregscape Chant
+	2 Bloodbraid Ritualist
+	2 Tidehollow Lich
+	2 Mortal Finish
+	1 Profane Emissary
+	2 Sangrite Dragon
+	2 Hellkite Omnivore
+	2 Hellspark Prankster
+	2 Maelstrom Slicer
+	1 Worldheart Avatar
+	2 Magnoceros
+	2 War-Pride Champion
+	2 Hierarch Ranger
+	2 Heart of Spores
+	1 Vitalhydra
+	2 Aether Pull
+	2 Kaalia's Abomination
+	2 Earthbreaker Behemoth
+	2 Sun-Sigil Ordainer
+	2 Rafiq the Magnanimous
+	2 Angel of Succor
+	2 Orlesia, First of the Sen
+	2 Profound Introspection
+	2 Steel Wind Goliath
+	2 Kess the Necromaster
+	2 Arcanist's Reaver
+	2 Grixis Command
+	2 Entrail Elemental
+	2 Meren, Bane of the Cairns
+	2 Hellion Devastator
+	2 Tumultipede
+	2 Timus, the Cloud's Roar
+	2 Summit Guardian
+	2 Naya Command
+	2 Antali Archdruid
+	2 Maelstrom Elemental
+	1 Kederekt Deepdweller
+	1 Edarna the Everforge
+	1 Ajani Resolute
+	1 Jenara, Virtue of Bant
+	1 Sharuum, Archmagocrat
+	1 Nefarox, Strifelord
+	1 Tharrsus, Tyrant's Scion
+	1 Godspeaker Mayael
+	1 Velir the Sunderer
+	1 Influence of Progenitus
+	2 The Riddle Gate
+	2 Bleak Shoreline
+	2 Forbidding Isle
+	2 Charred Marsh
+	2 Cloudcover Heights
+	2 Idyllic Oasis
+	2 Kaleidoscape
+	6 Cloudheath Sentinel
+	2 Empyrial Reverence
+	12 Brackwater Scuttler
+	12 Cling to Undeath
+	12 Qasali Quiverguard
+	12 Dregscape Wretch
+	2 Bant Command
+	2 Esper Command
+	2 Duneglass Ascetic
+	2 Jund Command
+[wildcard(1)]
+	6 Paladin's Attendant
+	6 Ajani's Advocate
+	6 Valeron Vanguard
+	6 Topan Curemaster
+	6 Cloud's Roar Avenger
+	6 Akrasan Sentry
+	6 Reliquary Rhox
+	6 Meticulous Mechanist
+	6 Dawnray Castellan
+	6 Skygrid Surveyor
+	6 Gleamhorn Gargantuan
+	6 Radiant Resolve
+	6 Recraft in Steel
+	6 Dominator's Diadem
+	6 Sunstrike
+	6 Blessed Radiance
+	6 Pledge of Peace
+	15 Herald of the White Orchid
+	15 Etlan High Priest
+	15 Citadel Battlemage
+	15 Eos Beseecher
+	15 Bant Shardseeker
+	15 Amesha of the Honorable
+	15 Sigil of the Many
+	15 Etherium Staff
+	15 Ostracizer Orb
+	6 Etherium Sculptor
+	6 Jhessian Cavalier
+	6 Kederekt Seawitch
+	6 Steel Wind Strix
+	6 Retinue Golem
+	6 Serul Cove Escort
+	6 Filigree Drake
+	6 Steelfin Manta
+	6 Mage's Warding
+	6 Terraformer's Globe
+	6 Essence Erasure
+	6 Disperse
+	6 Hallucinate
+	6 Subduing Serum
+	6 Fathom the Forbidden
+	6 Clairvoyant Insight
+	15 Unbeholden Navigator
+	15 Cognition Crucible
+	15 Sanctum Battlemage
+	15 Esper Shardseeker
+	15 Vectis Entrancer
+	15 Wayward Sphinx
+	15 Maelstromancy
+	15 Vibrant Expulsion
+	15 Disturb the Riddle Gate
+	15 Dissident's Vortex
+	6 Nel Toth Shaman
+	6 Hegemon's Cutthroat
+	6 Hexcaster of Unx
+	6 Cesspool Scrapper
+	6 Hostile Barbfly
+	6 Thunderscorn
+	6 Carnage Gorger
+	6 Unearth
+	6 Sangrite Ooze
+	6 Sculler's Oar
+	6 Bone Splinters
+	6 Dire Predictions
+	6 Perilous Sojourn
+	6 Omen of Nefarox
+	6 Agonizing Syphon
+	15 Sedraxis Trepanator
+	15 Necropolis Battlemage
+	15 Grixis Shardseeker
+	15 Bloated Visceroid
+	15 Ravenous Tarwurm
+	15 Scrap Spiral
+	15 Exenterate
+	15 Obscene Recitation
+	15 Shining Revival
+	15 Demonic Rite
+	6 Chromeleon
+	6 Torchlight Tormentor
+	6 Fodder Goblins
+	6 Sadistic Sparkmage
+	6 Frenzied Nacatl
+	6 Dagger-Thrash Marauders
+	6 Volcano Elemental
+	6 Reinbreaker Behemoth
+	6 Lava Hellions
+	6 Cantankeroth
+	6 Magma Spray
+	6 Ragemist
+	6 Pain's Embrace
+	6 Ominous Lightning
+	6 Infernal Flames
+	6 Calamitous Rampage
+	6 Make Way
+	15 Nacatl Skirmisher
+	15 Savage Battlemage
+	15 Viashino Glutton
+	15 Vithian Arcanist
+	15 Jund Shardseeker
+	15 Mist-Valley Minotaurs
+	15 Scaleshredder
+	15 Hellkite's Decree
+	15 Vigor from the Vein
+	15 Bask in Fire
+	6 Thallid Cultivator
+	6 Conduit of the Conflux
+	6 Elvish Godtracker
+	6 Leotau Rider
+	6 Flesheater Vine
+	6 Exuberant Hunter
+	6 Knight of the Olive Orchard
+	6 Flarespore Mycoid
+	6 Towering Silkweaver
+	6 Gargantuan Crusher
+	6 Titanothoctar
+	6 Lichen's Grasp
+	6 Sigil of Fortitude
+	6 Fletcher's Precision
+	6 Tranquil Repose
+	6 Canopy Assault
+	15 Jungle Battlemage
+	15 Thoctar Yearling
+	15 Naya Shardseeker
+	15 Veteran Horncaptain
+	15 Knotvine Preserver
+	15 Regurgitator Ooze
+	15 Mist-Valley Ancient
+	15 Worldheart Nexus
+	15 Fungal Flourishing
+	15 Overpower
+	6 Sighted-Caste Knight
+	6 Sphinx's Scrutiny
+	6 Spinebreak
+	6 Brutal Struggle
+	6 Sacellum Visionary
+	6 Celebrant of Jubilation
+	6 Ethersworn Elite
+	6 Incantation Demon
+	6 Varakna Wurm
+	6 Ziggurat Behemoth
+	15 Aven Strategist
+	15 Telemin Architect
+	15 Visitarium Smuggler
+	15 Scatter What Remains
+	15 Edarna's Augurling
+	15 Magmatic Violator
+	15 Tremor Seer
+	15 Scorchpass Sovereign
+	15 Sun-Dappled Paragon
+	15 Tendrilsnare
+	15 Jenara's Favor
+	15 Giltspire Exemplar
+	15 Sharuum's Council
+	15 Ethersworn Indoctrination
+	15 Corpsemound
+	15 Sedraxis Scourge
+	15 Thrinax Sporemother
+	15 Ambush Gharial
+	15 Bellowing Thoctar
+	15 Behemoth Channeler
+	15 Conflux Ravager
+	6 Spire of Bant
+	6 Spire of Esper
+	6 Spire of Grixis
+	6 Spire of Jund
+	6 Spire of Naya
+	15 Rings of New Alara
+	15 Font of Nefarox
+	15 Sigil of the Skyward Eye
+	15 Macabre Effigy
+	6 Sculpted Observatory
+	6 Gloomtide Gulf
+	6 Erupting Territory
+	6 Bigroot Valley
+	6 Peaceful Passage
+	6 Somber Meadow
+	6 Twisting Fissure
+	6 Caustic Mangrove
+	6 Hazy Summits
+	6 Lush Coast
+	6 Terramorphic Expanse
+	15 Seaside Citadel
+	15 Arcane Sanctum
+	15 Crumbling Necropolis
+	15 Savage Lands
+	15 Jungle Shrine
+	7 Blessed Vanquisher
+	7 Derevi's Adjutant
+	7 Etherium Abrogator
+	7 Refulgent Rupture
+	4 Archangel of Bliss
+	7 Etherium Leviathan
+	7 Supreme Mechanothurge
+	7 Filigree Lotus
+	7 Fearful Flooding
+	4 Sphinx Paramount
+	7 Dregscape Chant
+	7 Bloodbraid Ritualist
+	7 Tidehollow Lich
+	7 Mortal Finish
+	4 Profane Emissary
+	7 Sangrite Dragon
+	7 Hellkite Omnivore
+	7 Hellspark Prankster
+	7 Maelstrom Slicer
+	4 Worldheart Avatar
+	7 Magnoceros
+	7 War-Pride Champion
+	7 Hierarch Ranger
+	7 Heart of Spores
+	4 Vitalhydra
+	7 Aether Pull
+	7 Kaalia's Abomination
+	7 Earthbreaker Behemoth
+	7 Sun-Sigil Ordainer
+	7 Rafiq the Magnanimous
+	7 Angel of Succor
+	7 Orlesia, First of the Sen
+	7 Profound Introspection
+	7 Steel Wind Goliath
+	7 Kess the Necromaster
+	7 Arcanist's Reaver
+	7 Grixis Command
+	7 Entrail Elemental
+	7 Meren, Bane of the Cairns
+	7 Hellion Devastator
+	7 Tumultipede
+	7 Timus, the Cloud's Roar
+	7 Summit Guardian
+	7 Naya Command
+	7 Antali Archdruid
+	7 Maelstrom Elemental
+	4 Kederekt Deepdweller
+	4 Edarna the Everforge
+	4 Ajani Resolute
+	4 Jenara, Virtue of Bant
+	4 Sharuum, Archmagocrat
+	4 Nefarox, Strifelord
+	4 Tharrsus, Tyrant's Scion
+	4 Godspeaker Mayael
+	4 Velir the Sunderer
+	4 Influence of Progenitus
+	7 The Riddle Gate
+	7 Bleak Shoreline
+	7 Forbidding Isle
+	7 Charred Marsh
+	7 Cloudcover Heights
+	7 Idyllic Oasis
+	7 Kaleidoscape
+	15 Cloudheath Sentinel
+	7 Empyrial Reverence
+	6 Brackwater Scuttler
+	6 Cling to Undeath
+	6 Qasali Quiverguard
+	6 Dregscape Wretch
+	7 Bant Command
+	7 Esper Command
+	7 Duneglass Ascetic
+	7 Jund Command

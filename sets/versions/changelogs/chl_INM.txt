@@ -1,4 +1,1368 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Cobblespook
+rules_text: Flash
+Flying
+When Cobblespook enters, tap target artifact or creature an opponent controls. => Flash
+Flying
+When this creature enters, tap target artifact or creature an opponent controls.
+
+Drogskol Possessor
+
+Avacyn's Partisan
+cost: {2}{W} => {1}{W}
+rules_text: At the beginning of your end step, if you control two or more artifacts and/or enchantments, transform Avacyn's Partisan. => At the beginning of your first main phase, if you control two or more artifacts and/or enchantments, transform this creature.
+pt: 2/3 => 2/2
+
+Stalwart Cathar
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Stalwart Cathar and at least two other creatures attack, Stalwart Cathar gets +2/+0 until end of turn. Untap it. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever this creature and at least two other creatures attack, this creature gets +2/+0 until end of turn. Untap it.
+
+Departed Butler
+rules_text: Flying
+When Departed Butler enters, draw a card. => Flying
+When this creature enters, draw a card.
+
+Harvesttide Healer
+
+Loyal Retriever
+rules_text: When Loyal Retriever dies, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+Foreshadow {5}{W} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+Foreshadow {5}{W} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Sigarda's Shepherd
+rules_text: Flying
+When Sigarda's Shepherd enters, another target creature you control gets +1/+1 and gains indestructible until end of turn. => Flying
+When this creature enters, another target creature you control gets +1/+1 and gains indestructible until end of turn.
+
+Candlecrown Stag
+rules_text: When Candlecrown Stag enters, choose one or both —
+• Exile target card from a graveyard.
+• You gain 3 life. => When this creature enters, choose one or both —
+• Exile target card from a graveyard.
+• You gain 3 life.
+
+Weizenmother
+rules_text: When Weizenmother enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Moonscythe
+rules_text: When Moonscythe enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +2/+2.
+Equip {4} [i]({4}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +2/+2.
+Equip {4} [i]({4}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Subdue the Monster
+
+Alert the Village
+
+Flawless Finesse
+
+Spectral Salvo
+
+Breaking Dawn
+
+Lifted Spirits
+rules_text: Enchant creature
+When Lifted Spirits enters, create a 1/1 white Spirit creature token with flying.
+Enchanted creature gets +1/+1 and has flying. => Enchant creature
+When this Aura enters, create a 1/1 white Spirit creature token with flying.
+Enchanted creature gets +1/+1 and has flying.
+
+Frightful Visitation
+
+Slayer's Grimoire
+type: Artifact => Artifact — Book
+rules_text: When Slayer's Grimoire enters, exile target non-Human creature an opponent controls until Slayer's Grimoire leaves the battlefield.
+{2}{W}, {T}: You gain 2 life. => When this artifact enters, exile target non-Human creature an opponent controls until this artifact leaves the battlefield.
+{2}{W}, {T}: You gain 2 life.
+
+Puresoul Possessor
+
+Blessed Bladewright
+rules_text: When Blessed Bladewright enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever an Equipment token you control enters, attach it to up to one target creature you control. => When this creature enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever an Equipment token you control enters, attach it to up to one target creature you control.
+
+Thraben Redeemer
+rules_text: Flash
+When Thraben Redeemer enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. => Flash
+When this creature enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.
+
+Silverblade Cathar
+rules_text: First strike
+Whenever Silverblade Cathar and at least two other creatures attack, draw a card. => First strike
+Whenever this creature and at least two other creatures attack, draw a card.
+
+Haunted Waif
+rules_text: Vigilance
+At the beginning of your end step, if you control two or more Spirits and/or creatures with flying, transform Haunted Waif. => Vigilance
+At the beginning of your end step, if you control two or more Spirits and/or creatures with flying, transform this creature.
+
+Cathedral Gargoyle
+rules_text: Flying
+When Cathedral Gargoyle dies, you gain 2 life and create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Foreshadow {4}{W} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying
+When this creature dies, you gain 2 life and create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Foreshadow {4}{W} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Righteous Chaplain
+rules_text: Other Humans you control get +1/+1.
+Whenever Righteous Chaplain or another Human you control enters, tap target creature an opponent controls. => Other Humans you control get +1/+1.
+Whenever this creature or another Human you control enters, tap target creature an opponent controls.
+
+Angel of Sunrise
+rules_text: This spell costs {X} less to cast, where X is the amount of life you gained this turn.
+Flying
+When Angel of Sunrise enters, each opponent exiles a Spirit, Vampire, Werewolf, Zombie, or double-faced permanent they control. => This spell costs {X} less to cast, where X is the amount of life you've gained this turn.
+Flying
+When this creature enters, each opponent exiles a Spirit, Vampire, Werewolf, Zombie, or double-faced permanent they control.
+
+Evanescence
+rules_text: Exile target artifact or creature you control, then return it to the battlefield under its owner's control. Create a 1/1 white Spirit creature token with flying.
+Flashback {2}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Exile target artifact or creature you control, then return that card to the battlefield under its owner's control. Create a 1/1 white Spirit creature token with flying.
+Flashback {2}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Avacyn's Mark
+
+Sacralize
+rules_text: Exile target artifact, creature, or enchantment. If that permanent's mana value was 3 or greater, its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle. [i](A transformed permanent retains the mana value of its front face.)[/i] => Exile target artifact, creature, or enchantment. If that permanent's mana value was 3 or greater, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. [i](A transformed permanent retains the mana value of its front face.)[/i]
+
+Alabaster Halo
+rules_text: Enchant creature you control
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return Alabaster Halo to the battlefield transformed under your control. => Enchant creature you control
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return this card to the battlefield transformed under your control.
+
+Phantom Presence
+
+Traft, Lunarch's Edge
+
+Dawnhart's Envoy
+rules_text: Lifelink
+Casting spells and creatures entering don't cause abilities to trigger. => Lifelink
+Players casting spells and creatures entering don't cause abilities to trigger.
+
+Cenotaph Possessor
+rules_text: Cenotaph Possessor gets +1/+1 for each permanent you control that's an artifact, creature, and/or enchantment.
+{2}{W}, {T}: Target creature gets +1/+1 for each permanent you control that's an artifact, creature, and/or enchantment until end of turn. Activate only as a sorcery. => This creature gets +1/+1 for each permanent you control that's an artifact, creature, and/or enchantment.
+{2}{W}, {T}: Target creature gets +1/+1 for each permanent you control that's an artifact, creature, and/or enchantment. until end of turn. Activate only as a sorcery.
+
+Outrider Captain
+rules_text: Flying
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Outrider Captain attacks, search your library for a creature card with mana value 1 or less and put it onto the battlefield tapped and attacking, then shuffle. => Flying
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever this creature attacks, search your library for a creature card with mana value 1 or less, put it onto the battlefield tapped and attacking, then shuffle.
+
+Hecatomb Haunter
+rules_text: Flying
+Whenever Hecatomb Haunter enters or attacks, up to one other target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Flying
+When this creature enters, exile up to one target nonland permanent an opponent controls.
+When this creature leaves the battlefield, the exiled card's owner creates a 1/1 white Spirit creature token with flying.
+
+Beseech Aid
+
+Cathar's Armory
+rules_text: When Cathar's Armory enters and at the beginning of your first main phase, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever one or more creatures you control that are enchanted or equipped deal combat damage to a player, draw a card. => When this enchantment enters and at the beginning of your first main phase, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever one or more creatures you control that are enchanted or equipped deal combat damage to a player, draw a card.
+
+Resting Tombs
+rules_text: If a creature would die, exile it instead.
+When Resting Tombs enters, exile target creature an opponent controls until this enchantment leaves the battlefield.
+{3}{B}{B}: Exile all creature cards from all graveyards. Transform Resting Tombs. Activate only as a sorcery. => When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.
+If a creature would die, exile it instead.
+{3}{B}{B}: Exile all creature cards from all graveyards. Transform this enchantment. Activate only as a sorcery.
+
+Sword of the Heavens
+rules_text: When Sword of the Heavens enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has flying, vigilance, and “Whenever this creature attacks, you may search your library and/or graveyard for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.”
+Equip {3} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has flying, vigilance, and “Whenever this creature attacks, you may search your library and/or graveyard for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.”
+Equip {3}
+
+Flight of Angels
+
+Avacyn, the Savior
+
+Polina Elgaud
+rules_text:  => [+1]: Create a white enchantment token named Intangible Virtue. It has “Creature tokens you control get +1/+1 and have vigilance.”
+[-3]: Create a 4/4 white Angel creature token with flying. You gain life equal to the number of tokens you control.
+[-5]: Exile all other nonland, nontoken permanents.
+
+Nebelgast Possessor
+
+Corrupted Sorcerer
+type: Creature — Human Wizard => Creature — Human Sorcerer
+rules_text: [i]Invocation[/i] — When you spend four or more mana to cast a spell or activate an ability during your turn, transform Corrupted Sorcerer. => [i]Invocation[/i] — When you spend four or more mana to cast a spell or activate an ability during your turn, transform this creature.
+
+Widow Wisp
+rules_text: Flying
+Widow Wisp can't block unless you control another Spirit.
+When Widow Wisp enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+This creature can't block unless you control another Spirit.
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Seagraf Shamblers
+rules_text: Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on Seagraf Shamblers. => Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature.
+
+Memory Surgeon
+
+Brine Cultist
+rules_text: [i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, Brine Cultist can't be blocked this turn.
+{5}{U}: Draw a card. => [i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, this creature can't be blocked this turn.
+{5}{U}: Draw a card.
+
+Carrion Drake
+rules_text: Flying
+When Carrion Drake enters, you may exile a creature card from your graveyard. If you do, draw a card. => Flying
+When this creature enters, you may exile a creature card from your graveyard. If you do, draw a card.
+
+Escaped Ooze
+rules_text: When Escaped Ooze enters, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+{3}{G}: Put a +1/+1 counter on Escaped Ooze. => When this creature enters, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+{3}{G}: Put a +1/+1 counter on Escaped Ooze.
+
+Skaab Grappler
+rules_text: Vigilance
+When Skaab Grappler enters, you may exile two creature cards from your graveyard. When you do, return another target creature to its owner's hand. => Vigilance
+When this creature enters, you may exile two creature cards from your graveyard. When you do, return another target creature to its owner's hand.
+
+Sunken One
+rules_text: Whenever Sunken One attacks, target creature defending player controls gets -13/-0 until end of turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Whenever this creature attacks, target creature defending player controls gets -13/-0 until end of turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Uncover
+
+Ghastly Guidance
+
+Unethical Research
+
+Claim of the Deep
+
+Remove Soul
+
+Curse of Doubt
+rules_text: Flash
+Enchant player
+When Curse of Doubt enters, counter target spell enchanted player controls unless they pay {2}.
+{4}{U}: Enchanted player mills three cards. => Flash
+Enchant player
+When this Aura enters, counter target spell enchanted player controls unless they pay {2}.
+{4}{U}: Enchanted player mills three cards.
+
+Body and Mind
+rules_text: Until end of turn, target creature you control has base power and toughness 4/4 and gains hexproof. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+Draw a card. => Until end of turn, target creature you control gains hexproof and has base power and toughness 4/4. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+Draw a card.
+
+Omendancer
+rules_text: You may have Omendancer enter as a copy of a creature you control or a Curse you control. [i](If it copies a double-faced permanent, it can't transform.)[/i] => You may have this creature enter as a copy of a creature you control or a Curse you control. [i](If it copies a double-faced permanent, it can't transform.)[/i]
+
+Severed Hands
+rules_text: When Severed Hands enters, surveil 2.
+Whenever one or more cards leave your graveyard during your turn, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => When this creature enters, surveil 2.
+Whenever one or more cards leave your graveyard, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Mistmourner
+rules_text: Other Spirits you control get +1/+1.
+Whenever Mistmourner or another Spirit you control enters, you may draw a card. If you do, discard a card. => Other Spirits you control get +1/+1.
+Whenever this creature or another Spirit you control enters, you may draw a card. If you do, discard a card.
+
+Morkrut Gryff
+rules_text: Flying
+When Morkrut Gryff dies, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i]
+Foreshadow {5}{U}{U} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying
+When this creature dies, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i]
+Foreshadow {5}{U}{U} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Drunau Egg
+rules_text: Defender
+When Drunau Egg enters, target player mills two cards.
+{3}{U}{U}: Transform Drunau Egg. Activate only as a sorcery and only if an opponent has thirteen or more cards in their graveyard. => Defender
+When this creature enters, target player mills two cards.
+{3}{U}{U}: Transform this creature. Activate only as a sorcery and only if an opponent has thirteen or more cards in their graveyard.
+
+Braineater Abominus
+rules_text: Braineater Abominus can't be blocked by creatures with power 4 or greater.
+Whenever a creature you control deals combat damage to a player, exile the top card of that player's library. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it. => This creature can't be blocked by creatures with power 4 or greater.
+Whenever a creature you control deals combat damage to a player, exile the top card of that player's library. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it.
+
+Spine-Chilling Discovery
+
+Curse of the Tattletale
+
+Havengul Banshee
+rules_text: Flying
+Whenever Havengul Banshee attacks, each creature defending player controls gets -1/-0 until end of turn.
+{3}{U}: Return Havengul Banshee from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery. => Flying
+Whenever this creature attacks, each creature defending player controls gets -1/-0 until end of turn.
+{3}{U}: Return this card from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.
+
+Shackled Memories
+rules_text: When Shackled Memories enters, return target instant or sorcery card from your graveyard or target card with flashback you own from exile to your hand.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, create a 1/1 white Spirit creature token with flying. => When this enchantment enters, return target instant or sorcery card from your graveyard or card with flashback you own from exile to your hand.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, create a 1/1 white Spirit creature token with flying.
+
+Curse of Scuttling Thoughts
+rules_text: Enchant player
+When Curse of Scuttling Thoughts enters, create a 0/3 blue Crab creature token with “{T}: Target player mills a card.”
+If enchanted player would mill one or more cards, they mill twice that many cards instead. => Enchant player
+When this Aura enters, create a 0/3 blue Crab creature token with “{T}: Target player mills a card.”
+If enchanted player would mill one or more cards, they mill twice that many cards instead.
+
+Trawler Skaab
+rules_text: Trawler Skaab gets +1/+1 for each card put into your graveyard from your library this turn. => This creature gets +1/+1 for each card put into your graveyard from your library this turn.
+
+Nephalia Inquisitors
+rules_text: Flash
+When Nephalia Inquisitors enters, draw a card for each creature that died this turn. => Flash
+When this creature enters, draw a card for each creature that died this turn.
+
+Krothuss, Abyssal Terror
+rules_text: Flying
+When Krothuss, Abyssal Terror dies, return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.
+Foreshadow {6}{U}{U} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying
+When Krothuss, Abyssal Terror dies, return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.
+Foreshadow {6}{U}{U} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Paranormal Convergence
+rules_text: You may look at the top card of your library any time.
+Once each turn, you may cast an instant or sorcery spell from the top of your library.
+{4}{R}: Transform Paranormal Convergence. Activate only as a sorcery and only if the total number of instant and/or sorcery cards you 
+own in exile and in your graveyard is seven or more. => You may look at the top card of your library any time.
+Once each turn, you may cast an instant or sorcery spell from the top of your library.
+{4}{R}: Transform this enchantment. Activate only as a sorcery and only if the total number of instant and/or sorcery cards you own in exile and in your graveyard is seven or more.
+
+Undercroft Portal
+rules_text: Undercroft Portal enters with four barrier counters on it.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, draw a card and remove a barrier counter from Undercroft Portal. Then if it has no barrier counters 
+on it, transform it. => This artifact enters with four barrier counters on it.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, draw a card and remove a barrier counter from this artifact. Then if it has no barrier counters 
+on it, transform it.
+
+Curse of the Breathless
+rules_text: Enchant player
+When Curse of the Breathless enters, create a 1/1 white Spirit creature token with flying for each Curse attached to enchanted player.
+Whenever another Curse becomes attached to enchanted player, create a 1/1 white Spirit creature token with flying. => Enchant player
+When this Aura enters, create a 1/1 white Spirit creature token with flying for each Curse attached to enchanted player.
+Whenever another Curse becomes attached to enchanted player, create a 1/1 white Spirit creature token with flying.
+
+Curse of Time
+
+Geist of Yesterdays
+
+Stitched Gargantua
+rules_text: You may cast spells from among cards you put into your graveyard from your library this turn.
+Whenever one or more cards leave your graveyard during your turn, create a tapped 2/2 black Zombie creature token.
+When Stitched Gargantua is put into your graveyard from your library, you may return it to your hand. => You may cast spells from among cards you put into your graveyard from your library this turn.
+Whenever one or more cards leave your graveyard during your turn, create a tapped 2/2 black Zombie creature token.
+When this card is put into your graveyard from your library, you may return it to your hand.
+
+Occult Metamorphosis
+
+Fathom the Unfathomable
+
+Contagious Ghoul
+rules_text: When Contagious Ghoul dies, target creature an opponent controls gets -1/-1 until end of turn.
+Foreshadow {2}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, target creature an opponent controls gets -1/-1 until end of turn.
+Foreshadow {2}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Crypt Viper
+
+Markov Fencer
+rules_text: {1}{W}: Markov Fencer gains first strike until end of turn. You gain 1 life. => {1}{W}: This creature gains first strike until end of turn. You gain 1 life.
+
+Falkenrath Ordainer
+rules_text: Flying
+Falkenrath Ordainer has lifelink as long as you control a token. => Flying
+This creature has lifelink as long as you control a token.
+
+Lone Zombie
+rules_text: Menace
+When Lone Zombie and at least two other creatures attack, transform Lone Zombie. => Menace
+When this creature and at least two other creatures attack, transform this creature.
+
+Acolyte of Griselbrand
+rules_text: When Acolyte of Griselbrand dies, you draw a card and you lose 1 life.
+Foreshadow {4}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, you draw a card and you lose 1 life.
+Foreshadow {4}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Undead Servant
+rules_text: When Undead Servant enters, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard. => When this creature enters, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.
+
+Dread Elk
+rules_text: When Dread Elk dies, put a +1/+1 counter on target creature you control. If that creature is a Zombie, put two +1/+1 counters on it instead.
+Foreshadow {5}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, put a +1/+1 counter on target creature you control. If that creature is a Zombie, put two +1/+1 counters on it instead.
+Foreshadow {5}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Shilgengar's Harvester
+rules_text: Flying
+When Shilgengar's Harvester enters, each opponent discards a card and loses 2 life. => Flying
+When this creature enters, each opponent discards a card and loses 2 life.
+
+It Came from the Bog
+
+Augury of Misfortunes
+
+Sanguine Salvation
+
+Lich's Grimoire
+type: Artifact => Artifact — Book
+rules_text: When Lich's Grimoire enters, create a 2/2 black Zombie creature token.
+{2}{B}, {T}: Target opponent loses 1 life. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this Book enters, create a 2/2 black Zombie creature token.
+{2}{B}, {T}: Target opponent loses 1 life. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Curse of the Unburied
+rules_text: Enchant player
+When Curse of the Unburied enters, return up to two target creature cards from your graveyard to your hand.
+Whenever a land enchanted player controls enters, they lose 1 life. => Enchant player
+When this Aura enters, return up to two target creature cards from your graveyard to your hand.
+Whenever a land enchanted player controls enters, they lose 1 life.
+
+Undead Hex
+
+Drain Youth
+type: Instant => Sorcery
+
+True Blood
+
+Strangleroot's Clutches
+
+Final Destination
+
+Bone Lich
+rules_text: When Bone Lich enters, surveil 1.
+{2}{B}: Return Bone Lich from your graveyard to the battlefield tapped. Activate only as a sorcery. => When this creature enters, surveil 1.
+{2}{B}: Return this card from your graveyard to the battlefield tapped. Activate only as a sorcery.
+
+Vespercloak Vampire
+rules_text: When Vespercloak Vampire dies, create a 1/1 black Bat creature token with flying and lifelink.
+Foreshadow {3}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, create a 1/1 black Bat creature token with flying and lifelink.
+Foreshadow {3}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Dowager of Traublassen
+rules_text: Whenever another creature dies, you gain 1 life.
+At the beginning of each end step, if you gained 3 or more life this turn, transform Dowager of Traublassen. => Whenever another creature dies, you gain 1 life.
+At the beginning of each end step, if you gained 3 or more life this turn, transform this creature.
+
+Diregraf Skulleater
+rules_text: Menace
+Whenever Diregraf Skulleater deals combat damage to a player, that player discards a card.
+Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on Diregraf Skulleater. => Menace
+Whenever this creature deals combat damage to a player, that player discards a card.
+Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature.
+
+Undead Necromancer
+rules_text: When Undead Necromancer enters, search your library for a card, put that card into your graveyard, then shuffle.
+As long as this card is in your graveyard, its name is Undead Servant. => When this creature enters, search your library for a card, put that card into your graveyard, then shuffle.
+As long as this card is in your graveyard, its name is Undead Servant.
+
+Grim Raven of Wesgoth
+rules_text: Flying, deathtouch
+When Grim Raven of Wesgoth dies, return target non-Bird creature card from your graveyard to your hand.
+Foreshadow {5}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying, deathtouch
+When this creature dies, return target non-Bird creature card from your graveyard to your hand.
+Foreshadow {5}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Plague Herald
+rules_text: Other Zombies you control get +1/+1.
+Whenever Plague Herald or another Zombie enters under your control, target creature you control gains deathtouch until end of turn. => Other Zombies you control get +1/+1.
+Whenever this creature or another Zombie enters under your control, target creature you control gains deathtouch until end of turn.
+
+Umbersteed
+rules_text: When Umbersteed dies, target creature an opponent controls gets -4/-4 until end of turn.
+Foreshadow {5}{B}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, target creature an opponent controls gets -4/-4 until end of turn.
+Foreshadow {5}{B}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Carnage Throne
+rules_text: {1}, {T}, Sacrifice a creature: Draw a card and put a corpse counter on Carnage Throne. Then if there are three or more corpse counters on it, remove those counters, transform it, then untap it. Activate only as a sorcery. => {1}, {T}, Sacrifice a creature: Draw a card and put a corpse counter on this artifact. Then if there are three or more corpse counters on it, remove those counters, transform it, then untap it. Activate only as a sorcery.
+
+Skirsdag Edict
+rules_text: Choose one —
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices a planeswalker.
+• Each opponent sacrifices an enchantment.
+Flashback—{4}{B}, Discard a card. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Choose one —
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices a planeswalker.
+Flashback—{4}{B}, Discard a card. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Malicious Eclipse
+
+Curse of Nightmares
+rules_text: Enchant player
+When Curse of Nightmares enters, destroy target creature or planeswalker enchanted player controls.
+Whenever enchanted player draws a card, they lose 1 life and you gain 1 life. => Enchant player
+When this Aura enters, destroy target creature, enchantment, or planeswalker enchanted player controls.
+Whenever enchanted player draws a card, they lose 1 life and you gain 1 life.
+
+Death Undone
+
+Oswin, Skirsdag Diabolist
+
+Corpse Thief
+rules_text: Corpse Thief can't be blocked by creatures with greater power.
+Whenever Corpse Thief deals combat damage to a player, return target creature card from your graveyard to your hand.
+{3}{G}{G}: Mill half your library, rounded down. Transform Corpse Thief. Activate only as a sorcery. => This creature can't be blocked by creatures with greater power.
+Whenever this creature deals combat damage to a player, return target creature card from your graveyard to your hand.
+{3}{G}{G}: Mill half your library, rounded down. Transform this creature. Activate only as a sorcery.
+
+Falkenrath Bladesire
+
+Doomsday Horde
+rules_text: Doomsday Horde enters tapped unless it was foreshadowed.
+When Doomsday Horde dies, search your library for a card, put it into your hand, then shuffle.
+Foreshadow {3}{B}{B}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => This creature enters tapped unless it was foreshadowed.
+When this creature dies, search your library for a card, put it into your hand, then shuffle.
+Foreshadow {3}{B}{B}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Deathless Butcher
+rules_text: Menace, haste
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, return Deathless Butcher from your graveyard to your hand. => Menace, haste
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, return this card from your graveyard to your hand.
+
+Left for Dead
+rules_text: When Left for Dead enters, create four 1/1 red Human Survivor creature tokens. Those tokens gain haste until end of turn.
+At the beginning of your end step, sacrifice a Survivor. If you do, draw a card. Then if you control no Survivors, sacrifice Left for Dead. => When this enchantment enters, create four 1/1 red Human Survivor creature tokens. Those tokens gain haste until end of turn.
+At the beginning of your end step, sacrifice a Survivor. If you do, draw a card. Then if you control no Survivors, sacrifice this enchantment.
+
+Dark Ascension
+rules_text: When Dark Ascension enters, if you cast it, all creatures get -13/-13 until end of turn.
+Whenever you cast a black spell, Dark Ascension deals X damage to any target and you gain X life, where X is the number of black mana symbols in that spell's mana cost. => When this enchantment enters, if you cast it, all creatures get -13/-13 until end of turn.
+Whenever you cast a black spell, this enchantment deals X damage to any target and you gain X life, where X is the number of black mana symbols in that spell's mana cost.
+
+Curse of Fangs
+rules_text: Enchant player
+When Curse of Fangs enters, gain control of target creature enchanted player controls. It becomes a Vampire in addition to its other types.
+Creatures attacking enchanted player have lifelink. => Enchant player
+When this Aura enters, gain control of target creature enchanted player controls. It becomes a Vampire in addition to its other types.
+Creatures attacking enchanted player have lifelink.
+
+Sorin, Vampire Maverick
+rules_text:  => [+1]: Draw a card. Each player loses 1 life.
+[-2]: Create two 1/1 black Bat creature tokens with flying and lifelink.
+[-3]: Target creature gets -13/-13 until end of turn. You control abilities of that creature that trigger this turn.
+
+Wurgelurg
+rules_text: When Wurgelurg dies, each opponent discards three cards, sacrifices three creatures, and loses 3 life. You draw three cards, create three tapped 2/2 black Zombie creature tokens, and gain 3 life.
+Foreshadow {7}{B}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, each opponent discards three cards, sacrifices three creatures, and loses 3 life. You draw three cards, create three tapped 2/2 black Zombie creature tokens, and gain 3 life.
+Foreshadow {7}{B}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Archdemon Shilgengar
+rules_text: Flying, lifelink
+When Archdemon Shilgengar enters, exile all land cards from your graveyard, then exchange your graveyard and library. Then shuffle your library.
+You can only cast spells by paying life equal to their mana value rather than paying their mana cost. => Flying, lifelink
+When Archdemon Shilgengar enters, exile all land cards from your graveyard, exchange your graveyard and library, then shuffle your library.
+You can only cast spells by paying life equal to their mana value rather than paying their mana cost.
+
+Embercut Duelist
+rules_text: First strike
+{1}{R}: Transform Embercut Duelist. Activate only if it's attacking. => First strike
+{1}{R}: Transform this creature. Activate only if it's attacking.
+
+Torch Reveler
+rules_text: Torch Reveler gets +2/+0 as long as you control an artifact. => This creature gets +2/+0 as long as you control an artifact.
+
+Affluent Host
+rules_text: When Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Foreshadow {2}{R} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, it deals 1 damage to each opponent. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Foreshadow {2}{R} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Stromkirk Sangromancer
+rules_text: Whenever you cast an instant, sorcery, or Curse spell, Stromkirk Sangromancer deals 1 damage to each opponent. => Whenever you cast an instant, sorcery, or Curse spell, this creature deals 1 damage to each opponent.
+
+Thunderwolf
+rules_text: Whenever Thunderwolf attacks, exile the top card of your library. You may play that card this turn. => Whenever this creature attacks, exile the top card of your library. You may play that card this turn.
+
+Volatile Alchemist
+rules_text: Haste
+{2}{U}: Volatile Alchemist gains vigilance until end of turn and can't be blocked this turn. => Haste
+{2}{U}: This creature gains vigilance until end of turn and can't be blocked this turn.
+
+Voldaren Crypt-Guard
+rules_text: When Voldaren Crypt-Guard enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => When this creature enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Troublesome Throng
+rules_text: Menace
+{3}{R}: Transform Troublesome Throng. Activate only if it's attacking. => Menace
+{3}{R}: Transform this creature. Activate only if it's attacking.
+
+Falkenrath Fletcher
+rules_text: Reach
+When Falkenrath Fletcher enters, if an opponent lost life this turn, create a 1/1 black and red Vampire creature token with menace. => Reach
+When this creature enters, if an opponent lost life this turn, create a 1/1 black and red Vampire creature token with menace.
+
+Stensia Cavalcade
+rules_text: Trample
+When Stensia Cavalcade enters, create two Weapon tokens. [i](They're Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Trample
+When this creature enters, create two Weapon tokens. [i](They're Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Crater Thing
+rules_text: Reach
+When Crater Thing enters, it deals 3 damage to up to one target creature or planeswalker.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature enters, it deals 3 damage to up to one target creature or planeswalker.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Alchemist's Grimoire
+type: Artifact => Artifact — Book
+rules_text: When Alchemist's Grimoire enters, it deals 2 damage to any target.
+{1}{R}, {T}, Discard a card: Draw a card. => When this Book enters, it deals 2 damage to any target.
+{1}{R}, {T}, Discard a card: Draw a card.
+
+Go Feral
+
+Suffer the Blade
+
+Vampiric Vice
+
+Curse of the Vein
+rules_text: Enchant player
+When Curse of the Vein enters, create a 1/1 black and red Vampire creature token with menace.
+Whenever enchanted player is attacked, Curse of the Vein deals 1 damage to them. => Enchant player
+When this Aura enters, create a 1/1 black and red Vampire creature token with menace.
+Whenever enchanted player is attacked, this Aura deals 1 damage to them.
+
+Faithless Razing
+
+Grasping Carriage
+rules_text: Whenever Grasping Carriage attacks, target creature an opponent controls can't block this turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle attacks, target creature an opponent controls can't block this turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Curse of Slaughter
+rules_text: Enchant player
+When Curse of Slaughter enters, it deals 4 damage to target creature or planeswalker enchanted player controls.
+Creatures attacking enchanted player have trample. => Enchant player
+When this Aura enters, it deals 4 damage to target creature or planeswalker enchanted player controls.
+Creatures attacking enchanted player have trample.
+
+Hatefire
+
+Voldaren Heartslicer
+rules_text: Attacking creatures you control get +1/+0.
+{2}{R}: Return Voldaren Heartslicer from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery. => Attacking creatures you control get +1/+0.
+{2}{R}: Return this card from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.
+
+Kessig Jeweler
+rules_text: Whenever Kessig Jeweler attacks, you may discard a card. If you do, draw a card.
+{1}{R}: Transform Kessig Jeweler. Activate only if it's attacking. => Whenever this creature attacks, you may discard a card. If you do, draw a card.
+{1}{R}: Transform this creature. Activate only if it's attacking.
+
+Hellfreaks
+rules_text: Menace, trample
+Hellfreaks gets +1/+0 for each Curse you control.
+Hellfreaks gets +1/+0 for each instant and sorcery card you own in exile and in your graveyard. => Menace, trample
+This creature gets +1/+0 for each Curse you control.
+This creature gets +1/+0 for each instant and sorcery card you own in exile and in your graveyard.
+
+Hanweir Miscreant
+rules_text: Hanweir Miscreant can't be blocked by creature tokens.
+{2}{R}: Transform Hanweir Miscreant. Activate only if it's attacking. => This creature can't be blocked by creature tokens.
+{2}{R}: Transform this creature. Activate only if it's attacking.
+
+Irascible Bloodwitch
+rules_text: Other Vampires you control get +1/+1.
+Whenever Irascible Bloodwitch or another Vampire enters under your control, Irascible Bloodwitch deals 1 damage to any target. => Other Vampires you control get +1/+1.
+Whenever this creature or another Vampire enters under your control, this creature deals 1 damage to any target.
+
+Obsidian Hellkite
+rules_text: Flying
+When Obsidian Hellkite dies, it deals 2 damage to up to one target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.
+Foreshadow {4}{R}{R} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying
+When this creature dies, it deals 2 damage to up to one target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.
+Foreshadow {4}{R}{R} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Surfacing Horripede
+rules_text: Menace, reach
+When Surfacing Horripede enters, surveil 2. => Menace, reach
+When this creature enters, surveil 2.
+
+Curse of the Hunter's Moon
+rules_text: Enchant player
+When Curse of the Hunter's Moon enters, create a 2/2 green Wolf creature token.
+Whenever enchanted player is attacked, the attacking player adds {R}. Until end of turn, that player doesn't lose that mana as steps and phases end. => Enchant player
+When this Aura enters, create a 2/2 green Wolf creature token.
+Whenever enchanted player is attacked, the attacking player adds {R}. Until end of turn, that player doesn't lose that mana as steps and phases end.
+
+Silvershot Crossbow
+rules_text: When Silvershot Crossbow enters, it deals 3 damage to target creature an opponent controls. If that creature is transformed, Silvershot Crossbow deals 13 damage to it instead.
+Equipped creature has reach and “{T}: This creature deals 1 damage to each opponent.”
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, it deals 3 damage to target creature an opponent controls. If that creature is transformed, this Equipment deals 13 damage to it instead.
+Equipped creature has reach and “{T}: This creature deals 1 damage to each opponent.”
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Dance with Devils
+
+Clash at Geier Reach
+cost: {3}{R}{R} => {2}{R}{R}
+rules_text: Clash at Geier Reach deals 2 damage to each opponent and each creature and planeswalker they control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Clash at Geier Reach deals 2 damage to each opponent and to each creature and planeswalker they control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Fangs of Wesgoth
+rules_text: Whenever Fangs of Wesgoth deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+As long as you control three or more artifacts, Fangs of Wesgoth has menace. => Whenever this creature deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+As long as you control three or more artifacts, this creature has menace.
+
+Leyran Spellchainer
+rules_text: When Leyran Spellchainer enters, return target instant or sorcery card from your graveyard to your hand.
+{2}{R}: Transform Leyran Spellchainer. Activate only if it's attacking. => When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+{2}{R}: Transform this creature. Activate only if it's attacking.
+
+Charging Commando
+rules_text: At the beginning of combat on your turn, create a 1/1 white Human creature token.
+Creature tokens you control have haste and attack each combat if able.
+{1}{W}: Transform Charging Commando. Activate only if two or more creatures that attacked this turn died under your control this turn. => At the beginning of combat on your turn, create a 1/1 white Human creature token.
+Creature tokens you control have haste and attack each combat if able.
+{1}{W}: Transform this creature. Activate only if two or more creatures that attacked this turn died under your control this turn.
+
+Pyromantic Duo
+rules_text: Your opponents can't gain life.
+If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
+{3}{R}: Transform Pyromantic Duo. Activate only if it's attacking. => Your opponents can't gain life.
+If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
+{3}{R}: Transform this creature. Activate only if it's attacking.
+
+Tallowkeep
+rules_text: Trample, reach
+Tallowkeep enters with two wax counters on it.
+Whenever Tallowkeep attacks, remove a wax counter from it. Then if Tallowkeep has no wax counters on it, sacrifice it.
+Whenever another artifact you control enters, put a wax counter on Tallowkeep. => Reach, trample
+This creature enters with two wax counters on it.
+Whenever this creature attacks, remove a wax counter from it. Then if it has no wax counters on it, sacrifice it.
+Whenever another artifact you control enters, put a wax counter on this creature.
+
+Infernal Direwolf
+rules_text: Menace
+Ward—Pay 3 life.
+When Infernal Direwolf enters, it fights up to one target creature an opponent controls. Excess damage Infernal Direwolf deals this way is dealt to that creature's controller instead. => Menace
+Ward—Pay 3 life.
+When this creature enters, it fights up to one target creature an opponent controls. Excess damage this creature deals this way is dealt to that creature's controller instead.
+
+Welcome to the Ashmouth
+
+Curse of Hallucinations
+rules_text: Enchant player
+Whenever enchanted player is attacked, the attacking player creates a token that's a copy of an attacking creature, except it's not legendary, is tapped and attacking, and has “This permanent can't transform.” That token's controller sacrifices it at end of combat. => Enchant player
+Whenever enchanted player is attacked, the attacking player creates a tapped and attacking token that's a copy of an attacking creature of their choice, except it's not legendary and has “This permanent can't transform.” That token's controller sacrifices it at end of combat.
+
+Exhaust Possibilities
+
+Volcanic Malignus
+
+Marzela Falkenrath
+
+Utter Pandemonium
+
+Creep of the Crop
+rules_text: Reach
+When Creep of the Crop dies, mill three cards, then you may return a land card from your graveyard to your hand.
+Foreshadow {1}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Reach
+When this creature dies, mill three cards, then you may return a land card from your graveyard to your hand.
+Foreshadow {1}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Dawnhart Druids
+
+Somberwald Rider
+rules_text: Somberwald Rider can't be blocked by creatures with power 2 or less.
+{2}{G}: Transform Somberwald Rider. Activate only if it's attacking. => This creature can't be blocked by creatures with power 2 or less.
+{2}{G}: Transform this creature. Activate only if it's attacking.
+
+Lambholt Tracker
+rules_text: When Lambholt Tracker dies, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Foreshadow {2}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Foreshadow {2}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Banewidow
+
+Desperate Botanist
+rules_text: When Desperate Botanist enters, create a 0/1 green Plant creature token with “{T}: Add {G}.”
+{5}{G}: Transform Desperate Botanist. Activate only if it's attacking. => When this creature enters, create a 0/1 green Plant creature token with “{T}: Add {G}.”
+{5}{G}: Transform this creature. Activate only if it's attacking.
+
+Killer Scorpion
+rules_text: Deathtouch
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap Killer Scorpion. => Deathtouch
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap this creature.
+
+Grizzled Woodcutter
+rules_text: Grizzled Woodcutter gets +1/+1 as long as you control an artifact.
+Grizzled Woodcutter gets +1/+1 as long as you control an enchantment. => This creature gets +1/+1 as long as you control an artifact.
+This creature gets +1/+1 as long as you control an enchantment.
+
+Nettlehowler
+rules_text: When Nettlehowler enters, exile up to one target card from a graveyard.
+If a creature dealt damage by Nettlehowler this turn would die, exile it instead. => When this creature enters, exile up to one target card from a graveyard.
+If a creature dealt damage by this creature this turn would die, exile it instead.
+
+Orchard Overseer
+rules_text: Trample, reach
+When Orchard Overseer dies, surveil 2.
+Foreshadow {5}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Trample, reach
+When this creature dies, surveil 2.
+Foreshadow {5}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Lupine Prowler
+rules_text: When Lupine Prowler enters, you may sacrifice another creature. If you do, draw a card and you gain 2 life.
+Whenever another creature you control dies, put a +1/+1 counter on Lupine Prowler. => When this creature enters, you may sacrifice another creature. If you do, draw a card and you gain 2 life.
+Whenever another creature you control dies, put a +1/+1 counter on this creature.
+
+Terror of the Ulvenwald
+rules_text: Vigilance
+When Terror of the Ulvenwald enters, target creature gets +3/+3 until end of turn.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+When this creature enters, target creature gets +3/+3 until end of turn.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Moldgraf Wurm
+
+Never Give Up
+
+Blossoming Defense
+rules_text: Target creature gets +2/+2 and gains hexproof until end of turn. [i](It can't be the target of spells or abilities your opponents control.)[/i] => Target creature you control gets +2/+2 and gains hexproof until end of turn. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+
+Entropy's Descent
+
+Kernon's Consecration
+rules_text: Enchant creature
+Enchanted creature gets +2/+2.
+{4}{G}: Return Kernon's Consecration from your graveyard to the battlefield attached to target creature you control. Activate only as a sorcery. => Enchant creature
+Enchanted creature gets +2/+2.
+{4}{G}: Return this card from your graveyard to the battlefield attached to target creature you control. Activate only as a sorcery.
+
+Lycanthropic Outburst
+
+Death in Bloom
+rules_text: Enchant land
+When Death in Bloom enters, mill four cards, then return a permanent card from your graveyard to your hand.
+Enchanted land has “{T}: Add two mana of any one color.” => Enchant land
+When this Aura enters, mill four cards, then return a permanent card from your graveyard to your hand.
+Enchanted land has “{T}: Add two mana of any one color.”
+
+Druid's Grimoire
+type: Artifact => Artifact — Book
+rules_text: When Druid's Grimoire enters, create two 2/2 green Wolf creature tokens.
+{T}: Add {G}. => When this Book enters, create two 2/2 green Wolf creature tokens.
+{T}: Add {G}.
+
+Adderblade Exterminator
+rules_text: Deathtouch
+{2}{G}: Transform Adderblade Exterminator. Activate only if it's attacking. => Deathtouch
+{2}{G}: Transform this creature. Activate only if it's attacking.
+
+Gavony Cavaliers
+rules_text: Trample
+Whenever Gavony Cavaliers enters or attacks, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Creatures you control that are enchanted or equipped have trample. => Trample
+Whenever this creature enters or attacks, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Creatures you control that are enchanted or equipped have trample.
+
+Briarswine
+rules_text: When Briarswine dies, create a 2/2 green Wolf creature token.
+Foreshadow {4}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature dies, create a 2/2 green Wolf creature token.
+Foreshadow {4}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Cabin Golem
+rules_text: [i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, reveal the top four cards of your library. You may put a creature or land card from among them into your hand. Put the rest on the bottom of your library in a random order. => [i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, look at the top card of your library. If it's a creature or land card, you may reveal it and put it into your hand.
+
+Hungering Howlpack
+rules_text: Other Wolves and Werewolves you control get +1/+1.
+Whenever Hungering Howlpack or another Wolf or Werewolf you control enters, you gain 2 life. => Other Wolves and Werewolves you control get +1/+1.
+Whenever this creature or another Wolf or Werewolf you control enters, you gain 2 life.
+
+Treeline Archer
+rules_text: Vigilance, reach
+When Treeline Archer enters, mill four cards.
+{5}{G}: Transform Treeline Archer. Activate only if it's attacking. => Vigilance, reach
+When this creature enters, mill four cards.
+{5}{G}: Transform this creature. Activate only if it's attacking.
+
+Rosenhulk
+cost: {4}{G} => {3}{G}{G}
+rules_text: Trample
+When Rosenhulk enters, choose one —
+• Create two 0/1 green Plant creature tokens with “{T}: Add {G}.”
+• Destroy target artifact or enchantment.
+• Rosenhulk fights target creature an opponent controls. => Trample
+When this creature enters, choose one —
+• Create two 0/1 green Plant creature tokens with “{T}: Add {G}.”
+• Destroy target artifact or enchantment.
+• Rosenhulk fights target creature an opponent controls.
+pt: 4/2 => 4/4
+
+Primordial Slime
+rules_text: Primordial Slime can't be blocked by creatures with power 2 or less.
+When Primordial Slime dies, you gain 5 life.
+Foreshadow {5}{G}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => This creature can't be blocked by creatures with power 2 or less.
+When this creature dies, you gain 5 life.
+Foreshadow {5}{G}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Dawnhart Ceremony
+rules_text: When Dawnhart Ceremony enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[i]Invocation[/i] — When you spend four or more mana to cast a spell or activate an ability during your turn, transform Dawnhart Ceremony. => When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[i]Invocation[/i] — When you spend four or more mana to cast a spell or activate an ability during your turn, transform this enchantment.
+
+Pushing Daisies
+cost: {3}{G} => {1}{G}
+
+Barge Through
+
+Brutalizer Gear
+rules_text: Flash
+When Brutalizer Gear enters, attach it to target creature you control.
+Enchanted creature gets +3/+3 and has trample.
+Equip {5} [i]({5}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Flash
+When this Equipment enters, attach it to target creature you control.
+Enchanted creature gets +3/+3 and has trample.
+Equip {5} [i]({5}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Curse of Venom
+
+Molderkin
+
+Ulvenwald Ranger
+rules_text: When Ulvenwald Ranger enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}{G}: Transform Ulvenwald Ranger. Activate only if it's attacking. => When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}{G}: Transform this creature. Activate only if it's attacking.
+
+Phantom of Wolf's Run
+
+Glutton of Zhava
+rules_text: {T}, Sacrifice a land: Draw a card.
+When Glutton of Zhava dies, return all land cards from your graveyard to the battlefield tapped.
+Foreshadow {4}{G}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => {T}, Sacrifice a land: Draw a card.
+When this creature dies, return all land cards from your graveyard to the battlefield tapped.
+Foreshadow {4}{G}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Ursagore
+rules_text: When Ursagore enters, you gain 4 life. Then if it was foreshadowed, create a 3/3 green Bear Spirit creature token.
+When Ursagore dies, draw a card.
+Foreshadow {5}{G}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => When this creature enters, you gain 4 life. Then if it was foreshadowed, create a 3/3 green Bear Spirit creature token.
+When this creature dies, draw a card.
+Foreshadow {5}{G}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Vartrossen Primalist
+rules_text: Trample
+When Vartrossen Primalist enters, target creature you control fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{4}{G}: Transform Vartrossen Primalist. Activate only if it's attacking. => Trample
+When this creature enters, target creature you control fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{4}{G}: Transform this creature. Activate only if it's attacking.
+
+Risen Lumberknot
+rules_text: Reach
+Risen Lumberknot gets +5/+5 as long as you control eight or more lands.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap all lands you control. This ability triggers only once each turn. => Reach
+This creature gets +5/+5 as long as you control eight or more lands.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, untap all lands you control. This ability triggers only once each turn.
+
+Misthollow Rites
+rules_text: You may play an additional land on each of your turns.
+{4}{U}{U}: Transform Misthollow Rites. Activate only as a sorcery. => You may play an additional land on each of your turns.
+{4}{U}{U}: Transform this enchantment. Activate only as a sorcery.
+
+Harness Nature
+
+Prayers for the Hunted
+rules_text: {2}{G}{G}, Sacrifice a creature: You gain life equal to the sacrificed creature's power or toughness, whichever is higher. Then draw cards equal to the sacrificed creature's power or toughness, whichever is lower. [i](If the sacrificed creature's power and toughness are equal, the amount of life you gain and cards you draw is equal.)[/i] => {2}{G}{G}, Sacrifice a creature: You gain life equal to the sacrificed creature's power or toughness, whichever is greater. Then draw cards equal to the sacrificed creature's power or toughness, whichever is lower. [i](If the sacrificed creature's power and toughness are equal, the amount of life you gain and cards you draw is equal.)[/i]
+
+Kernon, Primeval Ritualist
+rules_text:  => [+1]: Mill two cards. Untap up to one target creature or land.
+[-2]: Return target creature or land card from your graveyard to your hand.
+[-X]: You may sacrifice a creature. If you do, search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.
+
+Krendel of Kessig
+
+Tattergeist
+rules_text: Flying
+Whenever another Spirit or another creature with flying you control enters, put a +1/+1 counter on Tattergeist. => Flying
+Whenever another Spirit or another creature with flying you control enters, put a +1/+1 counter on this creature.
+
+Drownyard Captain
+rules_text: Menace
+Spells you cast from your graveyard cost {2} less to cast.
+Whenever Drownyard Captain attacks, if a card left your graveyard this turn, draw a card. => Menace
+Spells you cast from your graveyard cost {2} less to cast.
+Whenever this creature attacks, if a card left your graveyard this turn, draw a card.
+
+Voldaren Sovereign
+
+Leyran Hunting Pack
+rules_text: Other Wolves and Werewolves you control have haste.
+Leyran Hunting Pack gets +1/+1 for each non-Human Werewolf you control. => Other Wolves and Werewolves you control have haste.
+This creature gets +1/+1 for each non-Human Werewolf you control.
+
+Heron's Grace Patrol
+rules_text: Reach
+As long as you control an artifact or an enchantment, Heron's Grace Patrol gets +1/+1 and has vigilance.
+{2}{G}{W}, {T}: Mill three cards. You may return a permanent card milled this way to your hand. => Reach
+As long as you control an artifact or an enchantment, this creature gets +1/+1 and has vigilance.
+{2}{G}{W}, {T}: Mill three cards. You may return a permanent card milled this way to your hand.
+
+March of the Unhallowed
+rules_text: When March of the Unhallowed enters, mill three cards, then return a creature card with mana value 3 or less from your graveyard to the battlefield.
+Whenever you attack with three or more creatures, each opponent loses 1 and you gain 1 life. => When this enchantment enters, mill three cards, then return a creature card with mana value 3 or less from your graveyard to the battlefield.
+Whenever you attack with three or more creatures, each opponent loses 1 and you gain 1 life.
+
+Garden Ghoul
+
+Goldnight Seraph
+rules_text: Flying
+When Goldnight Seraph enters, it deals X damage to up to one target creature or planeswalker and you gain X life, where X is the number of artifacts you control. => Flying
+When this creature enters, it deals X damage to up to one target creature or planeswalker and you gain X life, where X is the number of artifacts you control.
+
+Liturgy of Brine
+rules_text: When Liturgy of Brine enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, Liturgy of Brine becomes a 5/5 Kraken Horror creature in addition to its other types until end of turn. => When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.
+[i]Invocation[/i] — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, this enchantment becomes a 5/5 Kraken Horror creature in addition to its other types until end of turn.
+
+Bruna, Shepherd of Souls
+
+Drownyard Colossus
+rules_text: Whenever Drownyard Colossus or another creature you control enters, any number of target players each mill cards equal to that creature's toughness.
+{2}{U}{B}, {T}: Draw a card, then create a 0/3 blue Crab creature token with “{T}: Target player mills a card.” => Whenever this creature or another creature you control enters, any number of target players each mill cards equal to that creature's toughness.
+{2}{U}{B}, {T}: Draw a card, then create a 0/3 blue Crab creature token with “{T}: Target player mills a card.”
+
+Olivia Voldaren, Progenitrix
+
+Valseid, Leyran Brute
+
+Sigarda, Dawn of Mercy
+rules_text: Flying, ward {2}
+Other creatures you control enter with an additional +1/+1 counter on them.
+If a spell or ability an opponent controls causes you to discard Sigarda, Dawn of Mercy, put it onto the battlefield instead of putting it into your graveyard. => Flying
+Other creatures you control enter with an additional +1/+1 counter on them.
+If a spell or ability an opponent controls causes you to discard Sigarda, Dawn of Mercy, put it onto the battlefield instead of putting it into your graveyard.
+
+Liesa, Enemy of Shadow
+rules_text: Flying, lifelink
+Liesa has haste as long as it was foreshadowed.
+When Liesa dies, each opponent sacrifices a creature and loses 2 life.
+Foreshadow {4}{W}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying, lifelink
+Liesa has haste as long as it was foreshadowed.
+When Liesa dies, each opponent sacrifices a creature and loses 2 life.
+Foreshadow {4}{W}{B} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Curse of Whispers
+
+Krallenmaw, the Tempter
+
+Gisela, Blade of Morning
+
+Makodonis's Wolfbro
+rules_text: You have no maximum hand size.
+Whenever Makodonis's Wolfbro attacks, if its power is greater than its base power, draw cards equal to the difference. => You have no maximum hand size.
+Whenever this creature attacks, if its power is greater than its base power, draw cards equal to the difference.
+
+Ghrin-Danu, the Dawnhart
+
+Divine Decree
+
+Makodonis, Master of Form
+rules_text:  => If a creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+[+1]: Target player draws two cards, then discards a card. Put a +1/+1 counter on up to one target creature you control.
+[-3]: Create a token that's a copy of target creature you control.
+[-8]: Return any number of target nonland permanents to their owner's hand.
+
+The Selhoff Twins
+
+Edgar Markov, Bloodsire
+
+Hunter's Arsenal
+rules_text: When Hunter's Arsenal enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+{1}, {T}, Sacrifice Hunter's Arsenal: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life. => When this artifact enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.
+
+Soul-Capturing Lantern
+rules_text: When Soul-Capturing Lantern enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}, {T}: Add one mana of any color.
+{6}, {T}, Sacrifice Soul-Capturing Lantern: Exile target nonland permanent. Activate only as a sorcery. => When this artifact enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}, {T}: Add one mana of any color.
+{6}, {T}, Sacrifice this artifact: Exile target nonland permanent. Activate only as a sorcery.
+
+Pulse Seeker
+rules_text: When Pulse Seeker enters, create a 1/1 black and red Vampire creature token with menace.
+Equipped creature gets +1/+0.
+Equip {1} => When this Equipment enters, create a 1/1 black and red Vampire creature token with menace.
+Equipped creature gets +1/+0.
+Equip {1}
+
+Bodyless Knight
+rules_text: First strike
+Whenever Bodyless Knight attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => First strike
+Whenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Guardian Grotesque
+rules_text: Flying, vigilance
+When Guardian Grotesque dies, return up to one target nonland permanent to its owner's hand.
+Foreshadow {6} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying, vigilance
+When this creature dies, return up to one target nonland permanent to its owner's hand.
+Foreshadow {6} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Survivor's Torch
+
+Harvesttide Nemesis
+rules_text: Reach, trample
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more tokens you control enter, put a +1/+1 counter on Harvesttide Nemesis. This ability triggers only once each turn. => Reach, trample
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more tokens you control enter, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+
+Angelic Statue
+rules_text: Whenever you gain life, draw a card. This ability triggers only once each turn.
+{6}: Angelic Statue becomes a 3/3 white Angel creature with flying and lifelink until end of turn. => Whenever you gain life, draw a card. This ability triggers only once each turn.
+{6}: This artifact becomes a 3/3 white Angel artifact creature with flying and lifelink until end of turn.
+
+Demonrune Wall
+rules_text: Defender
+When Demonrune Wall enters, exile target creature or enchantment an opponent controls until Demonrune Wall leaves the battlefield. => Defender
+When this creature enters, exile target creature or enchantment an opponent controls until this creature leaves the battlefield.
+
+Exsanguinator
+rules_text: Exsanguinator enters with X pain counters on it.
+Whenever equipped creature attacks, each opponent loses X life and you gain X life, where X is the number of pain counters on Exsanguinator.
+Equip {4} => This Equipment enters with X pain counters on it.
+Whenever equipped creature attacks, each opponent loses X life and you gain X life, where X is the number of pain counters on this Equipment.
+Equip {4}
+
+Scrolls of Succession
+rules_text: As Scrolls of Succession enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{2}, {T}: Draw a card. Then discard a card unless you control three or more creatures of the chosen type. => As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{2}, {T}: Draw a card. Then discard a card unless you control three or more creatures of the chosen type.
+
+Phylactery of Forbidden Arts
+rules_text: Indestructible
+When Phylactery of Forbidden Arts enters, search your library for up to three instant and/or sorcery cards with different names, put them into your graveyard, then shuffle.
+{T}: Add three mana of any one color. Spend this mana only to cast spells from your graveyard or activate abilities from your graveyard. => Indestructible
+When this artifact enters, search your library for up to three instant and/or sorcery cards with different names, put them into your graveyard, then shuffle.
+{T}: Add three mana of any one color. Spend this mana only to cast spells from your graveyard or activate abilities from your graveyard.
+
+The Wickerscreech of Gatstaf
+rules_text: Flying, menace, trample
+When The Wickerscreech of Gatstaf dies, destroy target nonland permanent an opponent controls.
+Foreshadow {13}. This costs {1} less for each nonland card in your graveyard. [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => Flying, menace, trample
+When The Wickerscreech of Gatstaf dies, destroy target nonland permanent an opponent controls.
+Foreshadow {13}. This costs {1} less for each nonland card in your graveyard. [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Helvault, Shard of the Moon
+
+Fog-Ridden Wharf
+rules_text: Fog-Ridden Wharf enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {W} or {U}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {W} or {U}.
+
+Macabre Pools
+rules_text: Macabre Pools enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {U} or {B}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {U} or {B}.
+
+Hellfire Crater
+rules_text: Hellfire Crater enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {B} or {R}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {B} or {R}.
+
+Eerie Wildwood
+rules_text: Eerie Wildwood enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {R} or {G}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {R} or {G}.
+
+Blessed Grounds
+rules_text: Blessed Grounds enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {G} or {W}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {G} or {W}.
+
+Solemn Bastion
+rules_text: Solemn Bastion enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {W} or {B}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {W} or {B}.
+
+Coastal Cairn
+rules_text: Coastal Cairn enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {U} or {R}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {U} or {R}.
+
+Putrid Corcass
+rules_text: Putrid Corcass enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {B} or {G}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {B} or {G}.
+
+Sunswept Grange
+rules_text: Sunswept Grange enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {R} or {W}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {R} or {W}.
+
+Secret Lagoon
+rules_text: Secret Lagoon enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {G} or {U}. => This land enters tapped. When it enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {G} or {U}.
+
+Sinister Thicket
+rules_text: {T}, Sacrifice Sinister Thicket: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{4}, Exile Sinister Thicket from your graveyard: Draw a card. Activate only as a sorcery. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{4}, Exile this land from your graveyard: Draw a card. Activate only as a sorcery.
+
+Ghoulcaller's Graf
+rules_text: When Ghoulcaller's Graf enters, mill two cards.
+{T}: Add {C}.
+{5}, {T}, Sacrifice Ghoulcaller's Graf: Return up to two target creature cards from your graveyard to your hand. => When this land enters, mill two cards.
+{T}: Add {C}.
+{5}, {T}, Sacrifice this land: Return up to two target creature cards from your graveyard to your hand.
+
+Elgaud Fortress
+rules_text: {T}: Add {C}.
+{4}, {T}, Sacrifice Elgaud Fortress: Create a token that's a copy of target artifact you control. Activate only as a sorcery. => {T}: Add {C}.
+{4}, {T}, Sacrifice this land: Create a token that's a copy of target artifact you control. Activate only as a sorcery.
+
+Wesgoth Cemetery
+rules_text: Wesgoth Cemetery enters tapped.
+{T}: Add {B} or {G}. If there are thirteen or more corpse counters on Wesgoth Cemetery, remove those counters, transform it, then untap it.
+Whenever a nontoken creature dies, put a corpse counter on Wesgoth Cemetery.
+Wesgoth Cemetery can be your commander. => Wesgoth Cemetery enters tapped.
+Whenever a nontoken creature dies, put a corpse counter on Wesgoth Cemetery.
+{T}: Add {B} or {G}. If there are thirteen or more corpse counters on Wesgoth Cemetery, remove those counters, transform it, then untap it.
+Wesgoth Cemetery can be your commander.
+
+Angel
+
+Human
+
+Intangible Virtue
+
+Spirit
+
+Crab
+
+Bat
+
+Human Warlock
+
+Zombie
+
+Devil
+
+Elemental Spirit
+
+Human Survivor
+
+Bear Spirit
+
+Plant
+
+Wolf
+
+Vampire
+
+Treasure
+
+Weapon
+
+Bitter Goodbye
+cost: {1}{B} => {B}
+
+Ensnaring Possessor
+rules_text: Whenever Ensnaring Possessor attacks, you may tap or untap target permanent.
+{1}{U}, {T}: Until end of turn, target creature gets +1/+1 and gains “Whenever this creature attacks, you may tap or untap target permanent.” Activate only as a sorcery. => Whenever this creature attacks, you may tap or untap target permanent.
+{1}{U}, {T}: Until end of turn, target creature gets +1/+1 and gains “Whenever this creature attacks, you may tap or untap target permanent.” Activate only as a sorcery.
+
+Erase Identity
+rules_text: Enchant creature
+When Erase Identity enters, tap enchanted creature.
+Enchanted creature loses all abilities and doesn't untap during its controller's untap step. => Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature loses all abilities.
+Enchanted creature doesn't untap during its controller's untap step.
+
+Geistmage's Grimoire
+type: Artifact => Artifact — Book
+rules_text: When Geistmage's Grimoire enters, draw two cards.
+{4}{U}, {T}: Target creature can't be blocked this turn. => When this Book enters, draw two cards.
+{4}{U}, {T}: Target creature can't be blocked this turn.
+
+Scare Away
+
+Niblis of Hail
+
+Malevolus
+
+Parish Slayer
+rules_text: When Parish Slayer enters, create a Weapon token. When you do, attach it to target creature you control. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+{R}: Parish Slayer gains menace until end of turn. => When this creature enters, create a Weapon token. When you do, attach it to target creature you control. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+{R}: This creature gains menace until end of turn.
+
+Insidious Communion
+
+Counsel of the Damned
+
+Curse of Tempests
+rules_text: Flash
+Enchant player
+When Curse of Tempests enters, it deals 3 damage to target creature or planeswalker enchanted player controls.
+Whenever enchanted player is attacked, you may draw a card. If you do, discard a card. => Flash
+Enchant player
+When this Aura enters, it deals 3 damage to target creature or planeswalker enchanted player controls.
+Whenever enchanted player is attacked, you may draw a card. If you do, discard a card.
+
+Eavesknocker
+rules_text: Flying, haste
+Whenever Eavesknocker attacks, another target attacking creature gets +1/+1 until end of turn. => Flying, haste
+Whenever this creature attacks, another target attacking creature gets +1/+1 until end of turn.
+
+Gift of the Seraph
+rules_text: When Gift of the Seraph enters, exile target nonland permanent an opponent controls until Gift of the Seraph leaves the battlefield. When you do, create a Weapon token and attach it to up to one target creature you control. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. When you do, create a Weapon token and attach it to up to one target creature you control. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Greater Sangromancy
+
+Hamlet Swordmaster
+rules_text: Artifact spells you cast cost {1} less to cast.
+When Hamlet Swordmaster enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever Hamlet Swordmaster attacks while you control three or more artifacts, exile the top card of your library. You may play it this turn. => Artifact spells you cast cost {1} less to cast.
+When this creature enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever this creature attacks while you control three or more artifacts, exile the top card of your library. You may play it this turn.
+
+Kessig Wolftamer
+rules_text: When Kessig Wolftamer enters, create a 2/2 green Wolf creature token.
+{4}{R}{G}: Transform Kessig Wolftamer. Activate only if it's attacking. => When this creature enters, create a 2/2 green Wolf creature token.
+{4}{R}{G}: Transform this creature. Activate only if it's attacking.
+
+Mortalcoil Hydra
+rules_text: Mortalcoil Hydra enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+When Mortalcoil Hydra dies, each opponent loses 3 life and you gain 3 life.
+Foreshadow {4}{B}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)[/i] => This creature enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+When this creature dies, each opponent loses 3 life and you gain 3 life.
+Foreshadow {4}{B}{G} [i](You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)[/i]
+
+Phantasmal Deluge
+
+Writhing Observer
+
+Midnight Invitation
+rules_text: Reveal the top three cards of your library and put them into your hand. You lose life equal to the total mana value of those cards if this spell wasn't cast from your graveyard. Otherwise, each opponent loses that much life.
+Flashback {4}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Reveal the top three cards of your library and put them into your hand. If this spell was cast from your graveyard, each opponent loses life equal to the total mana value of those cards. Otherwise, you lose that much life.
+Flashback {4}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Curse of Raining Daggers
+rules_text: Enchant player
+Whenever enchanted player casts a spell, Curse of Raining Daggers deals 1 damage to them.
+Whenever one or more creatures deal combat damage to enchanted player, you create a Weapon token. When you do, attach it to target creature you control. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Enchant player
+Whenever enchanted player casts a spell, this Aura deals 1 damage to them.
+Whenever one or more creatures deal combat damage to enchanted player, you create a Weapon token. When you do, attach it to target creature you control. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Snag Apparition
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

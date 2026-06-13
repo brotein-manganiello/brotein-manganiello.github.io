@@ -1,4 +1,81 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Thorncrawler added.
+Vicious Howler added.
+Sheoldred, Praetor of Secrets added.
+
+Gutripper removed.
+Swarm Prowler removed.
+Sheoldred, Praetor of Secrets-P removed.
+
+Atraxa, Perfect Synthesis
+
+Shrieking Shrike
+rules_text: Flying
+Whenever this creature or another creature you control enters, you get {E} [i](an energy counter)[/i].
+Pay {E}{E}{E}: Create a token that's a copy of target creature token you control. Activate only as a sorcery. => Flying
+Whenever this creature or another creature you control enters, you get {E} [i](an energy counter)[/i].
+Whenever this creature attacks, you may pay five {E}. When you do, exile target creature.
+
+Subjugator's Stylus
+
+Elesh Norn, Praetor of Unity
+
+Meldweb Metatect
+rules_text: When this creature enters, you get {E}{E}.
+{T}, Pay {E}: Exile another target artifact or creature you control, then return it to the battlefield. Activate only as a sorcery. => When this creature enters, you get {E}{E} [i](two energy counters)[/i].
+{T}, Pay {E}: Exile another target artifact or creature you control, then return it to the battlefield. Activate only as a sorcery.
+
+Mercurial Entity
+
+Viral Diffusion
+rules_text: [i]({UP} can be paid with {U} or 2 life.)[/i]
+Return target nonland permanent to its owner's hand. => [i]({UP} can be paid with {U} or 2 life.)[/i]
+Return target creature or planeswalker an opponent controls to its owner's hand.
+
+Augur's Atrium
+
+Jin-Gitaxias, Praetor of Synthesis
+
+Suffocating Plague
+cost: {3}{B}{B} => {5}{B}{B}
+
+Tormentor's Apparatus
+
+Sheoldred, Praetor of Secrets
+rules_text: Lifelink
+As you begin searching your library, you may put a card from your library into your hand.
+Your opponents can't search libraries. => Lifelink
+Whenever Sheoldred, Praetor of Secrets attacks, search your library for a card, put it into your hand, then shuffle.
+Your opponents can't search libraries.
+pt: 5/4 => 5/5
+
+Combustor's Crucible
+
+Urabrask, Praetor of Defiance
+pt: 6/4 => 6/5
+
+Gift of Phyrexia
+cost: {G} => {1}{G}
+rules_text: Target creature gets +2/+2 until end of turn. Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Target creature gets +3/+3 until end of turn. Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Sylvan Rhapsody
+rules_text: Exile all artifacts and enchantments with mana value 3 or less. => Exile all artifacts and enchantments with mana value 4 or less.
+
+Sporesinger's Lung
+rules_text: [i]({GP} can be paid with {G} or 2 life.)[/i]
+Whenever a land you control enters tapped, untap it.
+{T}: Untap target creature you control. Activate only as a sorcery and only once each turn. => [i]({GP} can be paid with {G} or 2 life.)[/i]
+Whenever a permanent you control enters tapped, untap it.
+{T}: You may put a land card from your hand onto the battlefield.
+
+Vorinclex, Praetor of Evolution
+
+The Propagation Theater
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

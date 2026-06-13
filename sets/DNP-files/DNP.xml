@@ -5,7 +5,7 @@
 			<name>DNP</name>
 			<longname>DAWN ON NEW PHYREXIA</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-25</releasedate>
+			<releasedate>2026-06-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -332,7 +332,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Shrieking Shrike</name>
 			<text>Flying
 Whenever this creature or another creature you control enters, you get {E} (an energy counter).
-Pay {E}{E}{E}: Create a token that&apos;s a copy of target creature token you control. Activate only as a sorcery.</text>
+Whenever this creature attacks, you may pay five {E}. When you do, exile target creature.</text>
 			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/18.png" num="31">DNP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1037,7 +1037,7 @@ Whenever you draw your second card each turn, put a +1/+1 counter on this creatu
 		</card>
 		<card>
 			<name>Meldweb Metatect</name>
-			<text>When this creature enters, you get {E}{E}.
+			<text>When this creature enters, you get {E}{E} (two energy counters).
 {T}, Pay {E}: Exile another target artifact or creature you control, then return it to the battlefield. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/58.png" num="58">DNP</set>
 			<prop>
@@ -1150,7 +1150,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 		<card>
 			<name>Viral Diffusion</name>
 			<text>({UP} can be paid with {U} or 2 life.)
-Return target nonland permanent to its owner&apos;s hand.</text>
+Return target creature or planeswalker an opponent controls to its owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/64.png" num="80">DNP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2059,8 +2059,8 @@ Whenever a creature you control dies, you get {E} (an energy counter).
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3BB</manacost>
-				<cmc>5</cmc>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2104,7 +2104,7 @@ During your turn, you may play cards exiled with this artifact. Mana of any type
 		<card>
 			<name>Sheoldred, Praetor of Secrets</name>
 			<text>Lifelink
-As you begin searching your library, you may put a card from your library into your hand.
+Whenever Sheoldred, Praetor of Secrets attacks, search your library for a card, put it into your hand, then shuffle.
 Your opponents can&apos;t search libraries.</text>
 			<set rarity="mythic" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/118.png" num="112">DNP</set>
 			<prop>
@@ -2116,7 +2116,7 @@ Your opponents can&apos;t search libraries.</text>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2827,7 +2827,7 @@ Each opponent loses control of permanents you own and can&apos;t gain control of
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>6/4</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2889,7 +2889,7 @@ When this creature enters, exile the top card of your library. This creature dea
 		<card>
 			<name>Vatborn Digester</name>
 			<text>Whenever you draw your second card each turn, this creature gets +1/+1 until end of turn and you gain 2 life.</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/162.png" num="196">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/162.png" num="195">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2906,7 +2906,7 @@ When this creature enters, exile the top card of your library. This creature dea
 		<card>
 			<name>Herald of the Swarm</name>
 			<text>Creature spells you cast with power 4 or greater cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/163.png" num="171">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/163.png" num="170">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2940,14 +2940,14 @@ When this creature enters, create a tapped Extractor token. (It&apos;s an artifa
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Gutripper</name>
+			<name>Thorncrawler</name>
 			<text>This creature enters with a +1/+1 counter on it.
 Each creature you control with a counter on it has trample.</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/165.png" num="170">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/165.png" num="194">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Phyrexian Beast</type>
+				<type>Creature — Phyrexian Insect</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
@@ -2961,7 +2961,7 @@ Each creature you control with a counter on it has trample.</text>
 			<name>Injector Nettle</name>
 			<text>When this creature enters, put a +1/+1 counter on target creature you control.
 {3}{G}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/166.png" num="175">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/166.png" num="174">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2979,7 +2979,7 @@ Each creature you control with a counter on it has trample.</text>
 			<name>Venomous Hierophant</name>
 			<text>Deathtouch
 When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/167.png" num="197">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/167.png" num="196">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2998,7 +2998,7 @@ When this creature enters, scry 2. (Look at the top two cards of your library, t
 			<text>When this creature enters, you get {E}{E} (two energy counters).
 Whenever this creature deals combat damage to a player, draw a card.
 Pay {E}: This creature can&apos;t be blocked by creatures with power 2 or less this turn.</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/168.png" num="176">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/168.png" num="175">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3034,7 +3034,7 @@ Steelclad — Whenever you attack with one or more artifact creatures and/or equ
 			<name>Tanglespoiler</name>
 			<text>Reach
 When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/170.png" num="194">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/170.png" num="192">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3052,7 +3052,7 @@ When this creature enters, proliferate. (Choose any number of permanents and/or 
 			<name>Savage Carnogore</name>
 			<text>When this creature enters, you may sacrifice another creature. If you do, you gain 4 life and draw a card.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/171.png" num="185">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/171.png" num="184">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3068,15 +3068,15 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		</card>
 		<card>
 			<name>Gift of Phyrexia</name>
-			<text>Target creature gets +2/+2 until end of turn. Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<text>Target creature gets +3/+3 until end of turn. Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/172.png" num="167">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -3085,7 +3085,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Indomitable Blow</name>
 			<text>Target creature gets +1/+1 until end of turn. It fights up to one target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/173.png" num="174">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/173.png" num="173">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3101,7 +3101,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Ravenous Ambush</name>
 			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control. You gain 3 life.</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/174.png" num="184">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/174.png" num="183">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3119,7 +3119,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Enchant land
 When this Aura enters, you gain 2 life and draw a card.
 Enchanted land has &quot;{T}: Add two mana of different colors.&quot;</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/175.png" num="173">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/175.png" num="172">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3136,7 +3136,7 @@ Enchanted land has &quot;{T}: Add two mana of different colors.&quot;</text>
 			<name>Pestilent Barrage</name>
 			<text>Destroy target artifact, enchantment, or creature with flying.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/176.png" num="180">DNP</set>
+			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/176.png" num="179">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3153,7 +3153,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Tel-Jilad Slime</name>
 			<text>Deathtouch
 Whenever Tel-Jilad Slime deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/177.png" num="195">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/177.png" num="193">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3171,7 +3171,7 @@ Whenever Tel-Jilad Slime deals combat damage to a player, proliferate. (Choose a
 			<name>Serum Centurion</name>
 			<text>Trample, ward {1}
 Whenever you put one or more counters on a non-Warrior creature you control, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/178.png" num="186">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/178.png" num="185">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3186,10 +3186,10 @@ Whenever you put one or more counters on a non-Warrior creature you control, put
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Swarm Prowler</name>
+			<name>Vicious Howler</name>
 			<text>Landfall — Whenever a land you control enters, you get {E}{E} (two energy counters).
 Pay six {E}: Create a 4/4 green Phyrexian Beast creature token. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/179.png" num="191">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/179.png" num="197">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3225,7 +3225,7 @@ When this creature enters, destroy target artifact or enchantment an opponent co
 			<name>Priest of Vorinclex</name>
 			<text>Vigilance
 Whenever this creature or another creature you control with power 4 or greater enters, create a tapped Extractor token. (It&apos;s an artifact with &quot;{T}, Pay 2 life, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/181.png" num="183">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/181.png" num="182">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3260,7 +3260,7 @@ Whenever this creature or another creature you control with power 4 or greater e
 		<card>
 			<name>Plague Crusher</name>
 			<text>Whenever this creature attacks, draw a card, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/183.png" num="182">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/183.png" num="181">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3278,7 +3278,7 @@ Whenever this creature or another creature you control with power 4 or greater e
 			<name>Pinnacle of Might</name>
 			<text>Sunburst (This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.)
 This creature can&apos;t be blocked by creatures with power 2 or less.</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/184.png" num="181">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/184.png" num="180">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3296,7 +3296,7 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 			<name>Sundered Horizons</name>
 			<text>When this enchantment enters, scry 2, then create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 {2}{W}{U}{B}{R}{G}, Sacrifice this enchantment: Draw three cards, then you may put a permanent card from your hand onto the battlefield. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/185.png" num="189">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/185.png" num="188">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3313,7 +3313,7 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 			<name>Sinuous Hive</name>
 			<text>When this artifact enters and whenever you draw your second card each turn, create a 1/1 green Insect creature token.
 {4}{G}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each Insect you control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/186.png" num="187">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/186.png" num="186">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3347,7 +3347,7 @@ Target creature you control gets +3/+3 and gains indestructible until end of tur
 			<name>Layershaping</name>
 			<text>Search your library for up to two basic land cards and/or Sphere cards, put them onto the battlefield tapped, then shuffle.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/188.png" num="177">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/188.png" num="176">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3363,7 +3363,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Superlatively Massive</name>
 			<text>Target creature you control gets +4/+4 until end of turn. It deals damage equal to its power to up to one target creature or planeswalker you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/189.png" num="190">DNP</set>
+			<set rarity="uncommon" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/189.png" num="189">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3398,7 +3398,7 @@ At the beginning of your first main phase, look at the top card of your library.
 			<name>Tanglecord Witness</name>
 			<text>When this creature enters, return target permanent card from your graveyard to your hand.
 Steelclad — Whenever you attack with one or more artifact creatures and/or equipped creatures, you may return this creature to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/191.png" num="193">DNP</set>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/191.png" num="191">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3417,7 +3417,7 @@ Steelclad — Whenever you attack with one or more artifact creatures and/or equ
 			<text>Trample
 Whenever one or more creatures you control deal combat damage to a player, you get that many {E} (energy counters).
 You may pay any amount of {E} as another creature you control enters. If you do, that creature enters with that many additional +1/+1 counters on it.</text>
-			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/192.png" num="172">DNP</set>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/192.png" num="171">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3436,7 +3436,7 @@ You may pay any amount of {E} as another creature you control enters. If you do,
 			<text>({GP} can be paid with either {G} or 2 life.)
 Reach
 When this creature enters, search your library for a creature card if life was spent to cast this spell. Otherwise, search your library for up to two creature cards. Reveal each card you searched for this way, put them into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/193.png" num="178">DNP</set>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/193.png" num="177">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3488,8 +3488,8 @@ At the beginning of combat on your turn, put two +1/+1 counters on each creature
 		</card>
 		<card>
 			<name>Sylvan Rhapsody</name>
-			<text>Exile all artifacts and enchantments with mana value 3 or less.</text>
-			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/196.png" num="192">DNP</set>
+			<text>Exile all artifacts and enchantments with mana value 4 or less.</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/196.png" num="190">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3505,9 +3505,9 @@ At the beginning of combat on your turn, put two +1/+1 counters on each creature
 		<card>
 			<name>Sporesinger&apos;s Lung</name>
 			<text>({GP} can be paid with {G} or 2 life.)
-Whenever a land you control enters tapped, untap it.
-{T}: Untap target creature you control. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/197.png" num="188">DNP</set>
+Whenever a permanent you control enters tapped, untap it.
+{T}: You may put a land card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/197.png" num="187">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3544,7 +3544,7 @@ Spells and abilities your opponents control can&apos;t cause creatures they cont
 			<text>Haste
 When this creature enters, return up to one target land card from your graveyard to the battlefield, then you gain life equal to the number of lands you control.
 Whenever this creature attacks while you control another creature with power 4 or greater, draw a card.</text>
-			<set rarity="mythic" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/199.png" num="179">DNP</set>
+			<set rarity="mythic" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/199.png" num="178">DNP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5023,7 +5023,7 @@ When this artifact enters, destroy all other nonland permanents. Then put a +1/+
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Plains 2</name>
+			<name>Plains2</name>
 			<text></text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/288.png" num="288">DNP</set>
 			<prop>
@@ -5053,7 +5053,7 @@ When this artifact enters, destroy all other nonland permanents. Then put a +1/+
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Island 2</name>
+			<name>Island2</name>
 			<text></text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/290.png" num="290">DNP</set>
 			<prop>
@@ -5083,7 +5083,7 @@ When this artifact enters, destroy all other nonland permanents. Then put a +1/+
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Swamp 2</name>
+			<name>Swamp2</name>
 			<text></text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/292.png" num="292">DNP</set>
 			<prop>
@@ -5113,7 +5113,7 @@ When this artifact enters, destroy all other nonland permanents. Then put a +1/+
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Mountain 2</name>
+			<name>Mountain2</name>
 			<text></text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/294.png" num="294">DNP</set>
 			<prop>
@@ -5143,7 +5143,7 @@ When this artifact enters, destroy all other nonland permanents. Then put a +1/+
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Forest 2</name>
+			<name>Forest2</name>
 			<text></text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/296.png" num="296">DNP</set>
 			<prop>
@@ -5158,9 +5158,9 @@ When this artifact enters, destroy all other nonland permanents. Then put a +1/+
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Sheoldred, Praetor of Secrets-P</name>
+			<name>Sheoldred, Praetor of Secrets</name>
 			<text>Lifelink
-As you begin searching your library, you may put a card from your library into your hand.
+Whenever Sheoldred, Praetor of Secrets attacks, search your library for a card, put it into your hand, the shuffle.
 Your opponents can&apos;t search libraries.</text>
 			<set rarity="mythic" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/297.png" num="297">DNP</set>
 			<prop>
@@ -5172,7 +5172,7 @@ Your opponents can&apos;t search libraries.</text>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

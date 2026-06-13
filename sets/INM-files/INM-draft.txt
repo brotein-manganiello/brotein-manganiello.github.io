@@ -7,7 +7,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/14_Cobblespook.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/0.png"
 			}
 		},
 		{
@@ -17,24 +17,24 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/17_Drogskol Possessor.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/1.png"
 			}
 		},
 		{
 			"name": "Avacyn's Partisan",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Peasant",
 			"collector_number": "6",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/6_Avacyn's Partisan_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/2_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/6_Avacyn's Partisan_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/2_front.png"
 			}
 		},
 		{
@@ -44,7 +44,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/40_Stalwart Cathar.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/3.png"
 			}
 		},
 		{
@@ -54,7 +54,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/16_Departed Butler.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/4.png"
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/22_Harvesttide Healer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/5.png"
 			}
 		},
 		{
@@ -74,7 +74,7 @@
 			"type": "Creature — Dog",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/26_Loyal Retriever.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/6.png"
 			}
 		},
 		{
@@ -84,7 +84,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/36_Sigarda's Shepherd.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/7.png"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 			"type": "Creature — Elk",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/10_Candlecrown Stag.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/8.png"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 			"type": "Creature — Spirit Horror",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/45_Weizenmother.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/9.png"
 			}
 		},
 		{
@@ -114,7 +114,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/27_Moonscythe.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/10.png"
 			}
 		},
 		{
@@ -124,7 +124,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/41_Subdue the Monster.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/11.png"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/2_Alert the Village.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/12.png"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/19_Flawless Finesse.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/13.png"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			"type": "Instant",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/39_Spectral Salvo.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/14.png"
 			}
 		},
 		{
@@ -164,7 +164,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/9_Breaking Dawn.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/15.png"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/25_Lifted Spirits.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/16.png"
 			}
 		},
 		{
@@ -184,17 +184,17 @@
 			"type": "Sorcery",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/21_Frightful Visitation.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/17.png"
 			}
 		},
 		{
 			"name": "Slayer's Grimoire",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/38_Slayer's Grimoire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/18.png"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/32_Puresoul Possessor.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/19.png"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/8_Blessed Bladewright.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/20.png"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/43_Thraben Redeemer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/21.png"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/37_Silverblade Cathar.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/22.png"
 			}
 		},
 		{
@@ -247,11 +247,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/23_Haunted Waif_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/23_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/23_Haunted Waif_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/23_front.png"
 			}
 		},
 		{
@@ -261,7 +261,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/12_Cathedral Gargoyle.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/24.png"
 			}
 		},
 		{
@@ -271,7 +271,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/34_Righteous Chaplain.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/25.png"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/3_Angel of Sunrise.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/26.png"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/18_Evanescence.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/27.png"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/5_Avacyn's Mark.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/28.png"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/35_Sacralize.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/29.png"
 			}
 		},
 		{
@@ -324,11 +324,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/1_Alabaster Halo_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/30_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/1_Alabaster Halo_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/30_front.png"
 			}
 		},
 		{
@@ -338,7 +338,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/30_Phantom Presence.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/31.png"
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 			"type": "Legendary Creature — Human Cleric Knight",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/44_Traft, Lunarch's Edge.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/32.png"
 			}
 		},
 		{
@@ -358,7 +358,7 @@
 			"type": "Creature — Elk",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/15_Dawnhart's Envoy.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/33.png"
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/13_Cenotaph Possessor.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/34.png"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/28_Outrider Captain.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/35.png"
 			}
 		},
 		{
@@ -388,7 +388,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/24_Hecatomb Haunter.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/36.png"
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/7_Beseech Aid.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/37.png"
 			}
 		},
 		{
@@ -408,7 +408,7 @@
 			"type": "Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/11_Cathar's Armory.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/38.png"
 			}
 		},
 		{
@@ -421,11 +421,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/33_Resting Tombs_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/39_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/33_Resting Tombs_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/39_front.png"
 			}
 		},
 		{
@@ -435,7 +435,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/42_Sword of the Heavens.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/40.png"
 			}
 		},
 		{
@@ -445,7 +445,7 @@
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/20_Flight of Angels.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/41.png"
 			}
 		},
 		{
@@ -455,7 +455,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/4_Avacyn, the Savior.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/42.png"
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 			"type": "Legendary Planeswalker — Polina",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/31_Polina Elgaud.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/43.png"
 			}
 		},
 		{
@@ -475,24 +475,24 @@
 			"type": "Creature — Spirit",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/70_Nebelgast Possessor.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/44.png"
 			}
 		},
 		{
 			"name": "Corrupted Sorcerer",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature — Human Sorcerer",
 			"collector_number": "51",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/51_Corrupted Sorcerer_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/45_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/51_Corrupted Sorcerer_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/45_front.png"
 			}
 		},
 		{
@@ -502,7 +502,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/90_Widow Wisp.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/46.png"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/78_Seagraf Shamblers.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/47.png"
 			}
 		},
 		{
@@ -522,7 +522,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/67_Memory Surgeon.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/48.png"
 			}
 		},
 		{
@@ -532,7 +532,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/48_Brine Cultist.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/49.png"
 			}
 		},
 		{
@@ -542,7 +542,7 @@
 			"type": "Creature — Zombie Drake",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/49_Carrion Drake.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/50.png"
 			}
 		},
 		{
@@ -552,7 +552,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/60_Escaped Ooze.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/51.png"
 			}
 		},
 		{
@@ -562,7 +562,7 @@
 			"type": "Creature — Zombie Warrior",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/81_Skaab Grappler.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/52.png"
 			}
 		},
 		{
@@ -572,7 +572,7 @@
 			"type": "Creature — Octopus Horror",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/85_Sunken One.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/53.png"
 			}
 		},
 		{
@@ -582,7 +582,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/87_Uncover.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/54.png"
 			}
 		},
 		{
@@ -592,7 +592,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/64_Ghastly Guidance.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/55.png"
 			}
 		},
 		{
@@ -602,7 +602,7 @@
 			"type": "Sorcery",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/89_Unethical Research.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/56.png"
 			}
 		},
 		{
@@ -612,7 +612,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/50_Claim of the Deep.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/57.png"
 			}
 		},
 		{
@@ -622,7 +622,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/76_Remove Soul.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/58.png"
 			}
 		},
 		{
@@ -632,7 +632,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/52_Curse of Doubt.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/59.png"
 			}
 		},
 		{
@@ -642,7 +642,7 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/46_Body and Mind.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/60.png"
 			}
 		},
 		{
@@ -652,7 +652,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/74_Omendancer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/61.png"
 			}
 		},
 		{
@@ -662,7 +662,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/79_Severed Hands.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/62.png"
 			}
 		},
 		{
@@ -672,7 +672,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/68_Mistmourner.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/63.png"
 			}
 		},
 		{
@@ -682,7 +682,7 @@
 			"type": "Creature — Hippogriff",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/69_Morkrut Gryff.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/64.png"
 			}
 		},
 		{
@@ -695,11 +695,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/57_Drunau Egg_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/65_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/57_Drunau Egg_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/65_front.png"
 			}
 		},
 		{
@@ -709,7 +709,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/47_Braineater Abominus.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/66.png"
 			}
 		},
 		{
@@ -719,7 +719,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/83_Spine-Chilling Discovery.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/67.png"
 			}
 		},
 		{
@@ -729,7 +729,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/55_Curse of the Tattletale.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/68.png"
 			}
 		},
 		{
@@ -742,11 +742,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/65_Havengul Banshee_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/69_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/65_Havengul Banshee_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/69_front.png"
 			}
 		},
 		{
@@ -756,7 +756,7 @@
 			"type": "Enchantment",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/80_Shackled Memories.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/70.png"
 			}
 		},
 		{
@@ -766,7 +766,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/53_Curse of Scuttling Thoughts.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/71.png"
 			}
 		},
 		{
@@ -776,7 +776,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/86_Trawler Skaab.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/72.png"
 			}
 		},
 		{
@@ -786,7 +786,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/71_Nephalia Inquisitors.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/73.png"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 			"type": "Legendary Creature — Kraken Horror",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/66_Krothuss, Abyssal Terror.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/74.png"
 			}
 		},
 		{
@@ -809,11 +809,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/75_Paranormal Convergence_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/75_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/75_Paranormal Convergence_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/75_front.png"
 			}
 		},
 		{
@@ -826,11 +826,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/88_Undercroft Portal_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/76_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/88_Undercroft Portal_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/76_front.png"
 			}
 		},
 		{
@@ -840,7 +840,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/54_Curse of the Breathless.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/77.png"
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/56_Curse of Time.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/78.png"
 			}
 		},
 		{
@@ -860,7 +860,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/62_Geist of Yesterdays.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/79.png"
 			}
 		},
 		{
@@ -870,7 +870,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/84_Stitched Gargantua.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/80.png"
 			}
 		},
 		{
@@ -880,7 +880,7 @@
 			"type": "Enchantment",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/73_Occult Metamorphosis.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/81.png"
 			}
 		},
 		{
@@ -890,7 +890,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/61_Fathom the Unfathomable.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/82.png"
 			}
 		},
 		{
@@ -900,7 +900,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/97_Contagious Ghoul.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/83.png"
 			}
 		},
 		{
@@ -910,7 +910,7 @@
 			"type": "Creature — Snake",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/99_Crypt Viper.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/84.png"
 			}
 		},
 		{
@@ -920,7 +920,7 @@
 			"type": "Creature — Vampire Knight",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/120_Markov Fencer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/85.png"
 			}
 		},
 		{
@@ -930,7 +930,7 @@
 			"type": "Creature — Vampire Cleric",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/112_Falkenrath Ordainer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/86.png"
 			}
 		},
 		{
@@ -943,11 +943,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/118_Lone Zombie_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/87_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/118_Lone Zombie_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/87_front.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/91_Acolyte of Griselbrand.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/88.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/133_Undead Servant.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/89.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Zombie Elk",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/110_Dread Elk.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/90.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/125_Shilgengar's Harvester.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/91.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Creature — Frog Horror",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/115_It Came from the Bog.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/92.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/93_Augury of Misfortunes.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/93.png"
 			}
 		},
 		{
@@ -1017,17 +1017,17 @@
 			"type": "Instant",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/124_Sanguine Salvation.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/94.png"
 			}
 		},
 		{
 			"name": "Lich's Grimoire",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/117_Lich's Grimoire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/95.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/102_Curse of the Unburied.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/96.png"
 			}
 		},
 		{
@@ -1047,17 +1047,17 @@
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/131_Undead Hex.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/97.png"
 			}
 		},
 		{
 			"name": "Drain Youth",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/109_Drain Youth.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/98.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/129_True Blood.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/99.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/128_Strangleroot's Clutches.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/100.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/113_Final Destination.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/101.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Skeleton Warlock",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/95_Bone Lich.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/102.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Vampire",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/134_Vespercloak Vampire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/103.png"
 			}
 		},
 		{
@@ -1120,11 +1120,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/108_Dowager of Traublassen_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/104_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/108_Dowager of Traublassen_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/104_front.png"
 			}
 		},
 		{
@@ -1134,7 +1134,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/106_Diregraf Skulleater.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/105.png"
 			}
 		},
 		{
@@ -1144,7 +1144,7 @@
 			"type": "Creature — Zombie Warlock",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/132_Undead Necromancer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/106.png"
 			}
 		},
 		{
@@ -1154,7 +1154,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/114_Grim Raven of Wesgoth.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/107.png"
 			}
 		},
 		{
@@ -1164,7 +1164,7 @@
 			"type": "Creature — Zombie Goat",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/123_Plague Herald.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/108.png"
 			}
 		},
 		{
@@ -1174,7 +1174,7 @@
 			"type": "Creature — Nightmare Horse",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/130_Umbersteed.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/109.png"
 			}
 		},
 		{
@@ -1187,11 +1187,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/96_Carnage Throne_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/110_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/96_Carnage Throne_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/110_front.png"
 			}
 		},
 		{
@@ -1201,7 +1201,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/126_Skirsdag Edict.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/111.png"
 			}
 		},
 		{
@@ -1211,7 +1211,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/119_Malicious Eclipse.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/112.png"
 			}
 		},
 		{
@@ -1221,7 +1221,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/101_Curse of Nightmares.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/113.png"
 			}
 		},
 		{
@@ -1231,7 +1231,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/104_Death Undone.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/114.png"
 			}
 		},
 		{
@@ -1244,11 +1244,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/122_Oswin, Skirsdag Diabolist_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/115_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/122_Oswin, Skirsdag Diabolist_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/115_front.png"
 			}
 		},
 		{
@@ -1261,11 +1261,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/98_Corpse Thief_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/116_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/98_Corpse Thief_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/116_front.png"
 			}
 		},
 		{
@@ -1275,7 +1275,7 @@
 			"type": "Creature — Vampire Knight",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/111_Falkenrath Bladesire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/117.png"
 			}
 		},
 		{
@@ -1285,7 +1285,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/107_Doomsday Horde.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/118.png"
 			}
 		},
 		{
@@ -1295,7 +1295,7 @@
 			"type": "Creature — Zombie Warrior",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/105_Deathless Butcher.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/119.png"
 			}
 		},
 		{
@@ -1305,7 +1305,7 @@
 			"type": "Enchantment",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/116_Left for Dead.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/120.png"
 			}
 		},
 		{
@@ -1315,7 +1315,7 @@
 			"type": "Enchantment",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/103_Dark Ascension.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/121.png"
 			}
 		},
 		{
@@ -1325,7 +1325,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/100_Curse of Fangs.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/122.png"
 			}
 		},
 		{
@@ -1335,7 +1335,7 @@
 			"type": "Legendary Planeswalker — Sorin",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/127_Sorin, Vampire Maverick.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/123.png"
 			}
 		},
 		{
@@ -1345,7 +1345,7 @@
 			"type": "Creature — Avatar Horror",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/135_Wurgelurg.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/124.png"
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@
 			"type": "Legendary Creature — Elder Demon",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/92_Archdemon Shilgengar.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/125.png"
 			}
 		},
 		{
@@ -1368,11 +1368,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/147_Embercut Duelist_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/126_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/147_Embercut Duelist_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/126_front.png"
 			}
 		},
 		{
@@ -1382,7 +1382,7 @@
 			"type": "Creature — Devil",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/172_Torch Reveler.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/127.png"
 			}
 		},
 		{
@@ -1392,7 +1392,7 @@
 			"type": "Creature — Vampire Noble",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/136_Affluent Host.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/128.png"
 			}
 		},
 		{
@@ -1402,7 +1402,7 @@
 			"type": "Creature — Vampire Wizard",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/167_Stromkirk Sangromancer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/129.png"
 			}
 		},
 		{
@@ -1412,7 +1412,7 @@
 			"type": "Creature — Wolf",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/171_Thunderwolf.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/130.png"
 			}
 		},
 		{
@@ -1422,7 +1422,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/176_Volatile Alchemist.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/131.png"
 			}
 		},
 		{
@@ -1432,7 +1432,7 @@
 			"type": "Creature — Vampire Warrior",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/178_Voldaren Crypt-Guard.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/132.png"
 			}
 		},
 		{
@@ -1445,11 +1445,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/173_Troublesome Throng_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/133_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/173_Troublesome Throng_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/133_front.png"
 			}
 		},
 		{
@@ -1459,7 +1459,7 @@
 			"type": "Creature — Vampire Archer",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/150_Falkenrath Fletcher.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/134.png"
 			}
 		},
 		{
@@ -1469,7 +1469,7 @@
 			"type": "Creature — Vampire Knight",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/166_Stensia Cavalcade.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/135.png"
 			}
 		},
 		{
@@ -1479,17 +1479,17 @@
 			"type": "Creature — Elemental Horror",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/140_Crater Thing.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/136.png"
 			}
 		},
 		{
 			"name": "Alchemist's Grimoire",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/137_Alchemist's Grimoire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/137.png"
 			}
 		},
 		{
@@ -1499,7 +1499,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/152_Go Feral.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/138.png"
 			}
 		},
 		{
@@ -1509,7 +1509,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/168_Suffer the Blade.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/139.png"
 			}
 		},
 		{
@@ -1519,7 +1519,7 @@
 			"type": "Instant",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/175_Vampiric Vice.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/140.png"
 			}
 		},
 		{
@@ -1529,7 +1529,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/145_Curse of the Vein.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/141.png"
 			}
 		},
 		{
@@ -1539,7 +1539,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/149_Faithless Razing.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/142.png"
 			}
 		},
 		{
@@ -1549,7 +1549,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/153_Grasping Carriage.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/143.png"
 			}
 		},
 		{
@@ -1559,7 +1559,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/143_Curse of Slaughter.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/144.png"
 			}
 		},
 		{
@@ -1569,7 +1569,7 @@
 			"type": "Instant",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/155_Hatefire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/145.png"
 			}
 		},
 		{
@@ -1582,11 +1582,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/179_Voldaren Heartslicer_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/146_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/179_Voldaren Heartslicer_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/146_front.png"
 			}
 		},
 		{
@@ -1599,11 +1599,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/160_Kessig Jeweler_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/147_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/160_Kessig Jeweler_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/147_front.png"
 			}
 		},
 		{
@@ -1613,7 +1613,7 @@
 			"type": "Creature — Devil",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/156_Hellfreaks.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/148.png"
 			}
 		},
 		{
@@ -1626,11 +1626,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/154_Hanweir Miscreant_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/149_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/154_Hanweir Miscreant_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/149_front.png"
 			}
 		},
 		{
@@ -1640,7 +1640,7 @@
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/159_Irascible Bloodwitch.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/150.png"
 			}
 		},
 		{
@@ -1650,7 +1650,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/163_Obsidian Hellkite.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/151.png"
 			}
 		},
 		{
@@ -1660,7 +1660,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/169_Surfacing Horripede.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/152.png"
 			}
 		},
 		{
@@ -1670,7 +1670,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/144_Curse of the Hunter's Moon.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/153.png"
 			}
 		},
 		{
@@ -1680,7 +1680,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/165_Silvershot Crossbow.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/154.png"
 			}
 		},
 		{
@@ -1690,17 +1690,17 @@
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/146_Dance with Devils.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/155.png"
 			}
 		},
 		{
 			"name": "Clash at Geier Reach",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/139_Clash at Geier Reach.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/156.png"
 			}
 		},
 		{
@@ -1710,7 +1710,7 @@
 			"type": "Creature — Vampire Assassin",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/151_Fangs of Wesgoth.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/157.png"
 			}
 		},
 		{
@@ -1723,11 +1723,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/161_Leyran Spellchainer_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/158_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/161_Leyran Spellchainer_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/158_front.png"
 			}
 		},
 		{
@@ -1740,11 +1740,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/138_Charging Commando_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/159_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/138_Charging Commando_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/159_front.png"
 			}
 		},
 		{
@@ -1757,11 +1757,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/164_Pyromantic Duo_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/160_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/164_Pyromantic Duo_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/160_front.png"
 			}
 		},
 		{
@@ -1771,7 +1771,7 @@
 			"type": "Artifact Creature — Scarecrow",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/170_Tallowkeep.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/161.png"
 			}
 		},
 		{
@@ -1781,7 +1781,7 @@
 			"type": "Creature — Elemental Wolf",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/157_Infernal Direwolf.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/162.png"
 			}
 		},
 		{
@@ -1791,7 +1791,7 @@
 			"type": "Sorcery",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/180_Welcome to the Ashmouth.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/163.png"
 			}
 		},
 		{
@@ -1801,7 +1801,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/141_Curse of Hallucinations.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/164.png"
 			}
 		},
 		{
@@ -1811,7 +1811,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/148_Exhaust Possibilities.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/165.png"
 			}
 		},
 		{
@@ -1821,7 +1821,7 @@
 			"type": "Creature — Elemental Spirit",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/177_Volcanic Malignus.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/166.png"
 			}
 		},
 		{
@@ -1831,7 +1831,7 @@
 			"type": "Legendary Creature — Vampire Warrior",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/162_Marzela Falkenrath.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/167.png"
 			}
 		},
 		{
@@ -1841,7 +1841,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/174_Utter Pandemonium.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/168.png"
 			}
 		},
 		{
@@ -1851,7 +1851,7 @@
 			"type": "Artifact Creature — Scarecrow",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/188_Creep of the Crop.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/169.png"
 			}
 		},
 		{
@@ -1861,7 +1861,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/191_Dawnhart Druids.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/170.png"
 			}
 		},
 		{
@@ -1874,11 +1874,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/220_Somberwald Rider_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/171_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/220_Somberwald Rider_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/171_front.png"
 			}
 		},
 		{
@@ -1888,7 +1888,7 @@
 			"type": "Creature — Human Ranger",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/205_Lambholt Tracker.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/172.png"
 			}
 		},
 		{
@@ -1898,7 +1898,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/182_Banewidow.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/173.png"
 			}
 		},
 		{
@@ -1911,11 +1911,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/193_Desperate Botanist_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/174_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/193_Desperate Botanist_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/174_front.png"
 			}
 		},
 		{
@@ -1925,7 +1925,7 @@
 			"type": "Creature — Scorpion",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/203_Killer Scorpion.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/175.png"
 			}
 		},
 		{
@@ -1935,7 +1935,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/198_Grizzled Woodcutter.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/176.png"
 			}
 		},
 		{
@@ -1945,7 +1945,7 @@
 			"type": "Creature — Plant Wolf",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/211_Nettlehowler.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/177.png"
 			}
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/213_Orchard Overseer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/178.png"
 			}
 		},
 		{
@@ -1965,7 +1965,7 @@
 			"type": "Creature — Wolf",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/206_Lupine Prowler.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/179.png"
 			}
 		},
 		{
@@ -1975,7 +1975,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/221_Terror of the Ulvenwald.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/180.png"
 			}
 		},
 		{
@@ -1985,7 +1985,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/210_Moldgraf Wurm.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/181.png"
 			}
 		},
 		{
@@ -1995,7 +1995,7 @@
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/212_Never Give Up.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/182.png"
 			}
 		},
 		{
@@ -2005,7 +2005,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/184_Blossoming Defense.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/183.png"
 			}
 		},
 		{
@@ -2015,7 +2015,7 @@
 			"type": "Sorcery",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/195_Entropy's Descent.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/184.png"
 			}
 		},
 		{
@@ -2025,7 +2025,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/202_Kernon's Consecration.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/185.png"
 			}
 		},
 		{
@@ -2035,7 +2035,7 @@
 			"type": "Instant",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/207_Lycanthropic Outburst.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/186.png"
 			}
 		},
 		{
@@ -2045,17 +2045,17 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/192_Death in Bloom.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/187.png"
 			}
 		},
 		{
 			"name": "Druid's Grimoire",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/194_Druid's Grimoire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/188.png"
 			}
 		},
 		{
@@ -2068,11 +2068,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/181_Adderblade Exterminator_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/189_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/181_Adderblade Exterminator_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/189_front.png"
 			}
 		},
 		{
@@ -2082,7 +2082,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/196_Gavony Cavaliers.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/190.png"
 			}
 		},
 		{
@@ -2092,7 +2092,7 @@
 			"type": "Creature — Boar",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/185_Briarswine.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/191.png"
 			}
 		},
 		{
@@ -2102,7 +2102,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/187_Cabin Golem.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/192.png"
 			}
 		},
 		{
@@ -2112,7 +2112,7 @@
 			"type": "Creature — Wolf",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/200_Hungering Howlpack.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/193.png"
 			}
 		},
 		{
@@ -2125,21 +2125,21 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/222_Treeline Archer_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/194_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/222_Treeline Archer_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/194_front.png"
 			}
 		},
 		{
 			"name": "Rosenhulk",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Plant Spirit",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/219_Rosenhulk.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/195.png"
 			}
 		},
 		{
@@ -2149,7 +2149,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/216_Primordial Slime.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/196.png"
 			}
 		},
 		{
@@ -2162,21 +2162,21 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/190_Dawnhart Ceremony_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/197_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/190_Dawnhart Ceremony_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/197_front.png"
 			}
 		},
 		{
 			"name": "Pushing Daisies",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/217_Pushing Daisies.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/198.png"
 			}
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"type": "Sorcery",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/183_Barge Through.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/199.png"
 			}
 		},
 		{
@@ -2196,7 +2196,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/186_Brutalizer Gear.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/200.png"
 			}
 		},
 		{
@@ -2206,7 +2206,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/189_Curse of Venom.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/201.png"
 			}
 		},
 		{
@@ -2216,7 +2216,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/209_Molderkin.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/202.png"
 			}
 		},
 		{
@@ -2229,11 +2229,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/223_Ulvenwald Ranger_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/203_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/223_Ulvenwald Ranger_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/203_front.png"
 			}
 		},
 		{
@@ -2243,7 +2243,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/214_Phantom of Wolf's Run.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/204.png"
 			}
 		},
 		{
@@ -2253,7 +2253,7 @@
 			"type": "Creature — Frog Horror",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/197_Glutton of Zhava.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/205.png"
 			}
 		},
 		{
@@ -2263,7 +2263,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/224_Ursagore.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/206.png"
 			}
 		},
 		{
@@ -2276,11 +2276,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/225_Vartrossen Primalist_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/207_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/225_Vartrossen Primalist_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/207_front.png"
 			}
 		},
 		{
@@ -2290,7 +2290,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/218_Risen Lumberknot.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/208.png"
 			}
 		},
 		{
@@ -2303,11 +2303,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/208_Misthollow Rites_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/209_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/208_Misthollow Rites_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/209_front.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Sorcery",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/199_Harness Nature.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/210.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Enchantment",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/215_Prayers for the Hunted.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/211.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Legendary Planeswalker — Kernon",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/201_Kernon, Primeval Ritualist.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/212.png"
 			}
 		},
 		{
@@ -2350,11 +2350,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/204_Krendel of Kessig_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/213_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/204_Krendel of Kessig_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/213_front.png"
 			}
 		},
 		{
@@ -2364,7 +2364,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/257_Tattergeist.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/214.png"
 			}
 		},
 		{
@@ -2374,7 +2374,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/231_Drownyard Captain.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/215.png"
 			}
 		},
 		{
@@ -2384,7 +2384,7 @@
 			"type": "Creature — Vampire Noble",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/259_Voldaren Sovereign.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/216.png"
 			}
 		},
 		{
@@ -2394,7 +2394,7 @@
 			"type": "Creature — Wolf",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/245_Leyran Hunting Pack.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/217.png"
 			}
 		},
 		{
@@ -2404,7 +2404,7 @@
 			"type": "Creature — Human Ranger",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/242_Heron's Grace Patrol.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/218.png"
 			}
 		},
 		{
@@ -2414,7 +2414,7 @@
 			"type": "Enchantment",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/251_March of the Unhallowed.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/219.png"
 			}
 		},
 		{
@@ -2424,7 +2424,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/235_Garden Ghoul.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/220.png"
 			}
 		},
 		{
@@ -2434,7 +2434,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/239_Goldnight Seraph.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/221.png"
 			}
 		},
 		{
@@ -2444,7 +2444,7 @@
 			"type": "Enchantment",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/247_Liturgy of Brine.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/222.png"
 			}
 		},
 		{
@@ -2454,7 +2454,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/226_Bruna, Shepherd of Souls.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/223.png"
 			}
 		},
 		{
@@ -2464,7 +2464,7 @@
 			"type": "Creature — Crab",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/232_Drownyard Colossus.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/224.png"
 			}
 		},
 		{
@@ -2474,7 +2474,7 @@
 			"type": "Legendary Creature — Vampire",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/253_Olivia Voldaren, Progenitrix.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/225.png"
 			}
 		},
 		{
@@ -2487,11 +2487,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/258_Valseid, Leyran Brute_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/226_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/258_Valseid, Leyran Brute_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/226_front.png"
 			}
 		},
 		{
@@ -2501,7 +2501,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/256_Sigarda, Dawn of Mercy.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/227.png"
 			}
 		},
 		{
@@ -2511,7 +2511,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/246_Liesa, Enemy of Shadow.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/228.png"
 			}
 		},
 		{
@@ -2521,7 +2521,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/229_Curse of Whispers.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/229.png"
 			}
 		},
 		{
@@ -2531,7 +2531,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/244_Krallenmaw, the Tempter.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/230.png"
 			}
 		},
 		{
@@ -2541,7 +2541,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/238_Gisela, Blade of Morning.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/231.png"
 			}
 		},
 		{
@@ -2551,7 +2551,7 @@
 			"type": "Creature — Wolf Gymbro",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/249_Makodonis's Wolfbro.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/232.png"
 			}
 		},
 		{
@@ -2561,7 +2561,7 @@
 			"type": "Legendary Creature — Elk God",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/236_Ghrin-Danu, the Dawnhart.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/233.png"
 			}
 		},
 		{
@@ -2571,7 +2571,7 @@
 			"type": "Sorcery",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/230_Divine Decree.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/234.png"
 			}
 		},
 		{
@@ -2581,7 +2581,7 @@
 			"type": "Legendary Planeswalker — Makodonis",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/248_Makodonis, Master of Form.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/235.png"
 			}
 		},
 		{
@@ -2591,7 +2591,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/255_The Selhoff Twins.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/236.png"
 			}
 		},
 		{
@@ -2601,7 +2601,7 @@
 			"type": "Legendary Creature — Vampire Knight",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/234_Edgar Markov, Bloodsire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/237.png"
 			}
 		},
 		{
@@ -2611,7 +2611,7 @@
 			"type": "Artifact",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/268_Hunter's Arsenal.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/238.png"
 			}
 		},
 		{
@@ -2621,7 +2621,7 @@
 			"type": "Artifact",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/272_Soul-Capturing Lantern.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/239.png"
 			}
 		},
 		{
@@ -2631,7 +2631,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/270_Pulse Seeker.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/240.png"
 			}
 		},
 		{
@@ -2641,7 +2641,7 @@
 			"type": "Artifact Creature — Construct Knight",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/262_Bodyless Knight.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/241.png"
 			}
 		},
 		{
@@ -2651,7 +2651,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/265_Guardian Grotesque.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/242.png"
 			}
 		},
 		{
@@ -2661,7 +2661,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/273_Survivor's Torch.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/243.png"
 			}
 		},
 		{
@@ -2671,7 +2671,7 @@
 			"type": "Artifact Creature — Scarecrow",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/266_Harvesttide Nemesis.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/244.png"
 			}
 		},
 		{
@@ -2681,7 +2681,7 @@
 			"type": "Artifact",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/261_Angelic Statue.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/245.png"
 			}
 		},
 		{
@@ -2691,7 +2691,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/263_Demonrune Wall.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/246.png"
 			}
 		},
 		{
@@ -2701,7 +2701,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/264_Exsanguinator.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/247.png"
 			}
 		},
 		{
@@ -2711,7 +2711,7 @@
 			"type": "Artifact",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/271_Scrolls of Succession.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/248.png"
 			}
 		},
 		{
@@ -2721,7 +2721,7 @@
 			"type": "Artifact",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/269_Phylactery of Forbidden Arts.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/249.png"
 			}
 		},
 		{
@@ -2731,7 +2731,7 @@
 			"type": "Legendary Artifact Creature — Scarecrow",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/274_The Wickerscreech of Gatstaf.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/250.png"
 			}
 		},
 		{
@@ -2741,7 +2741,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/267_Helvault, Shard of the Moon.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/251.png"
 			}
 		},
 		{
@@ -2751,7 +2751,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/279_Fog-Ridden Wharf.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/252.png"
 			}
 		},
 		{
@@ -2761,7 +2761,7 @@
 			"type": "Land",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/282_Macabre Pools.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/253.png"
 			}
 		},
 		{
@@ -2771,7 +2771,7 @@
 			"type": "Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/281_Hellfire Crater.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/254.png"
 			}
 		},
 		{
@@ -2781,7 +2781,7 @@
 			"type": "Land",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/277_Eerie Wildwood.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/255.png"
 			}
 		},
 		{
@@ -2791,7 +2791,7 @@
 			"type": "Land",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/275_Blessed Grounds.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/256.png"
 			}
 		},
 		{
@@ -2801,7 +2801,7 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/286_Solemn Bastion.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/257.png"
 			}
 		},
 		{
@@ -2811,7 +2811,7 @@
 			"type": "Land",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/276_Coastal Cairn.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/258.png"
 			}
 		},
 		{
@@ -2821,7 +2821,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/283_Putrid Corcass.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/259.png"
 			}
 		},
 		{
@@ -2831,7 +2831,7 @@
 			"type": "Land",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/287_Sunswept Grange.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/260.png"
 			}
 		},
 		{
@@ -2841,7 +2841,7 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/284_Secret Lagoon.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/261.png"
 			}
 		},
 		{
@@ -2851,7 +2851,7 @@
 			"type": "Land",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/285_Sinister Thicket.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/262.png"
 			}
 		},
 		{
@@ -2861,7 +2861,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/280_Ghoulcaller's Graf.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/263.png"
 			}
 		},
 		{
@@ -2871,7 +2871,7 @@
 			"type": "Land",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/278_Elgaud Fortress.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/264.png"
 			}
 		},
 		{
@@ -2881,27 +2881,27 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/289_Plains.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/265.png"
 			}
 		},
 		{
-			"name": "Plains2",
+			"name": "Plains 2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "290",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/290_Plains2.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/266.png"
 			}
 		},
 		{
-			"name": "Plains3",
+			"name": "Plains 3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "291",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/291_Plains3.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/267.png"
 			}
 		},
 		{
@@ -2909,29 +2909,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "292",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/292_Island.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/268.png"
 			}
 		},
 		{
-			"name": "Island2",
+			"name": "Island 2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "293",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/293_Island2.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/269.png"
 			}
 		},
 		{
-			"name": "Island3",
+			"name": "Island 3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "294",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/294_Island3.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/270.png"
 			}
 		},
 		{
@@ -2939,29 +2939,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "295",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/295_Swamp.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/271.png"
 			}
 		},
 		{
-			"name": "Swamp2",
+			"name": "Swamp 2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/296_Swamp2.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/272.png"
 			}
 		},
 		{
-			"name": "Swamp3",
+			"name": "Swamp 3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "297",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/297_Swamp3.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/273.png"
 			}
 		},
 		{
@@ -2969,29 +2969,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "298",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/298_Mountain.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/274.png"
 			}
 		},
 		{
-			"name": "Mountain2",
+			"name": "Mountain 2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "299",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/299_Mountain2.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/275.png"
 			}
 		},
 		{
-			"name": "Mountain3",
+			"name": "Mountain 3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "300",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/300_Mountain3.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/276.png"
 			}
 		},
 		{
@@ -2999,29 +2999,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "301",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/301_Forest.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/277.png"
 			}
 		},
 		{
-			"name": "Forest2",
+			"name": "Forest 2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "302",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/302_Forest2.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/278.png"
 			}
 		},
 		{
-			"name": "Forest3",
+			"name": "Forest 3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/303_Forest3.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/279.png"
 			}
 		},
 		{
@@ -3034,11 +3034,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/288_Wesgoth Cemetery_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/280_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/288_Wesgoth Cemetery_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/280_front.png"
 			}
 		},
 		{
@@ -3048,7 +3048,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/1t_Angel.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/281.png"
 			}
 		},
 		{
@@ -3058,7 +3058,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/2t_Human.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/282.png"
 			}
 		},
 		{
@@ -3068,7 +3068,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/3t_Intangible Virtue.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/283.png"
 			}
 		},
 		{
@@ -3078,7 +3078,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/4t_Spirit.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/284.png"
 			}
 		},
 		{
@@ -3088,7 +3088,7 @@
 			"type": "Token Creature — Crab",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/5t_Crab.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/285.png"
 			}
 		},
 		{
@@ -3098,7 +3098,7 @@
 			"type": "Token Creature — Bat",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/6t_Bat.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/286.png"
 			}
 		},
 		{
@@ -3108,7 +3108,7 @@
 			"type": "Token Creature — Human Warlock",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/7t_Human Warlock.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/287.png"
 			}
 		},
 		{
@@ -3118,7 +3118,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/8t_Zombie.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/288.png"
 			}
 		},
 		{
@@ -3128,7 +3128,7 @@
 			"type": "Token Creature — Devil",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/9t_Devil.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/289.png"
 			}
 		},
 		{
@@ -3138,7 +3138,7 @@
 			"type": "Token Creature — Elemental Spirit",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/10t_Elemental Spirit.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/290.png"
 			}
 		},
 		{
@@ -3148,7 +3148,7 @@
 			"type": "Token Creature — Human Survivor",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/11t_Human Survivor.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/291.png"
 			}
 		},
 		{
@@ -3158,7 +3158,7 @@
 			"type": "Token Creature — Bear Spirit",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/12t_Bear Spirit.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/292.png"
 			}
 		},
 		{
@@ -3168,7 +3168,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/13t_Plant.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/293.png"
 			}
 		},
 		{
@@ -3178,7 +3178,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/14t_Wolf.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/294.png"
 			}
 		},
 		{
@@ -3188,7 +3188,7 @@
 			"type": "Token Creature — Vampire",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/15t_Vampire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/295.png"
 			}
 		},
 		{
@@ -3198,7 +3198,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/16t_Treasure.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/296.png"
 			}
 		},
 		{
@@ -3208,17 +3208,17 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/17t_Weapon.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/297.png"
 			}
 		},
 		{
 			"name": "Bitter Goodbye",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/94_Bitter Goodbye.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/298.png"
 			}
 		},
 		{
@@ -3228,7 +3228,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/58_Ensnaring Possessor.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/299.png"
 			}
 		},
 		{
@@ -3238,17 +3238,17 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/59_Erase Identity.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/300.png"
 			}
 		},
 		{
 			"name": "Geistmage's Grimoire",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/63_Geistmage's Grimoire.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/301.png"
 			}
 		},
 		{
@@ -3258,7 +3258,7 @@
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/77_Scare Away.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/302.png"
 			}
 		},
 		{
@@ -3268,7 +3268,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/72_Niblis of Hail.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/303.png"
 			}
 		},
 		{
@@ -3278,7 +3278,7 @@
 			"type": "Creature — Elemental Spirit",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/250_Malevolus.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/304.png"
 			}
 		},
 		{
@@ -3288,7 +3288,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/29_Parish Slayer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/305.png"
 			}
 		},
 		{
@@ -3298,7 +3298,7 @@
 			"type": "Sorcery",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/158_Insidious Communion.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/306.png"
 			}
 		},
 		{
@@ -3308,7 +3308,7 @@
 			"type": "Sorcery",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/227_Counsel of the Damned.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/307.png"
 			}
 		},
 		{
@@ -3318,7 +3318,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/228_Curse of Tempests.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/308.png"
 			}
 		},
 		{
@@ -3328,7 +3328,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/233_Eavesknocker.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/309.png"
 			}
 		},
 		{
@@ -3338,7 +3338,7 @@
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/237_Gift of the Seraph.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/310.png"
 			}
 		},
 		{
@@ -3348,7 +3348,7 @@
 			"type": "Sorcery",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/240_Greater Sangromancy.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/311.png"
 			}
 		},
 		{
@@ -3358,7 +3358,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/241_Hamlet Swordmaster.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/312.png"
 			}
 		},
 		{
@@ -3371,11 +3371,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/243_Kessig Wolftamer_back.png"
+					"en": "https://brotein-manganiello.github.io/sets/INM-files/img/313_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/243_Kessig Wolftamer_front.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/313_front.png"
 			}
 		},
 		{
@@ -3385,7 +3385,7 @@
 			"type": "Creature — Hydra Horror",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/252_Mortalcoil Hydra.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/314.png"
 			}
 		},
 		{
@@ -3395,7 +3395,7 @@
 			"type": "Instant",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/254_Phantasmal Deluge.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/315.png"
 			}
 		},
 		{
@@ -3405,7 +3405,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/260_Writhing Observer.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/316.png"
 			}
 		},
 		{
@@ -3415,7 +3415,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/121_Midnight Invitation.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/317.png"
 			}
 		},
 		{
@@ -3425,7 +3425,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/142_Curse of Raining Daggers.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/318.png"
 			}
 		},
 		{
@@ -3435,299 +3435,994 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/82_Snag Apparition.png"
+				"en": "https://brotein-manganiello.github.io/sets/INM-files/img/319.png"
 			}
 		}
 	]
 
 [rare(1)]
-	5 Traft, Lunarch's Edge
-	5 Dawnhart's Envoy
-	5 Cenotaph Possessor
-	5 Outrider Captain
-	5 Hecatomb Haunter
-	5 Beseech Aid
-	5 Cathar's Armory
-	5 Resting Tombs
-	5 Sword of the Heavens
-	5 Flight of Angels
-	5 Avacyn, the Savior
-	5 Polina Elgaud
-	5 Trawler Skaab
-	5 Nephalia Inquisitors
-	5 Krothuss, Abyssal Terror
-	5 Paranormal Convergence
-	5 Undercroft Portal
-	5 Curse of the Breathless
-	5 Curse of Time
-	5 Geist of Yesterdays
-	5 Stitched Gargantua
-	5 Occult Metamorphosis
-	5 Fathom the Unfathomable
-	5 Oswin, Skirsdag Diabolist
-	5 Corpse Thief
-	5 Falkenrath Bladesire
-	5 Doomsday Horde
-	5 Deathless Butcher
-	5 Left for Dead
-	5 Dark Ascension
-	5 Curse of Fangs
-	5 Sorin, Vampire Maverick
-	5 Wurgelurg
-	5 Archdemon Shilgengar
-	5 Fangs of Wesgoth
-	5 Leyran Spellchainer
-	5 Charging Commando
-	5 Pyromantic Duo
-	5 Tallowkeep
-	5 Infernal Direwolf
-	5 Welcome to the Ashmouth
-	5 Curse of Hallucinations
-	5 Exhaust Possibilities
-	5 Volcanic Malignus
-	5 Marzela Falkenrath
-	5 Utter Pandemonium
-	5 Molderkin
-	5 Ulvenwald Ranger
-	5 Phantom of Wolf's Run
-	5 Glutton of Zhava
-	5 Ursagore
-	5 Vartrossen Primalist
-	5 Risen Lumberknot
-	5 Misthollow Rites
-	5 Harness Nature
-	5 Prayers for the Hunted
-	5 Kernon, Primeval Ritualist
-	5 Krendel of Kessig
-	5 Bruna, Shepherd of Souls
-	5 Drownyard Colossus
-	5 Olivia Voldaren, Progenitrix
-	5 Valseid, Leyran Brute
-	5 Sigarda, Dawn of Mercy
-	5 Liesa, Enemy of Shadow
-	5 Curse of Whispers
-	5 Krallenmaw, the Tempter
-	5 Gisela, Blade of Morning
-	5 Makodonis's Wolfbro
-	5 Ghrin-Danu, the Dawnhart
-	5 Divine Decree
-	5 Makodonis, Master of Form
-	5 The Selhoff Twins
-	5 Edgar Markov, Bloodsire
-	5 Exsanguinator
-	5 Scrolls of Succession
-	5 Phylactery of Forbidden Arts
-	5 The Wickerscreech of Gatstaf
-	5 Helvault, Shard of the Moon
-	5 Elgaud Fortress
-	5 Wesgoth Cemetery
-	5 Midnight Invitation
-	5 Snag Apparition
+	2 Traft, Lunarch's Edge
+	2 Dawnhart's Envoy
+	2 Cenotaph Possessor
+	2 Outrider Captain
+	2 Hecatomb Haunter
+	2 Beseech Aid
+	2 Cathar's Armory
+	2 Resting Tombs
+	2 Sword of the Heavens
+	1 Flight of Angels
+	1 Avacyn, the Savior
+	1 Polina Elgaud
+	2 Trawler Skaab
+	2 Nephalia Inquisitors
+	2 Krothuss, Abyssal Terror
+	2 Paranormal Convergence
+	2 Undercroft Portal
+	2 Curse of the Breathless
+	2 Curse of Time
+	2 Geist of Yesterdays
+	1 Stitched Gargantua
+	1 Occult Metamorphosis
+	1 Fathom the Unfathomable
+	2 Oswin, Skirsdag Diabolist
+	2 Corpse Thief
+	2 Falkenrath Bladesire
+	2 Doomsday Horde
+	2 Deathless Butcher
+	2 Left for Dead
+	2 Dark Ascension
+	2 Curse of Fangs
+	1 Sorin, Vampire Maverick
+	1 Wurgelurg
+	1 Archdemon Shilgengar
+	2 Fangs of Wesgoth
+	2 Leyran Spellchainer
+	2 Charging Commando
+	2 Pyromantic Duo
+	2 Tallowkeep
+	2 Infernal Direwolf
+	2 Welcome to the Ashmouth
+	2 Curse of Hallucinations
+	2 Exhaust Possibilities
+	1 Volcanic Malignus
+	1 Marzela Falkenrath
+	1 Utter Pandemonium
+	2 Molderkin
+	2 Ulvenwald Ranger
+	2 Phantom of Wolf's Run
+	2 Glutton of Zhava
+	2 Ursagore
+	2 Vartrossen Primalist
+	2 Risen Lumberknot
+	2 Misthollow Rites
+	2 Harness Nature
+	1 Prayers for the Hunted
+	1 Kernon, Primeval Ritualist
+	1 Krendel of Kessig
+	2 Bruna, Shepherd of Souls
+	2 Drownyard Colossus
+	2 Olivia Voldaren, Progenitrix
+	2 Valseid, Leyran Brute
+	2 Sigarda, Dawn of Mercy
+	2 Liesa, Enemy of Shadow
+	2 Curse of Whispers
+	2 Krallenmaw, the Tempter
+	2 Gisela, Blade of Morning
+	2 Makodonis's Wolfbro
+	1 Ghrin-Danu, the Dawnhart
+	1 Divine Decree
+	1 Makodonis, Master of Form
+	1 The Selhoff Twins
+	1 Edgar Markov, Bloodsire
+	2 Exsanguinator
+	2 Scrolls of Succession
+	2 Phylactery of Forbidden Arts
+	2 The Wickerscreech of Gatstaf
+	2 Helvault, Shard of the Moon
+	2 Elgaud Fortress
+	1 Wesgoth Cemetery
+	2 Midnight Invitation
+	2 Snag Apparition
 [uncommon(3)]
-	5 Puresoul Possessor
-	5 Blessed Bladewright
-	5 Thraben Redeemer
-	5 Silverblade Cathar
-	5 Haunted Waif
-	5 Cathedral Gargoyle
-	5 Righteous Chaplain
-	5 Angel of Sunrise
-	5 Evanescence
-	5 Avacyn's Mark
-	5 Sacralize
-	5 Alabaster Halo
-	5 Phantom Presence
-	5 Omendancer
-	5 Severed Hands
-	5 Mistmourner
-	5 Morkrut Gryff
-	5 Drunau Egg
-	5 Braineater Abominus
-	5 Spine-Chilling Discovery
-	5 Curse of the Tattletale
-	5 Havengul Banshee
-	5 Shackled Memories
-	5 Curse of Scuttling Thoughts
-	5 Bone Lich
-	5 Vespercloak Vampire
-	5 Dowager of Traublassen
-	5 Diregraf Skulleater
-	5 Undead Necromancer
-	5 Grim Raven of Wesgoth
-	5 Plague Herald
-	5 Umbersteed
-	5 Carnage Throne
-	5 Skirsdag Edict
-	5 Malicious Eclipse
-	5 Curse of Nightmares
-	5 Death Undone
-	5 Voldaren Heartslicer
-	5 Kessig Jeweler
-	5 Hellfreaks
-	5 Hanweir Miscreant
-	5 Irascible Bloodwitch
-	5 Obsidian Hellkite
-	5 Surfacing Horripede
-	5 Curse of the Hunter's Moon
-	5 Silvershot Crossbow
-	5 Dance with Devils
-	5 Clash at Geier Reach
-	5 Adderblade Exterminator
-	5 Gavony Cavaliers
-	5 Briarswine
-	5 Cabin Golem
-	5 Hungering Howlpack
-	5 Treeline Archer
-	5 Rosenhulk
-	5 Primordial Slime
-	5 Dawnhart Ceremony
-	5 Pushing Daisies
-	5 Barge Through
-	5 Brutalizer Gear
-	5 Curse of Venom
-	5 Tattergeist
-	5 Drownyard Captain
-	5 Voldaren Sovereign
-	5 Leyran Hunting Pack
-	5 Heron's Grace Patrol
-	5 March of the Unhallowed
-	5 Garden Ghoul
-	5 Goldnight Seraph
-	5 Liturgy of Brine
-	5 Survivor's Torch
-	5 Harvesttide Nemesis
-	5 Angelic Statue
-	5 Demonrune Wall
-	5 Ghoulcaller's Graf
-	5 Ensnaring Possessor
-	5 Niblis of Hail
-	5 Malevolus
-	5 Insidious Communion
-	5 Counsel of the Damned
-	5 Curse of Tempests
-	5 Eavesknocker
-	5 Gift of the Seraph
-	5 Greater Sangromancy
-	5 Hamlet Swordmaster
-	5 Kessig Wolftamer
-	5 Mortalcoil Hydra
-	5 Phantasmal Deluge
-	5 Writhing Observer
-	5 Curse of Raining Daggers
-[common(10)]
-	5 Cobblespook
-	5 Drogskol Possessor
-	5 Avacyn's Partisan
-	5 Stalwart Cathar
-	5 Departed Butler
-	5 Harvesttide Healer
-	5 Loyal Retriever
-	5 Sigarda's Shepherd
-	5 Candlecrown Stag
-	5 Weizenmother
-	5 Moonscythe
-	5 Subdue the Monster
-	5 Alert the Village
-	5 Flawless Finesse
-	5 Spectral Salvo
-	5 Breaking Dawn
-	5 Lifted Spirits
-	5 Frightful Visitation
-	5 Slayer's Grimoire
-	5 Nebelgast Possessor
-	5 Corrupted Sorcerer
-	5 Widow Wisp
-	5 Seagraf Shamblers
-	5 Memory Surgeon
-	5 Brine Cultist
-	5 Carrion Drake
-	5 Escaped Ooze
-	5 Skaab Grappler
-	5 Sunken One
-	5 Uncover
-	5 Ghastly Guidance
-	5 Unethical Research
-	5 Claim of the Deep
-	5 Remove Soul
-	5 Curse of Doubt
-	5 Body and Mind
-	5 Contagious Ghoul
-	5 Crypt Viper
-	5 Markov Fencer
-	5 Falkenrath Ordainer
-	5 Lone Zombie
-	5 Acolyte of Griselbrand
-	5 Undead Servant
-	5 Dread Elk
-	5 Shilgengar's Harvester
-	5 It Came from the Bog
-	5 Augury of Misfortunes
-	5 Sanguine Salvation
-	5 Lich's Grimoire
-	5 Curse of the Unburied
-	5 Undead Hex
-	5 Drain Youth
-	5 True Blood
-	5 Strangleroot's Clutches
-	5 Final Destination
-	5 Embercut Duelist
-	5 Torch Reveler
-	5 Affluent Host
-	5 Stromkirk Sangromancer
-	5 Thunderwolf
-	5 Volatile Alchemist
-	5 Voldaren Crypt-Guard
-	5 Troublesome Throng
-	5 Falkenrath Fletcher
-	5 Stensia Cavalcade
-	5 Crater Thing
-	5 Alchemist's Grimoire
-	5 Go Feral
-	5 Suffer the Blade
-	5 Vampiric Vice
-	5 Curse of the Vein
-	5 Faithless Razing
-	5 Grasping Carriage
-	5 Curse of Slaughter
-	5 Hatefire
-	5 Creep of the Crop
-	5 Dawnhart Druids
-	5 Somberwald Rider
-	5 Lambholt Tracker
-	5 Banewidow
-	5 Desperate Botanist
-	5 Killer Scorpion
-	5 Grizzled Woodcutter
-	5 Nettlehowler
-	5 Orchard Overseer
-	5 Lupine Prowler
-	5 Terror of the Ulvenwald
-	5 Moldgraf Wurm
-	5 Never Give Up
-	5 Blossoming Defense
-	5 Entropy's Descent
-	5 Kernon's Consecration
-	5 Lycanthropic Outburst
-	5 Death in Bloom
-	5 Druid's Grimoire
-	5 Hunter's Arsenal
-	5 Soul-Capturing Lantern
-	5 Pulse Seeker
-	5 Bodyless Knight
-	5 Guardian Grotesque
-	5 Fog-Ridden Wharf
-	5 Macabre Pools
-	5 Hellfire Crater
-	5 Eerie Wildwood
-	5 Blessed Grounds
-	5 Solemn Bastion
-	5 Coastal Cairn
-	5 Putrid Corcass
-	5 Sunswept Grange
-	5 Secret Lagoon
-	5 Sinister Thicket
-	5 Bitter Goodbye
-	5 Erase Identity
-	5 Geistmage's Grimoire
-	5 Scare Away
-	5 Parish Slayer
+	4 Puresoul Possessor
+	4 Blessed Bladewright
+	4 Thraben Redeemer
+	4 Silverblade Cathar
+	4 Haunted Waif
+	4 Cathedral Gargoyle
+	4 Righteous Chaplain
+	4 Angel of Sunrise
+	4 Evanescence
+	4 Avacyn's Mark
+	4 Sacralize
+	4 Alabaster Halo
+	4 Phantom Presence
+	4 Omendancer
+	4 Severed Hands
+	4 Mistmourner
+	4 Morkrut Gryff
+	4 Drunau Egg
+	4 Braineater Abominus
+	4 Spine-Chilling Discovery
+	4 Curse of the Tattletale
+	4 Havengul Banshee
+	4 Shackled Memories
+	4 Curse of Scuttling Thoughts
+	4 Bone Lich
+	4 Vespercloak Vampire
+	4 Dowager of Traublassen
+	4 Diregraf Skulleater
+	4 Undead Necromancer
+	4 Grim Raven of Wesgoth
+	4 Plague Herald
+	4 Umbersteed
+	4 Carnage Throne
+	4 Skirsdag Edict
+	4 Malicious Eclipse
+	4 Curse of Nightmares
+	4 Death Undone
+	4 Voldaren Heartslicer
+	4 Kessig Jeweler
+	4 Hellfreaks
+	4 Hanweir Miscreant
+	4 Irascible Bloodwitch
+	4 Obsidian Hellkite
+	4 Surfacing Horripede
+	4 Curse of the Hunter's Moon
+	4 Silvershot Crossbow
+	4 Dance with Devils
+	4 Clash at Geier Reach
+	4 Adderblade Exterminator
+	4 Gavony Cavaliers
+	4 Briarswine
+	4 Cabin Golem
+	4 Hungering Howlpack
+	4 Treeline Archer
+	4 Rosenhulk
+	4 Primordial Slime
+	4 Dawnhart Ceremony
+	4 Pushing Daisies
+	4 Barge Through
+	4 Brutalizer Gear
+	4 Curse of Venom
+	4 Tattergeist
+	4 Drownyard Captain
+	4 Voldaren Sovereign
+	4 Leyran Hunting Pack
+	4 Heron's Grace Patrol
+	4 March of the Unhallowed
+	4 Garden Ghoul
+	4 Goldnight Seraph
+	4 Liturgy of Brine
+	4 Survivor's Torch
+	4 Harvesttide Nemesis
+	4 Angelic Statue
+	4 Demonrune Wall
+	4 Ghoulcaller's Graf
+	4 Ensnaring Possessor
+	4 Niblis of Hail
+	4 Malevolus
+	4 Insidious Communion
+	4 Counsel of the Damned
+	4 Curse of Tempests
+	4 Eavesknocker
+	4 Gift of the Seraph
+	4 Greater Sangromancy
+	4 Hamlet Swordmaster
+	4 Kessig Wolftamer
+	4 Mortalcoil Hydra
+	4 Phantasmal Deluge
+	4 Writhing Observer
+	4 Curse of Raining Daggers
+[common(6)]
+	8 Cobblespook
+	8 Drogskol Possessor
+	8 Avacyn's Partisan
+	8 Stalwart Cathar
+	8 Departed Butler
+	8 Harvesttide Healer
+	8 Loyal Retriever
+	8 Sigarda's Shepherd
+	8 Candlecrown Stag
+	8 Weizenmother
+	8 Moonscythe
+	8 Subdue the Monster
+	8 Alert the Village
+	8 Flawless Finesse
+	8 Spectral Salvo
+	8 Breaking Dawn
+	8 Lifted Spirits
+	8 Frightful Visitation
+	8 Slayer's Grimoire
+	8 Nebelgast Possessor
+	8 Corrupted Sorcerer
+	8 Widow Wisp
+	8 Seagraf Shamblers
+	8 Memory Surgeon
+	8 Brine Cultist
+	8 Carrion Drake
+	8 Escaped Ooze
+	8 Skaab Grappler
+	8 Sunken One
+	8 Uncover
+	8 Ghastly Guidance
+	8 Unethical Research
+	8 Claim of the Deep
+	8 Remove Soul
+	8 Curse of Doubt
+	8 Body and Mind
+	8 Contagious Ghoul
+	8 Crypt Viper
+	8 Markov Fencer
+	8 Falkenrath Ordainer
+	8 Lone Zombie
+	8 Acolyte of Griselbrand
+	8 Undead Servant
+	8 Dread Elk
+	8 Shilgengar's Harvester
+	8 It Came from the Bog
+	8 Augury of Misfortunes
+	8 Sanguine Salvation
+	8 Lich's Grimoire
+	8 Curse of the Unburied
+	8 Undead Hex
+	8 Drain Youth
+	8 True Blood
+	8 Strangleroot's Clutches
+	8 Final Destination
+	8 Embercut Duelist
+	8 Torch Reveler
+	8 Affluent Host
+	8 Stromkirk Sangromancer
+	8 Thunderwolf
+	8 Volatile Alchemist
+	8 Voldaren Crypt-Guard
+	8 Troublesome Throng
+	8 Falkenrath Fletcher
+	8 Stensia Cavalcade
+	8 Crater Thing
+	8 Alchemist's Grimoire
+	8 Go Feral
+	8 Suffer the Blade
+	8 Vampiric Vice
+	8 Curse of the Vein
+	8 Faithless Razing
+	8 Grasping Carriage
+	8 Curse of Slaughter
+	8 Hatefire
+	8 Creep of the Crop
+	8 Dawnhart Druids
+	8 Somberwald Rider
+	8 Lambholt Tracker
+	8 Banewidow
+	8 Desperate Botanist
+	8 Killer Scorpion
+	8 Grizzled Woodcutter
+	8 Nettlehowler
+	8 Orchard Overseer
+	8 Lupine Prowler
+	8 Terror of the Ulvenwald
+	8 Moldgraf Wurm
+	8 Never Give Up
+	8 Blossoming Defense
+	8 Entropy's Descent
+	8 Kernon's Consecration
+	8 Lycanthropic Outburst
+	8 Death in Bloom
+	8 Druid's Grimoire
+	8 Hunter's Arsenal
+	8 Soul-Capturing Lantern
+	8 Pulse Seeker
+	8 Bodyless Knight
+	8 Guardian Grotesque
+	8 Fog-Ridden Wharf
+	8 Macabre Pools
+	8 Hellfire Crater
+	8 Eerie Wildwood
+	8 Blessed Grounds
+	8 Solemn Bastion
+	8 Coastal Cairn
+	8 Putrid Corcass
+	8 Sunswept Grange
+	8 Secret Lagoon
+	8 Sinister Thicket
+	8 Bitter Goodbye
+	8 Erase Identity
+	8 Geistmage's Grimoire
+	8 Scare Away
+	8 Parish Slayer
+[common | masterpiece(1)]
+	8 Cobblespook
+	8 Drogskol Possessor
+	8 Avacyn's Partisan
+	8 Stalwart Cathar
+	8 Departed Butler
+	8 Harvesttide Healer
+	8 Loyal Retriever
+	8 Sigarda's Shepherd
+	8 Candlecrown Stag
+	8 Weizenmother
+	8 Moonscythe
+	8 Subdue the Monster
+	8 Alert the Village
+	8 Flawless Finesse
+	8 Spectral Salvo
+	8 Breaking Dawn
+	8 Lifted Spirits
+	8 Frightful Visitation
+	8 Slayer's Grimoire
+	8 Nebelgast Possessor
+	8 Corrupted Sorcerer
+	8 Widow Wisp
+	8 Seagraf Shamblers
+	8 Memory Surgeon
+	8 Brine Cultist
+	8 Carrion Drake
+	8 Escaped Ooze
+	8 Skaab Grappler
+	8 Sunken One
+	8 Uncover
+	8 Ghastly Guidance
+	8 Unethical Research
+	8 Claim of the Deep
+	8 Remove Soul
+	8 Curse of Doubt
+	8 Body and Mind
+	8 Contagious Ghoul
+	8 Crypt Viper
+	8 Markov Fencer
+	8 Falkenrath Ordainer
+	8 Lone Zombie
+	8 Acolyte of Griselbrand
+	8 Undead Servant
+	8 Dread Elk
+	8 Shilgengar's Harvester
+	8 It Came from the Bog
+	8 Augury of Misfortunes
+	8 Sanguine Salvation
+	8 Lich's Grimoire
+	8 Curse of the Unburied
+	8 Undead Hex
+	8 Drain Youth
+	8 True Blood
+	8 Strangleroot's Clutches
+	8 Final Destination
+	8 Embercut Duelist
+	8 Torch Reveler
+	8 Affluent Host
+	8 Stromkirk Sangromancer
+	8 Thunderwolf
+	8 Volatile Alchemist
+	8 Voldaren Crypt-Guard
+	8 Troublesome Throng
+	8 Falkenrath Fletcher
+	8 Stensia Cavalcade
+	8 Crater Thing
+	8 Alchemist's Grimoire
+	8 Go Feral
+	8 Suffer the Blade
+	8 Vampiric Vice
+	8 Curse of the Vein
+	8 Faithless Razing
+	8 Grasping Carriage
+	8 Curse of Slaughter
+	8 Hatefire
+	8 Creep of the Crop
+	8 Dawnhart Druids
+	8 Somberwald Rider
+	8 Lambholt Tracker
+	8 Banewidow
+	8 Desperate Botanist
+	8 Killer Scorpion
+	8 Grizzled Woodcutter
+	8 Nettlehowler
+	8 Orchard Overseer
+	8 Lupine Prowler
+	8 Terror of the Ulvenwald
+	8 Moldgraf Wurm
+	8 Never Give Up
+	8 Blossoming Defense
+	8 Entropy's Descent
+	8 Kernon's Consecration
+	8 Lycanthropic Outburst
+	8 Death in Bloom
+	8 Druid's Grimoire
+	8 Hunter's Arsenal
+	8 Soul-Capturing Lantern
+	8 Pulse Seeker
+	8 Bodyless Knight
+	8 Guardian Grotesque
+	8 Fog-Ridden Wharf
+	8 Macabre Pools
+	8 Hellfire Crater
+	8 Eerie Wildwood
+	8 Blessed Grounds
+	8 Solemn Bastion
+	8 Coastal Cairn
+	8 Putrid Corcass
+	8 Sunswept Grange
+	8 Secret Lagoon
+	8 Sinister Thicket
+	8 Bitter Goodbye
+	8 Erase Identity
+	8 Geistmage's Grimoire
+	8 Scare Away
+	8 Parish Slayer
+[foil(1)]
+	12 Cobblespook
+	12 Drogskol Possessor
+	12 Avacyn's Partisan
+	12 Stalwart Cathar
+	12 Departed Butler
+	12 Harvesttide Healer
+	12 Loyal Retriever
+	12 Sigarda's Shepherd
+	12 Candlecrown Stag
+	12 Weizenmother
+	12 Moonscythe
+	12 Subdue the Monster
+	12 Alert the Village
+	12 Flawless Finesse
+	12 Spectral Salvo
+	12 Breaking Dawn
+	12 Lifted Spirits
+	12 Frightful Visitation
+	12 Slayer's Grimoire
+	6 Puresoul Possessor
+	6 Blessed Bladewright
+	6 Thraben Redeemer
+	6 Silverblade Cathar
+	6 Haunted Waif
+	6 Cathedral Gargoyle
+	6 Righteous Chaplain
+	6 Angel of Sunrise
+	6 Evanescence
+	6 Avacyn's Mark
+	6 Sacralize
+	6 Alabaster Halo
+	6 Phantom Presence
+	2 Traft, Lunarch's Edge
+	2 Dawnhart's Envoy
+	2 Cenotaph Possessor
+	2 Outrider Captain
+	2 Hecatomb Haunter
+	2 Beseech Aid
+	2 Cathar's Armory
+	2 Resting Tombs
+	2 Sword of the Heavens
+	1 Flight of Angels
+	1 Avacyn, the Savior
+	1 Polina Elgaud
+	12 Nebelgast Possessor
+	12 Corrupted Sorcerer
+	12 Widow Wisp
+	12 Seagraf Shamblers
+	12 Memory Surgeon
+	12 Brine Cultist
+	12 Carrion Drake
+	12 Escaped Ooze
+	12 Skaab Grappler
+	12 Sunken One
+	12 Uncover
+	12 Ghastly Guidance
+	12 Unethical Research
+	12 Claim of the Deep
+	12 Remove Soul
+	12 Curse of Doubt
+	12 Body and Mind
+	6 Omendancer
+	6 Severed Hands
+	6 Mistmourner
+	6 Morkrut Gryff
+	6 Drunau Egg
+	6 Braineater Abominus
+	6 Spine-Chilling Discovery
+	6 Curse of the Tattletale
+	6 Havengul Banshee
+	6 Shackled Memories
+	6 Curse of Scuttling Thoughts
+	2 Trawler Skaab
+	2 Nephalia Inquisitors
+	2 Krothuss, Abyssal Terror
+	2 Paranormal Convergence
+	2 Undercroft Portal
+	2 Curse of the Breathless
+	2 Curse of Time
+	2 Geist of Yesterdays
+	1 Stitched Gargantua
+	1 Occult Metamorphosis
+	1 Fathom the Unfathomable
+	12 Contagious Ghoul
+	12 Crypt Viper
+	12 Markov Fencer
+	12 Falkenrath Ordainer
+	12 Lone Zombie
+	12 Acolyte of Griselbrand
+	12 Undead Servant
+	12 Dread Elk
+	12 Shilgengar's Harvester
+	12 It Came from the Bog
+	12 Augury of Misfortunes
+	12 Sanguine Salvation
+	12 Lich's Grimoire
+	12 Curse of the Unburied
+	12 Undead Hex
+	12 Drain Youth
+	12 True Blood
+	12 Strangleroot's Clutches
+	12 Final Destination
+	6 Bone Lich
+	6 Vespercloak Vampire
+	6 Dowager of Traublassen
+	6 Diregraf Skulleater
+	6 Undead Necromancer
+	6 Grim Raven of Wesgoth
+	6 Plague Herald
+	6 Umbersteed
+	6 Carnage Throne
+	6 Skirsdag Edict
+	6 Malicious Eclipse
+	6 Curse of Nightmares
+	6 Death Undone
+	2 Oswin, Skirsdag Diabolist
+	2 Corpse Thief
+	2 Falkenrath Bladesire
+	2 Doomsday Horde
+	2 Deathless Butcher
+	2 Left for Dead
+	2 Dark Ascension
+	2 Curse of Fangs
+	1 Sorin, Vampire Maverick
+	1 Wurgelurg
+	1 Archdemon Shilgengar
+	12 Embercut Duelist
+	12 Torch Reveler
+	12 Affluent Host
+	12 Stromkirk Sangromancer
+	12 Thunderwolf
+	12 Volatile Alchemist
+	12 Voldaren Crypt-Guard
+	12 Troublesome Throng
+	12 Falkenrath Fletcher
+	12 Stensia Cavalcade
+	12 Crater Thing
+	12 Alchemist's Grimoire
+	12 Go Feral
+	12 Suffer the Blade
+	12 Vampiric Vice
+	12 Curse of the Vein
+	12 Faithless Razing
+	12 Grasping Carriage
+	12 Curse of Slaughter
+	12 Hatefire
+	6 Voldaren Heartslicer
+	6 Kessig Jeweler
+	6 Hellfreaks
+	6 Hanweir Miscreant
+	6 Irascible Bloodwitch
+	6 Obsidian Hellkite
+	6 Surfacing Horripede
+	6 Curse of the Hunter's Moon
+	6 Silvershot Crossbow
+	6 Dance with Devils
+	6 Clash at Geier Reach
+	2 Fangs of Wesgoth
+	2 Leyran Spellchainer
+	2 Charging Commando
+	2 Pyromantic Duo
+	2 Tallowkeep
+	2 Infernal Direwolf
+	2 Welcome to the Ashmouth
+	2 Curse of Hallucinations
+	2 Exhaust Possibilities
+	1 Volcanic Malignus
+	1 Marzela Falkenrath
+	1 Utter Pandemonium
+	12 Creep of the Crop
+	12 Dawnhart Druids
+	12 Somberwald Rider
+	12 Lambholt Tracker
+	12 Banewidow
+	12 Desperate Botanist
+	12 Killer Scorpion
+	12 Grizzled Woodcutter
+	12 Nettlehowler
+	12 Orchard Overseer
+	12 Lupine Prowler
+	12 Terror of the Ulvenwald
+	12 Moldgraf Wurm
+	12 Never Give Up
+	12 Blossoming Defense
+	12 Entropy's Descent
+	12 Kernon's Consecration
+	12 Lycanthropic Outburst
+	12 Death in Bloom
+	12 Druid's Grimoire
+	6 Adderblade Exterminator
+	6 Gavony Cavaliers
+	6 Briarswine
+	6 Cabin Golem
+	6 Hungering Howlpack
+	6 Treeline Archer
+	6 Rosenhulk
+	6 Primordial Slime
+	6 Dawnhart Ceremony
+	6 Pushing Daisies
+	6 Barge Through
+	6 Brutalizer Gear
+	6 Curse of Venom
+	2 Molderkin
+	2 Ulvenwald Ranger
+	2 Phantom of Wolf's Run
+	2 Glutton of Zhava
+	2 Ursagore
+	2 Vartrossen Primalist
+	2 Risen Lumberknot
+	2 Misthollow Rites
+	2 Harness Nature
+	1 Prayers for the Hunted
+	1 Kernon, Primeval Ritualist
+	1 Krendel of Kessig
+	6 Tattergeist
+	6 Drownyard Captain
+	6 Voldaren Sovereign
+	6 Leyran Hunting Pack
+	6 Heron's Grace Patrol
+	6 March of the Unhallowed
+	6 Garden Ghoul
+	6 Goldnight Seraph
+	6 Liturgy of Brine
+	2 Bruna, Shepherd of Souls
+	2 Drownyard Colossus
+	2 Olivia Voldaren, Progenitrix
+	2 Valseid, Leyran Brute
+	2 Sigarda, Dawn of Mercy
+	2 Liesa, Enemy of Shadow
+	2 Curse of Whispers
+	2 Krallenmaw, the Tempter
+	2 Gisela, Blade of Morning
+	2 Makodonis's Wolfbro
+	1 Ghrin-Danu, the Dawnhart
+	1 Divine Decree
+	1 Makodonis, Master of Form
+	1 The Selhoff Twins
+	1 Edgar Markov, Bloodsire
+	12 Hunter's Arsenal
+	12 Soul-Capturing Lantern
+	12 Pulse Seeker
+	12 Bodyless Knight
+	12 Guardian Grotesque
+	6 Survivor's Torch
+	6 Harvesttide Nemesis
+	6 Angelic Statue
+	6 Demonrune Wall
+	2 Exsanguinator
+	2 Scrolls of Succession
+	2 Phylactery of Forbidden Arts
+	2 The Wickerscreech of Gatstaf
+	2 Helvault, Shard of the Moon
+	12 Fog-Ridden Wharf
+	12 Macabre Pools
+	12 Hellfire Crater
+	12 Eerie Wildwood
+	12 Blessed Grounds
+	12 Solemn Bastion
+	12 Coastal Cairn
+	12 Putrid Corcass
+	12 Sunswept Grange
+	12 Secret Lagoon
+	12 Sinister Thicket
+	6 Ghoulcaller's Graf
+	2 Elgaud Fortress
+	1 Wesgoth Cemetery
+	12 Bitter Goodbye
+	6 Ensnaring Possessor
+	12 Erase Identity
+	12 Geistmage's Grimoire
+	12 Scare Away
+	6 Niblis of Hail
+	6 Malevolus
+	12 Parish Slayer
+	6 Insidious Communion
+	6 Counsel of the Damned
+	6 Curse of Tempests
+	6 Eavesknocker
+	6 Gift of the Seraph
+	6 Greater Sangromancy
+	6 Hamlet Swordmaster
+	6 Kessig Wolftamer
+	6 Mortalcoil Hydra
+	6 Phantasmal Deluge
+	6 Writhing Observer
+	2 Midnight Invitation
+	6 Curse of Raining Daggers
+	2 Snag Apparition
+[wildcard(1)]
+	6 Cobblespook
+	6 Drogskol Possessor
+	6 Avacyn's Partisan
+	6 Stalwart Cathar
+	6 Departed Butler
+	6 Harvesttide Healer
+	6 Loyal Retriever
+	6 Sigarda's Shepherd
+	6 Candlecrown Stag
+	6 Weizenmother
+	6 Moonscythe
+	6 Subdue the Monster
+	6 Alert the Village
+	6 Flawless Finesse
+	6 Spectral Salvo
+	6 Breaking Dawn
+	6 Lifted Spirits
+	6 Frightful Visitation
+	6 Slayer's Grimoire
+	15 Puresoul Possessor
+	15 Blessed Bladewright
+	15 Thraben Redeemer
+	15 Silverblade Cathar
+	15 Haunted Waif
+	15 Cathedral Gargoyle
+	15 Righteous Chaplain
+	15 Angel of Sunrise
+	15 Evanescence
+	15 Avacyn's Mark
+	15 Sacralize
+	15 Alabaster Halo
+	15 Phantom Presence
+	7 Traft, Lunarch's Edge
+	7 Dawnhart's Envoy
+	7 Cenotaph Possessor
+	7 Outrider Captain
+	7 Hecatomb Haunter
+	7 Beseech Aid
+	7 Cathar's Armory
+	7 Resting Tombs
+	7 Sword of the Heavens
+	4 Flight of Angels
+	4 Avacyn, the Savior
+	4 Polina Elgaud
+	6 Nebelgast Possessor
+	6 Corrupted Sorcerer
+	6 Widow Wisp
+	6 Seagraf Shamblers
+	6 Memory Surgeon
+	6 Brine Cultist
+	6 Carrion Drake
+	6 Escaped Ooze
+	6 Skaab Grappler
+	6 Sunken One
+	6 Uncover
+	6 Ghastly Guidance
+	6 Unethical Research
+	6 Claim of the Deep
+	6 Remove Soul
+	6 Curse of Doubt
+	6 Body and Mind
+	15 Omendancer
+	15 Severed Hands
+	15 Mistmourner
+	15 Morkrut Gryff
+	15 Drunau Egg
+	15 Braineater Abominus
+	15 Spine-Chilling Discovery
+	15 Curse of the Tattletale
+	15 Havengul Banshee
+	15 Shackled Memories
+	15 Curse of Scuttling Thoughts
+	7 Trawler Skaab
+	7 Nephalia Inquisitors
+	7 Krothuss, Abyssal Terror
+	7 Paranormal Convergence
+	7 Undercroft Portal
+	7 Curse of the Breathless
+	7 Curse of Time
+	7 Geist of Yesterdays
+	4 Stitched Gargantua
+	4 Occult Metamorphosis
+	4 Fathom the Unfathomable
+	6 Contagious Ghoul
+	6 Crypt Viper
+	6 Markov Fencer
+	6 Falkenrath Ordainer
+	6 Lone Zombie
+	6 Acolyte of Griselbrand
+	6 Undead Servant
+	6 Dread Elk
+	6 Shilgengar's Harvester
+	6 It Came from the Bog
+	6 Augury of Misfortunes
+	6 Sanguine Salvation
+	6 Lich's Grimoire
+	6 Curse of the Unburied
+	6 Undead Hex
+	6 Drain Youth
+	6 True Blood
+	6 Strangleroot's Clutches
+	6 Final Destination
+	15 Bone Lich
+	15 Vespercloak Vampire
+	15 Dowager of Traublassen
+	15 Diregraf Skulleater
+	15 Undead Necromancer
+	15 Grim Raven of Wesgoth
+	15 Plague Herald
+	15 Umbersteed
+	15 Carnage Throne
+	15 Skirsdag Edict
+	15 Malicious Eclipse
+	15 Curse of Nightmares
+	15 Death Undone
+	7 Oswin, Skirsdag Diabolist
+	7 Corpse Thief
+	7 Falkenrath Bladesire
+	7 Doomsday Horde
+	7 Deathless Butcher
+	7 Left for Dead
+	7 Dark Ascension
+	7 Curse of Fangs
+	4 Sorin, Vampire Maverick
+	4 Wurgelurg
+	4 Archdemon Shilgengar
+	6 Embercut Duelist
+	6 Torch Reveler
+	6 Affluent Host
+	6 Stromkirk Sangromancer
+	6 Thunderwolf
+	6 Volatile Alchemist
+	6 Voldaren Crypt-Guard
+	6 Troublesome Throng
+	6 Falkenrath Fletcher
+	6 Stensia Cavalcade
+	6 Crater Thing
+	6 Alchemist's Grimoire
+	6 Go Feral
+	6 Suffer the Blade
+	6 Vampiric Vice
+	6 Curse of the Vein
+	6 Faithless Razing
+	6 Grasping Carriage
+	6 Curse of Slaughter
+	6 Hatefire
+	15 Voldaren Heartslicer
+	15 Kessig Jeweler
+	15 Hellfreaks
+	15 Hanweir Miscreant
+	15 Irascible Bloodwitch
+	15 Obsidian Hellkite
+	15 Surfacing Horripede
+	15 Curse of the Hunter's Moon
+	15 Silvershot Crossbow
+	15 Dance with Devils
+	15 Clash at Geier Reach
+	7 Fangs of Wesgoth
+	7 Leyran Spellchainer
+	7 Charging Commando
+	7 Pyromantic Duo
+	7 Tallowkeep
+	7 Infernal Direwolf
+	7 Welcome to the Ashmouth
+	7 Curse of Hallucinations
+	7 Exhaust Possibilities
+	4 Volcanic Malignus
+	4 Marzela Falkenrath
+	4 Utter Pandemonium
+	6 Creep of the Crop
+	6 Dawnhart Druids
+	6 Somberwald Rider
+	6 Lambholt Tracker
+	6 Banewidow
+	6 Desperate Botanist
+	6 Killer Scorpion
+	6 Grizzled Woodcutter
+	6 Nettlehowler
+	6 Orchard Overseer
+	6 Lupine Prowler
+	6 Terror of the Ulvenwald
+	6 Moldgraf Wurm
+	6 Never Give Up
+	6 Blossoming Defense
+	6 Entropy's Descent
+	6 Kernon's Consecration
+	6 Lycanthropic Outburst
+	6 Death in Bloom
+	6 Druid's Grimoire
+	15 Adderblade Exterminator
+	15 Gavony Cavaliers
+	15 Briarswine
+	15 Cabin Golem
+	15 Hungering Howlpack
+	15 Treeline Archer
+	15 Rosenhulk
+	15 Primordial Slime
+	15 Dawnhart Ceremony
+	15 Pushing Daisies
+	15 Barge Through
+	15 Brutalizer Gear
+	15 Curse of Venom
+	7 Molderkin
+	7 Ulvenwald Ranger
+	7 Phantom of Wolf's Run
+	7 Glutton of Zhava
+	7 Ursagore
+	7 Vartrossen Primalist
+	7 Risen Lumberknot
+	7 Misthollow Rites
+	7 Harness Nature
+	4 Prayers for the Hunted
+	4 Kernon, Primeval Ritualist
+	4 Krendel of Kessig
+	15 Tattergeist
+	15 Drownyard Captain
+	15 Voldaren Sovereign
+	15 Leyran Hunting Pack
+	15 Heron's Grace Patrol
+	15 March of the Unhallowed
+	15 Garden Ghoul
+	15 Goldnight Seraph
+	15 Liturgy of Brine
+	7 Bruna, Shepherd of Souls
+	7 Drownyard Colossus
+	7 Olivia Voldaren, Progenitrix
+	7 Valseid, Leyran Brute
+	7 Sigarda, Dawn of Mercy
+	7 Liesa, Enemy of Shadow
+	7 Curse of Whispers
+	7 Krallenmaw, the Tempter
+	7 Gisela, Blade of Morning
+	7 Makodonis's Wolfbro
+	4 Ghrin-Danu, the Dawnhart
+	4 Divine Decree
+	4 Makodonis, Master of Form
+	4 The Selhoff Twins
+	4 Edgar Markov, Bloodsire
+	6 Hunter's Arsenal
+	6 Soul-Capturing Lantern
+	6 Pulse Seeker
+	6 Bodyless Knight
+	6 Guardian Grotesque
+	15 Survivor's Torch
+	15 Harvesttide Nemesis
+	15 Angelic Statue
+	15 Demonrune Wall
+	7 Exsanguinator
+	7 Scrolls of Succession
+	7 Phylactery of Forbidden Arts
+	7 The Wickerscreech of Gatstaf
+	7 Helvault, Shard of the Moon
+	6 Fog-Ridden Wharf
+	6 Macabre Pools
+	6 Hellfire Crater
+	6 Eerie Wildwood
+	6 Blessed Grounds
+	6 Solemn Bastion
+	6 Coastal Cairn
+	6 Putrid Corcass
+	6 Sunswept Grange
+	6 Secret Lagoon
+	6 Sinister Thicket
+	15 Ghoulcaller's Graf
+	7 Elgaud Fortress
+	4 Wesgoth Cemetery
+	6 Bitter Goodbye
+	15 Ensnaring Possessor
+	6 Erase Identity
+	6 Geistmage's Grimoire
+	6 Scare Away
+	15 Niblis of Hail
+	15 Malevolus
+	6 Parish Slayer
+	15 Insidious Communion
+	15 Counsel of the Damned
+	15 Curse of Tempests
+	15 Eavesknocker
+	15 Gift of the Seraph
+	15 Greater Sangromancy
+	15 Hamlet Swordmaster
+	15 Kessig Wolftamer
+	15 Mortalcoil Hydra
+	15 Phantasmal Deluge
+	15 Writhing Observer
+	7 Midnight Invitation
+	15 Curse of Raining Daggers
+	7 Snag Apparition

@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "PROMO\n!group promo\n!sort 01"
+            "notes": "PROMO"
         },
         {
             "card_name": "Flayer Drone",
@@ -393,7 +393,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flying\nWhenever this creature or another creature you control enters, you get {E} [i](an energy counter)[/i].\nPay {E}{E}{E}: Create a token that's a copy of target creature token you control. Activate only as a sorcery.",
+            "rules_text": "Flying\nWhenever this creature or another creature you control enters, you get {E} [i](an energy counter)[/i].\nWhenever this creature attacks, you may pay five {E}. When you do, exile target creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "FLYART\nWINGDING"
+            "notes": "FLYART\nWINGDING\nivor"
         },
         {
             "card_name": "Porcelain Prelate",
@@ -803,7 +803,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "!group devices\n!sort 01\nnewrare\nhttps://www.artstation.com/artwork/KJ33x"
+            "notes": "newrare\nhttps://www.artstation.com/artwork/KJ33x"
         },
         {
             "card_name": "Elesh Norn, Praetor of Unity",
@@ -824,7 +824,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "!group praetor\n!sort 01\nextra combat-cant attack you\nartifact 2 less-nonartifact 2 more\ncreate token-cant create token (issue: mondrak, moved to jin)\nCROWN\nVRTHS\npraetors should evoke STRONG feelings. divisive is ok. they should feel just a little quite NOT allowed."
+            "notes": "extra combat-cant attack you\nartifact 2 less-nonartifact 2 more\ncreate token-cant create token (issue: mondrak, moved to jin)\nCROWN\nVRTHS\npraetors should evoke STRONG feelings. divisive is ok. they should feel just a little quite NOT allowed."
         },
         {
             "card_name": "Porcelain Avenger",
@@ -1233,7 +1233,7 @@
             "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, you get {E}{E}.\n{T}, Pay {E}: Exile another target artifact or creature you control, then return it to the battlefield. Activate only as a sorcery.",
+            "rules_text": "When this creature enters, you get {E}{E} [i](two energy counters)[/i].\n{T}, Pay {E}: Exile another target artifact or creature you control, then return it to the battlefield. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1276,7 +1276,7 @@
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flash\nWhen this creature enters, choose one \u2014\n\u2022 Tap target creature an opponent controls.\n\u2022 Target creature you control gains hexproof until end of turn.",
-            "flavor_text": "[i]So offensive was the glistening oil that the Quicsilver Sea itself rose to deter the spreading contamination.[/i]",
+            "flavor_text": "[i]So offensive was the glistening oil that the Quicksilver Sea itself rose to deter the spreading contamination.[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -1359,7 +1359,7 @@
             "number": 80,
             "color_identity": "U",
             "cost": "{1}{UP}",
-            "rules_text": "[i]({UP} can be paid with {U} or 2 life.)[/i]\nReturn target nonland permanent to its owner's hand.",
+            "rules_text": "[i]({UP} can be paid with {U} or 2 life.)[/i]\nReturn target creature or planeswalker an opponent controls to its owner's hand.",
             "flavor_text": "[i]\u201cWhat cannot be made perfect must be eradicated. Only the flawless remains.\u201d\n\u2014[/i]The Gitaxian Standard of Purity[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1643,7 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "!group devices\n!sort 02\nnewrare\nhttps://jamespaickart.artstation.com/projects/8bmkG"
+            "notes": "newrare\nhttps://jamespaickart.artstation.com/projects/8bmkG"
         },
         {
             "card_name": "Jin-Gitaxias, Praetor of Synthesis",
@@ -1664,7 +1664,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "!group praetor\n!sort 02\ntoo similar to Sheoldred (add draw step/no draw extra)\ntoo similar to Teferi, Mage of Zhalfir (flash/sorc only)\nCROWN\nVRTHS"
+            "notes": "too similar to Sheoldred (add draw step/no draw extra)\ntoo similar to Teferi, Mage of Zhalfir (flash/sorc only)\nCROWN\nVRTHS"
         },
         {
             "card_name": "Arbiters of Progress",
@@ -2429,7 +2429,7 @@
             "type": "Sorcery",
             "number": 116,
             "color_identity": "B",
-            "cost": "{3}{B}{B}",
+            "cost": "{5}{B}{B}",
             "rules_text": "Destroy all creatures. You gain X life and create X tapped Extractor tokens, where X is the number of creatures destroyed this way. [i](They're artifacts with \u201c{T}, Pay 2 life, Sacrifice this artifact: Draw a card.\u201d)[/i]",
             "flavor_text": "[i]\u201cSheoldred's order was clear. No survivors.\u201d\n\u2014Othalex, prime virologist[/i]",
             "pt": "",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "!group devices\n!sort 03\nnewrare\nalt P\u00e4r Olofsson\ncontagion"
+            "notes": "newrare\nalt P\u00e4r Olofsson\ncontagion"
         },
         {
             "card_name": "Sheoldred, Praetor of Secrets",
@@ -2493,9 +2493,9 @@
             "number": 112,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Lifelink\nAs you begin searching your library, you may put a card from your library into your hand.\nYour opponents can't search libraries.",
+            "rules_text": "Lifelink\nWhenever Sheoldred, Praetor of Secrets attacks, search your library for a card, put it into your hand, then shuffle.\nYour opponents can't search libraries.",
             "flavor_text": "[i]\u201cWe are your beginning. We are your end.\u201d[/i]",
-            "pt": "5/4",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "DNP",
@@ -2504,7 +2504,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "!group praetor\n!sort 03\nCROWN\nalt Muhammad Rafi\nVRTHS"
+            "notes": "CROWN\nalt Muhammad Rafi\nVRTHS"
         },
         {
             "card_name": "Azax-Azog, the Demon Thane",
@@ -3323,7 +3323,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "!group devices\n!sort 04\nnewrare\nalt https://ph.pinterest.com/pin/524106475408131217/\nalt https://www.danseagrave.com/project_images/cover33_lead.JPG\nhttps://mgartworks.myportfolio.com/work\nhttps://static.wikia.nocookie.net/wowpedia/images/6/67/Firelands_Artwork_2.jpg/revision/latest/scale-to-width-down/1000?cb=20210531171941"
+            "notes": "newrare\nalt https://ph.pinterest.com/pin/524106475408131217/\nalt https://www.danseagrave.com/project_images/cover33_lead.JPG\nhttps://mgartworks.myportfolio.com/work\nhttps://static.wikia.nocookie.net/wowpedia/images/6/67/Firelands_Artwork_2.jpg/revision/latest/scale-to-width-down/1000?cb=20210531171941"
         },
         {
             "card_name": "Urabrask, Praetor of Defiance",
@@ -3335,7 +3335,7 @@
             "cost": "{4}{R}{R}",
             "rules_text": "Menace\nAt the beginning of combat on your turn, gain control of target permanent an opponent controls until end of turn. Untap it. It gains haste until end of turn.\nEach opponent loses control of permanents you own and can't gain control of permanents you own.",
             "flavor_text": "[i][/i]",
-            "pt": "6/4",
+            "pt": "6/5",
             "special_text": "",
             "shape": "normal",
             "set": "DNP",
@@ -3344,7 +3344,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "!group praetor\n!sort 04\nCROWN\nclinic\nalt sitoni42\nalt https://images.squarespace-cdn.com/content/v1/5c76bcd990f90464d7970263/38900054-a192-49bb-9e9c-f7a094855945/ONE+-+Urabrask%27s+Throne+-+Jose+Vega.jpeg?format=500w"
+            "notes": "CROWN\nclinic\nalt sitoni42\nalt https://images.squarespace-cdn.com/content/v1/5c76bcd990f90464d7970263/38900054-a192-49bb-9e9c-f7a094855945/ONE+-+Urabrask%27s+Throne+-+Jose+Vega.jpeg?format=500w"
         },
         {
             "card_name": "Koth, Scars of Mirrodin",
@@ -3414,7 +3414,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Phyrexian Horror",
-            "number": 196,
+            "number": 195,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever you draw your second card each turn, this creature gets +1/+1 until end of turn and you gain 2 life.",
@@ -3435,7 +3435,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Phyrexian Horror",
-            "number": 171,
+            "number": 170,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Creature spells you cast with power 4 or greater cost {1} less to cast.",
@@ -3473,21 +3473,21 @@
             "notes": "Rocco Licinio\nVRTHS"
         },
         {
-            "card_name": "Gutripper",
+            "card_name": "Thorncrawler",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Phyrexian Beast",
-            "number": 170,
+            "type": "Creature \u2014 Phyrexian Insect",
+            "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "This creature enters with a +1/+1 counter on it.\nEach creature you control with a counter on it has trample.",
-            "flavor_text": "[i]\u201cWe shall feast on the entrails of this world. The Multiverse will follow.\u201d\n\u2014Vorinclex[/i]",
+            "flavor_text": "[i][i]\u201c[/i]For it is the burden of the lowly to conquer their inadequacy, or else succumb to it.\u201d\n\u2014[/i]The Testament of Might[i][/i]",
             "pt": "3/1",
             "special_text": "",
             "shape": "normal",
             "set": "DNP",
             "loyalty": "",
-            "artist": "Erlan Arya",
+            "artist": "Dominik Mayer",
             "alias": "",
             "position": "165",
             "rotated": false,
@@ -3498,7 +3498,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Phyrexian Plant",
-            "number": 175,
+            "number": 174,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When this creature enters, put a +1/+1 counter on target creature you control.\n{3}{G}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",
@@ -3519,7 +3519,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Phyrexian Cleric",
-            "number": 197,
+            "number": 196,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Deathtouch\nWhen this creature enters, scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
@@ -3540,7 +3540,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Phyexian Beast",
-            "number": 176,
+            "number": 175,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "When this creature enters, you get {E}{E} [i](two energy counters)[/i].\nWhenever this creature deals combat damage to a player, draw a card.\nPay {E}: This creature can't be blocked by creatures with power 2 or less this turn.",
@@ -3582,7 +3582,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Phyrexian Elemental",
-            "number": 194,
+            "number": 192,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Reach\nWhen this creature enters, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
@@ -3603,7 +3603,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Phyrexian Horror",
-            "number": 185,
+            "number": 184,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "When this creature enters, you may sacrifice another creature. If you do, you gain 4 life and draw a card.\nBasic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -3626,8 +3626,8 @@
             "type": "Instant",
             "number": 167,
             "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "Target creature gets +2/+2 until end of turn. Create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
+            "cost": "{1}{G}",
+            "rules_text": "Target creature gets +3/+3 until end of turn. Create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]Phyrexians do not view phyresis as a disease. The oil is instead a cure for the failings of an otherwise defective body.[/i]",
             "pt": "",
             "special_text": "",
@@ -3645,7 +3645,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 174,
+            "number": 173,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature gets +1/+1 until end of turn. It fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]",
@@ -3666,7 +3666,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 184,
+            "number": 183,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. You gain 3 life.",
@@ -3687,7 +3687,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 173,
+            "number": 172,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Enchant land\nWhen this Aura enters, you gain 2 life and draw a card.\nEnchanted land has \u201c{T}: Add two mana of different colors.\u201d",
@@ -3708,7 +3708,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 180,
+            "number": 179,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Destroy target artifact, enchantment, or creature with flying.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
@@ -3729,7 +3729,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Phyrexian Ooze",
-            "number": 195,
+            "number": 193,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Deathtouch\nWhenever Tel-Jilad Slime deals combat damage to a player, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
@@ -3750,7 +3750,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Phyrexian Warrior",
-            "number": 186,
+            "number": 185,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Trample, ward {1}\nWhenever you put one or more counters on a non-Warrior creature you control, put a +1/+1 counter on this creature.",
@@ -3767,21 +3767,21 @@
             "notes": "KEYWARD\nVRTHS\nhttps://www.deviantart.com/themefinland/art/Lvl-60-green-slime-864635640\nhttp://cgland.com/dwcgland/index.html?dwmode=printable&part=doddd-2d&no=48949&page=5"
         },
         {
-            "card_name": "Swarm Prowler",
+            "card_name": "Vicious Howler",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Phyrexian Beast",
-            "number": 191,
+            "number": 197,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you get {E}{E} [i](two energy counters)[/i].\nPay six {E}: Create a 4/4 green Phyrexian Beast creature token. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cWe shall feast on the entrails of this world. The Multiverse will follow.\u201d\n\u2014Vorinclex[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "DNP",
             "loyalty": "",
-            "artist": "Brent Hollowell",
+            "artist": "Erlan Arya",
             "alias": "",
             "position": "179",
             "rotated": false,
@@ -3813,7 +3813,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Phyrexian Cleric",
-            "number": 183,
+            "number": 182,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Vigilance\nWhenever this creature or another creature you control with power 4 or greater enters, create a tapped Extractor token. [i](It's an artifact with \u201c{T}, Pay 2 life, Sacrifice this artifact: Draw a card.\u201d)[/i]",
@@ -3855,7 +3855,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Phyrexian Wurm",
-            "number": 182,
+            "number": 181,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
             "rules_text": "Whenever this creature attacks, draw a card, then proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
@@ -3876,7 +3876,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Phyrexian Golem",
-            "number": 181,
+            "number": 180,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Sunburst [i](This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.)[/i]\nThis creature can't be blocked by creatures with power 2 or less.",
@@ -3897,7 +3897,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 189,
+            "number": 188,
             "color_identity": "WUBRG",
             "cost": "{1}{G}",
             "rules_text": "When this enchantment enters, scry 2, then create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\n{2}{W}{U}{B}{R}{G}, Sacrifice this enchantment: Draw three cards, then you may put a permanent card from your hand onto the battlefield. Activate only as a sorcery.",
@@ -3918,7 +3918,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 187,
+            "number": 186,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When this artifact enters and whenever you draw your second card each turn, create a 1/1 green Insect creature token.\n{4}{G}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each Insect you control. Activate only as a sorcery.",
@@ -3960,7 +3960,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 177,
+            "number": 176,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Search your library for up to two basic land cards and/or Sphere cards, put them onto the battlefield tapped, then shuffle.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
@@ -3981,7 +3981,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 190,
+            "number": 189,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
             "rules_text": "Target creature you control gets +4/+4 until end of turn. It deals damage equal to its power to up to one target creature or planeswalker you don't control.",
@@ -4023,7 +4023,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Dryad Shaman",
-            "number": 193,
+            "number": 191,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "When this creature enters, return target permanent card from your graveyard to your hand.\n[i]Steelclad[/i] \u2014 Whenever you attack with one or more artifact creatures and/or equipped creatures, you may return this creature to its owner's hand.",
@@ -4044,7 +4044,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Phyrexian Beast",
-            "number": 172,
+            "number": 171,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Trample\nWhenever one or more creatures you control deal combat damage to a player, you get that many {E} [i](energy counters)[/i].\nYou may pay any amount of {E} as another creature you control enters. If you do, that creature enters with that many additional +1/+1 counters on it.",
@@ -4065,7 +4065,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Phyrexian Wurm",
-            "number": 178,
+            "number": 177,
             "color_identity": "G",
             "cost": "{5}{GP}{GP}",
             "rules_text": "[i]({GP} can be paid with either {G} or 2 life.)[/i]\nReach\nWhen this creature enters, search your library for a creature card if life was spent to cast this spell. Otherwise, search your library for up to two creature cards. Reveal each card you searched for this way, put them into your hand, then shuffle.",
@@ -4128,10 +4128,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 192,
+            "number": 190,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "Exile all artifacts and enchantments with mana value 3 or less.",
+            "rules_text": "Exile all artifacts and enchantments with mana value 4 or less.",
             "flavor_text": "[i]Distant wailing can be heard all throughout the Fourth Sphere, issued from mouths hungering for absolution.[/i]",
             "pt": "",
             "special_text": "",
@@ -4149,10 +4149,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 188,
+            "number": 187,
             "color_identity": "G",
             "cost": "{2}{GP}",
-            "rules_text": "[i]({GP} can be paid with {G} or 2 life.)[/i]\nWhenever a land you control enters tapped, untap it.\n{T}: Untap target creature you control. Activate only as a sorcery and only once each turn.",
+            "rules_text": "[i]({GP} can be paid with {G} or 2 life.)[/i]\nWhenever a permanent you control enters tapped, untap it.\n{T}: You may put a land card from your hand onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4163,7 +4163,7 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": "!group devices\n!sort 05\nnewrare"
+            "notes": "newrare"
         },
         {
             "card_name": "Vorinclex, Praetor of Evolution",
@@ -4184,14 +4184,14 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "!group praetor\n!sort 05\nCROWN"
+            "notes": "CROWN"
         },
         {
             "card_name": "Omega Tyrranax",
             "color": "G",
             "rarity": "mythic",
             "type": "Creature \u2014 Phyrexian Dinosaur",
-            "number": 179,
+            "number": 178,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Haste\nWhen this creature enters, return up to one target land card from your graveyard to the battlefield, then you gain life equal to the number of lands you control.\nWhenever this creature attacks while you control another creature with power 4 or greater, draw a card.",
@@ -6007,11 +6007,11 @@
             "shape": "normal",
             "set": "DNP",
             "loyalty": "",
-            "artist": "David Levy",
+            "artist": "Leon Tukker",
             "alias": "",
             "position": "285",
             "rotated": false,
-            "notes": "alt Decepticoin\nhttps://www.artstation.com/artwork/XaL4Y?utm_source=Pinterest&utm_medium=organic"
+            "notes": "alt Decepticoin"
         },
         {
             "card_name": "The Dawning Nexus",
@@ -6056,7 +6056,7 @@
             "notes": ""
         },
         {
-            "card_name": "Plains 2",
+            "card_name": "Plains2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
@@ -6074,7 +6074,7 @@
             "alias": "",
             "position": "288",
             "rotated": false,
-            "notes": "!exportname Plains 2"
+            "notes": ""
         },
         {
             "card_name": "Island",
@@ -6098,7 +6098,7 @@
             "notes": ""
         },
         {
-            "card_name": "Island 2",
+            "card_name": "Island2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
@@ -6116,7 +6116,7 @@
             "alias": "",
             "position": "290",
             "rotated": false,
-            "notes": "!exportname Island 2"
+            "notes": ""
         },
         {
             "card_name": "Swamp",
@@ -6140,7 +6140,7 @@
             "notes": ""
         },
         {
-            "card_name": "Swamp 2",
+            "card_name": "Swamp2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
@@ -6158,7 +6158,7 @@
             "alias": "",
             "position": "292",
             "rotated": false,
-            "notes": "!exportname Swamp 2"
+            "notes": ""
         },
         {
             "card_name": "Mountain",
@@ -6182,7 +6182,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mountain 2",
+            "card_name": "Mountain2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
@@ -6200,7 +6200,7 @@
             "alias": "",
             "position": "294",
             "rotated": false,
-            "notes": "!exportname Mountain 2"
+            "notes": ""
         },
         {
             "card_name": "Forest",
@@ -6224,7 +6224,7 @@
             "notes": ""
         },
         {
-            "card_name": "Forest 2",
+            "card_name": "Forest2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
@@ -6242,19 +6242,19 @@
             "alias": "",
             "position": "296",
             "rotated": false,
-            "notes": "!exportname Forest 2"
+            "notes": ""
         },
         {
-            "card_name": "Sheoldred, Praetor of Secrets-P",
+            "card_name": "Sheoldred, Praetor of Secrets",
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature Phyrexian Praetor",
             "number": 297,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Lifelink\nAs you begin searching your library, you may put a card from your library into your hand.\nYour opponents can't search libraries.",
+            "rules_text": "Lifelink\nWhenever Sheoldred, Praetor of Secrets attacks, search your library for a card, put it into your hand, the shuffle.\nYour opponents can't search libraries.",
             "flavor_text": "[i][/i]",
-            "pt": "5/4",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "DNP",
@@ -6263,7 +6263,7 @@
             "alias": "",
             "position": "297",
             "rotated": false,
-            "notes": "!exportname Sheoldred, Praetor of Secrets-P\n!group promo\n!sort 02"
+            "notes": "PROMO\ncrown"
         },
         {
             "card_name": "Energy Reserve",

@@ -1,8 +1,11 @@
 ﻿{
     "name": "ALARA",
     "formats": "",
-    "trimmed": "y",
     "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Paladin's Attendant",
@@ -12,7 +15,7 @@
             "number": 22,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever Paladin's Attendant encourages a creature, that creature gains first strike until end of turn.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever this creature encourages a creature, that creature gains first strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -20,6 +23,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "George Evangelista",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -30,7 +36,7 @@
             "number": 1,
             "color_identity": "WG",
             "cost": "{W}",
-            "rules_text": "Vigilance\n{1}{G}: Ajani's Advocate gets +2/+2 until end of turn. Activate only once each turn.",
+            "rules_text": "Vigilance\n{1}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.",
             "flavor_text": "[i]Warring nacatl prides rallied together under Ajani's call, now united against invaders from neighboring shards.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -38,6 +44,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kouta Nagamori",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -48,7 +57,7 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Valeron Vanguard can't be blocked by 1/1 creatures.",
+            "rules_text": "This creature can't be blocked by 1/1 creatures.",
             "flavor_text": "[i]\u201cShe weaved through the battle on Sun-Dappled Hill unmatched, driving back the interlopers with grace I've yet to see from even our sigiled knights.\u201d\n\u2014Kaeda, aven scout[/i]",
             "pt": "3/1",
             "special_text": "",
@@ -56,6 +65,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "John Stone",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -66,7 +78,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever Topan Curemaster encourages a creature, you gain 1 life.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever this creature encourages a creature, you gain 1 life.",
             "flavor_text": "[i]\u201cYou're not sigiled enough for my strongest stuff, but this should keep you alive.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -74,6 +86,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Richard Luong",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -84,7 +99,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i][i]Stampede[/i][/i] \u2014 Whenever Cloud's Roar Avenger and a creature with greater power attack, tap up to one target creature.",
+            "rules_text": "[i][i]Stampede[/i][/i] \u2014 Whenever this creature and a creature with greater power attack, tap up to one target creature.",
             "flavor_text": "[i]\u201cThey roar in anger, but not in rage. They fight with fury, but are not blinded by it.\u201d\n\u2014Timus, the Cloud's Roar[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -92,6 +107,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Nathaniel Himawan",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -102,7 +120,7 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Vigilance\nWhen Akrasan Sentry enters, untap target creature.",
+            "rules_text": "Vigilance\nWhen this creature enters, untap target creature.",
             "flavor_text": "[i]In the face of shifting borders and ever-changing enemies, his vow to protect Bant remains absolute.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -110,6 +128,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alexandra Khitrova",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -128,6 +149,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Yu Cheng Hong",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -138,7 +162,7 @@
             "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nWhen Meticulous Mechanist enters, scry 1.",
+            "rules_text": "Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nWhen this creature enters, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -146,6 +170,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andre Garcia",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -164,6 +191,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Johnny Morrow",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -182,6 +212,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andrea Radeck",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -192,7 +225,7 @@
             "number": 18,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "When Gleamhorn Gargantuan enters, put a +1/+1 counter on up to one other target creature.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, put a +1/+1 counter on up to one other target creature.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]Hunters who fail to make a trophy of the gleamhorn quickly learn to revere it. [/i]",
             "pt": "5/3",
             "special_text": "",
@@ -200,6 +233,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Atents Studios",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -218,6 +254,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ludo Lullabi & Tony Washington",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -236,6 +275,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ben Moriconi",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -246,7 +288,7 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When Dominator's Diadem enters, you gain 3 life.\n{2}{W}, {T}: Tap target creature.",
+            "rules_text": "When this artifact enters, you gain 3 life.\n{2}{W}, {T}: Tap target creature.",
             "flavor_text": "[i]Etherium augmentations not only signify power and status, but also the longevity to rule.[/i]",
             "pt": "",
             "special_text": "",
@@ -254,6 +296,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Galder",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "FLAVORTEXT QUALITYCHECK"
         },
         {
@@ -272,6 +317,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Caroline Laplante",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -290,6 +338,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Mike Capprotti",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -308,6 +359,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -318,7 +372,7 @@
             "number": 19,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever a creature deals combat damage to a player, if it was encouraged by Herald of the White Orchid this turn, create a 1/1 white Soldier creature token.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever a creature deals combat damage to a player, if it was encouraged by this creature this turn, create a 1/1 white Soldier creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -326,6 +380,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Bayard Wu",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -336,7 +393,7 @@
             "number": 17,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "[i]Stampede[/i] \u2014 Whenever Etlan High Priest and a creature with greater power attack, Etlan High Priest gets +1/+1 until end of turn. Then you gain 1 life and scry 1.",
+            "rules_text": "[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, this creature gets +1/+1 until end of turn. Then you gain 1 life and scry 1.",
             "flavor_text": "[i]Naya's behemoths inspire great feats of strength and magic in those who follow their wake.[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -344,6 +401,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Li Wenda",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -362,7 +422,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Josh Calloway",
-            "notes": "FLAVORTEXT\nQUALITYCHECK"
+            "alias": "",
+            "position": "19",
+            "rotated": false,
+            "notes": "FLAVORTEXT \nQUALITYCHECK"
         },
         {
             "card_name": "Eos Beseecher",
@@ -372,7 +435,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever Eos Beseecher encourages a creature, look at the top card of your library. If it's a creature card with power 2 or less, you may reveal it and put it into your hand.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever this creature encourages a creature, look at the top card of your library. If it's a creature card with power 2 or less, you may reveal it and put it into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -380,6 +443,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alexandre Honor\u00e9",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -390,14 +456,17 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Lifelink\nIslandcycling {1}, forestcycling {1} [i]({1}, Discard this card: Search your library for an Island or Forest card, reveal it, and put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Lifelink\nForestcycling {1}, islandcycling {1} [i]({1}, Discard this card: Search your libary for a Forest or Island card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i]\u201cThese lands harbor the wise and the valiant, but I search for my true home in Bant.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
-            "artist": "bakecg & Raphael Lacoste",
+            "artist": "Bakecg & Raphael Lacoste",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -416,6 +485,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Martina Fackov\u00e1",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -434,6 +506,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ivan Sevic",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -444,7 +519,7 @@
             "number": 16,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nEquipped creature gets +2/+2.\nWhenever an artifact creature you control enters, you may attach Etherium Staff to it.\nEquip {2}",
+            "rules_text": "Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nEquipped creature gets +2/+2.\nWhenever an artifact creature you control enters, you may attach this Equipment to it.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -452,6 +527,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "LAS-T",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -462,7 +540,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When Ostracizer Orb enters, exile target nonartifact, nonland permanent until Ostracizer Orb leaves the battlefield.",
+            "rules_text": "When this artifact enters, exile target nonartifact, nonland permanent until this artifact leaves the battlefield.",
             "flavor_text": "[i]\u201cThe Hegemon requests your immediate disappearance. Compliance is a must.\u201d\n\u2014Dolomarus, Proctor of the Clean[/i]",
             "pt": "",
             "special_text": "",
@@ -470,6 +548,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Britta Jacobs",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -488,6 +569,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Steven Belledin",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -498,7 +582,7 @@
             "number": 48,
             "color_identity": "WU",
             "cost": "{2}{U}",
-            "rules_text": "Vigilance\n{1}{W}: Jhessian Cavalier gains lifelink until end of turn.",
+            "rules_text": "Vigilance\n{1}{W}: This creature gains lifelink until end of turn.",
             "flavor_text": "[i]\u201cHope is only lost when there is no one left to lead.\u201d\n\u2014Scriptures of the Court of Orderly Contemplation[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -506,6 +590,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Hoang Lap",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -516,7 +603,7 @@
             "number": 49,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Kederekt Seawitch, then scry 1.",
+            "rules_text": "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature, then scry 1.",
             "flavor_text": "[i]Vast tides of potent magic sprung when the Kederekt flooded into the Inkwell Sea, empowering arcane arts across the plane.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -524,6 +611,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ivan Sevic",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -542,6 +632,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Robert Schneider",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -552,7 +645,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Embellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nRetinue Golem gets +1/+1 as long as you control another artifact.",
+            "rules_text": "Embellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nThis creature gets +1/+1 as long as you control another artifact.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -560,6 +653,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jun Seong Park",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -570,7 +666,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever Serul Cove Escort encourages a creature, that creature gains flying until end of turn.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever this creature encourages a creature, that creature gains flying until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -578,6 +674,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Darryl He",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -588,7 +687,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\nWhenever another artifact you control enters, Filigree Drake gets +1/+1 until end of turn.",
+            "rules_text": "Flying\nWhenever another artifact you control enters, this creature gets +1/+1 until end of turn.",
             "flavor_text": "[i]\u201cIt is a mockery of the hellkites. Bring it down, and offer it up to Tharrsus.\u201d\n\u2014Irasa of Mount Jhal[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -596,6 +695,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dave Melvin",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -614,6 +716,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Naomi Chen",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "FLAVORTEXT\nQUALITYCHECK"
         },
         {
@@ -632,6 +737,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Lorraine Schleter",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -642,7 +750,7 @@
             "number": 60,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "When Terraformer's Globe enters, draw a card.\n{T}: Target land you control becomes the basic land type of your choice until end of turn.",
+            "rules_text": "When this artifact enters, draw a card.\n{T}: Target land you control becomes the basic land type of your choice until end of turn.",
             "flavor_text": "[i]\u201cLet us undo the mayhem of the Conflux.\u201d\n\u2014Ziralus, chief terraformer[/i]",
             "pt": "",
             "special_text": "",
@@ -650,6 +758,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Robert Schneider",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -668,6 +779,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Maichol Quinto",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -686,6 +800,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Oliver Mootoo",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -704,6 +821,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Amirul Hhf",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -722,6 +842,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Cygames",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -740,6 +863,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Bruce Liu",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -758,6 +884,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alex Flores",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -768,7 +897,7 @@
             "number": 61,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever a creature deals combat damage to a player, if it was encouraged by Unbeholden Navigator this turn, draw a card.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever a creature deals combat damage to a player, if it was encouraged by this creature this turn, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -776,6 +905,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Patrick McEvoy",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -794,6 +926,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Cygames",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -812,6 +947,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -822,7 +960,7 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Esper Shardseeker can't be blocked.\nPlainscycling {1}, swampcycling {1} [i]({1}, Discard this card: Search your library for a Plains or Swamp card, reveal it, and put it into your hand, then shuffle.)[/i]",
+            "rules_text": "This creature can't be blocked.\nPlainscycling {1}, swampcycling {1} [i]({1}, Discard this card: Search your libary for a Plains or Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i]\u201cHere I have met the prudent and the powerful, but I seek my true domain in Esper.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -830,6 +968,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kevin McKenna",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -840,7 +981,7 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Flash\nEmbellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nWhenever Vectis Entrancer or another artifact you control enters, tap target creature an opponent controls. It loses all abilities until end of turn.",
+            "rules_text": "Flash\nEmbellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nWhenever this creature or another artifact you control enters, tap target creature an opponent controls. It loses all abilities until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -848,6 +989,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Daniel Kamarudin",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -866,6 +1010,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Minionslayer",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -876,7 +1023,7 @@
             "number": 50,
             "color_identity": "WUBRG",
             "cost": "{U}",
-            "rules_text": "Whenever you cycle a card, scry 1. [i](Do this before you draw.)[/i]\n{W}{U}{B}{R}{G}, Sacrifice Maelstromancy: \nReturn up to three target cards with cycling abilities from your graveyard to your hand.",
+            "rules_text": "Whenever you cycle a card, scry 1. [i](Do this before you draw.)[/i]\n{W}{U}{B}{R}{G}, Sacrifice this enchantment: Return up to three target cards with cycling abilities from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -884,6 +1031,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -902,6 +1052,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Yanchong Lim",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "FLAVORTEXT\n!design Mako"
         },
         {
@@ -920,6 +1073,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "John Anthony Di Giovanni",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -938,6 +1094,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Gavin O'Donnell",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -948,7 +1107,7 @@
             "number": 83,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Deathtouch\nWhen Nel Toth Shaman enters, mill two cards.",
+            "rules_text": "Deathtouch\nWhen this creature enters, mill two cards.",
             "flavor_text": "[i]\u201cJund will feed upon itself and bathe in its own blood.\u201d \n\u2014Meren, Bane of the Cairns[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -956,6 +1115,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dima Zasimovich",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "FLAVORTEXT\nQUALITYCHECK"
         },
         {
@@ -974,6 +1136,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Zsolt Bede",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -992,6 +1157,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Bryan Sola",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1002,7 +1170,7 @@
             "number": 70,
             "color_identity": "UB",
             "cost": "{2}{B}",
-            "rules_text": "Cesspool Scrapper can't block.\n{5}{U}, Exile Cesspool Scrapper from your graveyard: Draw two cards.",
+            "rules_text": "This creature can't block.\n{5}{U}, Exile this card from your graveyard: Draw two cards.",
             "flavor_text": "[i]\u201cObsolescence is temporary.\u201d\n\u2014Orlesia, First of the Sen[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1010,6 +1178,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Duel of Champions",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1020,7 +1191,7 @@
             "number": 80,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Flying\nWhen Hostile Barbfly enters, you may have it consume. When you do, target creature gets -2/-2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "Flying\nWhen this creature enters, you may have it consume. When you do, target creature gets -2/-2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1028,6 +1199,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Luke Mancini",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1046,6 +1220,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "zix72",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1056,7 +1233,7 @@
             "number": 69,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Whenever another creature you control dies, put a +1/+1 counter on Carnage Gorger.",
+            "rules_text": "Whenever another creature you control dies, put a +1/+1 counter on this creature.",
             "flavor_text": "[i]It feeds on entire food chains.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1064,6 +1241,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1082,6 +1262,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Pedro Sena",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1100,6 +1283,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "FLAVORTEXT\n!banner"
         },
         {
@@ -1110,7 +1296,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "{2}{B}, {T}, Sacrifice Sculler's Oar: Return up to two target creature cards from your graveyard to your hand.",
+            "rules_text": "{2}{B}, {T}, Sacrifice this artifact: Return up to two target creature cards from your graveyard to your hand.",
             "flavor_text": "[i]Beneath Tidehollow's canals lie secrets too eager to breach the surface.[/i]",
             "pt": "",
             "special_text": "",
@@ -1118,10 +1304,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Maxime Minard",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
-            "card_name": "Bone Splinters_ALR",
+            "card_name": "Bone Splinters",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
@@ -1136,7 +1325,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Cole Eastburn",
-            "notes": "FLAVORTEXT\n!exportname Bone Splinters_ALR"
+            "alias": "",
+            "position": "62",
+            "rotated": false,
+            "notes": "FLAVORTEXT"
         },
         {
             "card_name": "Dire Predictions",
@@ -1146,7 +1338,7 @@
             "number": 73,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Surveil 1. You draw a card and you lose 1 life. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i]\nTether [i](Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)[/i]",
+            "rules_text": "Surveil 1. You draw a card and lose 1 life. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i]\nTether [i](Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1154,6 +1346,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alexandre Honor\u00e9",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1172,6 +1367,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Yuan Chang",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1190,6 +1388,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Cygames",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1208,6 +1409,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Maichol Quinto",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1218,7 +1422,7 @@
             "number": 92,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "{T}, Sacrifice a creature: Target player discards a card and loses 2 life. Activate only as a sorcery.",
+            "rules_text": "{T}, Sacrifice a creature: Target player discards a card and loses 1 life. Activate only as a sorcery.",
             "flavor_text": "[i]Gelila slept fitfully, dreaming of the undead clawing at the castle walls. Soon she would not dream at all.[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1226,6 +1430,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Guillaume Ducos",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1236,7 +1443,7 @@
             "number": 82,
             "color_identity": "UBR",
             "cost": "{1}{B}",
-            "rules_text": "{3}{U}: Draw a card.\n{2}{R}: Necropolis Battlemage deals 1 damage to target player. Scry 1.",
+            "rules_text": "{3}{U}: Draw a card.\n{2}{R}: This creature deals 1 damage to target player. Scry 1.",
             "flavor_text": "[i]\u201cI am the tomb where legions shall rest.\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1244,6 +1451,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dima Zasimovich",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1254,7 +1464,7 @@
             "number": 77,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Deathtouch\nIslandcycling {1}, Mountaincycling {1} [i]({1}, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Deathtouch\nIslandcycling {1}, mountaincycling {1} [i]({1}, Discard this card: Search your libary for an Island or Mountain card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i]At last it has feasted on live flesh, but its master calls it back to Grixis.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1262,6 +1472,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jinwoo Park",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1272,7 +1485,7 @@
             "number": 66,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]\n{3}{B}{B}, Exile Bloated Visceroid from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.",
+            "rules_text": "Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]\n{3}{B}{B}, Exile this card from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1280,6 +1493,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ivan Sevic",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1290,7 +1506,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Lifelink\nWhen Ravenous Tarwurm enters, you may have it consume. When you do, destroy target creature with toughness 3 or less and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "Lifelink\nWhen this creature enters, you may have it consume. When you do, destroy target creature with toughness 3 or less and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1298,6 +1514,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "D\u00e9nes Nagy",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1308,7 +1527,7 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nWhen Scrap Spiral enters, target creature gets -2/-2 until end of turn.\n{3}{B}, {T}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.",
+            "rules_text": "Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nWhen this artifact enters, target creature gets -2/-2 until end of turn.\n{3}{B}, {T}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1316,6 +1535,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Christian Quinot",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1334,6 +1556,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Suzanne Helmigh",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1352,6 +1577,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Pedro Sena",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1370,6 +1598,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Istvan Straban",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1388,6 +1619,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Thomas M. Baxa",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1398,7 +1632,7 @@
             "number": 100,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Sacrifice Chromeleon: Add one mana of any color. Scry 1.",
+            "rules_text": "Sacrifice this creature: Add one mana of any color. Scry 1.",
             "flavor_text": "[i]Jund shamans grind their scales for augury dyes. The intensity of the pigment determines the clarity of their visions.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1406,6 +1640,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "McLean Kendree",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "FLAVORTEXT\n!banner"
         },
         {
@@ -1416,7 +1653,7 @@
             "number": 123,
             "color_identity": "BR",
             "cost": "{R}",
-            "rules_text": "{2}{B}: Return Torchlight Tormentor from your graveyard to your hand. If you do, each opponent loses 1 life.",
+            "rules_text": "{2}{B}: Return this card from your graveyard to your hand. If you do, each opponent loses 1 life.",
             "flavor_text": "[i]\u201cI'd take banewasps any day over that wretched pest!\u201d\n\u2014Rannon, Vithian renegade[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1424,6 +1661,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1434,7 +1674,7 @@
             "number": 102,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When Fodder Goblins enters, create a 1/1 red Goblin creature token.",
+            "rules_text": "When this creature enters, create a 1/1 red Goblin creature token.",
             "flavor_text": "[i]Goblins are quite aware of their status on Jund's food chain. They just don't care.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1442,6 +1682,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dave Kendall",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1452,7 +1695,7 @@
             "number": 119,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Reach\n{T}: Sadistic Sparkmage deals 1 damage to each opponent.",
+            "rules_text": "Reach\n{T}: This creature deals 1 damage to each opponent.",
             "flavor_text": "[i]\u201cRaw lightning kills much too quickly. I have crafted it into something more \n. . .[/i] exquisite.\u201d[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1460,6 +1703,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1470,7 +1716,7 @@
             "number": 103,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "First strike\n[i]Stampede[/i] \u2014 Whenever Frenzied Nacatl and a creature with greater power attack, Frenzied Nacatl gets +2/+0 until end of turn.",
+            "rules_text": "First strike\n[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, this creature gets +2/+0 until end of turn.",
             "flavor_text": "[i]\u201cI don't think you need another blade.\u201d\n\u2014Nazahn, leonin blacksmith[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1478,17 +1724,20 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Slawomir Maniak",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
             "card_name": "Dagger-Thrash Marauders",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Viashino Warrior",
+            "type": "Creature \u2014 Lizard Warrior",
             "number": 101,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Menace\nWhen Dagger-Thrash Marauders enters, you may have it consume. If you do, put a +1/+1 counter on it and it gains haste until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "Menace\nWhen this creature enters, you may have it consume. If you do, put a +1/+1 counter on it and it gains haste until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1496,6 +1745,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Adam Baines",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1506,7 +1758,7 @@
             "number": 127,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When Volcano Elemental dies, it deals 2 damage to any target.",
+            "rules_text": "When this creature dies, it deals 2 damage to any target.",
             "flavor_text": "[i]The ring of volcanoes known as the Crucible of Fire broke into pieces beyond Jund's borders, laying waste to vast regions on the plane.[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -1514,7 +1766,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jacob Atienza",
-            "notes": "FLAVORTEXT\nQUALITYCHECK"
+            "alias": "",
+            "position": "83",
+            "rotated": false,
+            "notes": "FLAVORTEXT \nQUALITYCHECK"
         },
         {
             "card_name": "Reinbreaker Behemoth",
@@ -1524,7 +1779,7 @@
             "number": 118,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Reinbreaker Behemoth attacks each combat if able.",
+            "rules_text": "This creature attacks each combat if able.",
             "flavor_text": "[i]\u201cHarness it? It already ran through five castles on its way here!\u201d\n\u2014Knight-Captain Bazram[/i]",
             "pt": "5/4",
             "special_text": "",
@@ -1532,6 +1787,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andrew Hou",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1542,7 +1800,7 @@
             "number": 109,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Trample\nWhenever Lava Hellions attacks, you may have it consume. If you do, it deals 2 damage to defending player. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "Trample\nWhenever this creature attacks, you may have it consume. If you do, it deals 2 damage to defending player. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -1550,6 +1808,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sutthiwat Dechakamphu",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1568,6 +1829,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1586,6 +1850,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jarreau Wimberly",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1604,6 +1871,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kaly Davis",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1622,6 +1892,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Bryan Syme",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1640,6 +1913,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Daniel Lukas",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1658,6 +1934,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1676,6 +1955,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Cosme Lucero",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1686,7 +1968,7 @@
             "number": 112,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Enchant creature\nWhen Make Way enters, draw a card.\nEnchanted creature can't block.",
+            "rules_text": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature can't block.",
             "flavor_text": "[i]Naya's behemoths are, by definition, movers and shakers.[/i]",
             "pt": "",
             "special_text": "",
@@ -1694,6 +1976,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ian Llanas",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1704,7 +1989,7 @@
             "number": 114,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "{R}, Sacrifice Nacatl Skirmisher: Destroy target artifact.\n[i]Stampede[/i] \u2014 Whenever Nacatl Skirmisher and a creature with greater power attack, creatures you control get +1/+0 until end of turn.",
+            "rules_text": "[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, creatures you control get +1/+0 until end of turn.\n{R}, Sacrifice this creature: Destroy target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1712,6 +1997,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Christina Yen",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1730,17 +2018,20 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jon Neimeister",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
             "card_name": "Viashino Glutton",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Viashino Warrior",
+            "type": "Creature \u2014 Lizard Warrior",
             "number": 124,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When Viashino Glutton enters, you may have it consume. If you do, create two 1/1 red Goblin creature tokens. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "When this creature enters, you may have it consume. If you do, create two 1/1 red Goblin creature tokens. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i]Goblins scavenging on its leftovers often become the next meal.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1748,7 +2039,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "FLAVORTEXT"
+            "alias": "",
+            "position": "96",
+            "rotated": false,
+            "notes": ""
         },
         {
             "card_name": "Vithian Arcanist",
@@ -1758,7 +2052,7 @@
             "number": 126,
             "color_identity": "UBR",
             "cost": "{2}{R}",
-            "rules_text": "Vithian Arcanist gets +2/+0 and has haste as long as you've cast an instant or sorcery spell this turn.\nWhen Vithian Arcanist enters, add {U}{B}{R}. Spend this mana only to cast instant and/or sorcery spells.",
+            "rules_text": "This creature gets +2/+0 and has haste as long as you've cast an instant or sorcery spell this turn.\nWhen this creature enters, add {U}{B}{R}. Spend this mana only to cast instant and/or sorcery spells.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1766,6 +2060,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alba Palacio",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1776,7 +2073,7 @@
             "number": 108,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Menace\nSwampcycling {1}, forestcycling {1} [i]({1}, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Menace\nSwampcycling {1}, forestcycling {1} [i]({1}, Discard this card: Search your libary for a Swamp or Forest card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i]It had found fearsome predators in these strange lands, but none compare to the dragons of Jund.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1784,6 +2081,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Adam Gleba",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1794,7 +2094,7 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "{1}{R}, Discard a card: Draw a card. Mist-Valley Minotaurs gets +2/+0 until end of turn.",
+            "rules_text": "{1}{R}, Discard a card: Draw a card. This creature gets +2/+0 until end of turn.",
             "flavor_text": "[i]Many who aim to hunt the behemoth Uril in Naya's whitecover instead find an axe at their throats.[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1802,17 +2102,20 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "JB Casacop",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
             "card_name": "Scaleshredder",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Viashino Shaman",
+            "type": "Creature \u2014 Lizard Shaman",
             "number": 122,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "When Scaleshredder enters, you may have it consume. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "When this creature enters, you may have it consume. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -1820,6 +2123,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Miroslav Petrov",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1838,6 +2144,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Josif Chezan",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1856,6 +2165,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jim Ling",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1874,6 +2186,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "FLAVORTEXT\nQUALITYCHECK\n!design Mako"
         },
         {
@@ -1884,7 +2199,7 @@
             "number": 152,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "When Thallid Cultivator dies, mill four cards. Return a creature card milled this way to your hand.",
+            "rules_text": "When this creature dies, mill four cards. Return a creature card milled this way to your hand.",
             "flavor_text": "[i]Orchardist Pulan was bemused that the thallid had a more sophisticated tilling technique than the grovetenders of Bant.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1892,6 +2207,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Marcel Budde",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1902,7 +2220,7 @@
             "number": 130,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When Conduit of the Conflux enters, scry 2.\n{T}: Add one mana of any color.",
+            "rules_text": "When this creature enters, scry 2.\n{T}: Add one mana of any color.",
             "flavor_text": "[i]Pulses of power from the other worlds cascaded into her, pieces of a broken whole she never knew were missing.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1910,6 +2228,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Lie Setiawan",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -1920,7 +2241,7 @@
             "number": 131,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{4}{G}, Sacrifice Elvish Godtracker: Create a 5/5 green Beast creature token.",
+            "rules_text": "{4}{G}, Sacrifice this creature: Create a 5/5 green Beast creature token.",
             "flavor_text": "[i]Small to those who have bonded with titans is the fear of death.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1928,6 +2249,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Mike Azevedo",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1938,7 +2262,7 @@
             "number": 143,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever Leotau Rider encourages a creature, that creature gains trample until end of turn.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever this creature encourages a creature, that creature gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1946,6 +2270,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Wes Talbott",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "VORTHOS\n!banner"
         },
         {
@@ -1956,7 +2283,7 @@
             "number": 134,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Deathtouch\nWhen Flesheater Vine enters, you may have it consume. If you do, put a +1/+1 counter on it and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "Deathtouch\nWhen this creature enters, you may have it consume. If you do, put a +1/+1 counter on it and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1964,6 +2291,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Afda Trihatma",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1974,7 +2304,7 @@
             "number": 132,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Stampede[/i] \u2014 Whenever Exuberant Hunter and a creature with greater power attack, draw a card.",
+            "rules_text": "[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, draw a card.",
             "flavor_text": "[i]\u201cThe hunt is its own reward.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1982,6 +2312,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Guilherme Batista",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -1992,7 +2325,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Knight of the Olive Orchard can't be blocked by more than one creature.",
+            "rules_text": "This creature can't be blocked by more than one creature.",
             "flavor_text": "[i]\u201cEos, Akrasa, Topa\u2014it is no longer a fight among Bant's nations. Our unity is crucial to our survival in this new Alara.\u201d[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2000,6 +2333,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Antonio Jos\u00e9 Manzanedo",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "FLAVORTEXT \nQUALITYCHECK"
         },
         {
@@ -2018,6 +2354,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2028,14 +2367,17 @@
             "number": 155,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Reach\nTowering Silkweaver can block an additional creature each combat.",
+            "rules_text": "Reach\nThis creature can block an additional creature each combat.",
             "flavor_text": "[i]\u201cRecommendation: dissolve all aerial reconnaissance programs. Cost no longer justifiable.\u201d\n\u2014Cinna, vedalken consul[/i]",
             "pt": "5/4",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
-            "artist": "Paul R. Gregory\n Watch Send a NoteGiv",
+            "artist": "Paul R. Gregory",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2054,6 +2396,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "J.P. Targete",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2072,6 +2417,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Xu Maosen",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "FLAVORTEXT\n!design Mako"
         },
         {
@@ -2089,7 +2437,10 @@
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
-            "artist": "Kekai Kotaki\n Watch Send a NoteGiv",
+            "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2108,6 +2459,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Christina Kraus",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2126,6 +2480,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Conceptopolis",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2144,6 +2501,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Marta de Andr\u00e9s",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2162,6 +2522,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Hatton Slayden",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2180,6 +2543,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Helder Almeida",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2190,7 +2556,7 @@
             "number": 153,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Trample\n[i]Stampede[/i] \u2014 Whenever Thoctar Yearling and a creature with greater power attack, put a +1/+1 counter on Thoctar Yearling.",
+            "rules_text": "Trample\n[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, put a +1/+1 counter on this creature.",
             "flavor_text": "[i]A thoctar's size changes as quickly as its temperament.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2198,6 +2564,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Marta de Andr\u00e9s",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2208,7 +2577,7 @@
             "number": 147,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance\nMountaincycling {1}, plainscycling {1} [i]({1}, Discard this card: Search your library for a Mountain or Plains card, reveal it, and put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Vigilance\nMountaincycling {1}, plainscycling {1} [i]({1}, Discard this card: Search your libary for a Mountain or Plains card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i]\u201cBeasts in this realm brim with vigor, but I yearn to see Naya's behemoths once more.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2216,6 +2585,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ben Wootten",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2226,7 +2598,7 @@
             "number": 157,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever a creature deals combat damage to a player, if it was encouraged by Veteran Horncaptain this turn, exile the top three cards of your library. You may put a permanent card from among them onto the battlefield.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever a creature deals combat damage to a player, if it was encouraged by this creature this turn, exile the top three cards of your library. You may put a permanent card from among them onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -2234,6 +2606,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Canh Nguyen",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2244,7 +2619,7 @@
             "number": 142,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "[i]Stampede[/i] \u2014 Whenever Knotvine Preserver and a creature with greater power attack, until end of turn, attacking creatures you control gain \u201cWhen this creature dies, return it to its owner's hand.\u201d",
+            "rules_text": "[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, until end of turn, attacking creatures you control gain \u201cWhen this creature dies, return it to its owner's hand.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2252,6 +2627,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2262,7 +2640,7 @@
             "number": 150,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "At the beginning of combat on your turn, you may have Regurgitator Ooze consume. If you do, it gets +2/+2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]\nWhen Regurgitator Ooze dies, return a card exiled with it to its owner's hand.",
+            "rules_text": "At the beginning of combat on your turn, you may have this creature consume. If you do, it gets +2/+2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]\nWhen this creature dies, return a card exiled with it to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2270,6 +2648,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Damian Schouweiler",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2280,7 +2661,7 @@
             "number": 146,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "Hexproof\nMist-Valley Ancient enters tapped.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Hexproof\nThis creature enters tapped.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]Elves believe the whitecover was breathed into being by Progenitus.[/i]",
             "pt": "7/7",
             "special_text": "",
@@ -2288,6 +2669,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Christian Quinot",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "!tapped \nVORTHOS"
         },
         {
@@ -2306,6 +2690,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Tom Egan",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2324,6 +2711,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Titus Lunter",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2334,7 +2724,7 @@
             "number": 148,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "Creatures you control get +3/+3 until \nend of turn.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Creatures you control get +3/+3 until end of turn.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]All the years of militia training bested by sheer force of numbers.[/i]",
             "pt": "",
             "special_text": "",
@@ -2342,6 +2732,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Wayne Reynolds",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2352,7 +2745,7 @@
             "number": 210,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "First strike\nWhenever Sighted-Caste Knight deals combat damage to a player, draw a card.",
+            "rules_text": "First strike\nWhenever this creature deals combat damage to a player, draw a card.",
             "flavor_text": "[i]\u201cWhen the mind is as sharp as the sword, triumph is at hand.\u201d\n\u2014Captain Valek of Jhess[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2360,6 +2753,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Linggar Bramanty",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "VORTHOS\n!banner"
         },
         {
@@ -2378,6 +2774,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kaj Driesen",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2396,6 +2795,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Xavier Ribeiro",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2414,6 +2816,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jama Jurabaev",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2424,7 +2829,7 @@
             "number": 204,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "Lifelink\nWhen Sacellum Visionary enters, draw a card.",
+            "rules_text": "Lifelink\nWhen this creature enters, draw a card.",
             "flavor_text": "[i]With each passing cycle, the elvish seers of Naya witness more visions than they can possibly decipher in a lifetime.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2432,6 +2837,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Richie Marella",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2442,7 +2850,7 @@
             "number": 172,
             "color_identity": "WUG",
             "cost": "{3}{G}{W}{U}",
-            "rules_text": "Flying\nWhen Celebrant of Jubilation enters, untap all creatures you control.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Flying\nWhen this creature enters, untap all creatures you control.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -2450,6 +2858,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Rogier van de Beek",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2460,7 +2871,7 @@
             "number": 182,
             "color_identity": "WUB",
             "cost": "{3}{W}{U}{B}",
-            "rules_text": "When Ethersworn Elite enters, you gain 2 life and create two 1/1 blue Thopter artifact creature tokens with flying.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, you gain 2 life and create two 1/1 blue Thopter artifact creature tokens with flying.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2468,6 +2879,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Michael Sugianto",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2478,7 +2892,7 @@
             "number": 188,
             "color_identity": "UBR",
             "cost": "{3}{U}{B}{R}",
-            "rules_text": "When Incantation Demon enters, return target instant or sorcery card from your graveyard to your hand.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2486,6 +2900,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Damjan Gjorgievski",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2496,7 +2913,7 @@
             "number": 224,
             "color_identity": "BRG",
             "cost": "{3}{B}{R}{G}",
-            "rules_text": "When Varakna Wurm enters, it deals X damage to target creature an opponent controls, where X is the total number of creature cards you own in exile and in your graveyard.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, it deals X damage to target creature an opponent controls, where X is the total number of creature cards you own in exile and in your graveyard.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -2504,6 +2921,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Joel Hustak",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2514,7 +2934,7 @@
             "number": 227,
             "color_identity": "WRG",
             "cost": "{3}{R}{G}{W}",
-            "rules_text": "When Ziggurat Behemoth enters, target creature gets +3/+3 until end of turn.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, target creature gets +3/+3 until end of turn.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]The temple offerings mean little. It simply enjoys watching the little things clamor in its presence.[/i]",
             "pt": "6/6",
             "special_text": "",
@@ -2522,6 +2942,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Christian Quinot",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2532,7 +2955,7 @@
             "number": 167,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Flying\nWhen Aven Strategist enters, return up to one target creature to its owner's hand.",
+            "rules_text": "Flying\nWhen this creature enters, return up to one target creature to its owner's hand.",
             "flavor_text": "[i]\u201cLook at every angle, from every vantage point. Miss nothing.\u201d\n\u2014Derevi, empyrial tactician[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2540,6 +2963,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Concept Art House",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2550,14 +2976,17 @@
             "number": 217,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "{T}: Tap target creature.\n{T}: Draw a card, then discard a card.\nWhenever another artifact you control enters, untap Telemin Architect.",
+            "rules_text": "{T}: Tap target creature.\n{T}: Draw a card, then discard a card.\nWhenever another artifact you control enters, untap this creature.",
             "flavor_text": "[i]\u201cAll must fall instrument to the grand designs of the sphinxes.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
-            "artist": "Jonathon Reed",
+            "artist": "Jon Reed",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "VORTHOS\n!banner"
         },
         {
@@ -2576,6 +3005,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jehan Choo",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2594,6 +3026,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "India-Lee Crews",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2604,7 +3039,7 @@
             "number": 178,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "Flying, haste\n{2}{B}{R}: Return Edarna's Augurling from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step. Activate only as a sorcery.",
+            "rules_text": "Flying, haste\n{2}{B}{R}: Return this card from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step. Activate only as a sorcery.",
             "flavor_text": "[i]The flames have gone out, but the smoke lingers with spite.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2612,6 +3047,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sarah Miller",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2622,7 +3060,7 @@
             "number": 197,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Haste\nWhen Magmatic Violator enters, target opponent sacrifices a creature.\nAt the beginning of the end step, sacrifice Magmatic Violator.",
+            "rules_text": "Haste\nWhen this creature enters, target opponent sacrifices a creature.\nAt the beginning of the end step, sacrifice this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/1",
             "special_text": "",
@@ -2630,6 +3068,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Geraud Soulie",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2640,7 +3081,7 @@
             "number": 222,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Whenever another nontoken creature you control enters, that creature gains haste until end of turn. Then Tremor Seer deals 1 damage to any target.",
+            "rules_text": "Whenever another nontoken creature you control enters, that creature gains haste until end of turn. Then this creature deals 1 damage to any target.",
             "flavor_text": "[i]\u201cThe earth thunders with furious footfalls. They are coming.\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2648,6 +3089,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andrey Vasilchenko",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "FLAVORTEXT\nQUALITYCHECK"
         },
         {
@@ -2658,7 +3102,7 @@
             "number": 206,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
-            "rules_text": "Flying\nWhen Scorchpass Sovereign enters, it deals 1 damage to each creature with flying you don't control.",
+            "rules_text": "Flying\nWhen this creature enters, it deals 1 damage to each creature with flying you don't control.",
             "flavor_text": "[i]\u201cMust be a young one. Only a hatchling wouldn't think [/i]everywhere [i]is their territory.\u201d\n\u2014Knara, bloodbraid elf[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2666,6 +3110,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Mike Azevedo",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2676,7 +3123,7 @@
             "number": 215,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Sun-Dappled Paragon enters with a +1/+1 counter on it for each other creature you control.\nWhenever another creature you control enters, put a +1/+1 counter on Sun-Dappled Paragon.",
+            "rules_text": "This creature enters with a +1/+1 counter on it for each other creature you control.\nWhenever another creature you control enters, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2684,6 +3131,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2702,6 +3152,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ben Wootten",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2720,6 +3173,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Mike Capprotti",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2730,7 +3186,7 @@
             "number": 184,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
-            "rules_text": "Trample\nSpells your opponents cast that target a creature you control cost {2} more to cast.\nWhenever a creature you control attacks alone, it gets +2/+2 until end of turn.",
+            "rules_text": "Trample\nSpells your opponents cast that target creatures you control cost {2} more to cast.\nWhenever a creature you control attacks alone, it gets +2/+2 until end of turn.",
             "flavor_text": "[i]Blessed wards are superfluous among the brave.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2738,6 +3194,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alexandre Honor\u00e9",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2756,6 +3215,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "VORTHOS\n!banner"
         },
         {
@@ -2774,6 +3236,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ari Targownik",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2792,6 +3257,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "CyberAgent.Inc",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2802,7 +3270,7 @@
             "number": 207,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
-            "rules_text": "{T}, Sacrifice a creature: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+            "rules_text": "{T}, Sacrifice a creature: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
             "flavor_text": "[i]Every flash of lightning that emanates from it is accompanied by the last gasp of the damned.[/i]",
             "pt": "3/5",
             "special_text": "",
@@ -2810,6 +3278,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ger\u00f3nimo Ribaya",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2820,7 +3291,7 @@
             "number": 220,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "Whenever Thrinax Sporemother or another nontoken creature you control dies, create a 1/1 green Saproling creature token.\nWhenever a creature card is exiled from your graveyard, create a 1/1 green Saproling creature token.",
+            "rules_text": "Whenever this creature or another nontoken creature you control dies, create a 1/1 green Saproling creature token.\nWhenever a creature card is exiled from your graveyard, create a 1/1 green Saproling creature token.",
             "flavor_text": "[i]New habitats allowed Jund's wildlife to become more tenacious than ever.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2828,6 +3299,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Tomasz Chistowski",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2838,7 +3312,7 @@
             "number": 163,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "Flash\nWhen Ambush Gharial enters, it fights up to one target creature. If that creature would die this turn, exile it instead.",
+            "rules_text": "Flash\nWhen this creature enters, it fights up to one target creature. If that creature would die this turn, exile it instead.",
             "flavor_text": "[i]The wetlands of Varakna run black with seeping tar, run green with algal blooms, but most often run red with blood.[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -2846,6 +3320,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2856,7 +3333,7 @@
             "number": 170,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
-            "rules_text": "Creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, Bellowing Thoctar gets +2/+2 until end of turn.",
+            "rules_text": "Creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, this creature gets +2/+2 until end of turn.",
             "flavor_text": "[i]Louder and larger the stampede grew, more and more the jungle surrendered.[/i]",
             "pt": "5/3",
             "special_text": "",
@@ -2864,6 +3341,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sean Donaldson",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2882,6 +3362,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Mike Azevedo",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2892,7 +3375,7 @@
             "number": 173,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "When Conflux Ravager enters, destroy target nonland permanent an opponent controls.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, destroy target nonland permanent an opponent controls.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]\u201cWhat is reborn can die again.\u201d\n\u2014Velir the Sunderer[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2900,6 +3383,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "J. R. Coffron",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -2918,6 +3404,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Atomhawk Design",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2936,6 +3425,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Seokin Chung",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2954,6 +3446,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jesper Friis",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2972,6 +3467,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andrew Bosley",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -2990,6 +3488,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Maisie Yang",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3008,6 +3509,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sebastian Wagner",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3018,14 +3522,17 @@
             "number": 228,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "{T}: Each opponent loses 1 life and you gain 1 life.\nWhenever you cycle a card or cast a spell with a cycling ability, untap Font of Nefarox.",
-            "flavor_text": "[i]It slakes only the darkest desires.[/i]",
+            "rules_text": "{T}: Each opponent loses 1 life and you gain 1 life.\nWhenever you cycle a card or cast a spell with a cycling ability, untap this artifact.",
+            "flavor_text": "[i]It slakes only the darkest desires. [/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Martin de Diego",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3044,6 +3551,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "James Churchill",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3054,7 +3564,7 @@
             "number": 229,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Macabre Effigy enters with three charge counters on it.\n{3}, {T}, Remove a charge counter from Macabre Effigy: Create a 2/2 black Zombie creature token. Activate only as a sorcery.",
+            "rules_text": "This artifact enters with three charge counters on it.\n{3}, {T}, Remove a charge counter from this artifact: Create a 2/2 black Zombie creature token. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3062,6 +3572,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Piotr Ruszkowski",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3072,15 +3585,18 @@
             "number": 255,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "Sculpted Observatory enters tapped.\n{T}: Add {W} or {U}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without poisoned motives, vision pushes innovation to greater heights.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "3 LY",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "170",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Gloomtide Gulf",
@@ -3090,15 +3606,18 @@
             "number": 247,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "Gloomtide Gulf enters tapped.\n{T}: Add {U} or {B}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without a burning spirit, storms bring darkness to the weak of will.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Alexandre Honor\u00e9",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "171",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Erupting Territory",
@@ -3108,15 +3627,18 @@
             "number": 245,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "Erupting Territory enters tapped.\n{T}: Add {B} or {R}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without the verdant wilds, danger and destruction reign over the earth.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Carlos Balarezo",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "172",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Bigroot Valley",
@@ -3126,15 +3648,18 @@
             "number": 239,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "Bigroot Valley enters tapped.\n{T}: Add {R} or {G}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without orderly guidance, ancient roots twist fiercely through weathered stone.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Alex Kintner",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "173",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Peaceful Passage",
@@ -3144,15 +3669,18 @@
             "number": 253,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "Peaceful Passage enters tapped.\n{T}: Add {G} or {W}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without deceit, prosperity can be achieved through bonds of community.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Nate Hallinan",
-            "notes": "!tapped\n!nbslot"
+            "alias": "",
+            "position": "174",
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Somber Meadow",
@@ -3162,15 +3690,18 @@
             "number": 257,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "Somber Meadow enters tapped.\n{T}: Add {W} or {B}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without the coldness of logic, silence compounds the feeling of grief.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Cathal O Hanlon",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "175",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Twisting Fissure",
@@ -3180,15 +3711,18 @@
             "number": 259,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "Twisting Fissure enters tapped.\n{T}: Add {U} or {R}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without pragmatic hands, chaos sends structure into disarray.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Robert Maldonado",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "176",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Caustic Mangrove",
@@ -3198,15 +3732,18 @@
             "number": 241,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "Caustic Mangrove enters tapped.\n{T}: Add {B} or {G}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without the fury of change, resignation to circumstance ends in decay.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Joewie Aderes",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "177",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Hazy Summits",
@@ -3216,15 +3753,18 @@
             "number": 248,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "Hazy Summits enters tapped.\n{T}: Add {R} or {W}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without contentment, motivation fuels the drive towards a brighter future.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Antonio Maletin",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "178",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Lush Coast",
@@ -3234,15 +3774,18 @@
             "number": 252,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "Lush Coast enters tapped.\n{T}: Add {G} or {U}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Without civilization's demands, nature and her designs form inimitable beauty.[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{1}, {T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Jonathan Berube",
-            "notes": "!tapped\n!note nbslot\n!landslot"
+            "alias": "",
+            "position": "179",
+            "rotated": false,
+            "notes": "!tapped\n!note nbslot"
         },
         {
             "card_name": "Terramorphic Expanse",
@@ -3252,7 +3795,7 @@
             "number": 258,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+            "rules_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i]\u201cI may no longer recognize Alara's horizon, but all of it is worth saving.\u201d\n\u2014Ajani Goldmane[/i]",
             "pt": "",
             "special_text": "",
@@ -3260,6 +3803,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Steve Hidook",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3270,7 +3816,7 @@
             "number": 256,
             "color_identity": "WUG",
             "cost": "",
-            "rules_text": "Seaside Citadel enters tapped.\n{T}: Add {G}, {W}, or {U}.",
+            "rules_text": "This land enters tapped.\n{T}: Add {G}, {W}, or {U}.",
             "flavor_text": "[i]Bant, beacon of redemption, guarded by faultless angels.[/i]",
             "pt": "",
             "special_text": "",
@@ -3278,6 +3824,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Gavin O'Donnell",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "!tapped\n\nVORTHOS"
         },
         {
@@ -3288,7 +3837,7 @@
             "number": 238,
             "color_identity": "WUB",
             "cost": "",
-            "rules_text": "Arcane Sanctum enters tapped.\n{T}: Add {W}, {U}, or {B}.",
+            "rules_text": "This land enters tapped.\n{T}: Add {W}, {U}, or {B}.",
             "flavor_text": "[i]Esper, center of engineered perfection, ruled by enigmatic sphinxes.[/i]",
             "pt": "",
             "special_text": "",
@@ -3296,6 +3845,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kalen Chock",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "!tapped\n\nVORTHOS"
         },
         {
@@ -3306,7 +3858,7 @@
             "number": 244,
             "color_identity": "UBR",
             "cost": "",
-            "rules_text": "Crumbling Necropolis enters tapped.\n{T}: Add {U}, {B}, or {R}.",
+            "rules_text": "This land enters tapped.\n{T}: Add {U}, {B}, or {R}.",
             "flavor_text": "[i]Grixis, crux of immutable decay, overseen by cruel demonlords.[/i]",
             "pt": "",
             "special_text": "",
@@ -3314,6 +3866,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Zhengyi Wang",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "!tapped\n\nVORTHOS"
         },
         {
@@ -3324,7 +3879,7 @@
             "number": 254,
             "color_identity": "BRG",
             "cost": "",
-            "rules_text": "Savage Lands enters tapped.\n{T}: Add {B}, {R}, or {G}.",
+            "rules_text": "This land enters tapped.\n{T}: Add {B}, {R}, or {G}.",
             "flavor_text": "[i]Jund, realm of unbridled cataclysm, scorched by vicious hellkites.[/i]",
             "pt": "",
             "special_text": "",
@@ -3332,6 +3887,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Thorn Spine",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "!tapped\n\nVORTHOS"
         },
         {
@@ -3342,7 +3900,7 @@
             "number": 250,
             "color_identity": "WRG",
             "cost": "",
-            "rules_text": "Jungle Shrine enters tapped.\n{T}: Add {R}, {G}, or {W}.",
+            "rules_text": "This land enters tapped.\n{T}: Add {R}, {G}, or {W}.",
             "flavor_text": "[i]Naya, heart of abundant life, tread upon by awe-inspiring titans.[/i]",
             "pt": "",
             "special_text": "",
@@ -3350,6 +3908,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Thomas Stoop",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "!tapped\n\nVORTHOS"
         },
         {
@@ -3360,7 +3921,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever Blessed Vanquisher encourages a creature, destroy target creature an opponent controls if it's tapped. Otherwise, tap that creature.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\nWhenever this creature encourages a creature, destroy target creature an opponent controls if it's tapped. Otherwise, tap that creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3368,6 +3929,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3378,7 +3942,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying\nWhen Derevi's Adjutant enters, put a +1/+1 counter on each other creature you control.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]\nWhen you cycle Derevi's Adjutant, exile it. You may cast it from exile for as long as it remains exiled.",
+            "rules_text": "Flying\nWhen this creature enters, put a +1/+1 counter on each other creature you control.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]\nWhen you cycle this card, exile it. You may cast it from exile for as long as it remains exiled.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3386,6 +3950,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Miyabi Kazashino",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3404,6 +3971,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Howard Pak",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3422,6 +3992,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Rob Smyth",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "FLAVORTEXT\n!design Mako"
         },
         {
@@ -3440,6 +4013,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Michael C. Hayes",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3458,6 +4034,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Ben Erdt",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3468,7 +4047,7 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Whenever Supreme Mechanothurge or another artifact you control enters, up to one target artifact you control becomes a copy of another target artifact or creature you control, except it's an artifact in addition to its other types.",
+            "rules_text": "Whenever this creature or another artifact you control enters, up to one target artifact you control becomes a copy of another target artifact or creature you control, except it's an artifact in addition to its other types.",
             "flavor_text": "[i]\u201cTalent is commonplace. Style is invaluable.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3476,6 +4055,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alexandre Honor\u00e9",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "FLAVORTEXT\nQUALITYCHECK"
         },
         {
@@ -3494,6 +4076,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "A. Lundell",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3512,6 +4097,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jorge Jacinto",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3522,7 +4110,7 @@
             "number": 55,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Flying\nIf a nonland permanent an opponent controls would be returned to its owner's hand, instead gain control of it for as long as you control Sphinx Paramount.",
+            "rules_text": "Flying\nIf a nonland permanent an opponent controls would be returned to its owner's hand, instead gain control of it for as long as you control this creature.",
             "flavor_text": "[i]There is no fleeing the authority of the sphinxes.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3530,6 +4118,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jue Li",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "VORTHOS\nREDESIGN"
         },
         {
@@ -3548,6 +4139,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Hua Lu",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3558,7 +4152,7 @@
             "number": 67,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "{B}, Discard a card: Bloodbraid Ritualist gains indestructible until end of turn. Tap it.\nAt the beginning of your upkeep, you may have Bloodbraid Ritualist consume. If you do, draw a card. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "{B}, Discard a card: This creature gains indestructible until end of turn. Tap it.\nAt the beginning of your upkeep, you may have this creature consume. If you do, draw a card. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3566,6 +4160,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Bob Kehl",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3576,7 +4173,7 @@
             "number": 95,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nTidehollow Lich can't block.\nYou may cast Tidehollow Lich from your graveyard as long as you control an artifact creature.",
+            "rules_text": "Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]\nThis creature can't block.\nYou may cast this card from your graveyard as long as you control an artifact creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3584,6 +4181,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Concept Art House",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3602,6 +4202,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Piotr Ruszkowski",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3612,7 +4215,7 @@
             "number": 87,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "Profane Emissary gets +2/+2 and has lifelink as long as you control a Demon.\nIf you would draw a card, you may instead search your library for a Demon card, reveal it, and put it into your hand, then shuffle. You lose life equal to that card's mana value.",
+            "rules_text": "This creature gets +2/+2 and has lifelink as long as you control a Demon.\nIf you would draw a card, you may instead search your library for a Demon card, reveal it, put it into your hand, then shuffle. You lose life equal to that card's mana value.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3620,6 +4223,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Eliz Roxs",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "REDESIGN"
         },
         {
@@ -3630,7 +4236,7 @@
             "number": 120,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Flying\n{1}{R}: Sangrite Dragon gets +2/+0 until end of turn.\nSacrifice another creature: Add {R}{R}.",
+            "rules_text": "Flying\n{1}{R}: This creature gets +2/+0 until end of turn.\nSacrifice another creature: Add {R}{R}.",
             "flavor_text": "[i]The most precious hoard is the rubied ichor flowing through a dragon's veins.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3638,6 +4244,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Chu Skai",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3648,7 +4257,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Flying\nWhenever Hellkite Omnivore attacks, you may have it consume. If you do, put a +1/+1 counter on Hellkite Omnivore. When a creature is sacrificed this way, Hellkite Omnivore deals 3 damage to any target. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
+            "rules_text": "Flying\nWhenever this creature attacks, you may have it consume. If you do, put a +1/+1 counter on it. When a creature is sacrificed this way, this creature deals 3 damage to any target. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3656,6 +4265,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Juan Pablo Roldan",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3666,7 +4278,7 @@
             "number": 106,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\nThe first instant or sorcery spell you cast each turn costs {1} less to cast.\n{R}, {T}, Sacrifice Hellspark Prankster: Change the target of target spell with a single target.",
+            "rules_text": "Haste\nThe first instant or sorcery spell you cast each turn costs {1} less to cast.\n{R}, {T}, Sacrifice this creature: Change the target of target spell with a single target.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3674,6 +4286,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Benedick Bana",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3684,7 +4299,7 @@
             "number": 110,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Menace\n[i]Stampede[/i] \u2014 Whenever Maelstrom Slicer and a creature with greater power attack, exile the top three cards of your library. You may play those cards until end of turn.",
+            "rules_text": "Menace\n[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, exile the top three cards of your library. You may play those cards until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -3692,6 +4307,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Guang Yang",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3710,6 +4328,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Calvin Chua",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3720,7 +4341,7 @@
             "number": 145,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nOther Beasts you control have trample.\nWhenever Magnoceros attacks, create a 5/5 green Beast creature token that's tapped and attacking.",
+            "rules_text": "Trample\nOther Beasts you control have trample.\nWhenever this creature attacks, create a 5/5 green Beast creature token that's tapped and attacking.",
             "flavor_text": "[i]Might begets might.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3728,6 +4349,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Juan Arrabal",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3738,7 +4362,7 @@
             "number": 159,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "War-Pride Champion can't be blocked by creatures with power 2 or less.\n[i]Stampede[/i] \u2014 Whenever War-Pride Champion and a creature with greater power attack, target creature you control gets +2/+2 until end of turn.",
+            "rules_text": "Haste\nThis creature can't be blocked by creatures with power 2 or less.\n[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, target creature you control gets +2/+2 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3746,7 +4370,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "N3TWORK Inc.",
-            "notes": ""
+            "alias": "",
+            "position": "207",
+            "rotated": false,
+            "notes": "buffed: Gained haste."
         },
         {
             "card_name": "Hierarch Ranger",
@@ -3756,7 +4383,7 @@
             "number": 139,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\n{T}: Add {G}.\nWhenever Hierarch Ranger encourages a creature, add one mana of any color.",
+            "rules_text": "Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]\n{T}: Add {G}.\nWhenever this creature encourages a creature, add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
@@ -3764,7 +4391,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jason A. Engle",
-            "notes": "!update"
+            "alias": "",
+            "position": "208",
+            "rotated": false,
+            "notes": ""
         },
         {
             "card_name": "Heart of Spores",
@@ -3774,7 +4404,7 @@
             "number": 138,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "At the beginning of your upkeep, create a 1/1 green Saproling creature token.\nWhenever a creature you control dies, put a +1/+1 counter on Heart of Spores.\n{X}{G}: Move X +1/+1 counters from Heart of Spores onto target creature. Activate only as a sorcery.",
+            "rules_text": "At the beginning of your upkeep, create a 1/1 green Saproling creature token.\nWhenever a creature you control dies, put a +1/+1 counter on this enchantment.\n{X}{G}: Move X +1/+1 counters from this enchantment onto target creature. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3782,6 +4412,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Chris Szczesiul",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3792,7 +4425,7 @@
             "number": 158,
             "color_identity": "G",
             "cost": "{X}{G}{G}{G}",
-            "rules_text": "Vitalhydra enters with twice X +1/+1 counters on it.\nEach other creature you control enters with a number of additional +1/+1 counters on it equal to the number of +1/+1 counters on Vitalhydra.",
+            "rules_text": "This creature enters with twice X +1/+1 counters on it.\nEach other creature you control enters with a number of additional +1/+1 counters on it equal to the number of +1/+1 counters on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -3800,6 +4433,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Narendra Bintara Adi",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3818,6 +4454,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Thomas Ricci",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3828,7 +4467,7 @@
             "number": 193,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
-            "rules_text": "Flying\nWhen Kaalia's Abomination enters or dies, it deals 2 damage to target opponent. Then that player discards two cards.",
+            "rules_text": "Flying\nWhen this creature enters or dies, it deals 2 damage to target opponent. Then that player discards two cards.",
             "flavor_text": "[i]Kaalia would not let Malfegor's remains go to waste.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3836,6 +4475,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Cosme Lucero",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3846,14 +4488,17 @@
             "number": 176,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
-            "rules_text": "When Earthbreaker Behemoth enters, it deals damage equal to its power to up to one target creature you don't control. Excess damage is dealt to that creature's controller instead.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "When this creature enters, it deals damage equal to its power to up to one target creature you don't control. Excess damage is dealt to that creature's controller instead.",
+            "flavor_text": "[i]The susurrus of Naya's jungle was drowned out not by thunder or earthquake, but by the arrival of a god.[/i]",
             "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Duong ct",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3872,6 +4517,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jonathon Reed",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3890,6 +4538,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3900,7 +4551,7 @@
             "number": 164,
             "color_identity": "WUG",
             "cost": "{1}{G}{W}{U}",
-            "rules_text": "Flying\nAs long as it's your turn, you and Angel of Succor have hexproof.\nUntap all lands you control during each other player's untap step.",
+            "rules_text": "Flying\nAs long as it's your turn, you and this creature have hexproof.\nUntap all lands you control during each other player's untap step.",
             "flavor_text": "[i]\u201cOne heart at a time. That is how a world is healed.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3908,6 +4559,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Grosnez",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3926,6 +4580,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Tiziana Federica Ruiu",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "!banner"
         },
         {
@@ -3936,7 +4593,7 @@
             "number": 202,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Surveil 3, then you gain 3 life and draw three cards. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Surveil 3. Then you gain 3 life and draw three cards. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3944,6 +4601,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Denis Loebner",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3962,6 +4622,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Svetlin Velinov",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -3980,6 +4643,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Hugo Richard",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -3998,6 +4664,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dan Scott",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -4016,6 +4685,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Paul Bonner",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "!banner\n\u2022 Target player sacrifices a creature.\n\u2022 Grixis Command deals 3 damage to target player or planeswalker and you gain 3 life.\n\u2022 Draw two cards, then discard a card.\n\u2022 Return a monocolored instant or sorcery card from your graveyard to your hand."
         },
         {
@@ -4026,7 +4698,7 @@
             "number": 180,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
-            "rules_text": "Menace\nWhenever Entrail Elemental deals combat damage to a player, you may cast target card from your graveyard this turn. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]",
+            "rules_text": "Menace\nWhenever this creature deals combat damage to a player, you may cast target card from your graveyard this turn. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4034,6 +4706,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Michael D. Clarke",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4052,6 +4727,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Michal Ivan",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4062,7 +4740,7 @@
             "number": 187,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "When Hellion Devastator enters, destroy up to one target nonland permanent with mana value 3 or less.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When this creature enters, destroy up to one target nonland permanent with mana value 3 or less.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -4070,6 +4748,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Angga Dwipayana",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -4080,7 +4761,7 @@
             "number": 223,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
-            "rules_text": "At the beginning of your end step, draw a card if a creature died this turn. Then Tumultipede deals 2 damage to each opponent if two or more creatures died this turn. Then create three 1/1 green Saproling creature tokens if three or more creatures died this turn.",
+            "rules_text": "At the beginning of your end step, draw a card if a creature died this turn. Then this creature deals 2 damage to each opponent if two or more creatures died this turn. Then create three 1/1 green Saproling creature tokens if three or more creatures died this turn.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -4088,6 +4769,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Xia Taptara",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4106,6 +4790,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Joachim Barrum",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "VORTHOS\n!rul If you create a noncreature token that will be a creature as it enters the battlefield, perhaps because of an effect such as that of March of the Machines, Timus's effect doesn't apply to that token's creation. (This is because Timus's effect modifies how the tokens are created, and March of the Machines's effect doesn't apply until you consider how the tokens are entering the battlefield.)"
         },
         {
@@ -4124,6 +4811,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Robert Powell",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -4134,7 +4824,7 @@
             "number": 199,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
-            "rules_text": "Choose two \u2014\n\u2022 Put three +1/+1 counters on target creature.\n\u2022 Target player searches their library for up to two basic land cards. That player reveals those cards, puts one onto the battlefield tapped and the other into their hand, then shuffles.\n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Target player gains 5 life.",
+            "rules_text": "Choose two \u2014\n\u2022 Put three +1/+1 counters on target creature.\n\u2022 Target player searches their library for up to two basic land cards, reveals those cards, puts one onto the battlefield tapped and the other into their hand, then shuffles.\n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Target player gains 5 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4142,7 +4832,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sandara Tang",
-            "notes": ":: Put three +1/+1 counters on target creature.\n\u2022 Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.\n\u2022 Target creature you control deals damage equal to its power to target creature you don't control.\n\u2022 You gain 5 life."
+            "alias": "",
+            "position": "229",
+            "rotated": false,
+            "notes": "\u2022 Put three +1/+1 counters on target creature.\n\u2022 Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.\n\u2022 Target creature you control deals damage equal to its power to target creature you don't control.\n\u2022 You gain 5 life."
         },
         {
             "card_name": "Antali Archdruid",
@@ -4152,7 +4845,7 @@
             "number": 165,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "You may play an additional land on each of your turns.\nWhenever Antali Archdruid attacks, if two or more lands entered the battlefield under your control this turn, Antali Archdruid deals 3 damage to any target and you gain 3 life.",
+            "rules_text": "You may play an additional land on each of your turns.\nWhenever this creature attacks, if two or more lands you control entered this turn, this creature deals 3 damage to any target and you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4160,6 +4853,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "CJ Centeno",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4178,6 +4874,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Brandon McDonald",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4188,7 +4887,7 @@
             "number": 194,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "Whenever you cast an instant or sorcery spell, Kederekt Deepdweller gains your choice of menace, lifelink, or indestructible until end of turn.\nWhenever Kederekt Deepdweller deals combat damage to a player, you draw a card and that player discards a card.",
+            "rules_text": "Whenever you cast an instant or sorcery spell, this creature gains your choice of indestructible, lifelink, or menace until end of turn.\nWhenever this creature deals combat damage to a player, you draw a card and that player discards a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4196,6 +4895,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Martin de Diego",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4206,7 +4908,7 @@
             "number": 177,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
-            "rules_text": "You may discard a card. If you do, draw two cards.\nReturn target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.\nDiscard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield.",
+            "rules_text": "[+2]: You may discard a card. If you do, draw two cards.\n[-3]: Return target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.\n[-7]: Discard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: You may discard a card. If you do, draw two cards.\n[-3]: Return target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.\n[-7]: Discard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield.",
@@ -4214,6 +4916,9 @@
             "set": "ALR",
             "loyalty": "5",
             "artist": "Billy Christian",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4224,7 +4929,7 @@
             "number": 162,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "s\ns\ns",
+            "rules_text": "[+1]: Distribute two +1/+1 counters among up to two target creatures. You gain 2 life.\n[-1]: Create a 2/2 green Cat Warrior creature token.\n[-3]: Exile target creature. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\n[-7]: You get an emblem with \u201cCreatures you control get +X/+X, where X is your life total.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Distribute two +1/+1 counters among up to two target creatures. You gain 2 life.\n[-1]: Create a 2/2 green Cat Warrior creature token.\n[-3]: Exile target creature. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\n[-7]: You get an emblem with \u201cCreatures you control get +X/+X, where X is your life total.\u201d",
@@ -4232,6 +4937,9 @@
             "set": "ALR",
             "loyalty": "4",
             "artist": "Mario Testa",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4250,6 +4958,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Xu Cheng",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -4268,6 +4979,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Galacia Barton",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4286,6 +5000,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Guilherme Batista",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "!banner"
         },
         {
@@ -4304,6 +5021,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Sandara Tang",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4322,6 +5042,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Nick Silva",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -4332,14 +5055,17 @@
             "number": 225,
             "color_identity": "WUBRG",
             "cost": "{2}{W}{U}{B}{R}{G}",
-            "rules_text": "",
+            "rules_text": "[+2]: Destroy up to one target monocolored permanent.\n[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that's all colors.\n[-5]: Draw three cards. You pay {0} rather than pay the mana cost for the next spell you cast this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+2]: Destroy up to one target monocolored permanent.\n[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that's all colors\n[-5]: Draw three cards. You may pay {0} to cast your next spell this turn rather than its mana cost.",
+            "special_text": "[+2]: Destroy up to one target monocolored permanent.\n[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that's all colors.\n[-5]: Draw three cards. You pay {0} rather than pay the mana cost for the next spell you cast this turn.",
             "shape": "planeswalker",
             "set": "ALR",
             "loyalty": "8",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4358,6 +5084,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Nick Silva",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "VORTHOS!banner\n!design Mako"
         },
         {
@@ -4369,13 +5098,16 @@
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "{T}: The next time you would draw a card this turn, instead search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",
-            "flavor_text": "[i]\u201cIt offers the most tantalizing of choices: where to go, who to be.\u201d\n\u2014Kemuel, the Hidden One[/i]",
+            "flavor_text": "[i]\u201cIt offers the most tantalizing of choices: where to go, whom to be.\u201d\n\u2014Kemuel, the Hidden One[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ALR",
             "loyalty": "",
             "artist": "Jose Millan",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "VORTHOS\n!banner"
         },
         {
@@ -4386,7 +5118,7 @@
             "number": 240,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "Bleak Shoreline enters tapped unless you control an Island.\n{T}: Add {W} or {B}.",
+            "rules_text": "This land enters tapped unless you control an Island.\n{T}: Add {W} or {B}.",
             "flavor_text": "[i]Discarded metal and leviathan bones wash up on the salt flats of Cloudheath, and neither stay refuse for long.[/i]",
             "pt": "",
             "special_text": "",
@@ -4394,6 +5126,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "kkkiri",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "TRICHECKS"
         },
         {
@@ -4404,7 +5139,7 @@
             "number": 246,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "Forbidding Isle enters tapped unless you control a Swamp.\n{T}: Add {U} or {R}.",
+            "rules_text": "This land enters tapped unless you control a Swamp.\n{T}: Add {U} or {R}.",
             "flavor_text": "[i]\u201cGrixis's necromantic energies sustain me, but I must find the source. The kathari all point me towards the sinister seas . . .\u201d\n\u2014Edarna[/i]",
             "pt": "",
             "special_text": "",
@@ -4412,6 +5147,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Samuel Michlap",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "TRICHECKS"
         },
         {
@@ -4422,7 +5160,7 @@
             "number": 242,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "Charred Marsh enters tapped unless you control a Mountain.\n{T}: Add {B} or {G}.",
+            "rules_text": "This land enters tapped unless you control a Mountain.\n{T}: Add {B} or {G}.",
             "flavor_text": "[i]Dragonfire singes the peat, liberating trapped leylines exploited by shamanic clans.[/i]",
             "pt": "",
             "special_text": "",
@@ -4430,6 +5168,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Yanli Wang",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "TRICHECKS"
         },
         {
@@ -4440,7 +5181,7 @@
             "number": 243,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "Cloudcover Heights enters tapped unless you control a Forest.\n{T}: Add {R} or {W}.",
+            "rules_text": "This land enters tapped unless you control a Forest.\n{T}: Add {R} or {W}.",
             "flavor_text": "[i]Sunsingers greet the dawn on the highest peaks of the valley, drawing the attention of griffins and gargantuans alike.[/i]",
             "pt": "",
             "special_text": "",
@@ -4448,6 +5189,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Tatiana Yamshanova",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "TRICHECKS"
         },
         {
@@ -4458,7 +5202,7 @@
             "number": 249,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "Idyllic Oasis enters tapped unless you control a Plains.\n{T}: Add {G} or {U}.",
+            "rules_text": "This land enters tapped unless you control a Plains.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i]\u201cI can only pray Knight-Errant Tirel has found peace as I have here.\u201d\n\u2014Aran, Knight-Captain of Valeron[/i]",
             "pt": "",
             "special_text": "",
@@ -4466,6 +5210,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alayna Danner",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "TRICHECKS"
         },
         {
@@ -4484,6 +5231,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Laurens Spruit",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "FLAVORTEXT\n!design Mako"
         },
         {
@@ -4494,7 +5244,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Flying\nWhen Cloudheath Sentinel enters, return target artifact card with mana value 2 or less from your graveyard to the battlefield.",
+            "rules_text": "Flying\nWhen this creature enters, return target artifact card with mana value 2 or less from your graveyard to the battlefield.",
             "flavor_text": "[i]It stands guard against thieves and time alike.[/i]",
             "pt": "2/4",
             "special_text": "",
@@ -4502,10 +5252,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Brandon Ellis",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
-            "card_name": "blue Thopter 11ALR",
+            "card_name": "Thopter",
             "color": "U",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Thopter",
@@ -4520,10 +5273,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andrew Murray",
-            "notes": "!exportname blue Thopter 11ALR"
+            "alias": "",
+            "position": "250",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "white Soldier 11ALR",
+            "card_name": "Soldier",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
@@ -4538,10 +5294,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Alan Pollack",
-            "notes": "!exportname white Soldier 11ALR"
+            "alias": "",
+            "position": "251",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "black Zombie 22ALR",
+            "card_name": "Zombie",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -4556,10 +5315,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dave Kendall",
-            "notes": "!exportname black Zombie 22ALR"
+            "alias": "",
+            "position": "252",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "black Demon 44ALR",
+            "card_name": "Demon",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Demon",
@@ -4574,10 +5336,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Edric Yoeliawan",
-            "notes": "!exportname black Demon 44ALR"
+            "alias": "",
+            "position": "253",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "red Goblin 11ALR",
+            "card_name": "Goblin",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin",
@@ -4592,10 +5357,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Brandon Kitkouski",
-            "notes": "!exportname red Goblin 11ALR"
+            "alias": "",
+            "position": "254",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "green Beast 55ALR",
+            "card_name": "Beast",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Beast",
@@ -4610,10 +5378,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Adam Vehige",
-            "notes": "!exportname green Beast 55ALR"
+            "alias": "",
+            "position": "255",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "green Saproling 11ALR",
+            "card_name": "Saproling",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Saproling",
@@ -4628,10 +5399,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Kevin Yan",
-            "notes": "!exportname green Saproling 11ALR"
+            "alias": "",
+            "position": "256",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Etherium Cell ALR",
+            "card_name": "Etherium Cell",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
@@ -4646,10 +5420,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Jeremy Carver",
-            "notes": "!exportname Etherium Cell ALR"
+            "alias": "",
+            "position": "257",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Elemental 88ALR",
+            "card_name": "Elemental",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -4664,10 +5441,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Daarken",
-            "notes": "!exportname Elemental 88ALR"
+            "alias": "",
+            "position": "258",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "white Knight 22ALR",
+            "card_name": "Knight",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Knight",
@@ -4682,10 +5462,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Greg Staples",
-            "notes": "!exportname white Knight 22ALR"
+            "alias": "",
+            "position": "259",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "green Cat Warrior 22ALR",
+            "card_name": "Cat Warrior",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Cat Warrior",
@@ -4700,10 +5483,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Aldo Dominguez",
-            "notes": "!exportname green Cat Warrior 22ALR"
+            "alias": "",
+            "position": "260",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Plains_ALR",
+            "card_name": "Plains",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
@@ -4718,10 +5504,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "John Avon",
-            "notes": "!exportname Plains_ALR"
+            "alias": "",
+            "position": "261",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Island_ALR",
+            "card_name": "Island",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
@@ -4736,10 +5525,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Zoltan Boros & Gabor Szikszai",
-            "notes": "!exportname Island_ALR"
+            "alias": "",
+            "position": "262",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Swamp_ALR",
+            "card_name": "Swamp",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
@@ -4754,10 +5546,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "John Avon",
-            "notes": "!exportname Swamp_ALR"
+            "alias": "",
+            "position": "263",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Mountain_ALR",
+            "card_name": "Mountain",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
@@ -4772,10 +5567,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Feliks Grzesiczek",
-            "notes": "!exportname Mountain_ALR"
+            "alias": "",
+            "position": "264",
+            "rotated": false,
+            "notes": ""
         },
         {
-            "card_name": "Forest_ALR",
+            "card_name": "Forest",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
@@ -4790,7 +5588,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Xie Wenxiao",
-            "notes": "!exportname Forest_ALR"
+            "alias": "",
+            "position": "265",
+            "rotated": false,
+            "notes": ""
         },
         {
             "card_name": "Empyrial Reverence",
@@ -4808,6 +5609,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Thitipon Dicruen",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4818,7 +5622,7 @@
             "number": 33,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "{1}, Sacrifice Brackwater Scuttler: Draw a card.",
+            "rules_text": "{1}, Sacrifice this creature: Draw a card.",
             "flavor_text": "[i]Unaware of the sprawling life brought on by the Conflux, mad seawitches of Grixis seemed content to harvest vis from lowly creatures of the shore.[/i]",
             "pt": "0/3",
             "special_text": "",
@@ -4826,6 +5630,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Adrian Gonzalez",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "FLAVORTEXT"
         },
         {
@@ -4844,6 +5651,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Andrea Piparo",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "VORTHOS"
         },
         {
@@ -4854,7 +5664,7 @@
             "number": 149,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Reach\n[i]Stampede[/i] \u2014 Whenever Qasali Quiverguard and a creature with greater power attack, untap all attacking creatures.",
+            "rules_text": "Reach\n[i]Stampede[/i] \u2014 Whenever this creature and a creature with greater power attack, untap all attacking creatures.",
             "flavor_text": "[i]Before the dragons came, only the summer canopy could blot out the Nayan sun. Mwezi nocked an arrow, and the pride followed suit.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4862,6 +5672,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Christopher Cant",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4872,7 +5685,7 @@
             "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When Dregscape Wretch dies, create a 2/2 black Zombie creature token.",
+            "rules_text": "When this creature dies, create a 2/2 black Zombie creature token.",
             "flavor_text": "[i]\u201cThe chain of undeath grows fouler and more formidable by the second. What is there to stop us?\u201d\n\u2014Sedris, the Traitor King[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4880,6 +5693,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dave Melvin",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4898,6 +5714,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Josu Hernaiz",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4916,6 +5735,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "awfulowafalo",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "\u2022 Exile target spell.\n\u2022 Scry 2, then draw a card.\n\u2022 Return target artifact card from your graveyard to the battlefield.\n\u2022 Destroy target nonartifact creature."
         },
         {
@@ -4934,6 +5756,9 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dire Wolf Digital",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4952,7 +5777,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Dave Kendall",
-            "notes": "\u2022 Jund Command deals 3 damage to each non-Dragon creature.\n\u2022 Jund Command deals 4 damage to each opponent.\n\u2022 Destroy target planeswalker.\n\u2022 Mill five cards. Put a permanent card from among the milled cards into your hand."
+            "alias": "",
+            "position": "274",
+            "rotated": false,
+            "notes": "\n\u2022 Jund Command deals 3 damage to each non-Dragon creature.\n\u2022 Jund Command deals 4 damage to each opponent.\n\u2022 Destroy target planeswalker.\n\u2022 Mill five cards. Put a permanent card from among the milled cards into your hand."
         },
         {
             "card_name": "Kaalia, Sky's End",
@@ -4970,10 +5798,13 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Diana Van Damme",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "!design Mako\n!num 265"
         },
         {
-            "card_name": "Ajani Emblem ALR",
+            "card_name": "Ajani Emblem",
             "color": "",
             "rarity": "common",
             "type": "Emblem \u2014 Ajani",
@@ -4988,7 +5819,10 @@
             "set": "ALR",
             "loyalty": "",
             "artist": "Mario Testa",
-            "notes": "!exportname Ajani Emblem ALR"
+            "alias": "",
+            "position": "276",
+            "rotated": false,
+            "notes": "!exportname Ajani Emblem"
         }
     ]
 }

@@ -1,4 +1,1008 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Bone Splinters added.
+Thopter added.
+Soldier added.
+Zombie added.
+Demon added.
+Goblin added.
+Beast added.
+Saproling added.
+Etherium Cell added.
+Elemental added.
+Knight added.
+Cat Warrior added.
+Ajani Emblem added.
+
+Bone Splinters_ALR removed.
+blue Thopter 11ALR removed.
+white Soldier 11ALR removed.
+black Zombie 22ALR removed.
+black Demon 44ALR removed.
+red Goblin 11ALR removed.
+green Beast 55ALR removed.
+green Saproling 11ALR removed.
+Etherium Cell ALR removed.
+Elemental 88ALR removed.
+white Knight 22ALR removed.
+green Cat Warrior 22ALR removed.
+Ajani Emblem ALR removed.
+
+Paladin's Attendant
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever Paladin's Attendant encourages a creature, that creature gains first strike until end of turn. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever this creature encourages a creature, that creature gains first strike until end of turn.
+
+Ajani's Advocate
+rules_text: Vigilance
+{1}{G}: Ajani's Advocate gets +2/+2 until end of turn. Activate only once each turn. => Vigilance
+{1}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+
+Valeron Vanguard
+rules_text: Valeron Vanguard can't be blocked by 1/1 creatures. => This creature can't be blocked by 1/1 creatures.
+
+Topan Curemaster
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever Topan Curemaster encourages a creature, you gain 1 life. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever this creature encourages a creature, you gain 1 life.
+
+Cloud's Roar Avenger
+rules_text: [i][i]Stampede[/i][/i] — Whenever Cloud's Roar Avenger and a creature with greater power attack, tap up to one target creature. => [i][i]Stampede[/i][/i] — Whenever this creature and a creature with greater power attack, tap up to one target creature.
+
+Akrasan Sentry
+rules_text: Vigilance
+When Akrasan Sentry enters, untap target creature. => Vigilance
+When this creature enters, untap target creature.
+
+Reliquary Rhox
+
+Meticulous Mechanist
+rules_text: Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+When Meticulous Mechanist enters, scry 1. => Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+When this creature enters, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+
+Dawnray Castellan
+
+Skygrid Surveyor
+
+Gleamhorn Gargantuan
+rules_text: When Gleamhorn Gargantuan enters, put a +1/+1 counter on up to one other target creature.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, put a +1/+1 counter on up to one other target creature.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Radiant Resolve
+
+Recraft in Steel
+
+Dominator's Diadem
+rules_text: When Dominator's Diadem enters, you gain 3 life.
+{2}{W}, {T}: Tap target creature. => When this artifact enters, you gain 3 life.
+{2}{W}, {T}: Tap target creature.
+
+Sunstrike
+
+Blessed Radiance
+
+Pledge of Peace
+
+Herald of the White Orchid
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever a creature deals combat damage to a player, if it was encouraged by Herald of the White Orchid this turn, create a 1/1 white Soldier creature token. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever a creature deals combat damage to a player, if it was encouraged by this creature this turn, create a 1/1 white Soldier creature token.
+
+Etlan High Priest
+rules_text: [i]Stampede[/i] — Whenever Etlan High Priest and a creature with greater power attack, Etlan High Priest gets +1/+1 until end of turn. Then you gain 1 life and scry 1. => [i]Stampede[/i] — Whenever this creature and a creature with greater power attack, this creature gets +1/+1 until end of turn. Then you gain 1 life and scry 1.
+
+Citadel Battlemage
+
+Eos Beseecher
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever Eos Beseecher encourages a creature, look at the top card of your library. If it's a creature card with power 2 or less, you may reveal it and put it into your hand. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever this creature encourages a creature, look at the top card of your library. If it's a creature card with power 2 or less, you may reveal it and put it into your hand.
+
+Bant Shardseeker
+rules_text: Lifelink
+Islandcycling {1}, forestcycling {1} [i]({1}, Discard this card: Search your library for an Island or Forest card, reveal it, and put it into your hand, then shuffle.)[/i] => Lifelink
+Forestcycling {1}, islandcycling {1} [i]({1}, Discard this card: Search your libary for a Forest or Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Amesha of the Honorable
+
+Sigil of the Many
+
+Etherium Staff
+rules_text: Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+Equipped creature gets +2/+2.
+Whenever an artifact creature you control enters, you may attach Etherium Staff to it.
+Equip {2} => Embellish {4}{W} [i](If you cast this spell for {4}{W}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+Equipped creature gets +2/+2.
+Whenever an artifact creature you control enters, you may attach this Equipment to it.
+Equip {2}
+
+Ostracizer Orb
+rules_text: When Ostracizer Orb enters, exile target nonartifact, nonland permanent until Ostracizer Orb leaves the battlefield. => When this artifact enters, exile target nonartifact, nonland permanent until this artifact leaves the battlefield.
+
+Etherium Sculptor
+
+Jhessian Cavalier
+rules_text: Vigilance
+{1}{W}: Jhessian Cavalier gains lifelink until end of turn. => Vigilance
+{1}{W}: This creature gains lifelink until end of turn.
+
+Kederekt Seawitch
+rules_text: Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Kederekt Seawitch, then scry 1. => Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature, then scry 1.
+
+Steel Wind Strix
+
+Retinue Golem
+rules_text: Embellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+Retinue Golem gets +1/+1 as long as you control another artifact. => Embellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+This creature gets +1/+1 as long as you control another artifact.
+
+Serul Cove Escort
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever Serul Cove Escort encourages a creature, that creature gains flying until end of turn. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever this creature encourages a creature, that creature gains flying until end of turn.
+
+Filigree Drake
+rules_text: Flying
+Whenever another artifact you control enters, Filigree Drake gets +1/+1 until end of turn. => Flying
+Whenever another artifact you control enters, this creature gets +1/+1 until end of turn.
+
+Steelfin Manta
+
+Mage's Warding
+
+Terraformer's Globe
+rules_text: When Terraformer's Globe enters, draw a card.
+{T}: Target land you control becomes the basic land type of your choice until end of turn. => When this artifact enters, draw a card.
+{T}: Target land you control becomes the basic land type of your choice until end of turn.
+
+Essence Erasure
+
+Disperse
+
+Hallucinate
+
+Subduing Serum
+
+Fathom the Forbidden
+
+Clairvoyant Insight
+
+Unbeholden Navigator
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever a creature deals combat damage to a player, if it was encouraged by Unbeholden Navigator this turn, draw a card. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever a creature deals combat damage to a player, if it was encouraged by this creature this turn, draw a card.
+
+Cognition Crucible
+
+Sanctum Battlemage
+
+Esper Shardseeker
+rules_text: Esper Shardseeker can't be blocked.
+Plainscycling {1}, swampcycling {1} [i]({1}, Discard this card: Search your library for a Plains or Swamp card, reveal it, and put it into your hand, then shuffle.)[/i] => This creature can't be blocked.
+Plainscycling {1}, swampcycling {1} [i]({1}, Discard this card: Search your libary for a Plains or Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Vectis Entrancer
+rules_text: Flash
+Embellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+Whenever Vectis Entrancer or another artifact you control enters, tap target creature an opponent controls. It loses all abilities until end of turn. => Flash
+Embellish {5}{U} [i](If you cast this spell for {5}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+Whenever this creature or another artifact you control enters, tap target creature an opponent controls. It loses all abilities until end of turn.
+
+Wayward Sphinx
+
+Maelstromancy
+rules_text: Whenever you cycle a card, scry 1. [i](Do this before you draw.)[/i]
+{W}{U}{B}{R}{G}, Sacrifice Maelstromancy: 
+Return up to three target cards with cycling abilities from your graveyard to your hand. => Whenever you cycle a card, scry 1. [i](Do this before you draw.)[/i]
+{W}{U}{B}{R}{G}, Sacrifice this enchantment: Return up to three target cards with cycling abilities from your graveyard to your hand.
+
+Vibrant Expulsion
+
+Disturb the Riddle Gate
+
+Dissident's Vortex
+
+Nel Toth Shaman
+rules_text: Deathtouch
+When Nel Toth Shaman enters, mill two cards. => Deathtouch
+When this creature enters, mill two cards.
+
+Hegemon's Cutthroat
+
+Hexcaster of Unx
+
+Cesspool Scrapper
+rules_text: Cesspool Scrapper can't block.
+{5}{U}, Exile Cesspool Scrapper from your graveyard: Draw two cards. => This creature can't block.
+{5}{U}, Exile this card from your graveyard: Draw two cards.
+
+Hostile Barbfly
+rules_text: Flying
+When Hostile Barbfly enters, you may have it consume. When you do, target creature gets -2/-2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => Flying
+When this creature enters, you may have it consume. When you do, target creature gets -2/-2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Thunderscorn
+
+Carnage Gorger
+rules_text: Whenever another creature you control dies, put a +1/+1 counter on Carnage Gorger. => Whenever another creature you control dies, put a +1/+1 counter on this creature.
+
+Unearth
+
+Sangrite Ooze
+
+Sculler's Oar
+rules_text: {2}{B}, {T}, Sacrifice Sculler's Oar: Return up to two target creature cards from your graveyard to your hand. => {2}{B}, {T}, Sacrifice this artifact: Return up to two target creature cards from your graveyard to your hand.
+
+Dire Predictions
+rules_text: Surveil 1. You draw a card and you lose 1 life. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i]
+Tether [i](Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)[/i] => Surveil 1. You draw a card and lose 1 life. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i]
+Tether [i](Then if you cast this from your hand, you may exile it tethered to a creature you control. When it dies, you may cast this from exile without paying its mana cost.)[/i]
+
+Perilous Sojourn
+
+Omen of Nefarox
+
+Agonizing Syphon
+
+Sedraxis Trepanator
+rules_text: {T}, Sacrifice a creature: Target player discards a card and loses 2 life. Activate only as a sorcery. => {T}, Sacrifice a creature: Target player discards a card and loses 1 life. Activate only as a sorcery.
+
+Necropolis Battlemage
+rules_text: {3}{U}: Draw a card.
+{2}{R}: Necropolis Battlemage deals 1 damage to target player. Scry 1. => {3}{U}: Draw a card.
+{2}{R}: This creature deals 1 damage to target player. Scry 1.
+
+Grixis Shardseeker
+rules_text: Deathtouch
+Islandcycling {1}, Mountaincycling {1} [i]({1}, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)[/i] => Deathtouch
+Islandcycling {1}, mountaincycling {1} [i]({1}, Discard this card: Search your libary for an Island or Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Bloated Visceroid
+rules_text: Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+{3}{B}{B}, Exile Bloated Visceroid from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery. => Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+{3}{B}{B}, Exile this card from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.
+
+Ravenous Tarwurm
+rules_text: Lifelink
+When Ravenous Tarwurm enters, you may have it consume. When you do, destroy target creature with toughness 3 or less and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => Lifelink
+When this creature enters, you may have it consume. When you do, destroy target creature with toughness 3 or less and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Scrap Spiral
+rules_text: Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+When Scrap Spiral enters, target creature gets -2/-2 until end of turn.
+{3}{B}, {T}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn. => Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+When this artifact enters, target creature gets -2/-2 until end of turn.
+{3}{B}, {T}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
+
+Exenterate
+
+Obscene Recitation
+
+Shining Revival
+
+Demonic Rite
+
+Chromeleon
+rules_text: Sacrifice Chromeleon: Add one mana of any color. Scry 1. => Sacrifice this creature: Add one mana of any color. Scry 1.
+
+Torchlight Tormentor
+rules_text: {2}{B}: Return Torchlight Tormentor from your graveyard to your hand. If you do, each opponent loses 1 life. => {2}{B}: Return this card from your graveyard to your hand. If you do, each opponent loses 1 life.
+
+Fodder Goblins
+rules_text: When Fodder Goblins enters, create a 1/1 red Goblin creature token. => When this creature enters, create a 1/1 red Goblin creature token.
+
+Sadistic Sparkmage
+rules_text: Reach
+{T}: Sadistic Sparkmage deals 1 damage to each opponent. => Reach
+{T}: This creature deals 1 damage to each opponent.
+
+Frenzied Nacatl
+rules_text: First strike
+[i]Stampede[/i] — Whenever Frenzied Nacatl and a creature with greater power attack, Frenzied Nacatl gets +2/+0 until end of turn. => First strike
+[i]Stampede[/i] — Whenever this creature and a creature with greater power attack, this creature gets +2/+0 until end of turn.
+
+Dagger-Thrash Marauders
+type: Creature — Viashino Warrior => Creature — Lizard Warrior
+rules_text: Menace
+When Dagger-Thrash Marauders enters, you may have it consume. If you do, put a +1/+1 counter on it and it gains haste until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => Menace
+When this creature enters, you may have it consume. If you do, put a +1/+1 counter on it and it gains haste until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Volcano Elemental
+rules_text: When Volcano Elemental dies, it deals 2 damage to any target. => When this creature dies, it deals 2 damage to any target.
+
+Reinbreaker Behemoth
+rules_text: Reinbreaker Behemoth attacks each combat if able. => This creature attacks each combat if able.
+
+Lava Hellions
+rules_text: Trample
+Whenever Lava Hellions attacks, you may have it consume. If you do, it deals 2 damage to defending player. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => Trample
+Whenever this creature attacks, you may have it consume. If you do, it deals 2 damage to defending player. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Cantankeroth
+
+Magma Spray
+
+Ragemist
+
+Pain's Embrace
+
+Ominous Lightning
+
+Infernal Flames
+
+Calamitous Rampage
+
+Make Way
+rules_text: Enchant creature
+When Make Way enters, draw a card.
+Enchanted creature can't block. => Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature can't block.
+
+Nacatl Skirmisher
+rules_text: {R}, Sacrifice Nacatl Skirmisher: Destroy target artifact.
+[i]Stampede[/i] — Whenever Nacatl Skirmisher and a creature with greater power attack, creatures you control get +1/+0 until end of turn. => [i]Stampede[/i] — Whenever this creature and a creature with greater power attack, creatures you control get +1/+0 until end of turn.
+{R}, Sacrifice this creature: Destroy target artifact.
+
+Savage Battlemage
+
+Viashino Glutton
+type: Creature — Viashino Warrior => Creature — Lizard Warrior
+rules_text: When Viashino Glutton enters, you may have it consume. If you do, create two 1/1 red Goblin creature tokens. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => When this creature enters, you may have it consume. If you do, create two 1/1 red Goblin creature tokens. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Vithian Arcanist
+rules_text: Vithian Arcanist gets +2/+0 and has haste as long as you've cast an instant or sorcery spell this turn.
+When Vithian Arcanist enters, add {U}{B}{R}. Spend this mana only to cast instant and/or sorcery spells. => This creature gets +2/+0 and has haste as long as you've cast an instant or sorcery spell this turn.
+When this creature enters, add {U}{B}{R}. Spend this mana only to cast instant and/or sorcery spells.
+
+Jund Shardseeker
+rules_text: Menace
+Swampcycling {1}, forestcycling {1} [i]({1}, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.)[/i] => Menace
+Swampcycling {1}, forestcycling {1} [i]({1}, Discard this card: Search your libary for a Swamp or Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Mist-Valley Minotaurs
+rules_text: {1}{R}, Discard a card: Draw a card. Mist-Valley Minotaurs gets +2/+0 until end of turn. => {1}{R}, Discard a card: Draw a card. This creature gets +2/+0 until end of turn.
+
+Scaleshredder
+type: Creature — Viashino Shaman => Creature — Lizard Shaman
+rules_text: When Scaleshredder enters, you may have it consume. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => When this creature enters, you may have it consume. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Hellkite's Decree
+
+Vigor from the Vein
+
+Bask in Fire
+
+Thallid Cultivator
+rules_text: When Thallid Cultivator dies, mill four cards. Return a creature card milled this way to your hand. => When this creature dies, mill four cards. Return a creature card milled this way to your hand.
+
+Conduit of the Conflux
+rules_text: When Conduit of the Conflux enters, scry 2.
+{T}: Add one mana of any color. => When this creature enters, scry 2.
+{T}: Add one mana of any color.
+
+Elvish Godtracker
+rules_text: {4}{G}, Sacrifice Elvish Godtracker: Create a 5/5 green Beast creature token. => {4}{G}, Sacrifice this creature: Create a 5/5 green Beast creature token.
+
+Leotau Rider
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever Leotau Rider encourages a creature, that creature gains trample until end of turn. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever this creature encourages a creature, that creature gains trample until end of turn.
+
+Flesheater Vine
+rules_text: Deathtouch
+When Flesheater Vine enters, you may have it consume. If you do, put a +1/+1 counter on it and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => Deathtouch
+When this creature enters, you may have it consume. If you do, put a +1/+1 counter on it and you gain 3 life. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Exuberant Hunter
+rules_text: [i]Stampede[/i] — Whenever Exuberant Hunter and a creature with greater power attack, draw a card. => [i]Stampede[/i] — Whenever this creature and a creature with greater power attack, draw a card.
+
+Knight of the Olive Orchard
+rules_text: Knight of the Olive Orchard can't be blocked by more than one creature. => This creature can't be blocked by more than one creature.
+
+Flarespore Mycoid
+
+Towering Silkweaver
+rules_text: Reach
+Towering Silkweaver can block an additional creature each combat. => Reach
+This creature can block an additional creature each combat.
+
+Gargantuan Crusher
+
+Titanothoctar
+
+Lichen's Grasp
+
+Sigil of Fortitude
+
+Fletcher's Precision
+
+Tranquil Repose
+
+Canopy Assault
+
+Jungle Battlemage
+
+Thoctar Yearling
+rules_text: Trample
+[i]Stampede[/i] — Whenever Thoctar Yearling and a creature with greater power attack, put a +1/+1 counter on Thoctar Yearling. => Trample
+[i]Stampede[/i] — Whenever this creature and a creature with greater power attack, put a +1/+1 counter on this creature.
+
+Naya Shardseeker
+rules_text: Vigilance
+Mountaincycling {1}, plainscycling {1} [i]({1}, Discard this card: Search your library for a Mountain or Plains card, reveal it, and put it into your hand, then shuffle.)[/i] => Vigilance
+Mountaincycling {1}, plainscycling {1} [i]({1}, Discard this card: Search your libary for a Mountain or Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Veteran Horncaptain
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever a creature deals combat damage to a player, if it was encouraged by Veteran Horncaptain this turn, exile the top three cards of your library. You may put a permanent card from among them onto the battlefield. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever a creature deals combat damage to a player, if it was encouraged by this creature this turn, exile the top three cards of your library. You may put a permanent card from among them onto the battlefield.
+
+Knotvine Preserver
+rules_text: [i]Stampede[/i] — Whenever Knotvine Preserver and a creature with greater power attack, until end of turn, attacking creatures you control gain “When this creature dies, return it to its owner's hand.” => [i]Stampede[/i] — Whenever this creature and a creature with greater power attack, until end of turn, attacking creatures you control gain “When this creature dies, return it to its owner's hand.”
+
+Regurgitator Ooze
+rules_text: At the beginning of combat on your turn, you may have Regurgitator Ooze consume. If you do, it gets +2/+2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+When Regurgitator Ooze dies, return a card exiled with it to its owner's hand. => At the beginning of combat on your turn, you may have this creature consume. If you do, it gets +2/+2 until end of turn. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+When this creature dies, return a card exiled with it to its owner's hand.
+
+Mist-Valley Ancient
+rules_text: Hexproof
+Mist-Valley Ancient enters tapped.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Hexproof
+This creature enters tapped.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Worldheart Nexus
+
+Fungal Flourishing
+
+Overpower
+rules_text: Creatures you control get +3/+3 until 
+end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Creatures you control get +3/+3 until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Sighted-Caste Knight
+rules_text: First strike
+Whenever Sighted-Caste Knight deals combat damage to a player, draw a card. => First strike
+Whenever this creature deals combat damage to a player, draw a card.
+
+Sphinx's Scrutiny
+
+Spinebreak
+
+Brutal Struggle
+
+Sacellum Visionary
+rules_text: Lifelink
+When Sacellum Visionary enters, draw a card. => Lifelink
+When this creature enters, draw a card.
+
+Celebrant of Jubilation
+rules_text: Flying
+When Celebrant of Jubilation enters, untap all creatures you control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Flying
+When this creature enters, untap all creatures you control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Ethersworn Elite
+rules_text: When Ethersworn Elite enters, you gain 2 life and create two 1/1 blue Thopter artifact creature tokens with flying.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, you gain 2 life and create two 1/1 blue Thopter artifact creature tokens with flying.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Incantation Demon
+rules_text: When Incantation Demon enters, return target instant or sorcery card from your graveyard to your hand.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Varakna Wurm
+rules_text: When Varakna Wurm enters, it deals X damage to target creature an opponent controls, where X is the total number of creature cards you own in exile and in your graveyard.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, it deals X damage to target creature an opponent controls, where X is the total number of creature cards you own in exile and in your graveyard.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Ziggurat Behemoth
+rules_text: When Ziggurat Behemoth enters, target creature gets +3/+3 until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, target creature gets +3/+3 until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Aven Strategist
+rules_text: Flying
+When Aven Strategist enters, return up to one target creature to its owner's hand. => Flying
+When this creature enters, return up to one target creature to its owner's hand.
+
+Telemin Architect
+rules_text: {T}: Tap target creature.
+{T}: Draw a card, then discard a card.
+Whenever another artifact you control enters, untap Telemin Architect. => {T}: Tap target creature.
+{T}: Draw a card, then discard a card.
+Whenever another artifact you control enters, untap this creature.
+
+Visitarium Smuggler
+
+Scatter What Remains
+
+Edarna's Augurling
+rules_text: Flying, haste
+{2}{B}{R}: Return Edarna's Augurling from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step. Activate only as a sorcery. => Flying, haste
+{2}{B}{R}: Return this card from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step. Activate only as a sorcery.
+
+Magmatic Violator
+rules_text: Haste
+When Magmatic Violator enters, target opponent sacrifices a creature.
+At the beginning of the end step, sacrifice Magmatic Violator. => Haste
+When this creature enters, target opponent sacrifices a creature.
+At the beginning of the end step, sacrifice this creature.
+
+Tremor Seer
+rules_text: Whenever another nontoken creature you control enters, that creature gains haste until end of turn. Then Tremor Seer deals 1 damage to any target. => Whenever another nontoken creature you control enters, that creature gains haste until end of turn. Then this creature deals 1 damage to any target.
+
+Scorchpass Sovereign
+rules_text: Flying
+When Scorchpass Sovereign enters, it deals 1 damage to each creature with flying you don't control. => Flying
+When this creature enters, it deals 1 damage to each creature with flying you don't control.
+
+Sun-Dappled Paragon
+rules_text: Sun-Dappled Paragon enters with a +1/+1 counter on it for each other creature you control.
+Whenever another creature you control enters, put a +1/+1 counter on Sun-Dappled Paragon. => This creature enters with a +1/+1 counter on it for each other creature you control.
+Whenever another creature you control enters, put a +1/+1 counter on this creature.
+
+Tendrilsnare
+
+Jenara's Favor
+
+Giltspire Exemplar
+rules_text: Trample
+Spells your opponents cast that target a creature you control cost {2} more to cast.
+Whenever a creature you control attacks alone, it gets +2/+2 until end of turn. => Trample
+Spells your opponents cast that target creatures you control cost {2} more to cast.
+Whenever a creature you control attacks alone, it gets +2/+2 until end of turn.
+
+Sharuum's Council
+
+Ethersworn Indoctrination
+
+Corpsemound
+
+Sedraxis Scourge
+rules_text: {T}, Sacrifice a creature: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. => {T}, Sacrifice a creature: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+
+Thrinax Sporemother
+rules_text: Whenever Thrinax Sporemother or another nontoken creature you control dies, create a 1/1 green Saproling creature token.
+Whenever a creature card is exiled from your graveyard, create a 1/1 green Saproling creature token. => Whenever this creature or another nontoken creature you control dies, create a 1/1 green Saproling creature token.
+Whenever a creature card is exiled from your graveyard, create a 1/1 green Saproling creature token.
+
+Ambush Gharial
+rules_text: Flash
+When Ambush Gharial enters, it fights up to one target creature. If that creature would die this turn, exile it instead. => Flash
+When this creature enters, it fights up to one target creature. If that creature would die this turn, exile it instead.
+
+Bellowing Thoctar
+rules_text: Creature spells you cast cost {1} less to cast.
+Whenever you cast a creature spell, Bellowing Thoctar gets +2/+2 until end of turn. => Creature spells you cast cost {1} less to cast.
+Whenever you cast a creature spell, this creature gets +2/+2 until end of turn.
+
+Behemoth Channeler
+
+Conflux Ravager
+rules_text: When Conflux Ravager enters, destroy target nonland permanent an opponent controls.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, destroy target nonland permanent an opponent controls.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Spire of Bant
+
+Spire of Esper
+
+Spire of Grixis
+
+Spire of Jund
+
+Spire of Naya
+
+Rings of New Alara
+
+Font of Nefarox
+rules_text: {T}: Each opponent loses 1 life and you gain 1 life.
+Whenever you cycle a card or cast a spell with a cycling ability, untap Font of Nefarox. => {T}: Each opponent loses 1 life and you gain 1 life.
+Whenever you cycle a card or cast a spell with a cycling ability, untap this artifact.
+
+Sigil of the Skyward Eye
+
+Macabre Effigy
+rules_text: Macabre Effigy enters with three charge counters on it.
+{3}, {T}, Remove a charge counter from Macabre Effigy: Create a 2/2 black Zombie creature token. Activate only as a sorcery. => This artifact enters with three charge counters on it.
+{3}, {T}, Remove a charge counter from this artifact: Create a 2/2 black Zombie creature token. Activate only as a sorcery.
+
+Sculpted Observatory
+rules_text: Sculpted Observatory enters tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Add one mana of any color.
+
+Gloomtide Gulf
+rules_text: Gloomtide Gulf enters tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Add one mana of any color.
+
+Erupting Territory
+rules_text: Erupting Territory enters tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Add one mana of any color.
+
+Bigroot Valley
+rules_text: Bigroot Valley enters tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Add one mana of any color.
+
+Peaceful Passage
+rules_text: Peaceful Passage enters tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Add one mana of any color.
+
+Somber Meadow
+rules_text: Somber Meadow enters tapped.
+{T}: Add {W} or {B}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {W} or {B}.
+{1}, {T}: Add one mana of any color.
+
+Twisting Fissure
+rules_text: Twisting Fissure enters tapped.
+{T}: Add {U} or {R}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {U} or {R}.
+{1}, {T}: Add one mana of any color.
+
+Caustic Mangrove
+rules_text: Caustic Mangrove enters tapped.
+{T}: Add {B} or {G}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {B} or {G}.
+{1}, {T}: Add one mana of any color.
+
+Hazy Summits
+rules_text: Hazy Summits enters tapped.
+{T}: Add {R} or {W}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {R} or {W}.
+{1}, {T}: Add one mana of any color.
+
+Lush Coast
+rules_text: Lush Coast enters tapped.
+{T}: Add {G} or {U}.
+{1}, {T}: Add one mana of any color. => This land enters tapped.
+{T}: Add {G} or {U}.
+{1}, {T}: Add one mana of any color.
+
+Terramorphic Expanse
+rules_text: {T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Seaside Citadel
+rules_text: Seaside Citadel enters tapped.
+{T}: Add {G}, {W}, or {U}. => This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+
+Arcane Sanctum
+rules_text: Arcane Sanctum enters tapped.
+{T}: Add {W}, {U}, or {B}. => This land enters tapped.
+{T}: Add {W}, {U}, or {B}.
+
+Crumbling Necropolis
+rules_text: Crumbling Necropolis enters tapped.
+{T}: Add {U}, {B}, or {R}. => This land enters tapped.
+{T}: Add {U}, {B}, or {R}.
+
+Savage Lands
+rules_text: Savage Lands enters tapped.
+{T}: Add {B}, {R}, or {G}. => This land enters tapped.
+{T}: Add {B}, {R}, or {G}.
+
+Jungle Shrine
+rules_text: Jungle Shrine enters tapped.
+{T}: Add {R}, {G}, or {W}. => This land enters tapped.
+{T}: Add {R}, {G}, or {W}.
+
+Blessed Vanquisher
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever Blessed Vanquisher encourages a creature, destroy target creature an opponent controls if it's tapped. Otherwise, tap that creature. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+Whenever this creature encourages a creature, destroy target creature an opponent controls if it's tapped. Otherwise, tap that creature.
+
+Derevi's Adjutant
+rules_text: Flying
+When Derevi's Adjutant enters, put a +1/+1 counter on each other creature you control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+When you cycle Derevi's Adjutant, exile it. You may cast it from exile for as long as it remains exiled. => Flying
+When this creature enters, put a +1/+1 counter on each other creature you control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+When you cycle this card, exile it. You may cast it from exile for as long as it remains exiled.
+
+Etherium Abrogator
+
+Refulgent Rupture
+
+Archangel of Bliss
+
+Etherium Leviathan
+
+Supreme Mechanothurge
+rules_text: Whenever Supreme Mechanothurge or another artifact you control enters, up to one target artifact you control becomes a copy of another target artifact or creature you control, except it's an artifact in addition to its other types. => Whenever this creature or another artifact you control enters, up to one target artifact you control becomes a copy of another target artifact or creature you control, except it's an artifact in addition to its other types.
+
+Filigree Lotus
+
+Fearful Flooding
+
+Sphinx Paramount
+rules_text: Flying
+If a nonland permanent an opponent controls would be returned to its owner's hand, instead gain control of it for as long as you control Sphinx Paramount. => Flying
+If a nonland permanent an opponent controls would be returned to its owner's hand, instead gain control of it for as long as you control this creature.
+
+Dregscape Chant
+
+Bloodbraid Ritualist
+rules_text: {B}, Discard a card: Bloodbraid Ritualist gains indestructible until end of turn. Tap it.
+At the beginning of your upkeep, you may have Bloodbraid Ritualist consume. If you do, draw a card. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => {B}, Discard a card: This creature gains indestructible until end of turn. Tap it.
+At the beginning of your upkeep, you may have this creature consume. If you do, draw a card. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Tidehollow Lich
+rules_text: Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+Tidehollow Lich can't block.
+You may cast Tidehollow Lich from your graveyard as long as you control an artifact creature. => Embellish {3}{B} [i](If you cast this spell for {3}{B}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)[/i]
+This creature can't block.
+You may cast this card from your graveyard as long as you control an artifact creature.
+
+Mortal Finish
+
+Profane Emissary
+rules_text: Profane Emissary gets +2/+2 and has lifelink as long as you control a Demon.
+If you would draw a card, you may instead search your library for a Demon card, reveal it, and put it into your hand, then shuffle. You lose life equal to that card's mana value. => This creature gets +2/+2 and has lifelink as long as you control a Demon.
+If you would draw a card, you may instead search your library for a Demon card, reveal it, put it into your hand, then shuffle. You lose life equal to that card's mana value.
+
+Sangrite Dragon
+rules_text: Flying
+{1}{R}: Sangrite Dragon gets +2/+0 until end of turn.
+Sacrifice another creature: Add {R}{R}. => Flying
+{1}{R}: This creature gets +2/+0 until end of turn.
+Sacrifice another creature: Add {R}{R}.
+
+Hellkite Omnivore
+rules_text: Flying
+Whenever Hellkite Omnivore attacks, you may have it consume. If you do, put a +1/+1 counter on Hellkite Omnivore. When a creature is sacrificed this way, Hellkite Omnivore deals 3 damage to any target. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i] => Flying
+Whenever this creature attacks, you may have it consume. If you do, put a +1/+1 counter on it. When a creature is sacrificed this way, this creature deals 3 damage to any target. [i](To consume, sacrifice another creature or exile a creature card from your graveyard.)[/i]
+
+Hellspark Prankster
+rules_text: Haste
+The first instant or sorcery spell you cast each turn costs {1} less to cast.
+{R}, {T}, Sacrifice Hellspark Prankster: Change the target of target spell with a single target. => Haste
+The first instant or sorcery spell you cast each turn costs {1} less to cast.
+{R}, {T}, Sacrifice this creature: Change the target of target spell with a single target.
+
+Maelstrom Slicer
+rules_text: Menace
+[i]Stampede[/i] — Whenever Maelstrom Slicer and a creature with greater power attack, exile the top three cards of your library. You may play those cards until end of turn. => Menace
+[i]Stampede[/i] — Whenever this creature and a creature with greater power attack, exile the top three cards of your library. You may play those cards until end of turn.
+
+Worldheart Avatar
+
+Magnoceros
+rules_text: Trample
+Other Beasts you control have trample.
+Whenever Magnoceros attacks, create a 5/5 green Beast creature token that's tapped and attacking. => Trample
+Other Beasts you control have trample.
+Whenever this creature attacks, create a 5/5 green Beast creature token that's tapped and attacking.
+
+War-Pride Champion
+rules_text: War-Pride Champion can't be blocked by creatures with power 2 or less.
+[i]Stampede[/i] — Whenever War-Pride Champion and a creature with greater power attack, target creature you control gets +2/+2 until end of turn. => Haste
+This creature can't be blocked by creatures with power 2 or less.
+[i]Stampede[/i] — Whenever this creature and a creature with greater power attack, target creature you control gets +2/+2 until end of turn.
+
+Hierarch Ranger
+rules_text: Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+{T}: Add {G}.
+Whenever Hierarch Ranger encourages a creature, add one mana of any color. => Encourage [i]({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)[/i]
+{T}: Add {G}.
+Whenever this creature encourages a creature, add one mana of any color.
+
+Heart of Spores
+rules_text: At the beginning of your upkeep, create a 1/1 green Saproling creature token.
+Whenever a creature you control dies, put a +1/+1 counter on Heart of Spores.
+{X}{G}: Move X +1/+1 counters from Heart of Spores onto target creature. Activate only as a sorcery. => At the beginning of your upkeep, create a 1/1 green Saproling creature token.
+Whenever a creature you control dies, put a +1/+1 counter on this enchantment.
+{X}{G}: Move X +1/+1 counters from this enchantment onto target creature. Activate only as a sorcery.
+
+Vitalhydra
+rules_text: Vitalhydra enters with twice X +1/+1 counters on it.
+Each other creature you control enters with a number of additional +1/+1 counters on it equal to the number of +1/+1 counters on Vitalhydra. => This creature enters with twice X +1/+1 counters on it.
+Each other creature you control enters with a number of additional +1/+1 counters on it equal to the number of +1/+1 counters on this creature.
+
+Aether Pull
+
+Kaalia's Abomination
+rules_text: Flying
+When Kaalia's Abomination enters or dies, it deals 2 damage to target opponent. Then that player discards two cards. => Flying
+When this creature enters or dies, it deals 2 damage to target opponent. Then that player discards two cards.
+
+Earthbreaker Behemoth
+rules_text: When Earthbreaker Behemoth enters, it deals damage equal to its power to up to one target creature you don't control. Excess damage is dealt to that creature's controller instead. => When this creature enters, it deals damage equal to its power to up to one target creature you don't control. Excess damage is dealt to that creature's controller instead.
+
+Sun-Sigil Ordainer
+
+Rafiq the Magnanimous
+
+Angel of Succor
+rules_text: Flying
+As long as it's your turn, you and Angel of Succor have hexproof.
+Untap all lands you control during each other player's untap step. => Flying
+As long as it's your turn, you and this creature have hexproof.
+Untap all lands you control during each other player's untap step.
+
+Orlesia, First of the Sen
+
+Profound Introspection
+rules_text: Surveil 3, then you gain 3 life and draw three cards. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Surveil 3. Then you gain 3 life and draw three cards. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Steel Wind Goliath
+
+Kess the Necromaster
+
+Arcanist's Reaver
+
+Grixis Command
+
+Entrail Elemental
+rules_text: Menace
+Whenever Entrail Elemental deals combat damage to a player, you may cast target card from your graveyard this turn. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i] => Menace
+Whenever this creature deals combat damage to a player, you may cast target card from your graveyard this turn. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]
+
+Meren, Bane of the Cairns
+
+Hellion Devastator
+rules_text: When Hellion Devastator enters, destroy up to one target nonland permanent with mana value 3 or less.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => When this creature enters, destroy up to one target nonland permanent with mana value 3 or less.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Tumultipede
+rules_text: At the beginning of your end step, draw a card if a creature died this turn. Then Tumultipede deals 2 damage to each opponent if two or more creatures died this turn. Then create three 1/1 green Saproling creature tokens if three or more creatures died this turn. => At the beginning of your end step, draw a card if a creature died this turn. Then this creature deals 2 damage to each opponent if two or more creatures died this turn. Then create three 1/1 green Saproling creature tokens if three or more creatures died this turn.
+
+Timus, the Cloud's Roar
+
+Summit Guardian
+
+Naya Command
+rules_text: Choose two —
+• Put three +1/+1 counters on target creature.
+• Target player searches their library for up to two basic land cards. That player reveals those cards, puts one onto the battlefield tapped and the other into their hand, then shuffles.
+• Target creature you control fights target creature you don't control.
+• Target player gains 5 life. => Choose two —
+• Put three +1/+1 counters on target creature.
+• Target player searches their library for up to two basic land cards, reveals those cards, puts one onto the battlefield tapped and the other into their hand, then shuffles.
+• Target creature you control fights target creature you don't control.
+• Target player gains 5 life.
+
+Antali Archdruid
+rules_text: You may play an additional land on each of your turns.
+Whenever Antali Archdruid attacks, if two or more lands entered the battlefield under your control this turn, Antali Archdruid deals 3 damage to any target and you gain 3 life. => You may play an additional land on each of your turns.
+Whenever this creature attacks, if two or more lands you control entered this turn, this creature deals 3 damage to any target and you gain 3 life.
+
+Maelstrom Elemental
+
+Kederekt Deepdweller
+rules_text: Whenever you cast an instant or sorcery spell, Kederekt Deepdweller gains your choice of menace, lifelink, or indestructible until end of turn.
+Whenever Kederekt Deepdweller deals combat damage to a player, you draw a card and that player discards a card. => Whenever you cast an instant or sorcery spell, this creature gains your choice of indestructible, lifelink, or menace until end of turn.
+Whenever this creature deals combat damage to a player, you draw a card and that player discards a card.
+
+Edarna the Everforge
+rules_text: You may discard a card. If you do, draw two cards.
+Return target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.
+Discard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield. => [+2]: You may discard a card. If you do, draw two cards.
+[-3]: Return target creature card from your graveyard to the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.
+[-7]: Discard your hand, then draw seven cards. You may put an Edarna planeswalker card from your hand or graveyard onto the battlefield.
+
+Ajani Resolute
+rules_text: s
+s
+s => [+1]: Distribute two +1/+1 counters among up to two target creatures. You gain 2 life.
+[-1]: Create a 2/2 green Cat Warrior creature token.
+[-3]: Exile target creature. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+[-7]: You get an emblem with “Creatures you control get +X/+X, where X is your life total.”
+
+Jenara, Virtue of Bant
+
+Sharuum, Archmagocrat
+
+Nefarox, Strifelord
+
+Tharrsus, Tyrant's Scion
+
+Godspeaker Mayael
+
+Velir the Sunderer
+rules_text:  => [+2]: Destroy up to one target monocolored permanent.
+[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that's all colors.
+[-5]: Draw three cards. You pay {0} rather than pay the mana cost for the next spell you cast this turn.
+special_text: [+2]: Destroy up to one target monocolored permanent.
+[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that's all colors
+[-5]: Draw three cards. You may pay {0} to cast your next spell this turn rather than its mana cost. => [+2]: Destroy up to one target monocolored permanent.
+[-3]: Create an 8/8 Elemental creature token with flying, first strike, vigilance, trample, and lifelink that's all colors.
+[-5]: Draw three cards. You pay {0} rather than pay the mana cost for the next spell you cast this turn.
+
+Influence of Progenitus
+
+The Riddle Gate
+
+Bleak Shoreline
+rules_text: Bleak Shoreline enters tapped unless you control an Island.
+{T}: Add {W} or {B}. => This land enters tapped unless you control an Island.
+{T}: Add {W} or {B}.
+
+Forbidding Isle
+rules_text: Forbidding Isle enters tapped unless you control a Swamp.
+{T}: Add {U} or {R}. => This land enters tapped unless you control a Swamp.
+{T}: Add {U} or {R}.
+
+Charred Marsh
+rules_text: Charred Marsh enters tapped unless you control a Mountain.
+{T}: Add {B} or {G}. => This land enters tapped unless you control a Mountain.
+{T}: Add {B} or {G}.
+
+Cloudcover Heights
+rules_text: Cloudcover Heights enters tapped unless you control a Forest.
+{T}: Add {R} or {W}. => This land enters tapped unless you control a Forest.
+{T}: Add {R} or {W}.
+
+Idyllic Oasis
+rules_text: Idyllic Oasis enters tapped unless you control a Plains.
+{T}: Add {G} or {U}. => This land enters tapped unless you control a Plains.
+{T}: Add {G} or {U}.
+
+Kaleidoscape
+
+Cloudheath Sentinel
+rules_text: Flying
+When Cloudheath Sentinel enters, return target artifact card with mana value 2 or less from your graveyard to the battlefield. => Flying
+When this creature enters, return target artifact card with mana value 2 or less from your graveyard to the battlefield.
+
+Empyrial Reverence
+
+Brackwater Scuttler
+rules_text: {1}, Sacrifice Brackwater Scuttler: Draw a card. => {1}, Sacrifice this creature: Draw a card.
+
+Cling to Undeath
+
+Qasali Quiverguard
+rules_text: Reach
+[i]Stampede[/i] — Whenever Qasali Quiverguard and a creature with greater power attack, untap all attacking creatures. => Reach
+[i]Stampede[/i] — Whenever this creature and a creature with greater power attack, untap all attacking creatures.
+
+Dregscape Wretch
+rules_text: When Dregscape Wretch dies, create a 2/2 black Zombie creature token. => When this creature dies, create a 2/2 black Zombie creature token.
+
+Bant Command
+
+Esper Command
+
+Duneglass Ascetic
+
+Jund Command
+
+Kaalia, Sky's End
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

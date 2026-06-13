@@ -1,4 +1,1212 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Athreos, Patron of Silence added.
+Soldier2 added.
+
+Athreos, Patron of Slience removed.
+Soldier 2 removed.
+
+Abandoned by the Gods
+
+Abyssal Crypt
+rules_text: Abyssal Crypt enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}, {T}: Sacrifice Abyssal Crypt: Draw a card. => This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}, {T}, Sacrifice Abyssal Crypt: Draw a card.
+
+Aegis Hero
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets Aegis Hero, put a +1/+1 counter on Aegis Hero. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+
+Agent of Deception
+rules_text: Flash
+When Agent of Deception enters, counter target creature or planeswalker spell unless its controller pays {X}, where X is your devotion to blue. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i] => Flash
+When this creature enters, counter target creature or planeswalker spell unless its controller pays {X}, where X is your devotion to blue. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+
+Akroan Siege Captain
+rules_text: Haste
+[i]Heroic[/i] — Whenever you cast a spell that targets Akroan Siege Captain, put a +1/+1 counter on each creature you control. => Haste
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on each creature you control.
+
+Akroan Truespear
+rules_text: Akroan Truespear has first strike as long as it's attacking.
+[i]Heroic[/i] — Whenever you cast a spell that targets Akroan Truespear, put a +1/+1 counter on Akroan Truespear. => This creature has first strike as long as it's attacking.
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+
+Amalgam of Havoc
+
+Anax's Endeavor
+
+Ancient Vitality
+
+Anvilwrought Colossus
+
+Anvilwrought Pegasus
+
+Archon of Sunrise
+rules_text: Flying, lifelink
+{2}{W}{W}, Exile Archon of Sunrise from your graveyard: Create a token that's a copy of it, except it's an Aura enchantment with enchant creature and “Enchanted creature gets +4/+4 and has flying and lifelink.” Activate only as a sorcery. => Flying, lifelink
+{2}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's an Aura enchantment with enchant creature and “Enchanted creature gets +4/+4 and has flying and lifelink.” Activate only as a sorcery. [i](The token has a mana cost of {4}{W}{W} and counts toward devotion.)[/i]
+
+Asphodel Gravedealer
+rules_text: When Asphodel Gravedealer dies, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature dies, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Astral Capricine
+type: Enchantment Creature — Goat => Enchantment Creature — Saga Goat
+special_text: First strike
+Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Put a +1/+1 counter on each of up to two other target creatures you control.
+[Lore III] Remove all lore counters from Astral Capricine. Create two 0/1 white Goat creature tokens. => 
+
+Astral Cerberus
+type: Enchantment Creature — Dog => Enchantment Creature — Saga Dog
+special_text: Menace
+Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Exile the top card of your library. You may play that card this turn.
+[Lore III] Remove all lore counters from 
+Astral Cerberus. It deals 3 damage to up to one target creature. => 
+
+Astral Leech
+type: Enchantment Creature — Leech => Enchantment Creature — Saga Leech
+special_text: Deathtouch
+Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] You may sacrifice another creature. If you do, draw a card.
+[Lore III] Remove all lore counters from Astral Leech. Each opponent sacrifices a creature. => 
+
+Astral Leucrocota
+type: Enchantment Creature — Beast => Enchantment Creature — Saga Beast
+special_text: Trample
+Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Creatures you control gain vigilance until end of turn.
+[Lore III] Remove all lore counters from Astral Leucrocota. You gain 4 life. => 
+
+Astral Man-o'-War
+type: Enchantment Creature — Jellyfish => Enchantment Creature — Saga Jellyfish
+special_text: Flying
+Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Draw a card, then discard a card.
+[Lore III] Remove all lore counters from Astral Man-o'-War. Return up to one target creature you don't control to its owner's hand. => 
+
+Athletic Skill
+
+Augurwing
+
+Autumnal Boscage
+rules_text: Autumnal Boscage enters tapped unless you control a basic land.
+{T}: Add {R} or {G}. => This land enters tapped unless you control a basic land.
+{T}: Add {R} or {G}.
+
+Battlewise Paragon
+rules_text: First strike
+Whenever you scry, Battlewise Paragon gets +1/+1 until end of turn for each card you looked at while scrying this way. => First strike
+Whenever you scry, this creature gets +1/+1 until end of turn for each card you looked at while scrying this way.
+
+Behold the Horizon
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+{2}{G}: Return Behold the Horizon from your graveyard to your hand. => Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+{2}{G}: Return this card from your graveyard to your hand.
+
+Beseech the War Gods
+
+Beyond Death
+
+Blessing of Autumn
+
+Blood-Cantor of Mogis
+type: Enchantment Creature — Minotaur Shaman => Enchantment Creature — Saga Minotaur
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Target creature you control gets +1/+0 until end of turn.
+[Lore III] Target creature you control gets +2/+0 until end of turn. => 
+
+Boon of Courage
+
+Brawnsurge
+rules_text: Enchant creature you control
+When Brawnsurge enters, enchanted creature deals damage equal to its power to up to one target creature an opponent controls.
+Enchanted creature gets +1/+1 and has trample. => Enchant creature you control
+When this Aura enters, enchanted creature deals damage equal to its power to up to one target creature an opponent controls.
+Enchanted creature gets +1/+1 and has trample.
+
+Cave of Pleonexia
+rules_text: {T}: Add {C}.
+{1}, {T}, Sacrifice Cave of Pleonexia: Destroy target nonbasic land. Each player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}: Add {C}.
+{T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. You and that player each create a Treasure token. Activate only as a sorcery and only if that land's controller controls four or more lands. [i](A Treasure token is an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Celestial Hieromancer
+rules_text: Your opponents skip their upkeep steps.
+At the beginning of your first upkeep step, you get an additional upkeep step after this step. => Your opponents skip their upkeep steps.
+At the beginning of your first upkeep each turn, you get an additional upkeep step after this step.
+
+Chained Minotaur
+rules_text: Defender, trample
+As long as you control a creature with power greater than its base power, Chained Minotaur can attack as though it didn't have defender. => Defender, trample
+As long as you control a creature with power greater than its base power, this creature can attack as though it didn't have defender.
+
+Champion of Keranos
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets Champion of Keranos, Champion of Keranos deals 2 damage to each opponent. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, this creature deals 2 damage to each opponent.
+
+Chieftain of Slaughter
+
+Cinderhoof Minotaur
+rules_text: Trample
+Whenever a player casts a spell, Cinderhoof Minotaur deals 1 damage to that player.
+Whenever Cinderhoof Minotaur attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end. => Trample
+Whenever a player casts a spell, this creature deals 1 damage to that player.
+Whenever this creature attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+pt: 3/2 => 2/2
+
+Climactic Conflict
+
+Conscript Reinforcements
+
+Contender's Zeal
+
+Cosmic Catastrophe
+
+Cryptic Reef
+rules_text: Cryptic Reef enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}, {T}, Sacrifice Cryptic Reef: Draw a card. => This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}, {T}, Sacrifice Cryptic Reef: Draw a card.
+
+Curio Siren
+rules_text: Flying
+Whenever one or more counters are put on a creature you control, Curio Siren gets +1/+0 until end of turn. => Flying
+Whenever one or more counters are put on a creature you control, this creature gets +1/+0 until end of turn.
+
+Dawnbringer Vanguard
+rules_text: Flying
+[i]Heroic[/i] — Whenever you cast a spell that targets Dawnbringer Vanguard, tap target creature an opponent controls. => Flying
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, tap target creature an opponent controls.
+
+Daystrider Pegasus
+rules_text: Flying, lifelink
+When Daystrider Pegasus enters, exile another target non-Pegasus permanent you control, then return it to the battlefield under its owner's control. => Flying, lifelink
+When this creature enters, exile another target non-Pegasus permanent you control, then return it to the battlefield under its owner's control.
+
+Dekatian Philosopher
+
+Deluge Giant
+
+Descend into Dream
+
+Destined Confrontation
+
+Devourer of Dread
+rules_text: Flying, haste
+{2}{B}: Devourer of Dread gets +1/+1 until end of turn. If there are three or more creature cards in your graveyard, put a +1/+1 counter on Devourer of Dread instead. => Flying, haste
+{2}{B}: This creature gets +1/+1 until end of turn. If there are three or more creature cards in your graveyard, put a +1/+1 counter on this creature instead.
+
+Dire Harpies of Odunos
+rules_text: Flying
+Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+Whenever Dire Harpies of Odunos or another creature with flying you control enters, each opponent loses 1 life and you gain 1 life. => Flying
+Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+Whenever this creature or another creature with flying you control enters, each opponent loses 1 life and you gain 1 life.
+
+Disciple of Passage
+type: Enchantment Creature — Centaur Cleric => Enchantment Creature — Saga Centaur
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Until your next turn, up to one target creature can't attack or block and its activated abilities can't be activated.
+[Lore III] Target opponent skips their next combat phase. => 
+
+Draconic Symphony
+rules_text: At the beginning of your precombat main phase, add {R}.
+Whenever a colossal ability puts one or more counters on a creature you control, Draconic Symphony deals 2 damage to any target. => At the beginning of your first main phase, add {R}.
+Whenever a colossal ability puts one or more counters on a creature you control, this enchantment deals 2 damage to any target.
+
+Echoshaping
+
+Eidolon of the Arena
+rules_text: Your opponents can't gain life.
+Whenever you cast a noncreature spell, put a +1/+1 counter on Eidolon of the Arena. => Your opponents can't gain life.
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+
+Emberhound
+rules_text: Colossal 2—{3}{R} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {3}{R} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+When Emberhound's colossal ability puts one or more counters on it, target creature can't block this turn. => Colossal 2—{3}{R} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {3}{R} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+When this creature's colossal ability puts one or more counters on it, target creature can't block this turn.
+
+Endless Hydra
+
+Enigmazoa
+type: Enchantment Creature — Jellyfish Beast => Enchantment Creature — Saga Jellyfish
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Scry 1.
+[Lore III] Target creature you control can't be blocked until end of turn. => 
+
+Enopraxia, Cure-Witch
+pt: 3/3 => 4/4
+
+Enopraxia's Endeavor
+
+Envoy of Karametra
+rules_text: Vigilance
+When Envoy of Karametra enters, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it. => Vigilance
+When this creature enters, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.
+
+Ephara, Patron of Enlightenment
+
+Ephara's Watcher
+rules_text: Flying
+When Ephara's Watcher enters, scry 2. => Flying
+When this creature enters, scry 2.
+
+Equinautilus
+type: Enchantment Creature — Horse Nautilus => Enchantment Creature — Saga Horse Nautilus
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Until your next turn, target creature an opponent controls gets -1/-0.
+[Lore III] Scry 2, then draw a card. => 
+
+Erebos, the Imminent End
+
+Erebos's Benefaction
+rules_text: Enchant creature you control
+When Erebos's Benefaction enters, scry 2.
+Enchanted creature gets +2/+2 and has menace. => Enchant creature you control
+When this Aura enters, scry 2.
+Enchanted creature gets +2/+2 and has menace.
+
+Erebos's Whipslang
+rules_text: Whenever Erebos's Whipslang or another enchantment you control enters, each opponent loses 1 life and you gain 1 life. => Whenever this creature or another enchantment you control enters, each opponent loses 1 life and you gain 1 life.
+
+Errant Cyclops
+
+Extract the Truth
+
+Fallspeaker Satyr
+rules_text: When Fallspeaker Satyr enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Fatefire
+
+Felhide Marauder
+rules_text: When Felhide Marauder enters, if you control a creature with power greater than its base power, Felhide Marauder gains haste until end of turn. => When this creature enters, if you control a creature with power greater than its base power, this creature gains indestructible and haste until end of turn.
+
+Felhide Sacrament
+
+Feral Persuader
+
+Festive Euphoria
+rules_text: Enchant creature you control
+When Festive Euphoria enters, you gain life and draw cards equal to enchanted creature's power.
+Enchanted creature can't be blocked by creatures with power 2 or less. => Enchant creature you control
+When this Aura enters, you gain life and draw cards equal to enchanted creature's power.
+Enchanted creature can't be blocked by creatures with power 2 or less.
+
+Fiendish Psychopomp
+rules_text: Flash
+Flying
+{2}{B}, Exile three cards from your graveyard: Create a tapped 2/2 black Zombie creature token. => Flying
+{2}{B}, Exile three cards from your graveyard: Create a tapped 2/2 black Zombie creature token.
+pt: 3/3 => 3/5
+
+Flamespeaker's Craft
+rules_text: Enchant creature you control
+When Flamespeaker's Craft enters, it deals 2 damage to any target.
+Enchanted creature has “{T}, Discard a card: Draw a card.” => Enchant creature you control
+When this Aura enters, it deals 2 damage to any target.
+Enchanted creature has “{T}, Discard a card: Draw a card.”
+
+Floodspeaker Triton
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Floodspeaker Triton, put a +1/+1 counter on Floodspeaker Triton, then scry 1. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature, then scry 1.
+
+Forbid from the Sky
+
+Forge Adept
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Forge Adept, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{6}{R}: Create a 3/3 colorless Golem enchantment artifact creature token. If mana from an artifact was spent to activate this ability, that token gains haste. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{5}{R}: Create a 3/3 colorless Golem enchantment artifact creature token. If mana from an artifact was spent to activate this ability, that token gains haste.
+
+Fortress Arena
+rules_text: Fortress Arena enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}, Sacrifice Fortress Arena: Draw a card. => This land enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}, Sacrifice Fortress Arena: Draw a card.
+
+Gilded Ram
+rules_text: Trample
+{3}, Discard Gilded Ram: Create two Treasure tokens. Draw a card. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+{3}, Discard this card: Draw a card, gain 2 life, and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Glimpse the Gorgon
+
+Goldengrain Alseid
+rules_text: When Goldengrain Alseid enters, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. => When this creature enters, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+
+Grandeur of Nyx
+type: Legendary Enchantment => Enchantment
+rules_text: Once during each of your turns, you may cast an enchantment spell you own from outside the game. [i](You still pay its costs.)[/i]
+Each creature you control that's enchanted or is an enchantment gets +1/+1. => Each creature you control that's enchanted or is an enchantment gets +1/+1.
+{2}{W}{W}: You may reveal an enchantment card you own from outside the game and put it into your hand.
+
+Greedstoker Demon
+rules_text: Flying, trample
+When Greedstoker Demon enters, you lose X life and create X Treasure tokens, where X is your devotion to black. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+You can't sacrifice more than one Treasure each turn. => Flying, trample
+When this creature enters, you lose X life and create X Treasure tokens, where X is your devotion to black. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+You can't sacrifice more than one Treasure each turn.
+
+Grim Procession
+rules_text: When Grim Procession enters, create two 2/2 black Zombie creature tokens.
+{2}{B}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this enchantment enters, create two 2/2 black Zombie creature tokens.
+{2}{B}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Guidance of Iroas
+
+Guidance of Karametra
+
+Guidance of Keranos
+
+Guidance of Pharika
+
+Guidance of Phenax
+
+Halcyon Hoplite
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Halcyon Hoplite, Halcyon Hoplite gains flying until end of turn.
+When Halcyon Hoplite dies, if it was enchanted, create a 1/1 white Bird creature token with flying. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, this creature gains flying until end of turn.
+When this creature dies, if it was enchanted, create a 1/1 white Bird creature token with flying.
+
+Hand of Phenax
+rules_text: Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets Hand of Phenax, you draw a card and you lose 1 life. Hand of Phenax gains menace until end of turn. => Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, you draw a card and lose 1 life. This creature gains menace until end of turn.
+
+Hekaton Dismantler
+rules_text: Colossal 5—{8}{W}{W} [i](You may cast this for its colossal cost to have it enter with five +1/+1 counters; or pay {8}{W}{W} as a sorcery: Put five +1/+1 counters on it if it has none.)[/i]
+Ward {5}
+When Hekaton Dismantler's colossal ability puts one or more counters on it, tap each creature you don't control. Those creatures don't untap during their controller's next 100 untap steps. => Colossal 5—{8}{W}{W} [i](You may cast this for its colossal cost to have it enter with five +1/+1 counters; or pay {8}{W}{W} as a sorcery: Put five +1/+1 counters on it if it has none.)[/i]
+Ward {5}
+When this creature's colossal ability puts one or more counters on it, tap each creature you don't control. Those creatures don't untap during their controller's next 100 untap steps.
+
+Heliod, the Ceaseless Dawn
+cost: {2}{W} => {3}{W}
+rules_text: Indestructible
+As long as your devotion to white is less than five, Heliod isn't a creature.
+If an effect would create one or more tokens under your control, it creates that many plus an additional one of those tokens instead. 
+{3}{W}: Put a +1/+1 counter on each other creature you control. Activate only as a sorcery. => Indestructible
+As long as your devotion to white is less than five, Heliod isn't a creature.
+If an effect would create one or more kinds of tokens under your control, it creates an additional token of each kind. 
+{3}{W}: Put a +1/+1 counter on each other creature you control. Activate only as a sorcery.
+pt: 4/6 => 4/7
+
+Heliod's Benefaction
+rules_text: Enchant creature you control
+When Heliod's Benefaction enters, scry 2.
+Enchanted creature gets +1/+1 and has lifelink. => Enchant creature you control
+When this Aura enters, scry 2.
+Enchanted creature gets +1/+1 and has lifelink.
+
+Heliod's Stag
+
+Hellebore Gargantua
+
+Heroes' Adversary
+rules_text: Colossal 2—{6}{W}{W} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {6}{W}{W} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+When Heroes' Adversary's colossal ability puts one or more counters on it, exile target creature an opponent controls until Heroes' Adversary leaves the battlefield. => Colossal 2—{5}{W}{W} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {5}{W}{W} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+When this creature's colossal ability puts one or more counters on it, exile target creature an opponent controls until this creature leaves the battlefield.
+
+Hero's Statue
+rules_text: {T}: Add one mana of any color.
+{7}, {T}, Sacrifice Hero's Statue: Draw three cards. => {T}: Add one mana of any color.
+{7}, {T}, Sacrifice this artifact: Draw three cards.
+
+Gigascorpion
+type: Enchantment Creature — Scorpion => Enchantment Creature — Saga Scorpion
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Put a +1/+1 counter on up to one other target creature you control.
+[Lore III] Target creature must be blocked this turn if able. => 
+
+Horn of Seasons
+rules_text: When Horn of Seasons enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Equipped creature gets +3/+0.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this artifact enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Equipped creature gets +3/+0.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Ilysian Bounty
+
+Impaling Sunbeam
+
+Influence of Kruphix
+rules_text: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{8}{G}, Exile Influence of Kruphix from your graveyard: Return up to two target cards from your graveyard to your hand. => Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{7}{G}, Exile this card from your graveyard: Return up to two target cards from your graveyard to your hand.
+
+Intense Revelation
+rules_text: Return up to two target instant and/or sorcery cards from your graveyard to your hand. Exile Intense Revelation. => Return up to two target instant and/or sorcery cards from your graveyard to your hand.
+Exile Intense Revelation.
+
+Iroas, Patron of Triumph
+
+Iroas's Charioteer
+
+Jagged Cairn
+rules_text: Jagged Cairn enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}, {T}, Sacrifice Jagged Cairn: Draw a card. => This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}, {T}, Sacrifice Jagged Cairn: Draw a card.
+
+Journey's End
+
+Karametra, Patron of Plenty
+rules_text: Indestructible
+As long as your devotion to green and white is less than seven, Karametra isn't a creature.
+You may play an additional land on each of your turns.
+While you're searching your library, you may reveal a basic land card from your library and put it into your hand. => Indestructible
+As long as your devotion to green and white is less than seven, Karametra isn't a creature.
+You may play an additional land on each of your turns.
+As you begin searching your library, you may reveal a basic land card from your library and put it into your hand.
+
+Karametra's Touch
+rules_text: Enchant creature
+When Karametra's Touch enters, you gain 2 life.
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return Karametra's Touch to its owner's hand. => Enchant creature
+When this Aura enters, you gain 2 life.
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return this card to its owner's hand.
+
+Kardox, Hero of Skophos
+
+Keepsake of Binding
+rules_text: When Keepsake of Binding enters, exile target creature an opponent controls until Keepsake of Binding leaves the battlefield.
+{4}, {T}: Tap target creature with power less than the exiled card's power. => When this artifact enters, exile target creature an opponent controls until this artifact leaves the battlefield.
+{4}, {T}: Tap target creature with power less than the exiled card's power.
+
+Keranos, Patron of Epiphany
+cost: {1}{U}{R} => {4}{U}{R}
+rules_text: Indestructible
+As long as your devotion to blue and red is less than seven, Keranos isn't a creature.
+Whenever you cast an instant or sorcery spell that isn't a copy, you may exile an instant or sorcery card from your graveyard with equal or lesser mana value. If you do, copy the exiled card. You may cast the copy without paying its mana cost. => Indestructible
+As long as your devotion to blue and red is less than seven, Keranos isn't a creature.
+Whenever you cast an instant or sorcery spell, you may copy that spell. Do this only once each turn. You may choose new targets for the copy.
+pt: 5/4 => 7/5
+
+Keranos's Ideosphinx
+
+Klothys, Patron of Fate
+
+Klothys's Lookout
+rules_text: Reach
+When Klothys's Lookout enters, choose one —
+• You gain 3 life.
+• Exile target card from a graveyard.
+• Return target land card from your graveyard to your hand. => Reach
+When this creature enters, choose one —
+• You gain 3 life.
+• Exile target card from a graveyard.
+• Return target land card from your graveyard to your hand.
+
+Kragma Eviscerator
+rules_text: Lifelink
+When Kragma Eviscerator enters, it deals 2 damage to target creature or planeswalker you don't control. Then destroy that creature or planeswalker if you control a creature with power greater than its base power. => Lifelink
+When this creature enters, it deals 2 damage to target creature or planeswalker you don't control. Then destroy that creature or planeswalker if you control a creature with power greater than its base power.
+
+Kruphix, Patron of Mystery
+
+Kydele, World Oracle
+
+Lagonna-Band Mentor
+rules_text: Vigilance
+When Lagonna-Band Mentor enters, create a 1/1 white Soldier creature token. => Vigilance
+When this creature enters, create a 1/1 white Soldier creature token.
+
+Lampad of Anathemas
+rules_text: Whenever Lampad of Anathemas or another enchantment you control enters, target creature an opponent controls gets -1/-1 until end of turn. => Whenever this creature or another enchantment you control enters, target creature an opponent controls gets -1/-1 until end of turn.
+
+Leina Tower Sentry
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Leina Tower Sentry, put a +1/+1 counter on Leina Tower Sentry and you gain 1 life. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature and you gain 1 life.
+
+Lenkastra, Omniprophet
+
+Leonin Insurgent
+rules_text: {3}{W}{W}, Exile Leonin Insurgent from your graveyard: Create two 2/2 white Cat Soldier creature tokens. Activate only as a sorcery. => {3}{W}{W}, Exile this card from your graveyard: Create two 2/2 white Cat Soldier creature tokens. Activate only as a sorcery.
+
+Lightning Strike
+
+Makodonis, Prime Exemplar
+rules_text:  => [+1]: Scry 2. Whenever one or more creatures you control deal combat damage to a player this turn, draw a card.
+[-2]: Create a token that's a copy of target creature you control, except the token is 4/4 and has vigilance.
+[-7]: You get an emblem with “At the beginning of your draw step, draw two additional cards” and “Creatures you control get +1/+1 for each card you've drawn this turn.”
+
+Mantle of the Returned
+rules_text: Enchant creature
+When Mantle of the Returned enters, return target creature card from your graveyard to the battlefield. It's a Zombie in addition to its other types.
+Enchanted creature gets +1/+1 for each Zombie you control. => Enchant creature you control
+When this Aura enters, return target creature card from your graveyard to the battlefield. It's a Zombie in addition to its other types.
+Enchanted creature gets +1/+1 for each Zombie you control.
+
+Maul
+
+Megalokraken
+rules_text: Colossal 4—{5}{U}{U}{U} [i](You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)[/i]
+Whenever Megalokraken enters or attacks, reveal the top X cards of your library, where X is Megalokraken's power. You may cast a noncreature spell from among them without paying its mana cost. Put the rest on the bottom of your library in a random order. => Colossal 4—{5}{U}{U}{U} [i](You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)[/i]
+Whenever this creature enters after being cast or attacks, reveal the top X cards of your library, where X is its power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+
+Meletian Trireme
+rules_text: Meletian Trireme can't be blocked by creatures with power 2 or less.
+Whenever Meletian Trireme enters or deals combat damage to a player or planeswalker, scry 1, then draw a card.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => This Vehicle can't be blocked by creatures with power 2 or less.
+Whenever this Vehicle enters or deals combat damage to a player or planeswalker, scry 1, then draw a card.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Meletis Oracle
+rules_text: When Meletis Oracle enters, scry 1, then draw a card. => When this creature enters, scry 1, then draw a card.
+
+Meletis Stratomancer
+rules_text: Flash
+Flying
+When Meletis Stratomancer enters, target creature an opponent controls gets -2/-0 until end of turn. => Flash
+Flying
+When this creature enters, target creature an opponent controls gets -2/-0 until end of turn.
+
+Memento Gorgon
+rules_text: When Memento Gorgon enters, mill X cards, where X is your devotion to black. Then return a card milled this way to your hand. You lose 1 life. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i] => When this creature enters, mill X cards, where X is your devotion to black. Then return a card milled this way to your hand. You lose 1 life. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+
+Mesmerize
+
+Military Authority
+rules_text: Enchant creature you control
+When Military Authority enters, create two 1/1 white Soldier creature tokens.
+Enchanted creature gets +2/+2. => Enchant creature you control
+When this Aura enters, create two 1/1 white Soldier creature tokens.
+Enchanted creature gets +2/+2.
+
+Minotaur Rampager
+rules_text: Colossal 3—{6}{R} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {6}{R} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i] => Colossal 3—{5}{R} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {5}{R} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+
+Minotaur Skullsmasher
+rules_text: Menace
+When Minotaur Skullsmasher enters, choose a nonland card type. Then target opponent reveals their hand. You choose a card of the chosen type from it. That player discards that card. => Menace
+When this creature enters, choose a nonland card type. Then target opponent reveals their hand. You choose a card of the chosen type from it. That player discards that card.
+
+Mira and Kalisti of Akros
+
+Mire Triton
+rules_text: Deathtouch
+When Mire Triton enters, mill two cards and you gain 2 life. => Deathtouch
+When this creature enters, mill two cards and you gain 2 life.
+
+Misquantify
+
+Mogis, Patron of Malice
+rules_text: Indestructible
+As long as your devotion to black and red is less than seven, Mogis isn't a creature.
+At the beginning of your upkeep, each player discards a card. Then you draw a card. If an opponent can't discard a card or discarded a land card this way, you create a 2/3 red Minotaur creature token. => Indestructible
+As long as your devotion to black and red is less than seven, Mogis isn't a creature.
+At the beginning of your upkeep, each player discards a card. Then you draw a card. If an opponent can't discard a card or discarded a land card, you create a 2/3 red Minotaur creature token.
+
+Molten Mire
+rules_text: Molten Mire enters tapped unless you control a basic land.
+{T}: Add {B} or {R}. => This land enters tapped unless you control a basic land.
+{T}: Add {B} or {R}.
+
+Moment of Triumph
+
+Monstriform
+
+Morningheart Griffin
+rules_text: Flying
+When Morningheart Griffin dies, return target enchantment card from your graveyard to your hand. => Flying
+When this creature dies, return target enchantment card from your graveyard to your hand.
+
+Moss Viper
+
+Drown in Sorrow
+
+Necrodromos
+rules_text: Deathtouch
+When Necrodromos enters, put a +1/+1 counter on target creature. => Deathtouch
+When this creature enters, put a +1/+1 counter on target creature.
+
+Nemesis Eidolon
+rules_text: {1}{B}, Sacrifice another creature: Put a +1/+1 counter on Nemesis Eidolon. Draw a card. Activate only as a sorcery. => {1}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature. Draw a card. Activate only as a sorcery.
+
+Nessian Recluse
+
+Nestraider
+type: Enchantment Creature — Horror => Enchantment Creature — Saga Horror
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Each player loses 1 life.
+[Lore III] Create a 1/1 black Harpy creature token with flying. => 
+
+Nightpiercer Unicorn
+type: Enchantment Creature — Unicorn => Enchantment Creature — Saga Unicorn
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] You gain 1 life.
+[Lore III] Target creature you control gains first strike until end of turn. => 
+
+Nykthos Enchantress
+rules_text: Whenever an enchantment you control enters, draw a card. This ability triggers only once each turn.
+As long as you control three or more enchantments, Nykthos Enchantress gets +2/+2 and has vigilance. => Whenever an enchantment you control enters, draw a card. This ability triggers only once each turn.
+As long as you control three or more enchantments, this creature gets +2/+2 and has vigilance.
+pt: 1/1 => 2/2
+
+Nylea, the Wild Chase
+
+Nylea's Benefaction
+rules_text: Enchant creature you control
+When Nylea's Benefaction enters, scry 2.
+Enchanted creature gets +3/+3 and has reach. => Enchant creature you control
+When this Aura enters, scry 2.
+Enchanted creature gets +3/+3 and has reach.
+
+Nylea's Tracker
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Target creature you control can't be blocked by creatures with power 2 or less this turn.
+[Lore III] Draw a card. => 
+
+Nyx-Eater Basilisk
+rules_text: Deathtouch
+When Nyx-Eater Basilisk enters, exile up to one target enchantment.
+{2}{G}, Discard Nyx-Eater Basilisk: Exile target enchantment. => Deathtouch
+When this creature enters, exile up to one target enchantment.
+{2}{G}, Discard this card: Exile target enchantment.
+
+Nyxborn Cockatrice
+
+Nyxborn Octopus
+type: Enchantment Creature — Octopus => Enchantment Creature — Saga Octopus
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Tap target creature you don't control.
+[Lore III] Tap target creature you don't control. It doesn't untap during its controller's next untap step. => 
+
+Nyxfall
+
+Olantin Pearlreader
+rules_text: Other Merfolk you control get +1/+1.
+When Olantin Pearlreader enters, scry 2. Then draw a card if you control another Merfolk. => Other Merfolk you control get +1/+1.
+When this creature enters, scry 2. Then draw a card if you control two or more other Merfolk.
+
+Omendiver
+rules_text: Colossal 3—{5}{U} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {5}{U} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+When Omendiver's colossal ability puts one or more counters on it, scry 3. => Colossal 3—{5}{U} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {5}{U} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+When this creature's colossal ability puts one or more counters on it, scry 3.
+
+Ominous Quag
+rules_text: Ominous Quag enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}, {T}, Sacrifice Ominous Quag: Draw a card. => This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}, {T}, Sacrifice Ominous Quag: Draw a card.
+
+Oread of Rising Chaos
+type: Enchantment Creature — Nymph => Enchantment Creature — Saga Nymph
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] You may discard a card. If you do, draw a card.
+[Lore III] Create a token that's a copy of another target creature you control, except it has haste. Sacrifice it at the beginning of the next end step. => 
+
+Oreskos Warden
+rules_text: Oreskos Warden has lifelink as long as you control an enchantment. => This creature has lifelink as long as you control an enchantment.
+
+Pantheon Breaker
+rules_text: When Pantheon Breaker enters, each opponent sacrifices an enchantment. => When this creature enters, each opponent sacrifices an enchantment.
+
+Paradise Chimera
+
+Pay Up
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. If you can't, they discard a card. Otherwise, that player discards a card, then if they didn't discard the chosen card, you create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Target opponent reveals their hand. You choose a nonland card from it. If you can't, they discard a card. Otherwise, that player discards a card, then if they didn't discard the chosen card, you create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Perceive Eons
+rules_text: Enchant creature
+Enchanted creature has “{T}: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.”
+{6}{U}{U}, Exile Perceive Eons from the battlefield or your graveyard: Shuffle your graveyard into your library. Take an extra turn after this one. Activate only as a sorcery. => Enchant creature you control
+Enchanted creature has “{T}: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.”
+{6}{U}{U}, Exile this card from the battlefield or your graveyard: Shuffle your graveyard into your library. Take an extra turn after this one. Activate only as a sorcery.
+
+Perplexing Visions
+rules_text: Tap up to three target creatures. Those creatures don't untap during their controllers' next untap step. Scry 3. => Tap up to three target creatures. Those creatures don't untap during their controller's next untap step. Scry 3.
+
+Phalanx Beetle
+
+Pharika, Patron of Malady
+
+Pharika's Herbalist
+
+Phenax, Patron of Deceit
+
+Pheres-Band Courser
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Pheres-Band Courser, put a +1/+1 counter on Pheres-Band Courser. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+
+Philosophical Conundrum
+rules_text: Enchant creature
+When Philosophical Conundrum enters, scry 1.
+Enchanted creature can't attack or block. => Enchant creature
+When this Aura enters, scry 1.
+Enchanted creature can't attack or block.
+
+Phoberos Fearmonger
+
+Phoberos Ragehorn
+rules_text: Trample
+Phoberos Ragehorn has haste as long as you control another Minotaur.
+Whenever Phoberos Ragehorn attacks, each player discards a card. => Trample
+This creature has haste as long as you control another Minotaur.
+Whenever this creature attacks, each player discards a card.
+pt: 6/6 => 5/5
+
+Phoenix of Agonas
+rules_text: Flying, haste
+Whenever Phoenix of Agonas attacks, you may discard a card. If you do, draw a card.
+{4}{R}: Return Phoenix of Agonas from your graveyard to your hand. This ability costs {X} less to activate, where X is your devotion to red. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i] => Flying, haste
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+{4}{R}: Return this card from your graveyard to your hand. This ability costs {X} less to activate, where X is your devotion to red. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+
+Polis's Demise
+
+Priest of Nylea
+
+Primordial Artisan
+rules_text: Reach
+Whenever Primordial Artisan enters or attacks, look at the top card of your library. If it's a permanent card with mana value less than or equal to your devotion to green, you may put it onto the battlefield. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i] => Reach
+Whenever this creature enters or attacks, look at the top card of your library. If it's a permanent card with mana value less than or equal to your devotion to green, you may put it onto the battlefield. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]
+
+Pristine Delta
+rules_text: Pristine Delta enters tapped.
+{T}: Add {W} or {U}.
+{2}{W}{U}, {T}, Sacrifice Pristine Delta: Draw a card. => This land enters tapped.
+{T}: Add {W} or {U}.
+{2}{W}{U}, {T}, Sacrifice Pristine Delta: Draw a card.
+
+Progenitor of Mysteries
+
+Prognosticate
+
+Prophet's Paranoia
+rules_text: Enchant creature
+When Prophet's Paranoia enters, tap enchanted creature, then scry 2.
+Enchanted creature loses all abilities and doesn't untap during its controller's untap step. => Enchant creature
+When this Aura enters, tap enchanted creature, then scry 2.
+Enchanted creature loses all abilities and doesn't untap during its controller's untap step.
+
+Protean Jar
+cost: {1} => {2}
+rules_text: As Protean Jar enters, choose a creature type.
+Each creature you control of the chosen type enters with an additional +1/+1 counter on them.
+{2}: If Protean Jar isn't a creature, it becomes a copy of target creature you control of the chosen type, except it has Protean Jar's other abilities. Activate only as a sorcery. => As this artifact enters, choose a creature type.
+Each creature you control of the chosen type enters with an additional +1/+1 counter on it.
+{2}: If this artifact isn't a creature, it becomes a copy of target creature you control of the chosen type, except it has this artifact's other abilities. Activate only as a sorcery.
+
+Purehorn Rescuer
+type: Creature — Unicorn => Creature — Chimera
+rules_text: Flash
+When Purehorn Rescuer enters, return target permanent card with mana value X or less from your graveyard to the battlefield, where X is your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Flying
+When this creature enters, return target permanent card with mana value X or less from your graveyard to the battlefield, where X is your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+pt: 3/3 => 4/3
+
+Purphoros, the Fervid Flame
+
+Purphoros's Benefaction
+rules_text: Enchant creature you control
+When Purphoros's Benefaction enters, scry 2.
+Enchanted creature gets +1/+1 and has haste. => Enchant creature you control
+When this Aura enters, scry 2.
+Enchanted creature gets +1/+1 and has haste.
+
+Purphoros's Gemback
+type: Enchantment Creature — Ox => Enchantment Creature — Saga Ox
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Purphoros's Gemback deals 1 damage to target player or planeswalker.
+[Lore III] Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => 
+
+Pyromanticore
+rules_text: Flying
+When Pyromanticore enters, it deals X damage to target creature or planeswalker an opponent controls, where X is your devotion to red. Excess damage is dealt to that permanent's controller instead. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i] => Flying
+When this creature enters, it deals X damage to target creature or planeswalker an opponent controls, where X is your devotion to red. Excess damage is dealt to that permanent's controller instead. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+
+Reckless Impulse
+
+Returned Minotaur
+rules_text: As long as there are three or more creature cards in your graveyard, Returned Minotaur gets +1/+1 and has menace. => As long as there are three or more creature cards in your graveyard, this creature gets +1/+1 and has menace.
+
+Rise of Heroes
+rules_text: Enchant creature you control
+When Rise of Heroes enters or enchanted creature dies, search your library for a creature or planeswalker card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+Enchanted creature gets +1/+1 for each creature and/or planeswalker you control. => Enchant creature you control
+When this Aura enters or enchanted creature dies, search your library for a creature or planeswalker card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+Enchanted creature gets +1/+1 for each creature and/or planeswalker you control.
+
+Rite of Afflictions
+
+Rush to Revelry
+
+Sacred Lynx
+rules_text: Trample
+Each opponent can cast spells only any time they could cast a sorcery.
+Auras you control attached to other creatures you control affect Sacred Lynx as though those Auras were attached to Sacred Lynx. => Trample
+Each opponent can cast spells only any time they could cast a sorcery.
+Auras you control attached to other permanents you control also enchant this creature if able.
+
+Sage of Dilemmas
+rules_text: Flying
+When Sage of Dilemmas enters, return up to one target enchantment to its owner's hand. => Flying
+When this creature enters, return up to one target enchantment to its owner's hand.
+
+Satyr Instigator
+type: Enchantment Creature — Satyr Shaman => Enchantment Creature — Saga Satyr
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Create a 1/1 red Satyr creature token with “This creature can't block.”
+[Lore III] Creatures you control get +1/+0 until end of turn. => 
+
+Satyr Trailblazer
+rules_text: At the beginning of combat on your turn, if you control a creature with power greater than its base power, Satyr Trailblazer gets +2/+0 until end of turn. => At the beginning of combat on your turn, if you control a creature with power greater than its base power, this creature gets +2/+0 until end of turn.
+
+Scrying Pool
+rules_text: When Scrying Pool enters, scry 2.
+{1}, {T}: Add one mana of any color. => When this artifact enters, scry 2.
+{1}, {T}: Add one mana of any color.
+
+Serene Harmony
+
+Serpentine Woods
+rules_text: Serpentine Woods enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}, {T}, Sacrifice Serpentine Woods: Draw a card. => This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}, {T}, Sacrifice Serpentine Woods: Draw a card.
+
+Servant of Athreos
+type: Enchantment Creature — Skeleton => Enchantment Creature — Saga Skeleton
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Mill two cards.
+[Lore III] Return target creature card from your graveyard to your hand. => 
+
+Setessan Armaments
+
+Setessan Avenger
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Setessan Avenger, create a 1/1 green Nymph Dryad enchantment creature token with “{T}: Add {G}.”
+Whenever Setessan Avenger deals combat damage to a player, untap all lands and Dryads you control. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, create a 1/1 green Nymph Dryad enchantment creature token with “{T}: Add {G}.”
+Whenever this creature deals combat damage to a player, untap all lands and Dryads you control.
+
+Sheltered Haven
+rules_text: Sheltered Haven enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}, {T}, Sacrifice Sheltered Haven: Draw a card. => This land enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}, {T}, Sacrifice Sheltered Haven: Draw a card.
+
+Shimmershell
+rules_text: Whenever you scry, put a +1/+1 counter on Shimmershell. => Whenever you scry, put a +1/+1 counter on this creature.
+
+Shrewd-Eye Sphinx
+
+Somber River Bearer
+rules_text: Whenever Somber River Bearer or another creature you control enters, target opponent loses 1 life and you gain 1 life.
+Sacrifice Somber River Bearer: Creatures you control gain indestructible until end of turn. => Whenever another creature you control enters, target opponent loses 1 life and you gain 1 life.
+Sacrifice this creature: Creatures you control gain indestructible until end of turn.
+
+Spawn of Keranos
+rules_text: Flying
+When Spawn of Keranos enters, you may draw a card. If you do, discard a card unless you control another creature with flying. => Flying
+When this creature enters, you may draw a card. If you do, discard a card unless you control another creature with flying.
+
+Splendid Scenery
+rules_text: Splendid Scenery enters tapped unless you control a basic land.
+{T}: Add {G} or {W}. => This land enters tapped unless you control a basic land.
+{T}: Add {G} or {W}.
+
+Springstep Dryad
+type: Enchantment Creature — Nymph Dryad => Enchantment Creature — Saga Nymph Dryad
+special_text: Chronicle [i](As this enters and after your draw step, add a lore counter. Stop after III.)[/i]
+[Lore I-II] Another target creature you control gets +1/+1 until end of turn.
+[Lore III] Search your library for a basic land card, put it onto the battlefield, then shuffle. => 
+
+Stalker of Myth
+rules_text: Menace
+Stalker of Myth gets +1/+0 for each creature you control with chronicle.
+{2}, Remove a counter from a permanent you control: Draw a card, then discard a card. => Menace
+This creature gets +1/+0 for each Saga you control.
+{2}, Remove a counter from a permanent you control: Draw a card, then discard a card.
+
+Starlight Veil
+
+Storm-Eye Salamander
+rules_text: Colossal 3—{4}{R} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {4}{R} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+When Storm-Eye Salamander's colossal ability puts one or more counters on it, exile the top three cards of your library. Until the end of your next turn, you may play one of those cards. => Colossal 3—{4}{R} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {4}{R} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+When this creature's colossal ability puts one or more counters on it, exile the top three cards of your library. Until the end of your next turn, you may play one of those cards.
+
+Stormsea Naiad
+
+Struck by Epiphany
+
+Stunning Cascade
+rules_text: Stunning Cascade enters tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}, {T}, Sacrifice Stunning Cascade: Draw a card. => This land enters tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}, {T}, Sacrifice Stunning Cascade: Draw a card.
+
+Sun-Blessed Hoplite
+rules_text: When Sun-Blessed Hoplite enters, target creature you control gets +X/+X until end of turn, where X is your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => When this creature enters, target creature you control gets +X/+X until end of turn, where X is your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Sway of the Rivers
+
+Swift Response
+
+Sylvan Strength
+
+Talonwing Dragon
+
+Taranika's Endeavor
+
+Thassa, the Implacable Tide
+
+Thassa's Benefaction
+rules_text: Enchant creature you control
+When Thassa's Benefaction enters, scry 2.
+Enchanted creature gets +1/+0 and has flying. => Enchant creature you control
+When this Aura enters, scry 2.
+Enchanted creature gets +1/+0 and has flying.
+
+Thassa's Shoreguards
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Thassa's Shoreguards, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+Whenever Thassa's Shoreguards deals combat damage to a player, draw a card. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+Whenever this creature deals combat damage to a player, draw a card.
+
+Thassa's Tidebringer
+rules_text: {5}{U}{U}: Thassa's Tidebringer can't be blocked this turn. This ability costs {1} less to activate for each creature you control with a counter on it. => {4}{U}{U}: This creature can't be blocked this turn. This ability costs {1} less to activate for each creature you control with a counter on it.
+
+The Anguilahydra
+
+Thornbriar Caryatid
+
+Thrasios's Endeavor
+
+Three-Headed Thrash
+
+Tidal Cacophony
+
+Titanic Fathomclaw
+rules_text: Colossal 2—{6}{U} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {6}{U} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+When Titanic Fathomclaw's colossal ability puts one or more counters on it, return target instant or sorcery card from your graveyard to your hand. => Colossal 2—{6}{U} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {6}{U} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+When this creature's colossal ability puts one or more counters on it, return target instant or sorcery card from your graveyard to your hand.
+
+Titanic Might
+
+Tizerus Bats
+rules_text: Flying
+Tizerus Bats can't block unless you control another creature with flying. => Flying
+This creature can't block unless you control another creature with flying.
+
+Tombweaver
+cost: {1}{B}{G} => {2}{B}{G}
+
+Torch of Phoenixfire
+
+Tormentor Harpy
+rules_text: Flying
+When Tormentor Harpy enters, if there are three or more creature cards in your graveyard, target creature an opponent controls gets -3/-3 until end of turn. => Flying
+When this creature enters, if there are three or more creature cards in your graveyard, target creature an opponent controls gets -3/-3 until end of turn.
+
+Treacherous Den
+rules_text: Treacherous Den enters tapped.
+{T}: Add {B} or {R}.
+{2}{B}{R}, {T}, Sacrifice Treacherous Den: Draw a card. => This land enters tapped.
+{T}: Add {B} or {R}.
+{2}{B}{R}, {T}, Sacrifice Treacherous Den: Draw a card.
+
+Tremor Titan
+rules_text: Whenever Tremor Titan enters or attacks, each player sacrifices a permanent. Then you draw a card for each opponent who sacrificed a land this way. => Whenever this creature enters or attacks, each player sacrifices a permanent. Then you draw a card for each opponent who sacrificed a land this way.
+
+Trifold Atrocity
+rules_text: {4}{G}{G}, Exile six other cards from your graveyard: Return Trifold Atrocity from your graveyard to the battlefield with three +1/+1 counters on it. Activate only as a sorcery. => {4}{G}{G}, Exile six other cards from your graveyard: Return this card from your graveyard to the battlefield with three +1/+1 counters on it. Activate only as a sorcery.
+
+Triton's Invocation
+rules_text: If you would put one or more counters on a creature you control or on yourself, put that many plus one of each of those kinds of counters on that creature or player instead.
+{2}{G}{U}, Sacrifice Triton's Invocation: Draw cards equal to the greatest number of counters among creatures you control and yourself. => If you would put one or more counters on a creature you control or on yourself, put that many plus one of each of those kinds of counters on that creature or player instead.
+{2}{G}{U}, Sacrifice this enchantment: Draw cards equal to the greatest number of counters among creatures you control and yourself.
+
+Tykron of the Agnomachi
+
+Typhoon Terror
+rules_text: Flying
+Ward—Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+Whenever you cast an instant spell, draw a card.
+Whenever you cast a sorcery spell, Typhoon Terror deals 2 damage to any target. => Flying
+Ward—Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+Whenever you cast an instant spell, draw a card.
+Whenever you cast a sorcery spell, this creature deals 2 damage to any target.
+
+Uncharted Haven
+rules_text: Uncharted Haven enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color. => This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+
+Undeniable Prophecy
+rules_text: If you've scried this turn, this spell costs {2} less to cast and can't be countered.
+Draws two cards. => If you've scried this turn, this spell costs {2} less to cast and can't be countered.
+Draw two cards.
+
+Underworld Myrmex
+rules_text: Colossal 2—{4}{B} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {4}{B} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+Lifelink => Colossal 2—{3}{B} [i](You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {3}{B} as a sorcery: Put two +1/+1 counters on it if it has none.)[/i]
+Lifelink
+
+Unlikely Tandem
+
+Valeri Kripac
+rules_text:  => Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
+[+1]: Add {R}. If you spend this mana on a spell that targets, that spell can't be countered.
+[-2]: Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.
+special_text: Whenever you cast a spell that targets, put a loyalty counter on Valeri Kripac and create a 1/1 white Soldier creature token.
+[+1]: Add {R}. If you spend this mana on a spell that targets, that spell can't be countered.
+[-2]: Valeri Kripac deals 1 damage to any target. Return up to one target instant or sorcery card from your graveyard to your hand. => Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
+[+1]: Add {R}. If you spend this mana on a spell that targets, that spell can't be countered.
+[-2]: Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.
+
+Vigorbreath Scourge
+rules_text: Vigorbreath Scourge enters with X +1/+1 counters on it.
+Whenever Vigorbreath Scourge attacks, it gets +X/+X until end of turn, where X is your devotion to green. Then if its power is 6 or greater, draw a card. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i] => This creature enters with X +1/+1 counters on it.
+Whenever this creature attacks, it gets +X/+X until end of turn, where X is your devotion to green. Then if its power is 6 or greater, draw a card. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]
+
+Vivien the Sagittar
+rules_text:  => [+1]: Mill four cards, then return up to one creature card milled this way to your hand. You may activate a different loyalty ability Vivien has an additional time this turn.
+[+1]: Create a 2/2 green Cat Spirit creature token with “When this creature dies, you gain 2 life.”
+[-3]: Choose target creature you don't control. If it has flying, destroy it. Otherwise, up to one target creature you control deals damage equal to its power to that creature.
+[-9]: Create four 4/4 green Hydra creature tokens. Creatures you control gain trample and haste until end of turn.
+special_text: [+1]: Mill four cards, then return up to two creature cards milled this way to your hand. You may activate a different loyalty ability Vivien has this turn.
+[+1]: Create a 2/2 green Cat Spirit creature token with “When this creature dies, you gain 2 life.”
+[-2]: Choose target creature you don't control. If it has flying, destroy it. Otherwise, up to one target creature you control deals damage equal to its power to that creature.
+[-9]: Create four 4/4 green Hydra creature tokens. Creatures you control gain trample and haste until end of turn. => [+1]: Mill four cards, then return up to one creature card milled this way to your hand. You may activate a different loyalty ability Vivien has an additional time this turn.
+[+1]: Create a 2/2 green Cat Spirit creature token with “When this creature dies, you gain 2 life.”
+[-3]: Choose target creature you don't control. If it has flying, destroy it. Otherwise, up to one target creature you control deals damage equal to its power to that creature.
+[-9]: Create four 4/4 green Hydra creature tokens. Creatures you control gain trample and haste until end of turn.
+
+Vivien's Endeavor
+rules_text: This spell costs {2} more to cast for each target beyond the first.
+Choose one or more —
+• Counter target activated or triggered ability from a nonland source.
+• Vivien's Endeavor deals 6 damage to target creature with flying.
+• Target player searches their library for a creature card with colossal, reach, trample, or vigilance, reveals it, puts it into their hand, then shuffles. => This spell costs {2} more to cast for each target beyond the first.
+Choose one or more —
+• Counter target triggered ability you don't control.
+• Vivien's Endeavor deals 6 damage to target creature with flying.
+• Target player searches their library for a creature card with colossal, reach, trample, or vigilance, reveals it, puts it into their hand, then shuffles.
+
+Voracious Asvosydna
+rules_text: Colossal 3—{7}{G} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {7}{G} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+When Voracious Asvosydna's colossal ability puts one or more counters on it, you gain 5 life. => Colossal 3—{7}{G} [i](You may cast this for its colossal cost to have it enter with three +1/+1 counters; or pay {7}{G} as a sorcery: Put three +1/+1 counters on it if it has none.)[/i]
+When this creature's colossal ability puts one or more counters on it, you gain 5 life.
+
+Vulturous Harpy
+
+Watch of the Dead
+rules_text: Creature tokens you control have vigilance.
+Whenever Watch of the Dead or another enchantment you control enters, create a 2/2 black Zombie creature token. => Creature tokens you control have vigilance.
+Whenever this enchantment or another enchantment you control enters, create a 2/2 black Zombie creature token.
+
+Waterfront Market
+rules_text: Waterfront Market enters tapped unless you control a basic land.
+{T}: Add {W} or {U}. => This land enters tapped unless you control a basic land.
+{T}: Add {W} or {U}.
+
+Whirling Gyre
+
+Whispering Canal
+rules_text: Whispering Canal enters tapped unless you control a basic land.
+{T}: Add {U} or {B}. => This land enters tapped unless you control a basic land.
+{T}: Add {U} or {B}.
+
+Wild-Trail Chimera
+
+Wings of Tizerus
+
+Meletis Stargazer
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Meletis Stargazer, scry 2.
+{T}: Look at the top card of your library. If it's a permanent card with mana value 3 or less, you may reveal it and put it into your hand. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, scry 2.
+{T}: Look at the top card of your library. If it's a permanent card with mana value 3 or less, you may reveal it and put it into your hand.
+
+Wretched Catoblepas
+
+Zygos, Underworld Scourge
+rules_text: Zygos, Underworld Scourge's power and toughness are each equal to the number of cards you own in exile and in your graveyard.
+Spells you cast have “As an additional cost to cast this spell, you may exile any number of cards from your graveyard. This spell costs {1} less to cast for each card exiled this way.” => Zygos, Underworld Scourge's power and toughness are each equal to the number of cards you own in exile and in your graveyard.
+Spells you cast have delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+
+Zygos's Decimators
+rules_text: Menace
+When Zygos's Decimators enters, put a number of +1/+1 counters on it equal to your devotion to black. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i] => Menace
+When this creature enters, put a number of +1/+1 counters on it equal to your devotion to black. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+pt: 3/3 => 4/4
+
+Cat Soldier
+
+Soldier
+
+Bird
+
+Goat
+
+Archon
+
+Copy
+
+Chimera
+
+Merfolk Rogue
+
+Treasure
+
+Zombie
+
+Harpy
+
+Satyr
+
+Golem
+type: Token Artifact Enchantment Creature — Golem => Token Enchantment Artifact Creature — Golem
+
+Nymph Dryad
+type: Token Enchantment Creature — Dryad => Token Enchantment Creature — Nymph Dryad
+
+Hydra
+
+Minotaur
+
+Cat Spirit
+
+Nykthos, Shrine to Nyx
+
+Emblem
+
+Grandeur of Nyx (FNM)
+type: Legendary Enchantment => Enchantment
+rules_text: Once during each of your turns, you may cast an enchantment spell you own from outside the game. [i](You still pay its costs.)[/i]
+Each creature you control that's enchanted or is an enchantment gets +1/+1. => Each creature you control that's enchanted or is an enchantment gets +1/+1.
+{2}{W}{W}: You may reveal an enchantment card you own from outside the game and put it into your hand.
+
+Elemental
+
+Satyr Vigormage
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets Satyr Vigormage, choose one —
+• Put a +1/+1 counter on Satyr Vigormage.
+• Satyr Vigormage fights target creature you don't control.
+• Search your library for a land card, reveal it, put it into your hand, then shuffle. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, choose one —
+• Put a +1/+1 counter on this creature.
+• This creature fights target creature you don't control.
+• Search your library for a land card, reveal it, put it into your hand, then shuffle.
+
+Miserable Portent
+rules_text: When Miserable Portent enters, create a 1/1 black Harpy creature token with flying.
+{3}{B}, Sacrifice Miserable Portent: You draw two cards and you lose 2 life. => When this enchantment enters, create a 1/1 black Harpy creature token with flying.
+{3}{B}, Sacrifice this enchantment: You draw two cards and you lose 2 life.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

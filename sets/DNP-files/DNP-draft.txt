@@ -1153,7 +1153,7 @@
 		{
 			"name": "Suffocating Plague",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{5}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
@@ -1625,7 +1625,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Phyrexian Horror",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/162.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Phyrexian Horror",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/163.png"
 			}
@@ -1651,11 +1651,11 @@
 			}
 		},
 		{
-			"name": "Gutripper",
+			"name": "Thorncrawler",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Phyrexian Beast",
-			"collector_number": "170",
+			"type": "Creature — Phyrexian Insect",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/165.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Phyrexian Plant",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/166.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact Creature — Phyrexian Cleric",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Phyexian Beast",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/168.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Phyrexian Elemental",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/170.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Phyrexian Horror",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/171.png"
 			}
@@ -1723,7 +1723,7 @@
 		{
 			"name": "Gift of Phyrexia",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
@@ -1735,7 +1735,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/173.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/174.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/175.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/176.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Phyrexian Ooze",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/177.png"
 			}
@@ -1785,17 +1785,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Phyrexian Warrior",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/178.png"
 			}
 		},
 		{
-			"name": "Swarm Prowler",
+			"name": "Vicious Howler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Phyrexian Beast",
-			"collector_number": "191",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/179.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Phyrexian Cleric",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/181.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Phyrexian Wurm",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Artifact Creature — Phyrexian Golem",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/184.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/185.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/186.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/188.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Instant",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/189.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Dryad Shaman",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/191.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Phyrexian Beast",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/192.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G/P}{G/P}",
 			"type": "Artifact Creature — Phyrexian Wurm",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/193.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/196.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G/P}",
 			"type": "Artifact",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/197.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Phyrexian Dinosaur",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/DNP-files/img/199.png"
 			}
@@ -2881,7 +2881,7 @@
 			}
 		},
 		{
-			"name": "Plains 2",
+			"name": "Plains2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
@@ -2901,7 +2901,7 @@
 			}
 		},
 		{
-			"name": "Island 2",
+			"name": "Island2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
@@ -2921,7 +2921,7 @@
 			}
 		},
 		{
-			"name": "Swamp 2",
+			"name": "Swamp2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
@@ -2941,7 +2941,7 @@
 			}
 		},
 		{
-			"name": "Mountain 2",
+			"name": "Mountain2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
@@ -2961,7 +2961,7 @@
 			}
 		},
 		{
-			"name": "Forest 2",
+			"name": "Forest2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
@@ -2971,7 +2971,7 @@
 			}
 		},
 		{
-			"name": "Sheoldred, Praetor of Secrets-P",
+			"name": "Sheoldred, Praetor of Secrets",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature Phyrexian Praetor",
@@ -3249,7 +3249,7 @@
 	1 Wurmcoil Hatchery
 	1 Dreadnought Colossus
 	2 The Dawning Nexus
-	1 Sheoldred, Praetor of Secrets-P
+	1 Sheoldred, Praetor of Secrets
 [uncommon(3)]
 	4 Leonin Tactician
 	4 Shrieking Shrike
@@ -3305,7 +3305,7 @@
 	4 Viral Crescendo
 	4 Tel-Jilad Slime
 	4 Serum Centurion
-	4 Swarm Prowler
+	4 Vicious Howler
 	4 Acidophage
 	4 Priest of Vorinclex
 	4 Fourth-Sphere Paladin
@@ -3410,7 +3410,7 @@
 	8 Vatborn Digester
 	8 Herald of the Swarm
 	8 Bronzewidow
-	8 Gutripper
+	8 Thorncrawler
 	8 Injector Nettle
 	8 Venomous Hierophant
 	8 Lattice Predator
@@ -3522,7 +3522,7 @@
 	8 Vatborn Digester
 	8 Herald of the Swarm
 	8 Bronzewidow
-	8 Gutripper
+	8 Thorncrawler
 	8 Injector Nettle
 	8 Venomous Hierophant
 	8 Lattice Predator
@@ -3731,7 +3731,7 @@
 	12 Vatborn Digester
 	12 Herald of the Swarm
 	12 Bronzewidow
-	12 Gutripper
+	12 Thorncrawler
 	12 Injector Nettle
 	12 Venomous Hierophant
 	12 Lattice Predator
@@ -3745,7 +3745,7 @@
 	12 Pestilent Barrage
 	6 Tel-Jilad Slime
 	6 Serum Centurion
-	6 Swarm Prowler
+	6 Vicious Howler
 	6 Acidophage
 	6 Priest of Vorinclex
 	6 Fourth-Sphere Paladin
@@ -3853,7 +3853,7 @@
 	12 Scarred Terrain
 	6 The Propagation Theater
 	2 The Dawning Nexus
-	1 Sheoldred, Praetor of Secrets-P
+	1 Sheoldred, Praetor of Secrets
 [wildcard(1)]
 	4 Atraxa, Perfect Synthesis
 	6 Flayer Drone
@@ -4020,7 +4020,7 @@
 	6 Vatborn Digester
 	6 Herald of the Swarm
 	6 Bronzewidow
-	6 Gutripper
+	6 Thorncrawler
 	6 Injector Nettle
 	6 Venomous Hierophant
 	6 Lattice Predator
@@ -4034,7 +4034,7 @@
 	6 Pestilent Barrage
 	15 Tel-Jilad Slime
 	15 Serum Centurion
-	15 Swarm Prowler
+	15 Vicious Howler
 	15 Acidophage
 	15 Priest of Vorinclex
 	15 Fourth-Sphere Paladin
@@ -4142,4 +4142,4 @@
 	6 Scarred Terrain
 	15 The Propagation Theater
 	7 The Dawning Nexus
-	4 Sheoldred, Praetor of Secrets-P
+	4 Sheoldred, Praetor of Secrets
