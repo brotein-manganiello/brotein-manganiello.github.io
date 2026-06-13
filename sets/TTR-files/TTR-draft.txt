@@ -1694,7 +1694,7 @@
 			"name": "Nylea's Tracker",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment Creature — Wolf",
+			"type": "Enchantment Creature — Saga Wolf",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://brotein-manganiello.github.io/sets/TTR-files/img/169.png"

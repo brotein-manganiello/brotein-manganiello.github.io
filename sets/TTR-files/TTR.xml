@@ -2945,9 +2945,9 @@ Enchanted creature gets +3/+3 and has reach.</text>
 			<text></text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/TTR-files/img/169.png" num="192">TTR</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>saga</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Wolf</type>
+				<type>Enchantment Creature — Saga Wolf</type>
 				<maintype>Creature</maintype>
 				<manacost>2GG</manacost>
 				<cmc>4</cmc>

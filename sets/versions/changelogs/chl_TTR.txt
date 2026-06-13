@@ -1,4 +1,13 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Nylea's Tracker
+type: Enchantment Creature — Wolf => Enchantment Creature — Saga Wolf
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
