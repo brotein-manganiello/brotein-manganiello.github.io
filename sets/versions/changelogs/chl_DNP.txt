@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Thorncrawler Centipede added.
+
+Thorncrawler removed.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Thorncrawler added.

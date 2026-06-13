@@ -1651,7 +1651,7 @@
 			}
 		},
 		{
-			"name": "Thorncrawler",
+			"name": "Thorncrawler Centipede",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Phyrexian Insect",
@@ -3410,7 +3410,7 @@
 	8 Vatborn Digester
 	8 Herald of the Swarm
 	8 Bronzewidow
-	8 Thorncrawler
+	8 Thorncrawler Centipede
 	8 Injector Nettle
 	8 Venomous Hierophant
 	8 Lattice Predator
@@ -3522,7 +3522,7 @@
 	8 Vatborn Digester
 	8 Herald of the Swarm
 	8 Bronzewidow
-	8 Thorncrawler
+	8 Thorncrawler Centipede
 	8 Injector Nettle
 	8 Venomous Hierophant
 	8 Lattice Predator
@@ -3731,7 +3731,7 @@
 	12 Vatborn Digester
 	12 Herald of the Swarm
 	12 Bronzewidow
-	12 Thorncrawler
+	12 Thorncrawler Centipede
 	12 Injector Nettle
 	12 Venomous Hierophant
 	12 Lattice Predator
@@ -4020,7 +4020,7 @@
 	6 Vatborn Digester
 	6 Herald of the Swarm
 	6 Bronzewidow
-	6 Thorncrawler
+	6 Thorncrawler Centipede
 	6 Injector Nettle
 	6 Venomous Hierophant
 	6 Lattice Predator

@@ -2940,7 +2940,7 @@ When this creature enters, create a tapped Extractor token. (It&apos;s an artifa
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Thorncrawler</name>
+			<name>Thorncrawler Centipede</name>
 			<text>This creature enters with a +1/+1 counter on it.
 Each creature you control with a counter on it has trample.</text>
 			<set rarity="common" picurl="https://brotein-manganiello.github.io/sets/DNP-files/img/165.png" num="194">DNP</set>
